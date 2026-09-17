@@ -1,0 +1,308 @@
+{
+  "recipe_uid": "10000recipe_7080571",
+  "cache_key": "a0ab3dad87e5de62b95d1e9caf7fa1dfaab8eb7f342cebbe1a3c7b8387c4c489",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 1516,
+    "prompt_tokens": 3326,
+    "total_tokens": 4842,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "들기름 막국수",
+    "components": [
+      {
+        "raw_name": "메밀면",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "200",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "메밀면 200g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "메밀면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "오이볶음 듬뿍",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": "듬뿍",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "오이볶음 듬뿍 적당량"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "오이볶음",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쪽파 2줄기",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "쪽파 2줄기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쪽파 2줄기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "방울토마토",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "방울토마토 2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "방울토마토",
+        "alternatives": []
+      },
+      {
+        "raw_name": "삶은 반숙계란",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "삶은 반숙계란 2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "삶은 반숙계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "김가루 넉넉하게",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "김가루 넉넉하게"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김가루 넉넉하게",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "[선택 재료]",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "청양고추 1개",
+          "기호에 따라 청양고추나 와사비를 곁들이면 더욱 맛있어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "와사비",
+        "role": "food",
+        "group": "[선택 재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "와사비 약간",
+          "기호에 따라 청양고추나 와사비를 곁들이면 더욱 맛있어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "와사비",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무순 또는 어린잎채소",
+        "role": "food",
+        "group": "[선택 재료]",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "무순 또는 어린잎채소 적당량"
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "무순 또는 어린잎채소",
+        "alternatives": [
+          {
+            "raw_name": "어린잎채소",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "무순 또는 어린잎채소 적당량"
+            ],
+            "ingredient_candidate": "어린잎채소"
+          }
+        ]
+      },
+      {
+        "raw_name": "들기름",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "4",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "들기름 4T",
+          "볼에 들기름, 진간장, 쯔유, 원당, 알룰로스, 깨소금을 넣고 잘 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "들기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "진간장",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "진간장 1T",
+          "볼에 들기름, 진간장, 쯔유, 원당, 알룰로스, 깨소금을 넣고 잘 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "진간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쯔유",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "2",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "쯔유 2T",
+          "볼에 들기름, 진간장, 쯔유, 원당, 알룰로스, 깨소금을 넣고 잘 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쯔유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "원당",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1/2",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "원당 1/2T",
+          "볼에 들기름, 진간장, 쯔유, 원당, 알룰로스, 깨소금을 넣고 잘 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "원당",
+        "alternatives": []
+      },
+      {
+        "raw_name": "알룰로스",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "알룰로스 1T",
+          "볼에 들기름, 진간장, 쯔유, 원당, 알룰로스, 깨소금을 넣고 잘 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "알룰로스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨소금",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "3",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "깨소금 3T",
+          "볼에 들기름, 진간장, 쯔유, 원당, 알룰로스, 깨소금을 넣고 잘 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 6.891
+}

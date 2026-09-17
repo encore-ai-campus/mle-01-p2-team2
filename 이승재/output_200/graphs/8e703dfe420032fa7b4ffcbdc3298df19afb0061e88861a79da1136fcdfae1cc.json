@@ -1,0 +1,509 @@
+{
+  "recipe_uid": "10000recipe_6960275",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6960275",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6960275",
+          "title": "오징어통찜 통오징어찜",
+          "description": "내장을 통째로 쪄 고소함이 일품인 통오징어찜 한번도 안먹어본 사람은 있어도 한번 먹어본 사람은 없을정도의 맛!",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 115000,
+          "source_url": "https://www.10000recipe.com/recipe/6960275",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6960275:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "오징어통찜"
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생물오징어",
+          "role": "food",
+          "group": "재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": "통오징어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 생물오징어\", \"싱싱한 생물오징어를 준비해줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6960275:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오징어",
+          "name_normalized": "오징어"
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소주",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "비린내 제거용",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소주 약간\", \"이때 약간의 소주를 올려주면 비린내를 제거해줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6960275:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소주",
+          "name_normalized": "소주"
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "초고추장",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "곁들여 먹는 소스",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"초고추장과 매콤한 청양고추에 곁들여 먹으면 술안주로 제격입니다 ^^\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6960275:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "초고추장",
+          "name_normalized": "초고추장"
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "매콤한",
+          "detail": "곁들여 먹는 재료",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"초고추장과 매콤한 청양고추에 곁들여 먹으면 술안주로 제격입니다 ^^\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6960275:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6960275",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6960275:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6960275:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6960275:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6960275:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6960275:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6960275:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6960275:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6960275:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6960275:component:004:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6960275",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6960275",
+          "title": "오징어통찜 통오징어찜",
+          "description": "내장을 통째로 쪄 고소함이 일품인 통오징어찜 한번도 안먹어본 사람은 있어도 한번 먹어본 사람은 없을정도의 맛!",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 115000,
+          "source_url": "https://www.10000recipe.com/recipe/6960275",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:6bd84d360bfa311143554e01d930d7762556cc0e95598fa0fc0d6dbe5411cb40",
+        "label": "Dish",
+        "properties": {
+          "name": "오징어통찜"
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생물오징어",
+          "role": "food",
+          "group": "재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": "통오징어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 생물오징어\", \"싱싱한 생물오징어를 준비해줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6960275:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:d3b6d27414ad3ec8b400e4aa51710102db2cb8ab5ebf0a3ab4a3c2898bc9cb71",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오징어",
+          "name_normalized": "오징어"
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소주",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "비린내 제거용",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소주 약간\", \"이때 약간의 소주를 올려주면 비린내를 제거해줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6960275:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소주",
+          "name_normalized": "소주"
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "초고추장",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "곁들여 먹는 소스",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"초고추장과 매콤한 청양고추에 곁들여 먹으면 술안주로 제격입니다 ^^\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6960275:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:e0da8270eb5c6d64aa6e1c9a2cf6cba6f2303874736ef17ca30c80c4be6e376f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "초고추장",
+          "name_normalized": "초고추장"
+        }
+      },
+      {
+        "id": "10000recipe_6960275:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "매콤한",
+          "detail": "곁들여 먹는 재료",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"초고추장과 매콤한 청양고추에 곁들여 먹으면 술안주로 제격입니다 ^^\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6960275:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6960275",
+        "type": "VARIANT_OF",
+        "target": "dish:6bd84d360bfa311143554e01d930d7762556cc0e95598fa0fc0d6dbe5411cb40",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6960275:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:d3b6d27414ad3ec8b400e4aa51710102db2cb8ab5ebf0a3ab4a3c2898bc9cb71",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6960275:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6960275:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:e0da8270eb5c6d64aa6e1c9a2cf6cba6f2303874736ef17ca30c80c4be6e376f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6960275:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6960275:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "오징어통찜",
+    "components": [
+      {
+        "raw_name": "생물오징어",
+        "role": "food",
+        "group": "재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": "통오징어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 생물오징어",
+          "싱싱한 생물오징어를 준비해줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "오징어",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소주",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": "비린내 제거용",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소주 약간",
+          "이때 약간의 소주를 올려주면 비린내를 제거해줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "초고추장",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "곁들여 먹는 소스",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "초고추장과 매콤한 청양고추에 곁들여 먹으면 술안주로 제격입니다 ^^"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "초고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "매콤한",
+        "detail": "곁들여 먹는 재료",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "초고추장과 매콤한 청양고추에 곁들여 먹으면 술안주로 제격입니다 ^^"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "b06c68dfbf386a26a4c499fc86ca764b6edbe4a11fcbc135f258985d43f46304",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6960275:dish",
+      "canonical_id": "dish:6bd84d360bfa311143554e01d930d7762556cc0e95598fa0fc0d6dbe5411cb40",
+      "original_name": "오징어통찜",
+      "canonical_name": "오징어통찜",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6960275:component:001:candidate:0",
+      "canonical_id": "ingredient:d3b6d27414ad3ec8b400e4aa51710102db2cb8ab5ebf0a3ab4a3c2898bc9cb71",
+      "original_name": "오징어",
+      "canonical_name": "오징어",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6960275:component:002:candidate:0",
+      "canonical_id": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+      "original_name": "소주",
+      "canonical_name": "소주",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6960275:component:003:candidate:0",
+      "canonical_id": "ingredient:e0da8270eb5c6d64aa6e1c9a2cf6cba6f2303874736ef17ca30c80c4be6e376f",
+      "original_name": "초고추장",
+      "canonical_name": "초고추장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6960275:component:004:candidate:0",
+      "canonical_id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+      "original_name": "청양고추",
+      "canonical_name": "청양고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6960275",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "8a5b6fc3e46f64feffdbfe07b6fada9c9c386a4f08f575cfb5a4d93c007cefef"
+}

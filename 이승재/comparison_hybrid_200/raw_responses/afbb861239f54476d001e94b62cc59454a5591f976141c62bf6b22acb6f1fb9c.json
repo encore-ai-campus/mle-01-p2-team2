@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZiNSiiZ3VpeXODBgWGmg2khODh",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"닭개장\",\"components\":[{\"raw_name\":\"냉동 닭가슴살 해동된 것도 가능 3덩이\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"냉동 닭가슴살 해동된 것도 가능 3덩이\"],\"quality_flags\":[],\"ingredient_candidate\":\"냉동 닭가슴살 해동된 것도 가능 3덩이\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"대파 1개\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"무\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"200\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"무 200g\"],\"quality_flags\":[],\"ingredient_candidate\":\"무\",\"alternatives\":[]},{\"raw_name\":\"청양고추\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"청양고추 1개\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양고추\",\"alternatives\":[]},{\"raw_name\":\"홍고추\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"홍고추 1개\"],\"quality_flags\":[],\"ingredient_candidate\":\"홍고추\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"[닭가슴살 삶을때]\",\"quantity\":\"1\",\"unit\":\"L\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"물 1L\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"[닭가슴살 삶을때]\",\"quantity\":\"1/2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"양파 1/2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"맛술 1숟가락\",\"role\":\"food\",\"group\":\"[닭가슴살 삶을때]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"맛술 1숟가락\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛술 1숟가락\",\"alternatives\":[]},{\"raw_name\":\"월계수잎\",\"role\":\"food\",\"group\":\"[닭가슴살 삶을때]\",\"quantity\":\"2\",\"unit\":\"장\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"월계수잎 2장\"],\"quality_flags\":[],\"ingredient_candidate\":\"월계수잎\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"[닭가슴살 삶을때]\",\"quantity\":\"1.6\",\"unit\":\"L\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"물 1.6L\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"맛소금\",\"role\":\"food\",\"group\":\"[닭가슴살 밑간]\",\"quantity\":\"1\",\"unit\":\"티스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"맛소금 1티스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛소금\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"[닭가슴살 밑간]\",\"quantity\":\"1\",\"unit\":\"티스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"후추 1티스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]},{\"raw_name\":\"식용유\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":\"4\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"식용유 4큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"식용유\",\"alternatives\":[]},{\"raw_name\":\"고춧가루 2숟가락\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"고춧가루 2숟가락\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루 2숟가락\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다진마늘 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"국간장 2.5숟가락\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"국간장 2.5숟가락\"],\"quality_flags\":[],\"ingredient_candidate\":\"국간장 2.5숟가락\",\"alternatives\":[]},{\"raw_name\":\"참치액 2숟가락\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"참치액 2숟가락\"],\"quality_flags\":[],\"ingredient_candidate\":\"참치액 2숟가락\",\"alternatives\":[]},{\"raw_name\":\"치킨스톡 분말형기준 1숟가락\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"치킨스톡 분말형기준 1숟가락\"],\"quality_flags\":[],\"ingredient_candidate\":\"치킨스톡 분말형기준 1숟가락\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":\"1\",\"unit\":\"티스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"후추 1티스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544550,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1595,
+    "prompt_tokens": 3609,
+    "total_tokens": 5204,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

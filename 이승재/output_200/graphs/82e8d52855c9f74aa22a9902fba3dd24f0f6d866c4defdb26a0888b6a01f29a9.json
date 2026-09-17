@@ -1,0 +1,2108 @@
+{
+  "recipe_uid": "10000recipe_7081211",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081211",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081211",
+          "title": "다이어트 참치포케 만들기, 불 안쓰는 여배우 식단 샐러드 메뉴 레시피! 간장소스 포케 보울",
+          "description": "오늘은 여배우 식단의 대명사. 여름 다이어트 음식 추천! 포케 맛있게 만들어 볼까요? 포케는 하와이어로 '자르다', '깍둑썰기하다' 는 뜻인데요, 생채소와 신선한 회 종류를 잘게 썰고, 소스에 버무려먹는 하와이 전통음식이에요. 여기에 밥을 얹으면 '포케보울'로 포만감이 오래가서 다이어트 메뉴로도 너무 좋더라고요. 연어, 새우, 닭가슴살, 스테이크 등 다양한 재료와 소스를 조합해 확장시킬 수 있고요, 생선회 대신에 참치캔을 활용하셔도 잘 어울려요. 다이어트 목적이 아니더라도 후레쉬한 야채를 골고루 먹을 수 있어서 여름에 드시면 참 좋을 한 그릇 요리랍니다. ​",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 184,
+          "source_url": "https://www.10000recipe.com/recipe/7081211",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "참치 포케 보울"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "잡곡밥",
+          "role": "food",
+          "group": null,
+          "quantity": "1공기",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 잡곡밥 1공기\", \"그릇에 잡곡밥 1/2공기 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "잡곡밥",
+          "name_normalized": "잡곡밥"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참치캔",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": "기름기 쪽 뺀 참치를 올림",
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 참치캔 1개\", \"그 위에 삶은 계란, 기름기 쪽 뺀 참치 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참치",
+          "name_normalized": "참치"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:002:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생선회",
+          "name_normalized": "생선회"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "깍둑 썰기",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 토마토 1개\", \"오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.\", \"그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오이",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "씨 부분을 살짝 제거하고 썰기",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 오이 1개\", \"오이는 씨 부분을 살짝 제거하고 썰었어요.\", \"오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.\", \"그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오이",
+          "name_normalized": "오이"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "상추",
+          "role": "food",
+          "group": null,
+          "quantity": "6장",
+          "unit": null,
+          "preparation": "썰기",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 상추 6장\", \"상추도 크지 않게 썰어주고,\", \"오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.\", \"그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "상추",
+          "name_normalized": "상추"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "옥수수콘",
+          "role": "food",
+          "group": null,
+          "quantity": "4T",
+          "unit": null,
+          "preparation": null,
+          "detail": "옥수수캔으로도 언급됨",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 옥수수콘 4T\", \"참치 포케 재료는 단백질을 담당할 참치캔 1개, 곡물 채소 구성으로 옥수수캔 4T을 준비했어요.\", \"그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "옥수수",
+          "name_normalized": "옥수수"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": null,
+          "quantity": "1/4개",
+          "unit": null,
+          "preparation": "깍둑 썰기",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/4개\", \"오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.\", \"그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삶은 계란",
+          "role": "food",
+          "group": null,
+          "quantity": "2개",
+          "unit": null,
+          "preparation": "삶은",
+          "detail": "동그란 모양을 살려서 썰어봄",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 삶은 계란 2개\", \"삶은 달걀도 준비했답니다.\", \"저는 동그란 모양을 살려서 썰어봤어요.\", \"그 위에 삶은 계란, 기름기 쪽 뺀 참치 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1/2T",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 다진마늘 1/2T\", \"다진마늘 1/2T, 진간장 3T, 올리고당 1T 넣고요,\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "진간장",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "3T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 진간장 3T\", \"다진마늘 1/2T, 진간장 3T, 올리고당 1T 넣고요,\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "들기름",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": "참기름과 대체 관계로 제시됨",
+          "is_required": true,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[소스] 들기름 또는 참기름 2T\", \"들기름 또는 참기름 2T, 통깨 1T 넣고 잘 섞어주면 끝!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "들기름",
+          "name_normalized": "들기름"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:011:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리고당",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 올리고당 1T\", \"다진마늘 1/2T, 진간장 3T, 올리고당 1T 넣고요,\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리고당",
+          "name_normalized": "올리고당"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 통깨 1T\", \"들기름 또는 참기름 2T, 통깨 1T 넣고 잘 섞어주면 끝!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "새싹채소",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "다양한 조합 예시로 언급됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "새싹채소",
+          "name_normalized": "새싹채소"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "아보카도",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "다양한 조합 예시로 언급됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:015:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "아보카도",
+          "name_normalized": "아보카도"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "병아리콩",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "다양한 조합 예시로 언급됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:016:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "병아리콩",
+          "name_normalized": "병아리콩"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쥬키니",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "다양한 조합 예시로 언급됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:017:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쥬키니",
+          "name_normalized": "쥬키니"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파프리카",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "다양한 조합 예시로 언급됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:018:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파프리카",
+          "name_normalized": "파프리카"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081211",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7081211:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:002",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7081211:component:002:candidate:1",
+        "properties": {
+          "raw_name": "생선회",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "생선회 대신",
+          "evidence": "[\"생선회 대신에 참치캔을 활용하셔도 잘 어울려요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:011",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7081211:component:011:candidate:1",
+        "properties": {
+          "raw_name": "참기름",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[소스] 들기름 또는 참기름 2T\", \"들기름 또는 참기름 2T, 통깨 1T 넣고 잘 섞어주면 끝!\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:014:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:015",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:015:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:016",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:016:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:017",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:017:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:018",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081211:component:018:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081211",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081211",
+          "title": "다이어트 참치포케 만들기, 불 안쓰는 여배우 식단 샐러드 메뉴 레시피! 간장소스 포케 보울",
+          "description": "오늘은 여배우 식단의 대명사. 여름 다이어트 음식 추천! 포케 맛있게 만들어 볼까요? 포케는 하와이어로 '자르다', '깍둑썰기하다' 는 뜻인데요, 생채소와 신선한 회 종류를 잘게 썰고, 소스에 버무려먹는 하와이 전통음식이에요. 여기에 밥을 얹으면 '포케보울'로 포만감이 오래가서 다이어트 메뉴로도 너무 좋더라고요. 연어, 새우, 닭가슴살, 스테이크 등 다양한 재료와 소스를 조합해 확장시킬 수 있고요, 생선회 대신에 참치캔을 활용하셔도 잘 어울려요. 다이어트 목적이 아니더라도 후레쉬한 야채를 골고루 먹을 수 있어서 여름에 드시면 참 좋을 한 그릇 요리랍니다. ​",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 184,
+          "source_url": "https://www.10000recipe.com/recipe/7081211",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:bccdf86701ab0e2b320c62c0315d5107da9e84418998dea8b946a4f78ddbead5",
+        "label": "Dish",
+        "properties": {
+          "name": "참치 포케 보울"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "잡곡밥",
+          "role": "food",
+          "group": null,
+          "quantity": "1공기",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 잡곡밥 1공기\", \"그릇에 잡곡밥 1/2공기 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:d6db6a6e16e254ea03e09511458561c9ab145febd4c6139104189222fa3c871f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "잡곡밥",
+          "name_normalized": "잡곡밥"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참치캔",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": "기름기 쪽 뺀 참치를 올림",
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 참치캔 1개\", \"그 위에 삶은 계란, 기름기 쪽 뺀 참치 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:ad6d99a6a6be09ac4121fe7239ad4f234c708d32077574b4bc38559aaa77c120",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참치",
+          "name_normalized": "참치"
+        }
+      },
+      {
+        "id": "ingredient:c60540248aef427d88453c31a04901d0f2fea17fd250f0d31246949b0c33b5cd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생선회",
+          "name_normalized": "생선회"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "깍둑 썰기",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 토마토 1개\", \"오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.\", \"그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오이",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "씨 부분을 살짝 제거하고 썰기",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 오이 1개\", \"오이는 씨 부분을 살짝 제거하고 썰었어요.\", \"오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.\", \"그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오이",
+          "name_normalized": "오이"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "상추",
+          "role": "food",
+          "group": null,
+          "quantity": "6장",
+          "unit": null,
+          "preparation": "썰기",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 상추 6장\", \"상추도 크지 않게 썰어주고,\", \"오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.\", \"그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:af000f9406f8adb36d28dcfa2a37ea5ce2eb77ab791ce0e9c7c00f63ecf98114",
+        "label": "Ingredient",
+        "properties": {
+          "name": "상추",
+          "name_normalized": "상추"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "옥수수콘",
+          "role": "food",
+          "group": null,
+          "quantity": "4T",
+          "unit": null,
+          "preparation": null,
+          "detail": "옥수수캔으로도 언급됨",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 옥수수콘 4T\", \"참치 포케 재료는 단백질을 담당할 참치캔 1개, 곡물 채소 구성으로 옥수수캔 4T을 준비했어요.\", \"그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:946ac280bb36935de9cbef1aa32a4e85bb77c5e22c20a6fdfed49315e0d033ae",
+        "label": "Ingredient",
+        "properties": {
+          "name": "옥수수",
+          "name_normalized": "옥수수"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": null,
+          "quantity": "1/4개",
+          "unit": null,
+          "preparation": "깍둑 썰기",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/4개\", \"오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.\", \"그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삶은 계란",
+          "role": "food",
+          "group": null,
+          "quantity": "2개",
+          "unit": null,
+          "preparation": "삶은",
+          "detail": "동그란 모양을 살려서 썰어봄",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 삶은 계란 2개\", \"삶은 달걀도 준비했답니다.\", \"저는 동그란 모양을 살려서 썰어봤어요.\", \"그 위에 삶은 계란, 기름기 쪽 뺀 참치 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1/2T",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 다진마늘 1/2T\", \"다진마늘 1/2T, 진간장 3T, 올리고당 1T 넣고요,\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "진간장",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "3T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 진간장 3T\", \"다진마늘 1/2T, 진간장 3T, 올리고당 1T 넣고요,\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "들기름",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": "참기름과 대체 관계로 제시됨",
+          "is_required": true,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[소스] 들기름 또는 참기름 2T\", \"들기름 또는 참기름 2T, 통깨 1T 넣고 잘 섞어주면 끝!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:aac12ebd403c093cef1cad01caf9c5594e626414277131a7373d0c7552174532",
+        "label": "Ingredient",
+        "properties": {
+          "name": "들기름",
+          "name_normalized": "들기름"
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리고당",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 올리고당 1T\", \"다진마늘 1/2T, 진간장 3T, 올리고당 1T 넣고요,\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리고당",
+          "name_normalized": "올리고당"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 통깨 1T\", \"들기름 또는 참기름 2T, 통깨 1T 넣고 잘 섞어주면 끝!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "새싹채소",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "다양한 조합 예시로 언급됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:3df11a19429eb4ecae7fb59e6b171eda6edef7932b9d7685de5c102d3b3e9fbd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "새싹채소",
+          "name_normalized": "새싹채소"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "아보카도",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "다양한 조합 예시로 언급됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:9631227f9ebfb3584985838f4b516ad960fd7332503f86a58f1d1f133d487b9a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "아보카도",
+          "name_normalized": "아보카도"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "병아리콩",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "다양한 조합 예시로 언급됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "ingredient:5f5433c3b9b42bc6ad4365e295ebf299394cc4ca5cf8eb6a9802f6aac54e1e8c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "병아리콩",
+          "name_normalized": "병아리콩"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쥬키니",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "다양한 조합 예시로 언급됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "ingredient:2786a2024d142dc8e4ca03b1c5a9037cdabc2ba68f1a42f2bf681298eab87250",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쥬키니",
+          "name_normalized": "쥬키니"
+        }
+      },
+      {
+        "id": "10000recipe_7081211:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파프리카",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "다양한 조합 예시로 언급됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081211:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "ingredient:0254cfc12cbb0cb7cf4f5777edc166cea1dca266ff5cdcdba30634e76d5b1358",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파프리카",
+          "name_normalized": "파프리카"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081211",
+        "type": "VARIANT_OF",
+        "target": "dish:bccdf86701ab0e2b320c62c0315d5107da9e84418998dea8b946a4f78ddbead5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:d6db6a6e16e254ea03e09511458561c9ab145febd4c6139104189222fa3c871f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:ad6d99a6a6be09ac4121fe7239ad4f234c708d32077574b4bc38559aaa77c120",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:002",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:c60540248aef427d88453c31a04901d0f2fea17fd250f0d31246949b0c33b5cd",
+        "properties": {
+          "raw_name": "생선회",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "생선회 대신",
+          "evidence": "[\"생선회 대신에 참치캔을 활용하셔도 잘 어울려요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:af000f9406f8adb36d28dcfa2a37ea5ce2eb77ab791ce0e9c7c00f63ecf98114",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:946ac280bb36935de9cbef1aa32a4e85bb77c5e22c20a6fdfed49315e0d033ae",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:aac12ebd403c093cef1cad01caf9c5594e626414277131a7373d0c7552174532",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:011",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {
+          "raw_name": "참기름",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[소스] 들기름 또는 참기름 2T\", \"들기름 또는 참기름 2T, 통깨 1T 넣고 잘 섞어주면 끝!\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:3df11a19429eb4ecae7fb59e6b171eda6edef7932b9d7685de5c102d3b3e9fbd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:9631227f9ebfb3584985838f4b516ad960fd7332503f86a58f1d1f133d487b9a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:016",
+        "type": "INGREDIENT",
+        "target": "ingredient:5f5433c3b9b42bc6ad4365e295ebf299394cc4ca5cf8eb6a9802f6aac54e1e8c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:017",
+        "type": "INGREDIENT",
+        "target": "ingredient:2786a2024d142dc8e4ca03b1c5a9037cdabc2ba68f1a42f2bf681298eab87250",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081211:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081211:component:018",
+        "type": "INGREDIENT",
+        "target": "ingredient:0254cfc12cbb0cb7cf4f5777edc166cea1dca266ff5cdcdba30634e76d5b1358",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "참치 포케 보울",
+    "components": [
+      {
+        "raw_name": "잡곡밥",
+        "role": "food",
+        "group": null,
+        "quantity": "1공기",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 잡곡밥 1공기",
+          "그릇에 잡곡밥 1/2공기 담고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "잡곡밥",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참치캔",
+        "role": "food",
+        "group": null,
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": "기름기 쪽 뺀 참치를 올림",
+        "is_required": true,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "[재료] 참치캔 1개",
+          "그 위에 삶은 계란, 기름기 쪽 뺀 참치 올려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참치",
+        "alternatives": [
+          {
+            "raw_name": "생선회",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": "생선회 대신",
+            "evidence": [
+              "생선회 대신에 참치캔을 활용하셔도 잘 어울려요."
+            ],
+            "ingredient_candidate": "생선회"
+          }
+        ]
+      },
+      {
+        "raw_name": "토마토",
+        "role": "food",
+        "group": null,
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "깍둑 썰기",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 토마토 1개",
+          "오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.",
+          "그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토",
+        "alternatives": []
+      },
+      {
+        "raw_name": "오이",
+        "role": "food",
+        "group": null,
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "씨 부분을 살짝 제거하고 썰기",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 오이 1개",
+          "오이는 씨 부분을 살짝 제거하고 썰었어요.",
+          "오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.",
+          "그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "오이",
+        "alternatives": []
+      },
+      {
+        "raw_name": "상추",
+        "role": "food",
+        "group": null,
+        "quantity": "6장",
+        "unit": null,
+        "preparation": "썰기",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 상추 6장",
+          "상추도 크지 않게 썰어주고,",
+          "오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.",
+          "그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "상추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "옥수수콘",
+        "role": "food",
+        "group": null,
+        "quantity": "4T",
+        "unit": null,
+        "preparation": null,
+        "detail": "옥수수캔으로도 언급됨",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 옥수수콘 4T",
+          "참치 포케 재료는 단백질을 담당할 참치캔 1개, 곡물 채소 구성으로 옥수수캔 4T을 준비했어요.",
+          "그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "옥수수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": null,
+        "quantity": "1/4개",
+        "unit": null,
+        "preparation": "깍둑 썰기",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/4개",
+          "오이, 상추, 토마토, 양파를 준비했고요, 먹기 좋게 작게 깍둑 썰어줍니다.",
+          "그릇에 잡곡밥 1/2공기 담고 토마토, 옥수수콘, 상추, 오이, 양파 가지런히 담고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "삶은 계란",
+        "role": "food",
+        "group": null,
+        "quantity": "2개",
+        "unit": null,
+        "preparation": "삶은",
+        "detail": "동그란 모양을 살려서 썰어봄",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 삶은 계란 2개",
+          "삶은 달걀도 준비했답니다.",
+          "저는 동그란 모양을 살려서 썰어봤어요.",
+          "그 위에 삶은 계란, 기름기 쪽 뺀 참치 올려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "1/2T",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 다진마늘 1/2T",
+          "다진마늘 1/2T, 진간장 3T, 올리고당 1T 넣고요,"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "진간장",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "3T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 진간장 3T",
+          "다진마늘 1/2T, 진간장 3T, 올리고당 1T 넣고요,"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "들기름",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": "참기름과 대체 관계로 제시됨",
+        "is_required": true,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "[소스] 들기름 또는 참기름 2T",
+          "들기름 또는 참기름 2T, 통깨 1T 넣고 잘 섞어주면 끝!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "들기름",
+        "alternatives": [
+          {
+            "raw_name": "참기름",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "[소스] 들기름 또는 참기름 2T",
+              "들기름 또는 참기름 2T, 통깨 1T 넣고 잘 섞어주면 끝!"
+            ],
+            "ingredient_candidate": "참기름"
+          }
+        ]
+      },
+      {
+        "raw_name": "올리고당",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 올리고당 1T",
+          "다진마늘 1/2T, 진간장 3T, 올리고당 1T 넣고요,"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리고당",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 통깨 1T",
+          "들기름 또는 참기름 2T, 통깨 1T 넣고 잘 섞어주면 끝!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "새싹채소",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "다양한 조합 예시로 언급됨",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "새싹채소",
+        "alternatives": []
+      },
+      {
+        "raw_name": "아보카도",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "다양한 조합 예시로 언급됨",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "아보카도",
+        "alternatives": []
+      },
+      {
+        "raw_name": "병아리콩",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "다양한 조합 예시로 언급됨",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "병아리콩",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쥬키니",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "다양한 조합 예시로 언급됨",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쥬키니",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파프리카",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "다양한 조합 예시로 언급됨",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "그 외 포케 재료는 새싹채소, 아보카도, 병아리콩, 쥬키니, 파프리카 등 다양한 조합으로 즐겨보셔도 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파프리카",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "e621fead352887759f6ed9802b582ff40b34f37e05e4f0205533d9e86d3d7d10",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081211:dish",
+      "canonical_id": "dish:bccdf86701ab0e2b320c62c0315d5107da9e84418998dea8b946a4f78ddbead5",
+      "original_name": "참치 포케 보울",
+      "canonical_name": "참치 포케 보울",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:001:candidate:0",
+      "canonical_id": "ingredient:d6db6a6e16e254ea03e09511458561c9ab145febd4c6139104189222fa3c871f",
+      "original_name": "잡곡밥",
+      "canonical_name": "잡곡밥",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:002:candidate:0",
+      "canonical_id": "ingredient:ad6d99a6a6be09ac4121fe7239ad4f234c708d32077574b4bc38559aaa77c120",
+      "original_name": "참치",
+      "canonical_name": "참치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:002:candidate:1",
+      "canonical_id": "ingredient:c60540248aef427d88453c31a04901d0f2fea17fd250f0d31246949b0c33b5cd",
+      "original_name": "생선회",
+      "canonical_name": "생선회",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:003:candidate:0",
+      "canonical_id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+      "original_name": "토마토",
+      "canonical_name": "토마토",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:004:candidate:0",
+      "canonical_id": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+      "original_name": "오이",
+      "canonical_name": "오이",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:005:candidate:0",
+      "canonical_id": "ingredient:af000f9406f8adb36d28dcfa2a37ea5ce2eb77ab791ce0e9c7c00f63ecf98114",
+      "original_name": "상추",
+      "canonical_name": "상추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:006:candidate:0",
+      "canonical_id": "ingredient:946ac280bb36935de9cbef1aa32a4e85bb77c5e22c20a6fdfed49315e0d033ae",
+      "original_name": "옥수수",
+      "canonical_name": "옥수수",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:007:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:008:candidate:0",
+      "canonical_id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+      "original_name": "계란",
+      "canonical_name": "계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:009:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:010:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:011:candidate:0",
+      "canonical_id": "ingredient:aac12ebd403c093cef1cad01caf9c5594e626414277131a7373d0c7552174532",
+      "original_name": "들기름",
+      "canonical_name": "들기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:011:candidate:1",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:012:candidate:0",
+      "canonical_id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+      "original_name": "올리고당",
+      "canonical_name": "올리고당",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:013:candidate:0",
+      "canonical_id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+      "original_name": "깨",
+      "canonical_name": "깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:014:candidate:0",
+      "canonical_id": "ingredient:3df11a19429eb4ecae7fb59e6b171eda6edef7932b9d7685de5c102d3b3e9fbd",
+      "original_name": "새싹채소",
+      "canonical_name": "새싹채소",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:015:candidate:0",
+      "canonical_id": "ingredient:9631227f9ebfb3584985838f4b516ad960fd7332503f86a58f1d1f133d487b9a",
+      "original_name": "아보카도",
+      "canonical_name": "아보카도",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:016:candidate:0",
+      "canonical_id": "ingredient:5f5433c3b9b42bc6ad4365e295ebf299394cc4ca5cf8eb6a9802f6aac54e1e8c",
+      "original_name": "병아리콩",
+      "canonical_name": "병아리콩",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:017:candidate:0",
+      "canonical_id": "ingredient:2786a2024d142dc8e4ca03b1c5a9037cdabc2ba68f1a42f2bf681298eab87250",
+      "original_name": "쥬키니",
+      "canonical_name": "쥬키니",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081211:component:018:candidate:0",
+      "canonical_id": "ingredient:0254cfc12cbb0cb7cf4f5777edc166cea1dca266ff5cdcdba30634e76d5b1358",
+      "original_name": "파프리카",
+      "canonical_name": "파프리카",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7081211",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_7081211:component:011: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081211:component:013: EVIDENCE_NOT_FOUND",
+      "ALTERNATIVE: EVIDENCE_NOT_FOUND"
+    ],
+    "stage1_errors": [
+      "10000recipe_7081211:component:011: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081211:component:013: EVIDENCE_NOT_FOUND",
+      "ALTERNATIVE: EVIDENCE_NOT_FOUND"
+    ],
+    "stage2_errors": [
+      "10000recipe_7081211:component:011: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081211:component:013: EVIDENCE_NOT_FOUND",
+      "ALTERNATIVE: EVIDENCE_NOT_FOUND"
+    ]
+  },
+  "review_hash": "291ef0d24648ebcb626376c3e898daffcf434c986fd1bf1bdf15db07e91860a3"
+}

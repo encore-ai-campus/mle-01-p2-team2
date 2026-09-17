@@ -1,0 +1,100 @@
+{
+  "recipe_uid": "10000recipe_6864959",
+  "cache_key": "5ced14b15566f95eaef985ac86dfe196d2d6874b3dfa7d141a0ce631f9123216",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 344,
+    "prompt_tokens": 2834,
+    "total_tokens": 3178,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "잔멸치볶음",
+    "components": [
+      {
+        "raw_name": "잔멸치",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "잔멸치 100g",
+          "준비한 잔멸치 넣고 약불로 줄여 볶다가"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "잔멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "통깨 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리고당",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "올리고당 2스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리고당",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브유",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "올리브유 1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브유",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 2.016
+}

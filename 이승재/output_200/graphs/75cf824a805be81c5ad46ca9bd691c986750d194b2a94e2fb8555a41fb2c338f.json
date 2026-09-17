@@ -1,0 +1,1548 @@
+{
+  "recipe_uid": "10000recipe_7081747",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081747",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081747",
+          "title": "남녀노소 누구나 좋아하는 촉촉한 오므라이스와 소스 만드는 법",
+          "description": "남녀노소 누구나 좋아하는 보들보들한 오므라이스 만들어봤어요",
+          "servings": "1인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "초급",
+          "views": 44,
+          "source_url": "https://www.10000recipe.com/recipe/7081747",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "오므라이스"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밥",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1공기",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 밥 1공기\", \"양파가 이렇게 투명하게 변할 때쯤에 밥 한 공기를 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밥",
+          "name_normalized": "밥"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 계란 3개\", \"이제 오므라이스에서 가장 중요한 계란은 3개를 톡톡 깨서 소금으로 약간 간을 해준 뒤 잘 풀어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "잘게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"양파 반 개는 잘게 썰어서 프라이팬에 담아주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "스팸",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "작게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 스팸 1/2개\", \"오므라이스에서 빠질 수 없는 스팸도 작게 썰어서 프라이팬에 같이 담아주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "스팸",
+          "name_normalized": "스팸"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "케챱",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 케챱 2T\", \"오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요\", \"[소스 재료] 케챱 2T\", \"버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "케첩",
+          "name_normalized": "케첩"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굴소스",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 굴소스 2T\", \"오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굴소스",
+          "name_normalized": "굴소스"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 후추 약간\", \"오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "버터",
+          "role": "food",
+          "group": "소스 재료",
+          "quantity": "10g",
+          "unit": null,
+          "preparation": null,
+          "detail": "소스에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스 재료] 버터 10g\", \"버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "돈가스소스",
+          "role": "seasoning",
+          "group": "소스 재료",
+          "quantity": "3T",
+          "unit": null,
+          "preparation": null,
+          "detail": "소스에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스 재료] 돈가스소스 3T\", \"버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "돈가스소스",
+          "name_normalized": "돈가스소스"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "케챱",
+          "role": "seasoning",
+          "group": "소스 재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": "소스에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스 재료] 케챱 2T\", \"버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요\"]",
+          "quality_flags": [
+            "POSSIBLE_DUPLICATE_COMPONENT"
+          ],
+          "component_uid": "10000recipe_7081747:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "케첩",
+          "name_normalized": "케첩"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "소스 재료",
+          "quantity": "3T",
+          "unit": null,
+          "preparation": null,
+          "detail": "소스에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스 재료] 물 3T\", \"버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "계란 간 맞추기",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금으로 약간 간을 해준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "기름",
+          "role": "food",
+          "group": null,
+          "quantity": "한 바퀴",
+          "unit": null,
+          "preparation": null,
+          "detail": "볶을 때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"기름을 한 바퀴 둘러준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식용유",
+          "name_normalized": "식용유"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파슬리",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "솔솔",
+          "unit": null,
+          "preparation": null,
+          "detail": "마무리 고명",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"마지막으로 파슬리까지 솔솔 뿌려만 주면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파슬리",
+          "name_normalized": "파슬리"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081747",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7081747:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081747:component:014:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081747",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081747",
+          "title": "남녀노소 누구나 좋아하는 촉촉한 오므라이스와 소스 만드는 법",
+          "description": "남녀노소 누구나 좋아하는 보들보들한 오므라이스 만들어봤어요",
+          "servings": "1인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "초급",
+          "views": 44,
+          "source_url": "https://www.10000recipe.com/recipe/7081747",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:56fe63f8c582ed48c79db78fe45a2318b6392e8fdba12ff1e88ddbb842a3f311",
+        "label": "Dish",
+        "properties": {
+          "name": "오므라이스"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밥",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1공기",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 밥 1공기\", \"양파가 이렇게 투명하게 변할 때쯤에 밥 한 공기를 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:231653094546aa552934a83f2d9ff01a899bdc16e9a269ed9aeab39cf8d0311d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밥",
+          "name_normalized": "밥"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 계란 3개\", \"이제 오므라이스에서 가장 중요한 계란은 3개를 톡톡 깨서 소금으로 약간 간을 해준 뒤 잘 풀어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "잘게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"양파 반 개는 잘게 썰어서 프라이팬에 담아주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "스팸",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "작게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 스팸 1/2개\", \"오므라이스에서 빠질 수 없는 스팸도 작게 썰어서 프라이팬에 같이 담아주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:9def05540ea6326c1655d6cc7c1d17e0cdc9c18657756d5652bcd9bf60027d3b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "스팸",
+          "name_normalized": "스팸"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "케챱",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 케챱 2T\", \"오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요\", \"[소스 재료] 케챱 2T\", \"버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:f5fddbaba4fd03b8c93e8759225155e2a29e6ff06820b697d47ceb74546a4d13",
+        "label": "Ingredient",
+        "properties": {
+          "name": "케첩",
+          "name_normalized": "케첩"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굴소스",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 굴소스 2T\", \"오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굴소스",
+          "name_normalized": "굴소스"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 후추 약간\", \"오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "버터",
+          "role": "food",
+          "group": "소스 재료",
+          "quantity": "10g",
+          "unit": null,
+          "preparation": null,
+          "detail": "소스에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스 재료] 버터 10g\", \"버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "돈가스소스",
+          "role": "seasoning",
+          "group": "소스 재료",
+          "quantity": "3T",
+          "unit": null,
+          "preparation": null,
+          "detail": "소스에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스 재료] 돈가스소스 3T\", \"버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:e8d6d4b8923f2947d658d2fd627c550ab8517a26840d281999dc80dc758e4d81",
+        "label": "Ingredient",
+        "properties": {
+          "name": "돈가스소스",
+          "name_normalized": "돈가스소스"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "케챱",
+          "role": "seasoning",
+          "group": "소스 재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": "소스에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스 재료] 케챱 2T\", \"버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요\"]",
+          "quality_flags": [
+            "POSSIBLE_DUPLICATE_COMPONENT"
+          ],
+          "component_uid": "10000recipe_7081747:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "소스 재료",
+          "quantity": "3T",
+          "unit": null,
+          "preparation": null,
+          "detail": "소스에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스 재료] 물 3T\", \"버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "계란 간 맞추기",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금으로 약간 간을 해준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "기름",
+          "role": "food",
+          "group": null,
+          "quantity": "한 바퀴",
+          "unit": null,
+          "preparation": null,
+          "detail": "볶을 때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"기름을 한 바퀴 둘러준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식용유",
+          "name_normalized": "식용유"
+        }
+      },
+      {
+        "id": "10000recipe_7081747:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파슬리",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "솔솔",
+          "unit": null,
+          "preparation": null,
+          "detail": "마무리 고명",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"마지막으로 파슬리까지 솔솔 뿌려만 주면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081747:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:60dcf82073e99673c739ad44bce0dce81a9e099bd3a39264a49762a08b28a0fc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파슬리",
+          "name_normalized": "파슬리"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081747",
+        "type": "VARIANT_OF",
+        "target": "dish:56fe63f8c582ed48c79db78fe45a2318b6392e8fdba12ff1e88ddbb842a3f311",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:231653094546aa552934a83f2d9ff01a899bdc16e9a269ed9aeab39cf8d0311d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:9def05540ea6326c1655d6cc7c1d17e0cdc9c18657756d5652bcd9bf60027d3b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:f5fddbaba4fd03b8c93e8759225155e2a29e6ff06820b697d47ceb74546a4d13",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:e8d6d4b8923f2947d658d2fd627c550ab8517a26840d281999dc80dc758e4d81",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:f5fddbaba4fd03b8c93e8759225155e2a29e6ff06820b697d47ceb74546a4d13",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081747:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081747:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:60dcf82073e99673c739ad44bce0dce81a9e099bd3a39264a49762a08b28a0fc",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "오므라이스",
+    "components": [
+      {
+        "raw_name": "밥",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1공기",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 밥 1공기",
+          "양파가 이렇게 투명하게 변할 때쯤에 밥 한 공기를 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밥",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 계란 3개",
+          "이제 오므라이스에서 가장 중요한 계란은 3개를 톡톡 깨서 소금으로 약간 간을 해준 뒤 잘 풀어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "잘게 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/2개",
+          "양파 반 개는 잘게 썰어서 프라이팬에 담아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "스팸",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "작게 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 스팸 1/2개",
+          "오므라이스에서 빠질 수 없는 스팸도 작게 썰어서 프라이팬에 같이 담아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "스팸",
+        "alternatives": []
+      },
+      {
+        "raw_name": "케챱",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 케챱 2T",
+          "오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요",
+          "[소스 재료] 케챱 2T",
+          "버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "케첩",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굴소스",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 굴소스 2T",
+          "오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굴소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추 약간",
+          "오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "food",
+        "group": "소스 재료",
+        "quantity": "10g",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 버터 10g",
+          "버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "돈가스소스",
+        "role": "seasoning",
+        "group": "소스 재료",
+        "quantity": "3T",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 돈가스소스 3T",
+          "버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돈가스소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "케챱",
+        "role": "seasoning",
+        "group": "소스 재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 케챱 2T",
+          "버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요"
+        ],
+        "quality_flags": [
+          "POSSIBLE_DUPLICATE_COMPONENT"
+        ],
+        "ingredient_candidate": "케첩",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "소스 재료",
+        "quantity": "3T",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 물 3T",
+          "버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": "계란 간 맞추기",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금으로 약간 간을 해준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "기름",
+        "role": "food",
+        "group": null,
+        "quantity": "한 바퀴",
+        "unit": null,
+        "preparation": null,
+        "detail": "볶을 때 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "기름을 한 바퀴 둘러준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식용유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파슬리",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "솔솔",
+        "unit": null,
+        "preparation": null,
+        "detail": "마무리 고명",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "마지막으로 파슬리까지 솔솔 뿌려만 주면"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파슬리",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "abe64d90e9d6fa7b37880caa3b9514f434cce6601359d5aa31f97d378760715d",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081747:dish",
+      "canonical_id": "dish:56fe63f8c582ed48c79db78fe45a2318b6392e8fdba12ff1e88ddbb842a3f311",
+      "original_name": "오므라이스",
+      "canonical_name": "오므라이스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:001:candidate:0",
+      "canonical_id": "ingredient:231653094546aa552934a83f2d9ff01a899bdc16e9a269ed9aeab39cf8d0311d",
+      "original_name": "밥",
+      "canonical_name": "밥",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:002:candidate:0",
+      "canonical_id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+      "original_name": "계란",
+      "canonical_name": "계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:003:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:004:candidate:0",
+      "canonical_id": "ingredient:9def05540ea6326c1655d6cc7c1d17e0cdc9c18657756d5652bcd9bf60027d3b",
+      "original_name": "스팸",
+      "canonical_name": "스팸",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:005:candidate:0",
+      "canonical_id": "ingredient:f5fddbaba4fd03b8c93e8759225155e2a29e6ff06820b697d47ceb74546a4d13",
+      "original_name": "케첩",
+      "canonical_name": "케첩",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:006:candidate:0",
+      "canonical_id": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+      "original_name": "굴소스",
+      "canonical_name": "굴소스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:007:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:008:candidate:0",
+      "canonical_id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+      "original_name": "버터",
+      "canonical_name": "버터",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:009:candidate:0",
+      "canonical_id": "ingredient:e8d6d4b8923f2947d658d2fd627c550ab8517a26840d281999dc80dc758e4d81",
+      "original_name": "돈가스소스",
+      "canonical_name": "돈가스소스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:010:candidate:0",
+      "canonical_id": "ingredient:f5fddbaba4fd03b8c93e8759225155e2a29e6ff06820b697d47ceb74546a4d13",
+      "original_name": "케첩",
+      "canonical_name": "케첩",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:011:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:012:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:013:candidate:0",
+      "canonical_id": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+      "original_name": "식용유",
+      "canonical_name": "식용유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081747:component:014:candidate:0",
+      "canonical_id": "ingredient:60dcf82073e99673c739ad44bce0dce81a9e099bd3a39264a49762a08b28a0fc",
+      "original_name": "파슬리",
+      "canonical_name": "파슬리",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7081747",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "40e22623fe7b3738772d1d29e3990267ebd6e136f6062133b0c85924b22b2f26"
+}

@@ -1,0 +1,218 @@
+{
+  "recipe_uid": "10000recipe_6837737",
+  "payload": {
+    "title": "백종원 알리오올리오 만드는법 담백한 맛이 끝내줘용 ★",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "스파게티면 2인분",
+        "스파게티면",
+        "스파게티면",
+        "food",
+        "[재료]",
+        "2",
+        "인분",
+        null,
+        null
+      ],
+      [
+        "통마늘 4~5개",
+        "통마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "4~5",
+        "개",
+        "통",
+        null
+      ],
+      [
+        "다진마늘 1~2TS",
+        "다진마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "1~2",
+        "TS",
+        "다진",
+        null
+      ],
+      [
+        "페페론치니 3~4개",
+        "페페론치니",
+        "페페론치니",
+        "food",
+        "[재료]",
+        "3~4",
+        "개",
+        null,
+        null
+      ],
+      [
+        "물 2/3냄비",
+        "물 2/3냄비",
+        "물 2/3냄비",
+        "food",
+        "[파스타 끓일 물]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "올리브유 2/3컵",
+        "올리브유",
+        "올리브유",
+        "seasoning",
+        "[재료]",
+        "2/3",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "소금",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 1Ts",
+        "소금",
+        "소금",
+        "seasoning",
+        "[파스타 끓일 물]",
+        "1",
+        "Ts",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 1,
+        "text": "마늘은 얇게 편을 썰어서 준비, 고추는 2~3조각으로 손으로 부셔서 씨까지 함께 준비해요. 이 고추는 굉장히 매운맛을 내기에, 취향에 맞게 양조절하세요."
+      },
+      {
+        "step": 2,
+        "text": "먼저 물을 팔팔 끓여주시구요. 소금 1TS를 넣어준 다음 파스타면을 샤악 넣어주시고 7~8분정도 중불에서 익혀줄꺼에요. 익히면 채반에 걸쳐줄께요."
+      },
+      {
+        "step": 4,
+        "text": "그리고 마늘이 어느정도 익었다.. 싶으면 약불로해서 볶아줄께요. 바로 위에 사진처럼 마늘이 타지 않는 선에서 잘 익었으면 잠시 불을 꺼두세요."
+      },
+      {
+        "step": 5,
+        "text": "삶아진 파스타면은 바로 건져내서 재료들이 있는 프라이팬에 투하하고 오늘의 포인트인 면을 삶은 면수를 2국자 넣어주세요. 그리고 중불에서 달달 한번 더 볶아주시고 마지막으로 취향에 맞게 소금으로 간을 해주시면 초간단 백종원 알리오올리오가 완성됩니다."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "스파게티면 2인분",
+      "raw_name": "스파게티면",
+      "ingredient_candidate": "스파게티면",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "인분",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "통마늘 4~5개",
+      "raw_name": "통마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "4~5",
+      "unit": "개",
+      "preparation": "통",
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1~2TS",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1~2",
+      "unit": "TS",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "페페론치니 3~4개",
+      "raw_name": "페페론치니",
+      "ingredient_candidate": "페페론치니",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3~4",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 2/3냄비",
+      "raw_name": "물 2/3냄비",
+      "ingredient_candidate": "물 2/3냄비",
+      "role": "food",
+      "group": "[파스타 끓일 물]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리브유 2/3컵",
+      "raw_name": "올리브유",
+      "ingredient_candidate": "올리브유",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "2/3",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 1Ts",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[파스타 끓일 물]",
+      "quantity": "1",
+      "unit": "Ts",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 4,
+  "evidence_text": "백종원 알리오올리오 만드는법 담백한 맛이 끝내줘용 ★\n스파게티면 2인분\n통마늘 4~5개\n다진마늘 1~2TS\n페페론치니 3~4개\n물 2/3냄비\n올리브유 2/3컵\n소금\n소금 1Ts\n마늘은 얇게 편을 썰어서 준비, 고추는 2~3조각으로 손으로 부셔서 씨까지 함께 준비해요. 이 고추는 굉장히 매운맛을 내기에, 취향에 맞게 양조절하세요.\n먼저 물을 팔팔 끓여주시구요. 소금 1TS를 넣어준 다음 파스타면을 샤악 넣어주시고 7~8분정도 중불에서 익혀줄꺼에요. 익히면 채반에 걸쳐줄께요.\n그리고 마늘이 어느정도 익었다.. 싶으면 약불로해서 볶아줄께요. 바로 위에 사진처럼 마늘이 타지 않는 선에서 잘 익었으면 잠시 불을 꺼두세요.\n삶아진 파스타면은 바로 건져내서 재료들이 있는 프라이팬에 투하하고 오늘의 포인트인 면을 삶은 면수를 2국자 넣어주세요. 그리고 중불에서 달달 한번 더 볶아주시고 마지막으로 취향에 맞게 소금으로 간을 해주시면 초간단 백종원 알리오올리오가 완성됩니다."
+}

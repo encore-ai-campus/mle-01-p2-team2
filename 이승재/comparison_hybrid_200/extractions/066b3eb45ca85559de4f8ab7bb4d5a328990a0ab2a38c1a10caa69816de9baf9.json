@@ -1,0 +1,116 @@
+{
+  "recipe_uid": "10000recipe_6888128",
+  "cache_key": "0d09a9607eaaa85d00ee40084661d0c63c70f67957e9f475061b466543fd57d2",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 447,
+    "prompt_tokens": 2925,
+    "total_tokens": 3372,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "오트밀",
+    "components": [
+      {
+        "raw_name": "오트밀",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "팩",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "오트밀 1팩"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "오트밀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "200",
+        "unit": "ml",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 200ml",
+          "끓는 물을 오트밀이 담긴 그릇에 담아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "테이블크림",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "테이블크림 2T",
+          "크림(커피에 타는 테이블크림)을 한 두스푼 정도 넣어주시면 훨씬 맛이 고소하고 든든해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "테이블크림",
+        "alternatives": []
+      },
+      {
+        "raw_name": "꿀",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "꿀 1T",
+          "여기에 취향에 따라 꿀이나 메이플시럽을 넣고 잘 저어서 드시면 훨씬 맛이 좋아요."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "꿀",
+        "alternatives": [
+          {
+            "raw_name": "메이플시럽",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": "취향에 따라",
+            "evidence": [
+              "꿀이나 메이플시럽"
+            ],
+            "ingredient_candidate": "메이플시럽"
+          }
+        ]
+      }
+    ]
+  },
+  "elapsed_seconds": 2.547
+}

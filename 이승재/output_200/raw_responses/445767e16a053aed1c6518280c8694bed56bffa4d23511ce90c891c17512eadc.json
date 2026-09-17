@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0q6gdQjZu996Xfz6SEiWF1X3Ia",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"컵케이크\",\"components\":[{\"raw_name\":\"박력분\",\"role\":\"food\",\"group\":\"필수재료\",\"quantity\":\"200g\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 박력분 200g\",\"박력분을 고운 채에 한번 내려 볼에 넣어 섞는다. 박력분 200g\"],\"quality_flags\":[],\"ingredient_candidate\":\"박력분\",\"alternatives\":[]},{\"raw_name\":\"우유\",\"role\":\"food\",\"group\":\"필수재료\",\"quantity\":\"250g\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 우유 250g\",\"볼에 우유250g, 설탕4큰술, 소금약간 넣고 설탕이 녹을 때 까지 섞는다. 볼\"],\"quality_flags\":[],\"ingredient_candidate\":\"우유\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"필수재료\",\"quantity\":\"4큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 설탕 4큰술\",\"볼에 우유250g, 설탕4큰술, 소금약간 넣고 설탕이 녹을 때 까지 섞는다. 볼\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"필수재료\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 소금 약간\",\"볼에 우유250g, 설탕4큰술, 소금약간 넣고 설탕이 녹을 때 까지 섞는다. 볼\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"베이킹파우더\",\"role\":\"seasoning\",\"group\":\"필수재료\",\"quantity\":\"1/4큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 베이킹파우더 1/4큰술\",\"베이킹 파우더1/4큰술 넣고 섞는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"베이킹파우더\",\"alternatives\":[]},{\"raw_name\":\"은박컵\",\"role\":\"unknown\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"완성된 반죽을 은박컵에 반정도 채워 넣는다. 은박컵\",\"찜통에 물을 넣고 한김 올라오면 은박컵을 넣고 10분간 찐다. 찜통\"],\"quality_flags\":[],\"ingredient_candidate\":\"은박컵\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530856,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 677,
+    "prompt_tokens": 2846,
+    "total_tokens": 3523,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

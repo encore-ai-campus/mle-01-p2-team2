@@ -1,0 +1,530 @@
+{
+  "recipe_uid": "10000recipe_6906704",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6906704",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6906704",
+          "title": "저염식 건강 쌈장과 양배추 쌈밥, 맛있는 쌈장 쌈밥",
+          "description": "건강한 쌈장과 양배추 쌈밥입니다. 좀 더 건강에 도움이 되기 위해 저염식으로 쌈장을 만들고, 나트륨 배출을 돕는 양배추도 함께 했습니다, 건강 쌈장이면서 맛도 아주 좋아요, 꼭! 만들어 보세요~",
+          "servings": "4인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 104000,
+          "source_url": "https://www.10000recipe.com/recipe/6906704",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:ff852aca94febd11ba4ae1049e29a4e5ea638376014a7e82d632f3e728c38b6e",
+        "label": "Dish",
+        "properties": {
+          "name": "쌈밥"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "두부",
+          "role": "food",
+          "group": "[저염쌈장재료]",
+          "quantity": "1/3",
+          "unit": "모",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"두부 1/3모\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+        "label": "Ingredient",
+        "properties": {
+          "name": "두부",
+          "name_normalized": "두부"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파 작은크기",
+          "role": "food",
+          "group": "[저염쌈장재료]",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 작은크기 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:f61eca951449021930c27eef659c17b72361e78becba7374c86079ab53cd1b27",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파 작은크기",
+          "name_normalized": "양파 작은크기"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "food",
+          "group": "[저염쌈장재료]",
+          "quantity": "0.5",
+          "unit": "큰술",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다진마늘 0.5큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "풋고추",
+          "role": "food",
+          "group": "[저염쌈장재료]",
+          "quantity": "2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"풋고추 2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:61ccf232a195012793d3416433f3dc4e557652e50e91e1f7ea4d4562150e27d5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "풋고추",
+          "name_normalized": "풋고추"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실청 다른청가능",
+          "role": "food",
+          "group": "[저염쌈장재료]",
+          "quantity": "2",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "다른청가능",
+          "is_required": null,
+          "alternative_mode": "unresolved",
+          "evidence": "[\"매실청 다른청가능 2큰술\"]",
+          "quality_flags": [
+            "AMBIGUOUS_INGREDIENT"
+          ],
+          "component_uid": "10000recipe_6906704:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:da8c88e796703aa7f3444ea98fc56e753afeba9b1886e5e7208a926c732ab907",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실청 다른청가능",
+          "name_normalized": "매실청 다른청가능"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "food",
+          "group": "[저염쌈장재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"통깨 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양배추",
+          "role": "food",
+          "group": "[양배추쌈재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양배추\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양배추",
+          "name_normalized": "양배추"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "된장",
+          "role": "seasoning",
+          "group": "[저염쌈장재료]",
+          "quantity": "2.5",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"된장 2.5큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "된장",
+          "name_normalized": "된장"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "[저염쌈장재료]",
+          "quantity": "1.5",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"고추장 1.5큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "[저염쌈장재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6906704",
+        "type": "VARIANT_OF",
+        "target": "dish:ff852aca94febd11ba4ae1049e29a4e5ea638376014a7e82d632f3e728c38b6e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:f61eca951449021930c27eef659c17b72361e78becba7374c86079ab53cd1b27",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:61ccf232a195012793d3416433f3dc4e557652e50e91e1f7ea4d4562150e27d5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:da8c88e796703aa7f3444ea98fc56e753afeba9b1886e5e7208a926c732ab907",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6906704:dish",
+      "canonical_id": "dish:ff852aca94febd11ba4ae1049e29a4e5ea638376014a7e82d632f3e728c38b6e",
+      "original_name": "쌈밥",
+      "canonical_name": "쌈밥",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:001:candidate:0",
+      "canonical_id": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+      "original_name": "두부",
+      "canonical_name": "두부",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:002:candidate:0",
+      "canonical_id": "ingredient:f61eca951449021930c27eef659c17b72361e78becba7374c86079ab53cd1b27",
+      "original_name": "양파 작은크기",
+      "canonical_name": "양파 작은크기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:003:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:004:candidate:0",
+      "canonical_id": "ingredient:61ccf232a195012793d3416433f3dc4e557652e50e91e1f7ea4d4562150e27d5",
+      "original_name": "풋고추",
+      "canonical_name": "풋고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:005:candidate:0",
+      "canonical_id": "ingredient:da8c88e796703aa7f3444ea98fc56e753afeba9b1886e5e7208a926c732ab907",
+      "original_name": "매실청 다른청가능",
+      "canonical_name": "매실청 다른청가능",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:006:candidate:0",
+      "canonical_id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+      "original_name": "통깨",
+      "canonical_name": "통깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:007:candidate:0",
+      "canonical_id": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+      "original_name": "양배추",
+      "canonical_name": "양배추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:008:candidate:0",
+      "canonical_id": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+      "original_name": "된장",
+      "canonical_name": "된장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:009:candidate:0",
+      "canonical_id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+      "original_name": "고추장",
+      "canonical_name": "고추장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:010:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 10,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 21,
+    "errors": [
+      "10000recipe_6906704:component:005: ALTERNATIVE_MODE"
+    ],
+    "automatic_pass": false
+  }
+}

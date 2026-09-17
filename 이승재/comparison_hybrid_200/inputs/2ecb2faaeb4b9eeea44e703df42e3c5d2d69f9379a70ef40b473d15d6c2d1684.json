@@ -1,0 +1,222 @@
+{
+  "recipe_uid": "10000recipe_6904638",
+  "payload": {
+    "title": "느타리버섯볶음 만드는법 , 참 쉽죠잉~",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "느타리 1팩",
+        "느타리",
+        "느타리",
+        "food",
+        "[재료]",
+        "1",
+        "팩",
+        null,
+        null
+      ],
+      [
+        "양파 1/2개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "당근 약간",
+        "당근",
+        "당근",
+        "food",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "식용유 약간",
+        "식용유",
+        "식용유",
+        "seasoning",
+        "[양념]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "다진마늘 1/3큰술",
+        "다진마늘",
+        "마늘",
+        "seasoning",
+        "[양념]",
+        "1/3",
+        "큰술",
+        "다진",
+        null
+      ],
+      [
+        "굵은소금 1/2큰술",
+        "굵은소금",
+        "굵은소금",
+        "seasoning",
+        "[양념]",
+        "1/2",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "참기름 or들기름 1큰술",
+        "참기름 or들기름",
+        "참기름 or들기름",
+        "seasoning",
+        "[양념]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[양념]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 1,
+        "text": "싱싱한 버섯 한팩과 취향에 맞게 야채는 준비해주시면 되고요 저는 냉장고 사정에 맞게 당근과 양파를 넣어주었어요"
+      },
+      {
+        "step": 2,
+        "text": "버섯은 결대로 찢어주시고 너무 두꺼운 버섯은 한번씩 반으로 더 찢어서 준비해주세요"
+      },
+      {
+        "step": 7,
+        "text": "썰어둔 야채를 같이 넣어서 한번 더 휘리릭 볶아주세요"
+      },
+      {
+        "step": 8,
+        "text": "그리고 야채의 숨이 살짝 죽으면 후추를 제외한 나머지 양념을 넣어서 볶아주시면 되요 다진마늘 1/3큰술, 굵은소금 약간, 참기름 또는 들기름을 1큰술 넣어주시고요 다 볶아주신뒤 후추를 살짝 뿌려 마무리해주세요"
+      },
+      {
+        "step": 9,
+        "text": "버섯을 삶아내는 과정이 약간은 번거롭게 느껴질수도 있지만 볶아준뒤에 물이 생기는것보다 훨씬 깔끔한 맛을 얻을수 있으니 귀찮더라도 해주시는게 좋겠죠 ^^"
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "느타리 1팩",
+      "raw_name": "느타리",
+      "ingredient_candidate": "느타리",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "팩",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1/2개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "당근 약간",
+      "raw_name": "당근",
+      "ingredient_candidate": "당근",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "식용유 약간",
+      "raw_name": "식용유",
+      "ingredient_candidate": "식용유",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1/3큰술",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1/3",
+      "unit": "큰술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "굵은소금 1/2큰술",
+      "raw_name": "굵은소금",
+      "ingredient_candidate": "굵은소금",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1/2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 or들기름 1큰술",
+      "raw_name": "참기름 or들기름",
+      "ingredient_candidate": "참기름 or들기름",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 9,
+  "sent_steps": 5,
+  "evidence_text": "느타리버섯볶음 만드는법 , 참 쉽죠잉~\n느타리 1팩\n양파 1/2개\n당근 약간\n식용유 약간\n다진마늘 1/3큰술\n굵은소금 1/2큰술\n참기름 or들기름 1큰술\n후추 약간\n싱싱한 버섯 한팩과 취향에 맞게 야채는 준비해주시면 되고요 저는 냉장고 사정에 맞게 당근과 양파를 넣어주었어요\n버섯은 결대로 찢어주시고 너무 두꺼운 버섯은 한번씩 반으로 더 찢어서 준비해주세요\n썰어둔 야채를 같이 넣어서 한번 더 휘리릭 볶아주세요\n그리고 야채의 숨이 살짝 죽으면 후추를 제외한 나머지 양념을 넣어서 볶아주시면 되요 다진마늘 1/3큰술, 굵은소금 약간, 참기름 또는 들기름을 1큰술 넣어주시고요 다 볶아주신뒤 후추를 살짝 뿌려 마무리해주세요\n버섯을 삶아내는 과정이 약간은 번거롭게 느껴질수도 있지만 볶아준뒤에 물이 생기는것보다 훨씬 깔끔한 맛을 얻을수 있으니 귀찮더라도 해주시는게 좋겠죠 ^^"
+}

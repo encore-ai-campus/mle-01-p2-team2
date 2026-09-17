@@ -1,0 +1,501 @@
+{
+  "recipe_uid": "10000recipe_6951400",
+  "cache_key": "3984b842ec4aa34a6a409a2f6d1bec018556172310645d43d4b001c6902304bf",
+  "model": "gpt-5.4-mini",
+  "input_hash": "50f26ef30df4f0d4c3e6146ea3449688163b81ed769c7fa4b3beea8d81201b8d",
+  "source_record_hash": "10b0b83df3734802744a459c25868b1b285347518efde2dc67828faa2be51e04",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "잔치국수",
+    "components": [
+      {
+        "raw_name": "소면",
+        "role": "food",
+        "group": "재료",
+        "quantity": "200g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소면 200g",
+          "국수삶기 물이 끓으면 식용유 1큰술을 넣고 국수를 넣어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "애호박",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": "채썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 애호박 1/2개",
+          "애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "애호박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": "채썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 당근 1/2개",
+          "애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": "채썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/2개",
+          "애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": "풀어서 넣고",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 계란 2개",
+          "끓어 오르면 계란 2개를 풀어서 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1움큼",
+        "unit": null,
+        "preparation": null,
+        "detail": "다시 멸치로 육수 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 멸치 1움큼",
+          "다시 멸치에 물 2L를 붓고 끓여주세요.",
+          "멸치를 건지고 표고버섯, 소금 1큰술을 넣고 약한불에서 끓여 주세요."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_QUANTITY"
+        ],
+        "ingredient_candidate": "멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "말린표고버섯",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1움큼",
+        "unit": null,
+        "preparation": "불려",
+        "detail": "그냥 표고버섯을 쓰셔도 됩니다",
+        "is_required": false,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "[재료] 말린표고버섯 1움큼",
+          "말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_QUANTITY"
+        ],
+        "ingredient_candidate": "말린표고버섯",
+        "alternatives": [
+          {
+            "raw_name": "표고버섯",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다."
+            ],
+            "ingredient_candidate": "표고버섯"
+          }
+        ]
+      },
+      {
+        "raw_name": "김가루",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 김가루 2큰술",
+          "국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2쪽",
+        "unit": "쪽",
+        "preparation": "다져두고",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 마늘 2쪽",
+          "마늘은 미리 다져두고, 대파도 가늘게 썰어주세요.",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/4뿌리",
+        "unit": "뿌리",
+        "preparation": "가늘게 썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1/4뿌리",
+          "마늘은 미리 다져두고, 대파도 가늘게 썰어주세요.",
+          "끓어 오르면 계란 2개를 풀어서 넣고 다진마늘 1티스푼, 썰은 대파를 넣어 주시면 육수 완성이에요.",
+          "[양념장] 대파 1/4뿌리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소금 1큰술",
+          "멸치를 건지고 표고버섯, 소금 1큰술을 넣고 약한불에서 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추 약간",
+          "국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장에는 1티스푼",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 깨 약간",
+          "[양념장] 깨 1티스푼",
+          "국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요."
+        ],
+        "quality_flags": [
+          "QUANTITY_CONFLICT"
+        ],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "양념장",
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 청양고추 2개",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "양념장",
+        "quantity": "1/4뿌리",
+        "unit": "뿌리",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 대파 1/4뿌리",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추가루",
+        "role": "seasoning",
+        "group": "양념장",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 고추가루 1큰술",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": "양념장",
+        "quantity": "2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 국간장 2큰술",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "진간장",
+        "role": "seasoning",
+        "group": "양념장",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 진간장 1큰술",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "진간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "양념장",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 참기름 1큰술",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨",
+        "role": "seasoning",
+        "group": "양념장",
+        "quantity": "1티스푼",
+        "unit": "티스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 깨 1티스푼",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "양념장",
+        "quantity": "2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 물 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": null,
+        "quantity": "2L",
+        "unit": "L",
+        "preparation": null,
+        "detail": "멸치육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "다시 멸치에 물 2L를 붓고 끓여주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": null,
+        "quantity": "200ml",
+        "unit": "ml",
+        "preparation": null,
+        "detail": "국수 삶을 때 찬물",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "끓어 오르면 찬물 200ml를 붓고 중간불로 줄여 주시고, 다시 끓으면 찬물을 한번 더 붓고 다시 끓으면 불에서 내려 찬물에 헹구어 물기를 빼 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식용유",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "국수 삶을 때 넣음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "국수삶기 물이 끓으면 식용유 1큰술을 넣고 국수를 넣어 주세요.",
+          "식용유를 넣고 삶으면 국수가 덜 불고 쫀득해요^^"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식용유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "표고버섯",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "말린표고버섯 대체",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "표고버섯",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 3364,
+    "prompt_tokens": 3424,
+    "total_tokens": 6788,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

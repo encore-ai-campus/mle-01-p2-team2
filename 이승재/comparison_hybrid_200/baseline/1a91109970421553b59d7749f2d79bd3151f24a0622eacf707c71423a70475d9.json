@@ -1,0 +1,103 @@
+{
+  "recipe_uid": "10000recipe_6864959",
+  "cache_key": "91e754b9efd923c8365cf428a6eb6ba58ed55d573b38a570a8e1d9103aed646c",
+  "model": "gpt-5.4-mini",
+  "input_hash": "45644d1d76cd333a5f52ae40dfa4d08b5f486c8b7e1ffef7cfc803a98054ab75",
+  "source_record_hash": "0429c5d24c3fd93329b74d0e04e9dd749c1445dc3779910a19363288db051fc4",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "잔멸치볶음",
+    "components": [
+      {
+        "raw_name": "잔멸치",
+        "role": "food",
+        "group": null,
+        "quantity": "100g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 잔멸치 100g",
+          "준비한 잔멸치 넣고 약불로 줄여 볶다가"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "잔멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리고당",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 올리고당 2스푼",
+          "팬에 올리브유 올리고당 넣고 바글바글 끓이다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리고당",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브유",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 올리브유 1스푼",
+          "팬에 올리브유 올리고당 넣고 바글바글 끓이다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 통깨 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 391,
+    "prompt_tokens": 2754,
+    "total_tokens": 3145,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

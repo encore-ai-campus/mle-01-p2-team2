@@ -1,0 +1,269 @@
+{
+  "recipe_uid": "10000recipe_6850116",
+  "cache_key": "e1c50a70268926df3dc7e6b410992ae208f416a4c50cb82ddb2127f7de19b064",
+  "model": "gpt-5.4-mini",
+  "input_hash": "c2611f88989d5ab91b031a1b6436146ce33cd77ce25917f82a3097a5cc8b4578",
+  "source_record_hash": "a418fcdeb9b4521b3001497389b8fca54f82ad34e0df5b0957105b73ff3e6bbe",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "돼지고기 김치찌개",
+    "components": [
+      {
+        "raw_name": "돼지고기",
+        "role": "food",
+        "group": "재료",
+        "quantity": "300g",
+        "unit": "g",
+        "preparation": "핏물을 뺀",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 돼지고기 300g",
+          "돼지고기는 핏물을 빼주세요.",
+          "핏물 뺀 돼지고기를 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돼지고기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "김치",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1포기",
+        "unit": "포기",
+        "preparation": "잘 익은, 잘라서",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 김치 1포기",
+          "잘익은 김치 한포기를 꺼내서 잘라주세요",
+          "김치를 넣고 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 설탕 1스푼",
+          "다진마늘 한스푼, 설탕 한스푼 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2.5스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 고춧가루 2.5스푼",
+          "고춧가루 두스푼반 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2.5스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 간장 2.5스푼",
+          "간장 두스푼반"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": "썰어서",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/2개",
+          "양파 반개, 청양고추 한개를 썰어서 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": "쏭쏭 썰어서",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 적당량",
+          "마지막에 파 쏭쏭 썰어서 마무리하면 돼요^^"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1스푼",
+        "unit": "스푼",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 다진마늘 1스푼",
+          "다진마늘 한스푼, 설탕 한스푼 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": "개",
+        "preparation": "썰어서",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 청양고추 1개",
+          "양파 반개, 청양고추 한개를 썰어서 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "들기름",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 들기름 적당량",
+          "냄비에 들기름 적당히 두르고."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "들기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "재료",
+        "quantity": "8종이컵",
+        "unit": "종이컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 물 8종이컵",
+          "종이컵으로 물 8컵 부어서 센불에 끓여주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "된장",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1/2스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 된장 1/2스푼",
+          "백종원 김치찌개에는 된장이 들어가요",
+          "고기잡내 제거에 딱이라고 합니다^^ 된장 반스푼 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "된장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "새우젓",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 새우젓 2스푼",
+          "새우젓 두스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "새우젓",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1338,
+    "prompt_tokens": 3076,
+    "total_tokens": 4414,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

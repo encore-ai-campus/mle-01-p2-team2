@@ -1,0 +1,200 @@
+{"recipe_uid": "10000recipe_7080257", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6907524", "status": "blocked", "errors": ["10000recipe_6907524:component:006: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_6907524:component:006: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_6907524:component:006: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_590786", "status": "blocked", "errors": ["10000recipe_590786:component:005: SELF_ALTERNATIVE"], "stage1_errors": [], "stage2_errors": ["10000recipe_590786:component:005: SELF_ALTERNATIVE"]}
+{"recipe_uid": "10000recipe_7081664", "status": "blocked", "errors": ["10000recipe_7081664:component:011: ALTERNATIVE_MODE", "10000recipe_7081664:component:012: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_7081664:component:011: ALTERNATIVE_MODE", "10000recipe_7081664:component:012: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_7081664:component:011: ALTERNATIVE_MODE", "10000recipe_7081664:component:012: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_6858833", "status": "blocked", "errors": ["10000recipe_6858833:component:003: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_6858833:component:003: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_6858833:component:003: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_6852685", "status": "blocked", "errors": ["10000recipe_6852685:component:015: ALTERNATIVE_MODE", "10000recipe_6852685:component:015: SELF_ALTERNATIVE"], "stage1_errors": ["10000recipe_6852685:component:015: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_6852685:component:015: ALTERNATIVE_MODE", "10000recipe_6852685:component:015: SELF_ALTERNATIVE"]}
+{"recipe_uid": "10000recipe_7080889", "status": "blocked", "errors": ["10000recipe_7080889:component:002: EVIDENCE_NOT_FOUND", "10000recipe_7080889:component:003: EVIDENCE_NOT_FOUND", "10000recipe_7080889:component:006: ALTERNATIVE_MODE", "10000recipe_7080889:component:010: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_7080889:component:002: EVIDENCE_NOT_FOUND", "10000recipe_7080889:component:003: EVIDENCE_NOT_FOUND", "10000recipe_7080889:component:006: ALTERNATIVE_MODE", "10000recipe_7080889:component:010: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_7080889:component:002: EVIDENCE_NOT_FOUND", "10000recipe_7080889:component:003: EVIDENCE_NOT_FOUND", "10000recipe_7080889:component:006: ALTERNATIVE_MODE", "10000recipe_7080889:component:010: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_6863364", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4784948", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6904638", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7080571", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082089", "status": "blocked", "errors": ["10000recipe_7082089:component:006: SELF_ALTERNATIVE"], "stage1_errors": [], "stage2_errors": ["10000recipe_7082089:component:006: SELF_ALTERNATIVE"]}
+{"recipe_uid": "10000recipe_3997539", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6870760", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082638", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082962", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_1849227", "status": "blocked", "errors": ["10000recipe_1849227:component:014: SELF_ALTERNATIVE", "10000recipe_1849227:component:025: SELF_ALTERNATIVE"], "stage1_errors": [], "stage2_errors": ["10000recipe_1849227:component:014: SELF_ALTERNATIVE", "10000recipe_1849227:component:025: SELF_ALTERNATIVE"]}
+{"recipe_uid": "10000recipe_2811959", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6838963", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6095288", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082208", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082448", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081606", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6867165", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6866542", "status": "blocked", "errors": ["10000recipe_6866542:component:001: EVIDENCE_NOT_FOUND", "10000recipe_6866542:component:002: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_6866542:component:001: EVIDENCE_NOT_FOUND", "10000recipe_6866542:component:002: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_6866542:component:001: EVIDENCE_NOT_FOUND", "10000recipe_6866542:component:002: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_6869657", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081635", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082810", "status": "blocked", "errors": ["10000recipe_7082810:component:002: ALTERNATIVE_MODE", "10000recipe_7082810:component:005: ALTERNATIVE_MODE", "10000recipe_7082810:component:005: SELF_ALTERNATIVE"], "stage1_errors": ["10000recipe_7082810:component:002: ALTERNATIVE_MODE", "10000recipe_7082810:component:005: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_7082810:component:002: ALTERNATIVE_MODE", "10000recipe_7082810:component:005: ALTERNATIVE_MODE", "10000recipe_7082810:component:005: SELF_ALTERNATIVE"]}
+{"recipe_uid": "10000recipe_7080806", "status": "blocked", "errors": ["10000recipe_7080806:component:001: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_7080806:component:001: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_7080806:component:001: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_6864530", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6844014", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7080914", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6839363", "status": "blocked", "errors": ["10000recipe_6839363:component:006: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_6839363:component:006: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_6839363:component:006: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_5228712", "status": "blocked", "errors": ["10000recipe_5228712:component:001: ALTERNATIVE_MODE", "10000recipe_5228712:component:001: SELF_ALTERNATIVE", "10000recipe_5228712:component:013: ALTERNATIVE_MODE", "10000recipe_5228712:component:014: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_5228712:component:001: ALTERNATIVE_MODE", "10000recipe_5228712:component:013: ALTERNATIVE_MODE", "10000recipe_5228712:component:014: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_5228712:component:001: ALTERNATIVE_MODE", "10000recipe_5228712:component:001: SELF_ALTERNATIVE", "10000recipe_5228712:component:013: ALTERNATIVE_MODE", "10000recipe_5228712:component:014: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_6888128", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6912348", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6884393", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081778", "status": "blocked", "errors": ["ALTERNATIVE: EVIDENCE_NOT_FOUND"], "stage1_errors": ["ALTERNATIVE: EVIDENCE_NOT_FOUND"], "stage2_errors": ["ALTERNATIVE: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_6905178", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4323582", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4998590", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082922", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082956", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4116039", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082107", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6840613", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6839435", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6877036", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6861653", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6864003", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6887748", "status": "blocked", "errors": ["10000recipe_6887748:component:005: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_6887748:component:005: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_6887748:component:005: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_6829399", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6859318", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_1775954", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4584564", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6540658", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6847921", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082783", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6850809", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082152", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082938", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6860947", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6894530", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081696", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4584385", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081002", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081747", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081890", "status": "blocked", "errors": ["10000recipe_7081890:component:005: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_7081890:component:005: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_7081890:component:005: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_7080260", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081522", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_3239782", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6887568", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6837737", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6958977", "status": "blocked", "errors": ["10000recipe_6958977:component:007: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_6958977:component:007: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_6958977:component:007: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_6953652", "status": "blocked", "errors": ["10000recipe_6953652:component:008: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_6953652:component:008: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_6953652:component:008: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_7082612", "status": "blocked", "errors": ["10000recipe_7082612:component:001: ALTERNATIVE_MODE", "10000recipe_7082612:component:001: SELF_ALTERNATIVE"], "stage1_errors": ["10000recipe_7082612:component:001: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_7082612:component:001: ALTERNATIVE_MODE", "10000recipe_7082612:component:001: SELF_ALTERNATIVE"]}
+{"recipe_uid": "10000recipe_825362", "status": "blocked", "errors": ["10000recipe_825362:component:017: EVIDENCE_NOT_FOUND", "10000recipe_825362:component:018: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_825362:component:017: EVIDENCE_NOT_FOUND", "10000recipe_825362:component:018: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_825362:component:017: EVIDENCE_NOT_FOUND", "10000recipe_825362:component:018: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_6951400", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6844401", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6873565", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081121", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081277", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081345", "status": "blocked", "errors": ["10000recipe_7081345:component:002: EVIDENCE_NOT_FOUND", "10000recipe_7081345:component:003: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_7081345:component:002: EVIDENCE_NOT_FOUND", "10000recipe_7081345:component:003: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_7081345:component:002: EVIDENCE_NOT_FOUND", "10000recipe_7081345:component:003: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_6854359", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6863267", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082328", "status": "blocked", "errors": ["10000recipe_7082328:component:001: SELF_ALTERNATIVE"], "stage1_errors": [], "stage2_errors": ["10000recipe_7082328:component:001: SELF_ALTERNATIVE"]}
+{"recipe_uid": "10000recipe_7081859", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082842", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6829057", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6875078", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6884397", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4529642", "status": "blocked", "errors": ["10000recipe_4529642:component:020: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_4529642:component:020: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_4529642:component:020: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_6682573", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081437", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082718", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4592833", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6907445", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082905", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081691", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6847466", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7080174", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082505", "status": "blocked", "errors": ["10000recipe_7082505:component:002: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_7082505:component:002: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_7082505:component:002: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_7081096", "status": "blocked", "errors": ["10000recipe_7081096:component:001: ALTERNATIVE_MODE", "10000recipe_7081096:component:002: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_7081096:component:001: ALTERNATIVE_MODE", "10000recipe_7081096:component:002: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_7081096:component:001: ALTERNATIVE_MODE", "10000recipe_7081096:component:002: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_5994149", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6912854", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082592", "status": "blocked", "errors": ["10000recipe_7082592:component:009: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_7082592:component:009: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_7082592:component:009: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_7081283", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082780", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6896872", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_3271213", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6836075", "status": "blocked", "errors": ["10000recipe_6836075:component:006: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_6836075:component:006: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_6836075:component:006: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_6831310", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4218837", "status": "blocked", "errors": ["10000recipe_4218837:component:001: EVIDENCE_NOT_FOUND", "10000recipe_4218837:component:018: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_4218837:component:001: EVIDENCE_NOT_FOUND", "10000recipe_4218837:component:018: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_4218837:component:001: EVIDENCE_NOT_FOUND", "10000recipe_4218837:component:018: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_6850116", "status": "blocked", "errors": ["10000recipe_6850116:component:004: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_6850116:component:004: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_6850116:component:004: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_6909785", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6707909", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6862912", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081581", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6852755", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_1802633", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_1886499", "status": "blocked", "errors": ["10000recipe_1886499:component:001: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_1886499:component:001: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_1886499:component:001: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_6873624", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6865809", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6859137", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6858197", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082871", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082091", "status": "blocked", "errors": ["10000recipe_7082091:component:001: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_7082091:component:001: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_7082091:component:001: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_4436323", "status": "blocked", "errors": ["10000recipe_4436323:component:005: EVIDENCE_NOT_FOUND", "10000recipe_4436323:component:006: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_4436323:component:005: EVIDENCE_NOT_FOUND", "10000recipe_4436323:component:006: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_4436323:component:005: EVIDENCE_NOT_FOUND", "10000recipe_4436323:component:006: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_3334221", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081518", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6881182", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081569", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7080380", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6852559", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082943", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082432", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081494", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6879731", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6841606", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7080940", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082181", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4790224", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6960275", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_3979404", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6864959", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6860248", "status": "blocked", "errors": ["10000recipe_6860248:component:003: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_6860248:component:003: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_6860248:component:003: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_7081416", "status": "blocked", "errors": ["10000recipe_7081416:component:004: EVIDENCE_NOT_FOUND", "10000recipe_7081416:component:005: EVIDENCE_NOT_FOUND", "10000recipe_7081416:component:006: EVIDENCE_NOT_FOUND", "10000recipe_7081416:component:007: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_7081416:component:004: EVIDENCE_NOT_FOUND", "10000recipe_7081416:component:005: EVIDENCE_NOT_FOUND", "10000recipe_7081416:component:006: EVIDENCE_NOT_FOUND", "10000recipe_7081416:component:007: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_7081416:component:004: EVIDENCE_NOT_FOUND", "10000recipe_7081416:component:005: EVIDENCE_NOT_FOUND", "10000recipe_7081416:component:006: EVIDENCE_NOT_FOUND", "10000recipe_7081416:component:007: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_7080425", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6860165", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082959", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081600", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6907926", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6852992", "status": "blocked", "errors": ["10000recipe_6852992:component:001: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_6852992:component:001: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_6852992:component:001: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_2660290", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7080175", "status": "blocked", "errors": ["10000recipe_7080175:component:001: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_7080175:component:001: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_7080175:component:001: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_7081699", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6881800", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6689884", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_5594696", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_3478742", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6876209", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6902060", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082665", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082059", "status": "blocked", "errors": ["10000recipe_7082059:component:001: ALTERNATIVE_MODE", "10000recipe_7082059:component:001: SELF_ALTERNATIVE"], "stage1_errors": ["10000recipe_7082059:component:001: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_7082059:component:001: ALTERNATIVE_MODE", "10000recipe_7082059:component:001: SELF_ALTERNATIVE"]}
+{"recipe_uid": "10000recipe_7081834", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4457255", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6838224", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6879745", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7080944", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6870882", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082087", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6866991", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7082032", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_2809032", "status": "blocked", "errors": ["10000recipe_2809032:component:007: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:008: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:009: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:010: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:011: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:012: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:013: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:014: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_2809032:component:007: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:008: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:009: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:010: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:011: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:012: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:013: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:014: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_2809032:component:007: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:008: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:009: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:010: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:011: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:012: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:013: EVIDENCE_NOT_FOUND", "10000recipe_2809032:component:014: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_6833972", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_2358203", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6845980", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4268988", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081211", "status": "blocked", "errors": ["10000recipe_7081211:component:011: EVIDENCE_NOT_FOUND", "10000recipe_7081211:component:013: EVIDENCE_NOT_FOUND", "ALTERNATIVE: EVIDENCE_NOT_FOUND"], "stage1_errors": ["10000recipe_7081211:component:011: EVIDENCE_NOT_FOUND", "10000recipe_7081211:component:013: EVIDENCE_NOT_FOUND", "ALTERNATIVE: EVIDENCE_NOT_FOUND"], "stage2_errors": ["10000recipe_7081211:component:011: EVIDENCE_NOT_FOUND", "10000recipe_7081211:component:013: EVIDENCE_NOT_FOUND", "ALTERNATIVE: EVIDENCE_NOT_FOUND"]}
+{"recipe_uid": "10000recipe_6833247", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081843", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_4878562", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7080404", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6923187", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6853029", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6840569", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6872120", "status": "blocked", "errors": ["10000recipe_6872120:component:004: ALTERNATIVE_MODE"], "stage1_errors": ["10000recipe_6872120:component:004: ALTERNATIVE_MODE"], "stage2_errors": ["10000recipe_6872120:component:004: ALTERNATIVE_MODE"]}
+{"recipe_uid": "10000recipe_6890781", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7083094", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6914349", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081821", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6839434", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6898328", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6890486", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6857961", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6906704", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6864716", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_7081462", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6889620", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}
+{"recipe_uid": "10000recipe_6913491", "status": "awaiting_review", "errors": [], "stage1_errors": [], "stage2_errors": []}

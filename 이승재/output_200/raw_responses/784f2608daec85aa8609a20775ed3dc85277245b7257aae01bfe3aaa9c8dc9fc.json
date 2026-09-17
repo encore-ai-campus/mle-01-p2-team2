@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0UyOwPHEUlFjgPU7lNIqgpbPri",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"돼지고기 김치찜\",\"components\":[{\"raw_name\":\"김치\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/2\",\"unit\":\"포기\",\"preparation\":\"묵은지\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"집에 있는 묵은지를 이용해서 돼지고기 김치찜을 만들어보았어요\",\"[재료] 김치 1/2포기\"],\"quality_flags\":[],\"ingredient_candidate\":\"김치\",\"alternatives\":[]},{\"raw_name\":\"삼겹살\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"400\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 삼겹살 400g\",\"재료:김치1/2포기,삼겹살400g,대파1/2대,청양고추3개\"],\"quality_flags\":[],\"ingredient_candidate\":\"삼겹살\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/2\",\"unit\":\"대\",\"preparation\":\"먹기 좋게 자른\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 대파 1/2대\",\"대파1/2대와 청양고추를 준비해서 먹기 좋게 잘라줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"청양고추\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"3\",\"unit\":\"개\",\"preparation\":\"먹기 좋게 자른\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 청양고추 3개\",\"대파1/2대와 청양고추를 준비해서 먹기 좋게 잘라줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양고추\",\"alternatives\":[]},{\"raw_name\":\"고추장\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 고추장 1스푼\",\"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추장\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 설탕 1스푼\",\"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"미림\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"2\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 미림 2스푼\",\"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"미림\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1/2\",\"unit\":\"티스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 소금 1/2티스푼\",\"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"생강가루\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1/2\",\"unit\":\"티스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 생강가루 1/2티스푼\",\"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"생강가루\",\"alternatives\":[]},{\"raw_name\":\"고추가루\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 고추가루 1스푼\",\"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추가루\",\"alternatives\":[]},{\"raw_name\":\"국간장\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"2\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 국간장 2스푼\",\"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"국간장\",\"alternatives\":[]},{\"raw_name\":\"마늘\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 마늘 1스푼\",\"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"다시마\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다시마,멸치,대파,무 등등 육수를 만들어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"다시마\",\"alternatives\":[]},{\"raw_name\":\"멸치\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다시마,멸치,대파,무 등등 육수를 만들어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"멸치\",\"alternatives\":[]},{\"raw_name\":\"무\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다시마,멸치,대파,무 등등 육수를 만들어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"무\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530834,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 2066,
+    "prompt_tokens": 3362,
+    "total_tokens": 5428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

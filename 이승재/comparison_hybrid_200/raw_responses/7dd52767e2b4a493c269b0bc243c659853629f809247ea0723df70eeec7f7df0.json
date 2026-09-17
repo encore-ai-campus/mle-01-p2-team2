@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZF3z3hvsQNNVK3HF62UmBEbUKS",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"버섯크림리조또\",\"components\":[{\"raw_name\":\"밥 1공기\",\"role\":\"food\",\"group\":\"[필수재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"밥 1공기\"],\"quality_flags\":[],\"ingredient_candidate\":\"밥 1공기\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"[필수재료]\",\"quantity\":\"1/4\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"양파 1/4개\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"양송이버섯\",\"role\":\"food\",\"group\":\"[필수재료]\",\"quantity\":\"3\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"양송이버섯 3개\"],\"quality_flags\":[],\"ingredient_candidate\":\"양송이버섯\",\"alternatives\":[]},{\"raw_name\":\"다진 쪽파\",\"role\":\"food\",\"group\":\"[선택재료]\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"다진 쪽파 1T\",\"[선택재료] 다진 쪽파 1T\"],\"quality_flags\":[],\"ingredient_candidate\":\"다진 쪽파\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"[필수재료]\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"소금 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"[필수재료]\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"후추 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]},{\"raw_name\":\"올리브유\",\"role\":\"seasoning\",\"group\":\"[필수재료]\",\"quantity\":\"2\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"올리브유 2T\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리브유\",\"alternatives\":[]},{\"raw_name\":\"버터\",\"role\":\"seasoning\",\"group\":\"[소스재료]\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"버터 1T\"],\"quality_flags\":[],\"ingredient_candidate\":\"버터\",\"alternatives\":[]},{\"raw_name\":\"우유\",\"role\":\"seasoning\",\"group\":\"[소스재료]\",\"quantity\":\"1\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"우유 1컵\",\"우유, 파마산 치즈가루를 넣어 중불에 졸인다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"우유\",\"alternatives\":[]},{\"raw_name\":\"파마산치즈가루\",\"role\":\"seasoning\",\"group\":\"[소스재료]\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"파마산치즈가루 1T\",\"우유, 파마산 치즈가루를 넣어 중불에 졸인다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"파마산치즈가루\",\"alternatives\":[]},{\"raw_name\":\"피자치즈\",\"role\":\"seasoning\",\"group\":\"[소스재료]\",\"quantity\":\"1/2\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"피자치즈 1/2컵\",\"소스가 걸쭉해 지면 피자치즈를 넣어 치즈를 녹여 완성한다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"피자치즈\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544521,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 946,
+    "prompt_tokens": 3117,
+    "total_tokens": 4063,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

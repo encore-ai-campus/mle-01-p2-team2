@@ -1,0 +1,223 @@
+{
+  "recipe_uid": "10000recipe_6909785",
+  "payload": {
+    "title": "소세지야채볶음",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "비엔나소세지 18~20개",
+        "비엔나소세지",
+        "비엔나소세지",
+        "food",
+        "[재료]",
+        "18~20",
+        "개",
+        null,
+        null
+      ],
+      [
+        "양파 1/2개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "파프리카 1/2개",
+        "파프리카",
+        "파프리카",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "케첩 2스푼",
+        "케첩",
+        "케첩",
+        "seasoning",
+        "[양념재료]",
+        "2",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "고추장 1/2스푼",
+        "고추장",
+        "고추장",
+        "seasoning",
+        "[양념재료]",
+        "1/2",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "간장 1/2스푼",
+        "간장",
+        "간장",
+        "seasoning",
+        "[양념재료]",
+        "1/2",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "설탕 1스푼",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[양념재료]",
+        "1",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "올리고당 1스푼",
+        "올리고당",
+        "올리고당",
+        "seasoning",
+        "[양념재료]",
+        "1",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "굴소스 1스푼",
+        "굴소스",
+        "굴소스",
+        "seasoning",
+        "[양념재료]",
+        "1",
+        "스푼",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "비엔나소세지 18~20개",
+      "raw_name": "비엔나소세지",
+      "ingredient_candidate": "비엔나소세지",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "18~20",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1/2개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "파프리카 1/2개",
+      "raw_name": "파프리카",
+      "ingredient_candidate": "파프리카",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "케첩 2스푼",
+      "raw_name": "케첩",
+      "ingredient_candidate": "케첩",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "2",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추장 1/2스푼",
+      "raw_name": "고추장",
+      "ingredient_candidate": "고추장",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1/2",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 1/2스푼",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1/2",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 1스푼",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리고당 1스푼",
+      "raw_name": "올리고당",
+      "ingredient_candidate": "올리고당",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "굴소스 1스푼",
+      "raw_name": "굴소스",
+      "ingredient_candidate": "굴소스",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 7,
+  "sent_steps": 0,
+  "evidence_text": "소세지야채볶음\n비엔나소세지 18~20개\n양파 1/2개\n파프리카 1/2개\n케첩 2스푼\n고추장 1/2스푼\n간장 1/2스푼\n설탕 1스푼\n올리고당 1스푼\n굴소스 1스푼"
+}

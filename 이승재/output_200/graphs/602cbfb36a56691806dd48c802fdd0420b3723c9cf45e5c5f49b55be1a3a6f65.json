@@ -1,0 +1,1139 @@
+{
+  "recipe_uid": "10000recipe_6707909",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6707909",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6707909",
+          "title": "샌드위치 만들기",
+          "description": "샌드위치 만들기. 종이호일로 하는 포장법도 있어요.",
+          "servings": "3인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 362000,
+          "source_url": "https://www.10000recipe.com/recipe/6707909",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "샌드위치"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "빵",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 빵\", \"빵을 우선 기름없이 후라이팬에 노릇하게 구워주세요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "빵",
+          "name_normalized": "빵"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "치즈",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 치즈\", \"햄위에 치즈도 한장씩 올려주었어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "치즈",
+          "name_normalized": "치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "햄",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 햄\", \"그리고 햄을 올려주었는데 슬라이스햄은 얇으니 두개로.\", \"10장들은 햄이기에 이렇게 쓰면 남지 않고 딱 좋더라구요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "각종야채",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "본문에서는 치커리나 양상추, 양파, 토마토가 실제로 사용됨",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 각종야채\", \"그리고 치커리나 양상추등 올리고 양파를 올려주세요~\", \"양파위에 토마토를 2개씩 올려주었어요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "채소",
+          "name_normalized": "채소"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "얇게 채썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파\", \"양파는 얇게 채썰어서 물에 담궈 매운맛을 빼주구요~\", \"그리고 치커리나 양상추등 올리고 양파를 올려주세요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": null,
+          "quantity": "2개씩",
+          "unit": null,
+          "preparation": "잘라서 준비",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 토마토\", \"토마토는 잘라서 준비해주세요!\", \"양파위에 토마토를 2개씩 올려주었어요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란 삶은것",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "삶아서 흰자와 노른자를 분리하고, 노른자는 으깨고 흰자는 잘게 썬",
+          "detail": "마요네즈 한숟가락과 섞음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 계란 삶은것\", \"계란은 삶아서 흰자와 노른자를 분리하고, 노른자는 으깨고 흰자는 잘게 썰어주었어요!\", \"그리고 섞어서 마요네즈를 한숟가락만 넣고 비벼주어요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마요네즈",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "한숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"그리고 섞어서 마요네즈를 한숟가락만 넣고 비벼주어요~\", \"빵위에 마요네즈와 머스터드를 비닐팩에 넣오 이쑤시개로 살짝 뚫어주면 이렇게 나와요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마요네즈",
+          "name_normalized": "마요네즈"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "머스터드",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"빵위에 마요네즈와 머스터드를 비닐팩에 넣오 이쑤시개로 살짝 뚫어주면 이렇게 나와요.\", \"소스뿌린 빵위에 계란을 올려주어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "머스터드",
+          "name_normalized": "머스터드"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금후추",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "계란에 뿌려 간을 함",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"계란에 소금후추 뿌려서 간 살짝 해주구요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금후추",
+          "name_normalized": "소금후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6707909",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6707909:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6707909:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6707909:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6707909:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6707909:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6707909:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6707909:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6707909:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6707909:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6707909:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6707909:component:010:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6707909",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6707909",
+          "title": "샌드위치 만들기",
+          "description": "샌드위치 만들기. 종이호일로 하는 포장법도 있어요.",
+          "servings": "3인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 362000,
+          "source_url": "https://www.10000recipe.com/recipe/6707909",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+        "label": "Dish",
+        "properties": {
+          "name": "샌드위치"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "빵",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 빵\", \"빵을 우선 기름없이 후라이팬에 노릇하게 구워주세요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:04f2a20a3504065bd73f454dd22b3c8aa3d2bd2714897d40971c59e5893e06d3",
+        "label": "Ingredient",
+        "properties": {
+          "name": "빵",
+          "name_normalized": "빵"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "치즈",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 치즈\", \"햄위에 치즈도 한장씩 올려주었어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "치즈",
+          "name_normalized": "치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "햄",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 햄\", \"그리고 햄을 올려주었는데 슬라이스햄은 얇으니 두개로.\", \"10장들은 햄이기에 이렇게 쓰면 남지 않고 딱 좋더라구요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "각종야채",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "본문에서는 치커리나 양상추, 양파, 토마토가 실제로 사용됨",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 각종야채\", \"그리고 치커리나 양상추등 올리고 양파를 올려주세요~\", \"양파위에 토마토를 2개씩 올려주었어요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:a44250772c53d014e24daf8a544fbf128b1b565c945c90181b760703233e9ee5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "채소",
+          "name_normalized": "채소"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "얇게 채썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파\", \"양파는 얇게 채썰어서 물에 담궈 매운맛을 빼주구요~\", \"그리고 치커리나 양상추등 올리고 양파를 올려주세요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": null,
+          "quantity": "2개씩",
+          "unit": null,
+          "preparation": "잘라서 준비",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 토마토\", \"토마토는 잘라서 준비해주세요!\", \"양파위에 토마토를 2개씩 올려주었어요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란 삶은것",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "삶아서 흰자와 노른자를 분리하고, 노른자는 으깨고 흰자는 잘게 썬",
+          "detail": "마요네즈 한숟가락과 섞음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 계란 삶은것\", \"계란은 삶아서 흰자와 노른자를 분리하고, 노른자는 으깨고 흰자는 잘게 썰어주었어요!\", \"그리고 섞어서 마요네즈를 한숟가락만 넣고 비벼주어요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마요네즈",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "한숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"그리고 섞어서 마요네즈를 한숟가락만 넣고 비벼주어요~\", \"빵위에 마요네즈와 머스터드를 비닐팩에 넣오 이쑤시개로 살짝 뚫어주면 이렇게 나와요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마요네즈",
+          "name_normalized": "마요네즈"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "머스터드",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"빵위에 마요네즈와 머스터드를 비닐팩에 넣오 이쑤시개로 살짝 뚫어주면 이렇게 나와요.\", \"소스뿌린 빵위에 계란을 올려주어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:7b2c93e863ae16509d439c99b72c3fe17fcfeec85f6c787e8d89d9b558336255",
+        "label": "Ingredient",
+        "properties": {
+          "name": "머스터드",
+          "name_normalized": "머스터드"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금후추",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "계란에 뿌려 간을 함",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"계란에 소금후추 뿌려서 간 살짝 해주구요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:a3d789ba7a2c0f28ac4c3bd994d5cab66f0f7bc0fc7305a614e8f27a2843c4bf",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금후추",
+          "name_normalized": "소금후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6707909",
+        "type": "VARIANT_OF",
+        "target": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:04f2a20a3504065bd73f454dd22b3c8aa3d2bd2714897d40971c59e5893e06d3",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:a44250772c53d014e24daf8a544fbf128b1b565c945c90181b760703233e9ee5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:7b2c93e863ae16509d439c99b72c3fe17fcfeec85f6c787e8d89d9b558336255",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:a3d789ba7a2c0f28ac4c3bd994d5cab66f0f7bc0fc7305a614e8f27a2843c4bf",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "샌드위치",
+    "components": [
+      {
+        "raw_name": "빵",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 빵",
+          "빵을 우선 기름없이 후라이팬에 노릇하게 구워주세요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "빵",
+        "alternatives": []
+      },
+      {
+        "raw_name": "치즈",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 치즈",
+          "햄위에 치즈도 한장씩 올려주었어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "햄",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 햄",
+          "그리고 햄을 올려주었는데 슬라이스햄은 얇으니 두개로.",
+          "10장들은 햄이기에 이렇게 쓰면 남지 않고 딱 좋더라구요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "햄",
+        "alternatives": []
+      },
+      {
+        "raw_name": "각종야채",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "본문에서는 치커리나 양상추, 양파, 토마토가 실제로 사용됨",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 각종야채",
+          "그리고 치커리나 양상추등 올리고 양파를 올려주세요~",
+          "양파위에 토마토를 2개씩 올려주었어요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "채소",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "얇게 채썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파",
+          "양파는 얇게 채썰어서 물에 담궈 매운맛을 빼주구요~",
+          "그리고 치커리나 양상추등 올리고 양파를 올려주세요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "토마토",
+        "role": "food",
+        "group": null,
+        "quantity": "2개씩",
+        "unit": null,
+        "preparation": "잘라서 준비",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 토마토",
+          "토마토는 잘라서 준비해주세요!",
+          "양파위에 토마토를 2개씩 올려주었어요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란 삶은것",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "삶아서 흰자와 노른자를 분리하고, 노른자는 으깨고 흰자는 잘게 썬",
+        "detail": "마요네즈 한숟가락과 섞음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 계란 삶은것",
+          "계란은 삶아서 흰자와 노른자를 분리하고, 노른자는 으깨고 흰자는 잘게 썰어주었어요!",
+          "그리고 섞어서 마요네즈를 한숟가락만 넣고 비벼주어요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마요네즈",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "한숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "그리고 섞어서 마요네즈를 한숟가락만 넣고 비벼주어요~",
+          "빵위에 마요네즈와 머스터드를 비닐팩에 넣오 이쑤시개로 살짝 뚫어주면 이렇게 나와요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마요네즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "머스터드",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "빵위에 마요네즈와 머스터드를 비닐팩에 넣오 이쑤시개로 살짝 뚫어주면 이렇게 나와요.",
+          "소스뿌린 빵위에 계란을 올려주어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "머스터드",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금후추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "계란에 뿌려 간을 함",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "계란에 소금후추 뿌려서 간 살짝 해주구요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금후추",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "3c52d1445dbefc26f15224d16d92548619662636562923d7dfa75822973d5a33",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6707909:dish",
+      "canonical_id": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+      "original_name": "샌드위치",
+      "canonical_name": "샌드위치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:001:candidate:0",
+      "canonical_id": "ingredient:04f2a20a3504065bd73f454dd22b3c8aa3d2bd2714897d40971c59e5893e06d3",
+      "original_name": "빵",
+      "canonical_name": "빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:002:candidate:0",
+      "canonical_id": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+      "original_name": "치즈",
+      "canonical_name": "치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:003:candidate:0",
+      "canonical_id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+      "original_name": "햄",
+      "canonical_name": "햄",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:004:candidate:0",
+      "canonical_id": "ingredient:a44250772c53d014e24daf8a544fbf128b1b565c945c90181b760703233e9ee5",
+      "original_name": "채소",
+      "canonical_name": "채소",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:005:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:006:candidate:0",
+      "canonical_id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+      "original_name": "토마토",
+      "canonical_name": "토마토",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:007:candidate:0",
+      "canonical_id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+      "original_name": "계란",
+      "canonical_name": "계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:008:candidate:0",
+      "canonical_id": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+      "original_name": "마요네즈",
+      "canonical_name": "마요네즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:009:candidate:0",
+      "canonical_id": "ingredient:7b2c93e863ae16509d439c99b72c3fe17fcfeec85f6c787e8d89d9b558336255",
+      "original_name": "머스터드",
+      "canonical_name": "머스터드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:010:candidate:0",
+      "canonical_id": "ingredient:a3d789ba7a2c0f28ac4c3bd994d5cab66f0f7bc0fc7305a614e8f27a2843c4bf",
+      "original_name": "소금후추",
+      "canonical_name": "소금후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6707909",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "f98ddff62bc6bf7ef51f1cd8ef4e7c92615796fe53b1ab2fa76f1a4059747232"
+}

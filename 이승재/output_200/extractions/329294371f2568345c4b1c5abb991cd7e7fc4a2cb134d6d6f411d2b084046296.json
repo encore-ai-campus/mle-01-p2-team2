@@ -1,0 +1,209 @@
+{
+  "recipe_uid": "10000recipe_6829057",
+  "cache_key": "3aade93cd13f1b3161fb762a712d4495543261b35e99c9c2e23d2a7c1e81287a",
+  "model": "gpt-5.4-mini",
+  "input_hash": "e40691661a956767962ebb6e4fe336ff07e3cb5d43fca2a73cd13aa72493bb5e",
+  "source_record_hash": "287d0018ad749a5d1a357d8e2da463c136aa68979835865ffe1af42ce7568cc3",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "멸치주먹밥",
+    "components": [
+      {
+        "raw_name": "호박",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "채썰어서 다진",
+        "detail": "야채들",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 호박",
+          "야채들을 채썰어서 아이들이 먹기좋게 다져줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "호박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "채썰어서 다진",
+        "detail": "야채들",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 당근",
+          "야채들을 채썰어서 아이들이 먹기좋게 다져줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파",
+          "다진 양파는 넉넉하게 준비해서 올리브유 두르고 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "김가루",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 김가루",
+          "김가루를 넣어 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "다진",
+        "detail": "먹다 남은 멸치볶음",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 멸치",
+          "먹다 남은 멸치볶음은 칼로 조금 다져줍니다.",
+          "큰 볼에 밥 3공기를 넣고 볶아놓은 채소와 멸치를 넣어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밥",
+        "role": "food",
+        "group": null,
+        "quantity": "3",
+        "unit": "공기",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 밥",
+          "큰 볼에 밥 3공기를 넣고 볶아놓은 채소와 멸치를 넣어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밥",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브유",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "볶을때 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "올리브유 두르고 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "두꼬집정도",
+        "unit": null,
+        "preparation": null,
+        "detail": "볶을때 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금을 두꼬집정도 넣어 볶아줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름 2스푼과 통깨도 같이 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름 2스푼과 통깨도 같이 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 926,
+    "prompt_tokens": 2841,
+    "total_tokens": 3767,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

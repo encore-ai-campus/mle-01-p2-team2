@@ -1,0 +1,291 @@
+{
+  "recipe_uid": "10000recipe_6853029",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6853029",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6853029",
+          "title": "문어숙회 문어삶는법과 시간/ 손질법 알아보기",
+          "description": "생선장사 하는덕분에 요즘 해산물은 원없이 묵고댕기는 루비씨가 오늘은 퉁퉁하니 쫀득한 맛을 자랑하는 돌문어로 숙회를 해볼까 합니다. 문어는 타우린이 풍부해서 간의 독소도 빼주고 피로와 원기를 회복시키고 피를 맑게 해준께 많이들 드시와요 ㅎㅎ",
+          "servings": "4인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 117000,
+          "source_url": "https://www.10000recipe.com/recipe/6853029",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:6e3a4458c0b199c70971d7287dc888761b16807bc5ab317d9c0c3716424b1dbd",
+        "label": "Dish",
+        "properties": {
+          "name": "문어숙회"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "문어 한마리",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "800",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"문어 한마리 800g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:85144d38cd7ce5ac6695636fee3b19c767f543677df89c8b43b03575f9514330",
+        "label": "Ingredient",
+        "properties": {
+          "name": "문어 한마리",
+          "name_normalized": "문어 한마리"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술 1소주컵",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"맛술 1소주컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:c1b2d45d9ca2de09c14e476279ae3f435012a0c5e68470210951ee547d625609",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술 1소주컵",
+          "name_normalized": "맛술 1소주컵"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밀가루",
+          "role": "food",
+          "group": "[문어손질재료]",
+          "quantity": "1",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"밀가루 1컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밀가루",
+          "name_normalized": "밀가루"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굵은소금",
+          "role": "food",
+          "group": "[문어손질재료]",
+          "quantity": "1/3",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"굵은소금 1/3컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굵은소금",
+          "name_normalized": "굵은소금"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "된장",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"된장 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "된장",
+          "name_normalized": "된장"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6853029",
+        "type": "VARIANT_OF",
+        "target": "dish:6e3a4458c0b199c70971d7287dc888761b16807bc5ab317d9c0c3716424b1dbd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:85144d38cd7ce5ac6695636fee3b19c767f543677df89c8b43b03575f9514330",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:c1b2d45d9ca2de09c14e476279ae3f435012a0c5e68470210951ee547d625609",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6853029:dish",
+      "canonical_id": "dish:6e3a4458c0b199c70971d7287dc888761b16807bc5ab317d9c0c3716424b1dbd",
+      "original_name": "문어숙회",
+      "canonical_name": "문어숙회",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:001:candidate:0",
+      "canonical_id": "ingredient:85144d38cd7ce5ac6695636fee3b19c767f543677df89c8b43b03575f9514330",
+      "original_name": "문어 한마리",
+      "canonical_name": "문어 한마리",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:002:candidate:0",
+      "canonical_id": "ingredient:c1b2d45d9ca2de09c14e476279ae3f435012a0c5e68470210951ee547d625609",
+      "original_name": "맛술 1소주컵",
+      "canonical_name": "맛술 1소주컵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:003:candidate:0",
+      "canonical_id": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+      "original_name": "밀가루",
+      "canonical_name": "밀가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:004:candidate:0",
+      "canonical_id": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+      "original_name": "굵은소금",
+      "canonical_name": "굵은소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:005:candidate:0",
+      "canonical_id": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+      "original_name": "된장",
+      "canonical_name": "된장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 5,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 11,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

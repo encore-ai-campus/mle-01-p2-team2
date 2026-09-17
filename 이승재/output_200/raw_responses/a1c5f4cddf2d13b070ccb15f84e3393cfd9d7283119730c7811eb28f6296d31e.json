@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0VVM54zXzXUR46dtr083Tcqv3B",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"어묵볶음\",\"components\":[{\"raw_name\":\"어묵\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"3장\",\"unit\":null,\"preparation\":null,\"detail\":\"오뎅\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 어묵 3장\",\"오뎅과 양파를 적당한 크기로 잘라주세요.\",\"먼저 오뎅은 뜨거운물로 한번 씻어서 준비해주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"어묵\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/2개\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 양파 1/2개\",\"오뎅과 양파를 적당한 크기로 잘라주세요.\",\"오뎅과 양파를 적당한 크기로 잘라주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"올리브유\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":\"넉넉하게 두름\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 올리브유 적당량\",\"후라이팬에 올리브유 넉넉하게 두르고\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리브유\",\"alternatives\":[]},{\"raw_name\":\"간장\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"4숟가락\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 간장 4숟가락\",\"간장 4숟가락\"],\"quality_flags\":[],\"ingredient_candidate\":\"간장\",\"alternatives\":[]},{\"raw_name\":\"고추가루\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"3숟가락\",\"unit\":null,\"preparation\":null,\"detail\":\"고춧가루\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 고추가루 3숟가락\",\"고춧가루 3숟가락\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"올리고당\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"3숟가락\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 올리고당 3숟가락\",\"올리고당 두르고\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리고당\",\"alternatives\":[]},{\"raw_name\":\"청양고추\",\"role\":\"food\",\"group\":\"양념\",\"quantity\":\"1~2개\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 청양고추 1~2개\",\"매운거 좋아하는 분들은 청양고추 넣고 마무리 하면 됩니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양고추\",\"alternatives\":[]},{\"raw_name\":\"마늘\",\"role\":\"seasoning\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":\"살짝 볶은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"후라이팬에 올리브유 넉넉하게 두르고 마늘 살짝 볶고난뒤\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530835,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 811,
+    "prompt_tokens": 3098,
+    "total_tokens": 3909,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

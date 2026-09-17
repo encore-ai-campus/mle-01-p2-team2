@@ -1,0 +1,298 @@
+{
+  "recipe_uid": "10000recipe_6839363",
+  "payload": {
+    "title": "게살 텐신항:중국식?일본식? 어쨌든 초간단! 계란덮밥",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "밥 1공기",
+        "밥 1공기",
+        "밥 1공기",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "물 200ml",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "200",
+        "ml",
+        null,
+        null
+      ],
+      [
+        "스톡 이나 굴소스 1/3큰술",
+        "스톡 이나 굴소스",
+        "스톡 이나 굴소스",
+        "food",
+        "[재료]",
+        "1/3",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "전분 1큰술",
+        "전분",
+        "전분",
+        "food",
+        "[재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "계란 2개",
+        "계란",
+        "계란",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "크래미맛살 3~4개",
+        "크래미맛살",
+        "크래미맛살",
+        "food",
+        "[재료]",
+        "3~4",
+        "개",
+        null,
+        null
+      ],
+      [
+        "다진파 약간",
+        "다진파",
+        "파",
+        "food",
+        "[재료]",
+        "약간",
+        null,
+        "다진",
+        null
+      ],
+      [
+        "양조간장 1큰술",
+        "양조간장",
+        "양조간장",
+        "seasoning",
+        "[재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "맛술 1큰술",
+        "맛술",
+        "맛술",
+        "seasoning",
+        "[재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "식초 1큰술",
+        "식초",
+        "식초",
+        "seasoning",
+        "[재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "식용유 약간",
+        "식용유",
+        "식용유",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 1,
+        "text": "-냄비나 웍에 물200밀리,양조간장1큰술,야채스톡1/3큰술,전맛술1,분1큰술,설탕1큰술을넣고 거품이로 재료가 잘 섞이도록 저어준다 *야채스톡 대신 치킨스톡이나 굴소스,이도저도 없으면 국간장을 반숟갈 넣어주면 됩니다"
+      },
+      {
+        "step": 2,
+        "text": "-불을 켜고 소스를 끓이는데 중간중간 전분이 뭉치지 않도록 저어주어야 한다"
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "밥 1공기",
+      "raw_name": "밥 1공기",
+      "ingredient_candidate": "밥 1공기",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 200ml",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "200",
+      "unit": "ml",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "스톡 이나 굴소스 1/3큰술",
+      "raw_name": "스톡 이나 굴소스",
+      "ingredient_candidate": "스톡 이나 굴소스",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/3",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "전분 1큰술",
+      "raw_name": "전분",
+      "ingredient_candidate": "전분",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란 2개",
+      "raw_name": "계란",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "크래미맛살 3~4개",
+      "raw_name": "크래미맛살",
+      "ingredient_candidate": "크래미맛살",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3~4",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진파 약간",
+      "raw_name": "다진파",
+      "ingredient_candidate": "파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "양조간장 1큰술",
+      "raw_name": "양조간장",
+      "ingredient_candidate": "양조간장",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "맛술 1큰술",
+      "raw_name": "맛술",
+      "ingredient_candidate": "맛술",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "식초 1큰술",
+      "raw_name": "식초",
+      "ingredient_candidate": "식초",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "식용유 약간",
+      "raw_name": "식용유",
+      "ingredient_candidate": "식용유",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 9,
+  "sent_steps": 2,
+  "evidence_text": "게살 텐신항:중국식?일본식? 어쨌든 초간단! 계란덮밥\n밥 1공기\n물 200ml\n스톡 이나 굴소스 1/3큰술\n전분 1큰술\n계란 2개\n크래미맛살 3~4개\n다진파 약간\n양조간장 1큰술\n맛술 1큰술\n식초 1큰술\n소금 약간\n식용유 약간\n-냄비나 웍에 물200밀리,양조간장1큰술,야채스톡1/3큰술,전맛술1,분1큰술,설탕1큰술을넣고 거품이로 재료가 잘 섞이도록 저어준다 *야채스톡 대신 치킨스톡이나 굴소스,이도저도 없으면 국간장을 반숟갈 넣어주면 됩니다\n-불을 켜고 소스를 끓이는데 중간중간 전분이 뭉치지 않도록 저어주어야 한다"
+}

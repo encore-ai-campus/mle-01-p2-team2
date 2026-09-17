@@ -1,0 +1,154 @@
+{
+  "recipe_uid": "10000recipe_6839435",
+  "cache_key": "dd77c19da8e7a58f5751dda8e893cbd236d32cc5db458d136a88c6ecd6ee7850",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 586,
+    "prompt_tokens": 3098,
+    "total_tokens": 3684,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "볶음밥",
+    "components": [
+      {
+        "raw_name": "베이컨",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "3",
+        "unit": "장",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "베이컨 3장",
+          "베이컨을 적당히 잘게 썰어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "베이컨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "계란 2개",
+          "계란 스크램블을 만들어 따로 덜어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/5",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "당근 1/5개",
+          "당근은 잘게 다지듯 썰어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "대",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "대파 1대",
+          "대파는 얇게 송송송 썰고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밥 1공기",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "밥 1공기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밥 1공기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굴소스",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "굴소스 1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굴소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "간장 1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 3.094
+}

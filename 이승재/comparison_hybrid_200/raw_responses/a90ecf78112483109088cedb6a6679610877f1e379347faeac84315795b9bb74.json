@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeaOncHp6RQYiO3zZDkVuSw1gDrV",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"단무지 무침\",\"components\":[{\"raw_name\":\"단무지 1줄\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"재료:단무지1줄,쪽파2대\"],\"quality_flags\":[],\"ingredient_candidate\":\"단무지 1줄\",\"alternatives\":[]},{\"raw_name\":\"쪽파\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"대\",\"preparation\":null,\"detail\":null,\"is_required\":false,\"alternative_mode\":\"replacement\",\"evidence\":[\"재료:단무지1줄,쪽파2대\",\"만약에 쪽파가 없다면 대파로 대체 하셔도 되고~ 아니면 아예 패스 하셔도 상관 없어요~!\"],\"quality_flags\":[],\"ingredient_candidate\":\"쪽파\",\"alternatives\":[{\"raw_name\":\"대파\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":\"쪽파가 없다면\",\"evidence\":[\"만약에 쪽파가 없다면 대파로 대체 하셔도 되고~\"],\"ingredient_candidate\":\"대파\"}]},{\"raw_name\":\"다진마늘\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1/2\",\"unit\":\"스푼\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다진마늘1/2스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"통깨\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1/3\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"통깨1/3스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"통깨\",\"alternatives\":[]},{\"raw_name\":\"고추가루\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"고추가루1스푼\"],\"quality_flags\":[\"AMBIGUOUS_INGREDIENT\"],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"참기름1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544592,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 601,
+    "prompt_tokens": 3006,
+    "total_tokens": 3607,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1FunZzsbAhu1VuzdMIvjQpR1eU",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"깍두기 볶음밥\",\"components\":[{\"raw_name\":\"깍두기\",\"role\":\"food\",\"group\":null,\"quantity\":\"1컵\",\"unit\":\"컵\",\"preparation\":\"잘게 썰어둔\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 깍두기 1컵\",\"깍두기를 잘게 썰어주세요\",\"3분정도 볶은뒤 잘라둔 깍두기를 넣고 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"깍두기\",\"alternatives\":[{\"raw_name\":\"무김치\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"푹 익은 무김치로 만드는 맛있는 깍두기 볶음밥\"],\"ingredient_candidate\":\"무김치\"}]},{\"raw_name\":\"애호박\",\"role\":\"food\",\"group\":null,\"quantity\":\"1/2개\",\"unit\":\"개\",\"preparation\":\"잘게 썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 애호박 1/2개\",\"애호박을 잘게 썰어주세요\",\"식용유를 두른 후라이팬에 애호박과 파를 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"애호박\",\"alternatives\":[]},{\"raw_name\":\"밥\",\"role\":\"food\",\"group\":null,\"quantity\":\"2공기\",\"unit\":\"공기\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 밥 2공기\",\"밥을 넣고 재료가 잘 섞이도록 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"밥\",\"alternatives\":[]},{\"raw_name\":\"진간장\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1T\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 진간장 1T\",\"간장과 고추가루를 넣고 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"진간장\",\"alternatives\":[]},{\"raw_name\":\"고추가루\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1T\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 고추가루 1T\",\"간장과 고추가루를 넣고 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추가루\",\"alternatives\":[]},{\"raw_name\":\"계란\",\"role\":\"food\",\"group\":null,\"quantity\":\"2개\",\"unit\":\"개\",\"preparation\":\"후라이\",\"detail\":\"올려주면 완성\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 계란 2개\",\"계란후라이까지 올려주면 식감이 살아있는 깍두기 볶음밥 완성\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란\",\"alternatives\":[]},{\"raw_name\":\"파\",\"role\":\"food\",\"group\":null,\"quantity\":\"적당량\",\"unit\":null,\"preparation\":\"볶은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 파 적당량\",\"식용유를 두른 후라이팬에 애호박과 파를 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"파\",\"alternatives\":[]},{\"raw_name\":\"식용유\",\"role\":\"seasoning\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"두른 후라이팬에 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"식용유를 두른 후라이팬에 애호박과 파를 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"식용유\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530881,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 867,
+    "prompt_tokens": 2833,
+    "total_tokens": 3700,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

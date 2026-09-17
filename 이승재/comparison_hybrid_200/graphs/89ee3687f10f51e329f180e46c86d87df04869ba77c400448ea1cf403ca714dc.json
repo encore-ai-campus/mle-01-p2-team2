@@ -1,0 +1,338 @@
+{
+  "recipe_uid": "10000recipe_6865809",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6865809",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6865809",
+          "title": "초초초초초간단 주먹밥이 왔어요! 단무지주먹밥",
+          "description": "김밥 말고 남은 단무지.. 요렇게 처리해보세요! 초초초초간단 꿀맛 주먹밥이 요기잇넹? 세상의 모든 레시피 만개의레시피",
+          "servings": "1인분",
+          "cooking_time": "10분 이내",
+          "difficulty": "아무나",
+          "views": 113000,
+          "source_url": "https://www.10000recipe.com/recipe/6865809",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:baeb382fdf4958dcfe58a96639c69d5ad4475f00b9b79eb5f1b0131e36550a8c",
+        "label": "Dish",
+        "properties": {
+          "name": "주먹밥"
+        }
+      },
+      {
+        "id": "10000recipe_6865809:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밥 1공기",
+          "role": "food",
+          "group": "[필수재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"밥 1공기\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6865809:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:231653094546aa552934a83f2d9ff01a899bdc16e9a269ed9aeab39cf8d0311d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밥",
+          "name_normalized": "밥"
+        }
+      },
+      {
+        "id": "10000recipe_6865809:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "단무지",
+          "role": "food",
+          "group": "[필수재료]",
+          "quantity": "30",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"단무지 30g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6865809:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:28e25271ecbd61dfffcb688316b97ffe1e636d4316fe23800de66e91a6451d7d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "단무지",
+          "name_normalized": "단무지"
+        }
+      },
+      {
+        "id": "10000recipe_6865809:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "체다치즈",
+          "role": "food",
+          "group": "[필수재료]",
+          "quantity": "1",
+          "unit": "장",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"체다치즈 1장\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6865809:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:8a67d5c11103538226690327743a2e41f62a839528df38977f6f879d0fa9549b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "체다치즈",
+          "name_normalized": "체다치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6865809:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "조미김 1봉",
+          "role": "food",
+          "group": "[필수재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"조미김 1봉\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6865809:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:1a5067b5621e36efffc9a90c9211c22ea6cf98b2fa1eb2bee0fd91fc5c302dcc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "조미김 1봉",
+          "name_normalized": "조미김 1봉"
+        }
+      },
+      {
+        "id": "10000recipe_6865809:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "[양념재료]",
+          "quantity": "1",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 1T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6865809:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6865809:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참깨",
+          "role": "seasoning",
+          "group": "[양념재료]",
+          "quantity": "1",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"참깨 1T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6865809:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:b6c99b195130459825218f1b5e27248b5b27c42c1661923afbaa13489746bf66",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참깨",
+          "name_normalized": "참깨"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6865809",
+        "type": "VARIANT_OF",
+        "target": "dish:baeb382fdf4958dcfe58a96639c69d5ad4475f00b9b79eb5f1b0131e36550a8c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6865809:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:231653094546aa552934a83f2d9ff01a899bdc16e9a269ed9aeab39cf8d0311d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6865809:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:28e25271ecbd61dfffcb688316b97ffe1e636d4316fe23800de66e91a6451d7d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6865809:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:8a67d5c11103538226690327743a2e41f62a839528df38977f6f879d0fa9549b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6865809:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:1a5067b5621e36efffc9a90c9211c22ea6cf98b2fa1eb2bee0fd91fc5c302dcc",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6865809:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6865809:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6865809:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:b6c99b195130459825218f1b5e27248b5b27c42c1661923afbaa13489746bf66",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6865809:dish",
+      "canonical_id": "dish:baeb382fdf4958dcfe58a96639c69d5ad4475f00b9b79eb5f1b0131e36550a8c",
+      "original_name": "주먹밥",
+      "canonical_name": "주먹밥",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6865809:component:001:candidate:0",
+      "canonical_id": "ingredient:231653094546aa552934a83f2d9ff01a899bdc16e9a269ed9aeab39cf8d0311d",
+      "original_name": "밥",
+      "canonical_name": "밥",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6865809:component:002:candidate:0",
+      "canonical_id": "ingredient:28e25271ecbd61dfffcb688316b97ffe1e636d4316fe23800de66e91a6451d7d",
+      "original_name": "단무지",
+      "canonical_name": "단무지",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6865809:component:003:candidate:0",
+      "canonical_id": "ingredient:8a67d5c11103538226690327743a2e41f62a839528df38977f6f879d0fa9549b",
+      "original_name": "체다치즈",
+      "canonical_name": "체다치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6865809:component:004:candidate:0",
+      "canonical_id": "ingredient:1a5067b5621e36efffc9a90c9211c22ea6cf98b2fa1eb2bee0fd91fc5c302dcc",
+      "original_name": "조미김 1봉",
+      "canonical_name": "조미김 1봉",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6865809:component:005:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6865809:component:006:candidate:0",
+      "canonical_id": "ingredient:b6c99b195130459825218f1b5e27248b5b27c42c1661923afbaa13489746bf66",
+      "original_name": "참깨",
+      "canonical_name": "참깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 6,
+    "alternatives": 0,
+    "required_known": 4,
+    "dish": true,
+    "relations": 13,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

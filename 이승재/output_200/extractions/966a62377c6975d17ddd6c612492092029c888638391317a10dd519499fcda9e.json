@@ -1,0 +1,158 @@
+{
+  "recipe_uid": "10000recipe_7082922",
+  "cache_key": "8ca7973e6389f1d2ffc7459053e5c1dc175df518210518929dc0ff493cf3f848",
+  "model": "gpt-5.4-mini",
+  "input_hash": "d34b20b8f01ba04d799dff5647b1933d35208c0e9d3c7909ea882b24a81418c1",
+  "source_record_hash": "a53050baab3de9ca8c55cff7929418c0e6e95927441f8451094b926bcd8496f5",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "그라니따",
+    "components": [
+      {
+        "raw_name": "에스프레소",
+        "role": "seasoning",
+        "group": "커피베이스 재료",
+        "quantity": "4샷",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[커피베이스 재료] 에스프레소 4샷",
+          "넓은 그릇에 에스프레소 4샷을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "에스프레소",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "커피베이스 재료",
+        "quantity": "30g",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[커피베이스 재료] 설탕 30g",
+          "설탕 30g과 바닐라오일을 넣어줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "바닐라오일",
+        "role": "seasoning",
+        "group": "커피베이스 재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[커피베이스 재료] 바닐라오일 약간",
+          "설탕 30g과 바닐라오일을 넣어줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "바닐라오일",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "seasoning",
+        "group": "커피베이스 재료",
+        "quantity": "100ml",
+        "unit": "ml",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[커피베이스 재료] 물 100ml",
+          "물 100ml를 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "동물성 휘핑크림",
+        "role": "food",
+        "group": "크림베이스 재료",
+        "quantity": "40g",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[크림베이스 재료] 동물성 휘핑크림 40g",
+          "동물성 휘핑크림 40g과 설탕 2g을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "휘핑크림",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "크림베이스 재료",
+        "quantity": "2g",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[크림베이스 재료] 설탕 2g",
+          "동물성 휘핑크림 40g과 설탕 2g을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다크초콜릿",
+        "role": "food",
+        "group": "토핑",
+        "quantity": null,
+        "unit": null,
+        "preparation": "작게 다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토핑] 다크초콜릿",
+          "마지막으로 크림 위로 작게 다진 다크초콜릿을 뿌려주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다크초콜릿",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 747,
+    "prompt_tokens": 3027,
+    "total_tokens": 3774,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

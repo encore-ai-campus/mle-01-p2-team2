@@ -1,0 +1,232 @@
+{
+  "recipe_uid": "10000recipe_7080175",
+  "cache_key": "7959552d7efb9fdb65a969f99b80445c96ead4d72395f99036c515cf1ce10b30",
+  "model": "gpt-5.4-mini",
+  "input_hash": "c6cb30b80dfbdd4eb780f50b680673e12414f0b84505f1bc94acb10d177a0567",
+  "source_record_hash": "00a802b0024ced434011864c0077ae7e7f6652c80ef9c464608622cf96aa672c",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "감자수제비",
+    "components": [
+      {
+        "raw_name": "코인윳",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "4개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 코인윳 4개",
+          "동전육수로 육수 만든 후 준비한 재료 넣어요"
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "동전육수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "호박",
+        "role": "food",
+        "group": null,
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 호박 1/2개",
+          "호박 양파 감자 대파 다진마늘 준비해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "호박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": null,
+        "quantity": "1개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1개",
+          "호박 양파 감자 대파 다진마늘 준비해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "감자",
+        "role": "food",
+        "group": null,
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 감자 2개",
+          "호박 양파 감자 대파 다진마늘 준비해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "감자",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파",
+        "role": "food",
+        "group": null,
+        "quantity": "20cm",
+        "unit": "cm",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 파 20cm",
+          "호박 양파 감자 대파 다진마늘 준비해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1/2스푼",
+        "unit": "스푼",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 다진마늘 1/2스푼",
+          "호박 양파 감자 대파 다진마늘 준비해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 국간장 1스푼",
+          "기본간은 국간장과 참치액으로 했고 부족한 간은 소금, 후추로 마무리했어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참치액",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 참치액 2스푼",
+          "기본간은 국간장과 참치액으로 했고 부족한 간은 소금, 후추로 마무리했어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참치액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소금 약간",
+          "기본간은 국간장과 참치액으로 했고 부족한 간은 소금, 후추로 마무리했어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추 약간",
+          "기본간은 국간장과 참치액으로 했고 부족한 간은 소금, 후추로 마무리했어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "감자수제비 마트용",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "수제비 반죽/제품으로 보이는 항목",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 감자수제비 마트용",
+          "수제비 넣고 보글보글 끓여주면 완성!!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "감자수제비",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1110,
+    "prompt_tokens": 3000,
+    "total_tokens": 4110,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

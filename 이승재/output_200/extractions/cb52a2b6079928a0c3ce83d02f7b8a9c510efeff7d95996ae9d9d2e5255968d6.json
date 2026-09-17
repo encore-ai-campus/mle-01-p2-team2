@@ -1,0 +1,198 @@
+{
+  "recipe_uid": "10000recipe_7082432",
+  "cache_key": "be34ea9e44f007cf0e54f395ccc487665c755371824278d06eeca24cbee32932",
+  "model": "gpt-5.4-mini",
+  "input_hash": "8ee64bcb017712d71c4b1ebc8fa1acb686fc9ea9714997c76a6d606e8882adb9",
+  "source_record_hash": "5a534245c2c779d50550a959a381b85c9e22b178b35d33aa9ce233b44a1862b8",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "무화과타르트",
+    "components": [
+      {
+        "raw_name": "무화과",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3개",
+        "unit": "개",
+        "preparation": "길이로 1/8 등분",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "무화과 3개",
+          "무화과는 길이로 1/8 등분 하구요~",
+          "치즈크림 위로 무화과 슬라이스를 올려서 완성합니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무화과",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통밀쿠키",
+        "role": "food",
+        "group": "재료",
+        "quantity": "10개 120g",
+        "unit": "개",
+        "preparation": "고운 가루로 만들어",
+        "detail": "타르트지용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "통밀쿠키 10개 120g",
+          "통밀쿠키는 비닐봉지에 넣어 밀대를 이용해 두드리거나 밀어서 고운 가루로 만들어줍니다.",
+          "통밀가루를 타르트틀에 모두 부어 손으로 꼼꼼히 눌러줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통밀쿠키",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "food",
+        "group": "재료",
+        "quantity": "50g",
+        "unit": "g",
+        "preparation": "녹인",
+        "detail": "통밀쿠키가루와 섞어 타르트지에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "버터 50g",
+          "버터는 전자레인지를 이용해 녹이고 통밀쿠키가루와 함께 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "크림치즈",
+        "role": "food",
+        "group": "재료",
+        "quantity": "120g",
+        "unit": "g",
+        "preparation": "실온에 두어 말랑한",
+        "detail": "치즈크림용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "크림치즈 120g",
+          "실온에 두어 말랑한 크림치즈를 넣고 다시 한 번 휘핑한 후 짤주머니에 담습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "크림치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생크림",
+        "role": "food",
+        "group": "재료",
+        "quantity": "80g",
+        "unit": "g",
+        "preparation": "휘핑한",
+        "detail": "치즈크림용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "생크림 80g",
+          "분량의 생크림에 설탕 넣고 단단하게 휘핑해줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생크림",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "생크림에 넣어 휘핑",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "설탕 2큰술",
+          "분량의 생크림에 설탕 넣고 단단하게 휘핑해줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "시럽",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "올리고당과 물을 섞은 시럽",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "시럽 올리고당 1큰술+물 1큰술 2큰술",
+          "타르트 가운데 홈에 맞춰 원형의 식빵 올려주고 시럽을 듬뿍 발라줍니다."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_QUANTITY"
+        ],
+        "ingredient_candidate": "시럽",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식빵",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1장",
+        "unit": "장",
+        "preparation": "둥근 모양으로 잘라",
+        "detail": "타르트 가운데 바닥용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "식빵 1장",
+          "식빵은 둥근 그릇을 따라 칼집을 내준 후 동그란 모양을 내줍니다.",
+          "타르트 가운데 홈에 맞춰 원형의 식빵 올려주고 시럽을 듬뿍 발라줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식빵",
+        "alternatives": []
+      },
+      {
+        "raw_name": "초코펜",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": "개",
+        "preparation": null,
+        "detail": "장식용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "초코펜 1개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "초코펜",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1066,
+    "prompt_tokens": 3126,
+    "total_tokens": 4192,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

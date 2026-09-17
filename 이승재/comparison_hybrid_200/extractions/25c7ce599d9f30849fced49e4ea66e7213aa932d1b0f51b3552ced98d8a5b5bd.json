@@ -1,0 +1,184 @@
+{
+  "recipe_uid": "10000recipe_7082592",
+  "cache_key": "bdeba51fca1195150c4c08b39dd5c348fb64e2515eebfc40adaf1feae7cacecb",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 686,
+    "prompt_tokens": 2912,
+    "total_tokens": 3598,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "표고버섯솥밥",
+    "components": [
+      {
+        "raw_name": "표고버섯",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "표고버섯 100g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "표고버섯",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간마늘",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2/1",
+        "unit": "T",
+        "preparation": "간",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "간마늘 2/1T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2/1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "파 2/1T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "찬밥 1공기",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "찬밥 1공기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "찬밥 1공기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "20",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "버터 20g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "가루육수 1포",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "가루육수 1포"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "가루육수 1포",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쯔유",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1.5",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "쯔유 1.5T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쯔유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "20",
+        "unit": "ml",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 20ml"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "후추 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 3.125
+}

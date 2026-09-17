@@ -1,0 +1,223 @@
+{
+  "recipe_uid": "10000recipe_7081606",
+  "payload": {
+    "title": "팽이버섯 스크램블/다이어트 한 끼",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "팽이버섯 1봉지",
+        "팽이버섯",
+        "팽이버섯",
+        "food",
+        "[재료]",
+        "1",
+        "봉지",
+        null,
+        null
+      ],
+      [
+        "계란 2개",
+        "계란",
+        "계란",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "쪽파(선택) 약간",
+        "쪽파(선택)",
+        "쪽파(선택)",
+        "food",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "굴소스 선택 1/2t",
+        "굴소스 선택",
+        "굴소스 선택",
+        "food",
+        "[재료]",
+        "1/2",
+        "t",
+        null,
+        null
+      ],
+      [
+        "소금 1꼬집",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        "1",
+        "꼬집",
+        null,
+        null
+      ],
+      [
+        "깨소금 1/2T",
+        "깨소금",
+        "깨",
+        "seasoning",
+        "[재료]",
+        "1/2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "참기름 1/2T",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[재료]",
+        "1/2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "올리브유",
+        "올리브유",
+        "올리브유",
+        "seasoning",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "후추",
+        "후추",
+        "후추",
+        "seasoning",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "팽이버섯 1봉지",
+      "raw_name": "팽이버섯",
+      "ingredient_candidate": "팽이버섯",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "봉지",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란 2개",
+      "raw_name": "계란",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "쪽파(선택) 약간",
+      "raw_name": "쪽파(선택)",
+      "ingredient_candidate": "쪽파(선택)",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "굴소스 선택 1/2t",
+      "raw_name": "굴소스 선택",
+      "ingredient_candidate": "굴소스 선택",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "t",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 1꼬집",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "꼬집",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "깨소금 1/2T",
+      "raw_name": "깨소금",
+      "ingredient_candidate": "깨",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1/2T",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리브유",
+      "raw_name": "올리브유",
+      "ingredient_candidate": "올리브유",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 9,
+  "sent_steps": 0,
+  "evidence_text": "팽이버섯 스크램블/다이어트 한 끼\n팽이버섯 1봉지\n계란 2개\n쪽파(선택) 약간\n굴소스 선택 1/2t\n소금 1꼬집\n깨소금 1/2T\n참기름 1/2T\n올리브유\n후추"
+}

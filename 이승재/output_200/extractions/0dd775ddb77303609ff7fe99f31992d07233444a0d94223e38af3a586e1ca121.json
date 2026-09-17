@@ -1,0 +1,198 @@
+{
+  "recipe_uid": "10000recipe_7081522",
+  "cache_key": "f4f02db10e7a8c74ffa2cd6bd7345696775aa785f081765133c47d4a6e7feac3",
+  "model": "gpt-5.4-mini",
+  "input_hash": "9d76cf6656779faec54ce58f707dac7a9bbbba940526b6a29fed57b5415b30ca",
+  "source_record_hash": "1bfb579c5f93bba558293d144ba732156327a5c602c63f2f78583bf86eff7f12",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "순대국밥",
+    "components": [
+      {
+        "raw_name": "냉장순대",
+        "role": "food",
+        "group": "재료",
+        "quantity": "500g",
+        "unit": null,
+        "preparation": "냉장",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "냉장 순대와 사골육수만 있으면 누구나 쉽게 완성할 수 있는 순대국밥 만들기 레시피",
+          "[재료] 냉장순대 500g",
+          "냉장 순대 약 500g을 먹기 좋은 크기로 썰어 주세요.",
+          "썰어 놓은 순대를 모두 넣고 한소끔 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "순대",
+        "alternatives": []
+      },
+      {
+        "raw_name": "사골육수",
+        "role": "food",
+        "group": "재료",
+        "quantity": "500g",
+        "unit": null,
+        "preparation": "시판",
+        "detail": "이미 간이 되어 있음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "냉장 순대와 사골육수만 있으면 누구나 쉽게 완성할 수 있는 순대국밥 만들기 레시피",
+          "[재료] 사골육수 500g",
+          "냄비에 시판 사골육수 500g을 넣고 물 250ml를 추가해 주세요.",
+          "시판 사골육수는 이미 간이 되어있기 때문에 따로 간을 맞추지 않아도 됩니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "사골육수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "재료",
+        "quantity": "250ml",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 물 250ml",
+          "냄비에 시판 사골육수 500g을 넣고 물 250ml를 추가해 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1줌",
+        "unit": null,
+        "preparation": "어슷썰기 한",
+        "detail": "약 한 줌",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1줌",
+          "마지막으로 어슷썰기 한 대파 약 한 줌을 넣고 1분 정도만 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 마늘",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 다진 마늘 1T",
+          "센 불에서 끓이다가 국물이 보글보글 끓기 시작하면 다진 마늘 1T를 넣어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "다대기",
+        "quantity": "1.5T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[다대기] 고춧가루 1.5T",
+          "볼에 고춧가루 1.5T, 새우젓 0.5T, 양조간장 1T, 다진 마늘 0.5T를 넣고 잘 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "새우젓",
+        "role": "seasoning",
+        "group": "다대기",
+        "quantity": "0.5T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[다대기] 새우젓 0.5T",
+          "볼에 고춧가루 1.5T, 새우젓 0.5T, 양조간장 1T, 다진 마늘 0.5T를 넣고 잘 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "새우젓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양조간장",
+        "role": "seasoning",
+        "group": "다대기",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[다대기] 양조간장 1T",
+          "볼에 고춧가루 1.5T, 새우젓 0.5T, 양조간장 1T, 다진 마늘 0.5T를 넣고 잘 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 마늘",
+        "role": "seasoning",
+        "group": "다대기",
+        "quantity": "0.5T",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[다대기] 다진 마늘 0.5T",
+          "볼에 고춧가루 1.5T, 새우젓 0.5T, 양조간장 1T, 다진 마늘 0.5T를 넣고 잘 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1172,
+    "prompt_tokens": 3166,
+    "total_tokens": 4338,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

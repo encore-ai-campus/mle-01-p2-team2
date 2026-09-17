@@ -1,0 +1,192 @@
+{
+  "recipe_uid": "10000recipe_3997539",
+  "cache_key": "927f927299ac030551a7112f75c07cf97fb96235d4535e96a6c182e1af11fbe0",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 738,
+    "prompt_tokens": 2894,
+    "total_tokens": 3632,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "버섯볶음",
+    "components": [
+      {
+        "raw_name": "버섯(느타리버섯)",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "버섯(느타리버섯) 적당량"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버섯(느타리버섯)",
+        "alternatives": []
+      },
+      {
+        "raw_name": "냉장고속야채",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "냉장고속야채"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "냉장고속야채",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "마늘 1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굴소스",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "굴소스 1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굴소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "통깨"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "포도씨유 또는 참기름",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "포도씨유 또는 참기름"
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "포도씨유 또는 참기름",
+        "alternatives": [
+          {
+            "raw_name": "포도씨유",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "포도씨유 또는 참기름"
+            ],
+            "ingredient_candidate": "포도씨유"
+          },
+          {
+            "raw_name": "참기름",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "포도씨유 또는 참기름"
+            ],
+            "ingredient_candidate": "참기름"
+          }
+        ]
+      }
+    ]
+  },
+  "elapsed_seconds": 3.562
+}

@@ -1,0 +1,825 @@
+{
+  "recipe_uid": "10000recipe_6857961",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6857961",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6857961",
+          "title": "물만두달걀국 - 간단국으로 딱 좋은 메뉴",
+          "description": null,
+          "servings": "1인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 86000,
+          "source_url": "https://www.10000recipe.com/recipe/6857961",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "물만두달걀국"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물만두",
+          "role": "food",
+          "group": null,
+          "quantity": "10~15개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 물만두 10~15개\", \"물이 끓어 오르면 물만두를 넣어주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물만두",
+          "name_normalized": "물만두"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치다시마육수",
+          "role": "food",
+          "group": null,
+          "quantity": "4~5컵",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 멸치다시마육수 4~5컵\", \"멸치다시마육수를 만들어주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치다시마육수",
+          "name_normalized": "멸치다시마육수"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "달걀",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "풀어서",
+          "detail": "달걀물",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 달걀 1개\", \"달걀은 풀어서 준비합니다.\", \"달걀물을 냄비 가장자리부위로 둘러 주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀",
+          "name_normalized": "달걀"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "국간장",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 국간장 1\", \"국간장1을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "국간장",
+          "name_normalized": "국간장"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "송송 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파\", \"대파는 송송 썰어주고\", \"대파 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "부족한 간용",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소금\", \"부족한 간은 소금으로 해주심 되요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "톡톡",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 후추\", \"후추 톡톡\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6857961",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6857961:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6857961:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6857961:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6857961:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6857961:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6857961:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6857961:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6857961:component:007:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6857961",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6857961",
+          "title": "물만두달걀국 - 간단국으로 딱 좋은 메뉴",
+          "description": null,
+          "servings": "1인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 86000,
+          "source_url": "https://www.10000recipe.com/recipe/6857961",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:364fe15e66c2c7756642b16ba5dc155de5fc7f4a7bf666a4b094c231d473ea5d",
+        "label": "Dish",
+        "properties": {
+          "name": "물만두달걀국"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물만두",
+          "role": "food",
+          "group": null,
+          "quantity": "10~15개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 물만두 10~15개\", \"물이 끓어 오르면 물만두를 넣어주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:f2da84514399ca369e5a1a31e645d4c020e5d0ea954813ed3d8774169890483c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물만두",
+          "name_normalized": "물만두"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치다시마육수",
+          "role": "food",
+          "group": null,
+          "quantity": "4~5컵",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 멸치다시마육수 4~5컵\", \"멸치다시마육수를 만들어주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:d65a792392592951e4d649819fe81b2e90651c46d457369edc0373c4ab1d59c5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치다시마육수",
+          "name_normalized": "멸치다시마육수"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "달걀",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "풀어서",
+          "detail": "달걀물",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 달걀 1개\", \"달걀은 풀어서 준비합니다.\", \"달걀물을 냄비 가장자리부위로 둘러 주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀",
+          "name_normalized": "달걀"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "국간장",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 국간장 1\", \"국간장1을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "국간장",
+          "name_normalized": "국간장"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "송송 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파\", \"대파는 송송 썰어주고\", \"대파 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "부족한 간용",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소금\", \"부족한 간은 소금으로 해주심 되요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6857961:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "톡톡",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 후추\", \"후추 톡톡\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6857961:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6857961",
+        "type": "VARIANT_OF",
+        "target": "dish:364fe15e66c2c7756642b16ba5dc155de5fc7f4a7bf666a4b094c231d473ea5d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:f2da84514399ca369e5a1a31e645d4c020e5d0ea954813ed3d8774169890483c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:d65a792392592951e4d649819fe81b2e90651c46d457369edc0373c4ab1d59c5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6857961:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6857961:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "물만두달걀국",
+    "components": [
+      {
+        "raw_name": "물만두",
+        "role": "food",
+        "group": null,
+        "quantity": "10~15개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 물만두 10~15개",
+          "물이 끓어 오르면 물만두를 넣어주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물만두",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치다시마육수",
+        "role": "food",
+        "group": null,
+        "quantity": "4~5컵",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 멸치다시마육수 4~5컵",
+          "멸치다시마육수를 만들어주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치다시마육수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "달걀",
+        "role": "food",
+        "group": null,
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "풀어서",
+        "detail": "달걀물",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 달걀 1개",
+          "달걀은 풀어서 준비합니다.",
+          "달걀물을 냄비 가장자리부위로 둘러 주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "달걀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 국간장 1",
+          "국간장1을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "송송 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파",
+          "대파는 송송 썰어주고",
+          "대파 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "부족한 간용",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소금",
+          "부족한 간은 소금으로 해주심 되요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "톡톡",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추",
+          "후추 톡톡"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "7ac7524e39595f6370a28ce23cd06396f636ab9121854c2cd29d701850a7cade",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6857961:dish",
+      "canonical_id": "dish:364fe15e66c2c7756642b16ba5dc155de5fc7f4a7bf666a4b094c231d473ea5d",
+      "original_name": "물만두달걀국",
+      "canonical_name": "물만두달걀국",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6857961:component:001:candidate:0",
+      "canonical_id": "ingredient:f2da84514399ca369e5a1a31e645d4c020e5d0ea954813ed3d8774169890483c",
+      "original_name": "물만두",
+      "canonical_name": "물만두",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6857961:component:002:candidate:0",
+      "canonical_id": "ingredient:d65a792392592951e4d649819fe81b2e90651c46d457369edc0373c4ab1d59c5",
+      "original_name": "멸치다시마육수",
+      "canonical_name": "멸치다시마육수",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6857961:component:003:candidate:0",
+      "canonical_id": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+      "original_name": "달걀",
+      "canonical_name": "달걀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6857961:component:004:candidate:0",
+      "canonical_id": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+      "original_name": "국간장",
+      "canonical_name": "국간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6857961:component:005:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6857961:component:006:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6857961:component:007:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6857961",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "1587f8e5d31288f8f9a53ed66a119319b0ffdc5afbaefbfef5ce7de20258e90a"
+}

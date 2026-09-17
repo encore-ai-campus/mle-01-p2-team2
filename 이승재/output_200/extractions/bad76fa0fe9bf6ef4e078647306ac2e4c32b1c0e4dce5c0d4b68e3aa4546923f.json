@@ -1,0 +1,318 @@
+{
+  "recipe_uid": "10000recipe_7081002",
+  "cache_key": "8de30e66962a5e7b52ff1c090853442634fb61d38bc18a5a960daa7ef1abd134",
+  "model": "gpt-5.4-mini",
+  "input_hash": "b50aa2031afaa06a428270eb6acb5a24bbfdcd652ce8182a259a2206b7331ec9",
+  "source_record_hash": "c83498b72e8fc2220d39e8069f78955afa86dd5c9583f84e8633040efaeb165c",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "계란김밥",
+    "components": [
+      {
+        "raw_name": "김밥김",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 김밥김 3장",
+          "김밥김 반장을 더 올려 줬어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김밥김",
+        "alternatives": []
+      },
+      {
+        "raw_name": "단무지",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2줄",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 단무지 2줄"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "단무지",
+        "alternatives": []
+      },
+      {
+        "raw_name": "우엉",
+        "role": "food",
+        "group": "재료",
+        "quantity": "6줄",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 우엉 6줄"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "우엉",
+        "alternatives": []
+      },
+      {
+        "raw_name": "크래미",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2줄",
+        "unit": null,
+        "preparation": "반잘라",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 크래미 2줄",
+          "크레미는 반잘라 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "크래미",
+        "alternatives": []
+      },
+      {
+        "raw_name": "치즈",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 치즈 2장",
+          "치즈를 마지막에 살포시 재료를 덮어 마무리해줬어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "가늘게 채 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 당근 1개",
+          "당근을 가늘게 채 썰어 줘요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브오일",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "3큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 올리브오일 3큰술",
+          "팬에 올리브 오일 3큰술 두른뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브오일",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": "계란말이",
+        "quantity": "3개",
+        "unit": null,
+        "preparation": "잘 섞어 계란말이로 말아",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[계란말이] 게란 3개",
+          "계란 3개에 맛술 1큰술, 소금 1꼬집을 넣고 잘 섞어 준비해줘요.",
+          "당근을 볶은 팬에 남아 있는 당근 기름으로 계란을말아 준 뒤 반잘라 주면 계란도 준비 됐어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "계란말이",
+        "quantity": "1꼬집",
+        "unit": null,
+        "preparation": null,
+        "detail": "계란말이용 간",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[계란말이] 소금 1꼬집",
+          "계란 3개에 맛술 1큰술, 소금 1꼬집을 넣고 잘 섞어 준비해줘요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛술",
+        "role": "seasoning",
+        "group": "계란말이",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[계란말이] 맛술 1큰술",
+          "계란 3개에 맛술 1큰술, 소금 1꼬집을 넣고 잘 섞어 준비해줘요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛술",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밥",
+        "role": "food",
+        "group": "밥양념",
+        "quantity": "2/3공기",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥양념] 밥 2/3공기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밥",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "밥양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "밥양념용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥양념] 참기름 1큰술",
+          "밥에 참기름 1큰술, 통깨 1큰술, 소금 2꼬집을 넣고 섞어 밥양념을 해 줬어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "seasoning",
+        "group": "밥양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "밥양념용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥양념] 통깨 1큰술",
+          "밥에 참기름 1큰술, 통깨 1큰술, 소금 2꼬집을 넣고 섞어 밥양념을 해 줬어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "밥양념",
+        "quantity": "2꼬집",
+        "unit": null,
+        "preparation": null,
+        "detail": "밥양념용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥양념] 소금 2꼬집",
+          "밥에 참기름 1큰술, 통깨 1큰술, 소금 2꼬집을 넣고 섞어 밥양념을 해 줬어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "햄",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "살짝쿵 익혀",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "여기에 햄도 살짝쿵 익혀 준비해 줬어요."
+        ],
+        "quality_flags": [
+          "EVIDENCE_NOT_FOUND"
+        ],
+        "ingredient_candidate": "햄",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "마무리용 바름",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름 쓱~ 발라주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1627,
+    "prompt_tokens": 3145,
+    "total_tokens": 4772,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

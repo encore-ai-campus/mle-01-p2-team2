@@ -1,0 +1,135 @@
+{
+  "recipe_uid": "10000recipe_6896872",
+  "payload": {
+    "title": "달콤 쫄깃 졸라토스트 만들기ㅣ모짜렐라 치즈로 고르곤졸라 토스트",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "식빵 2장",
+        "식빵",
+        "식빵",
+        "food",
+        "[재료]",
+        "2",
+        "장",
+        null,
+        null
+      ],
+      [
+        "버터 3T",
+        "버터",
+        "버터",
+        "food",
+        "[재료]",
+        "3",
+        "T",
+        null,
+        null
+      ],
+      [
+        "다진 마늘 2T",
+        "다진 마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "2",
+        "T",
+        "다진",
+        null
+      ],
+      [
+        "모짜렐라 치즈 마음껏",
+        "모짜렐라 치즈 마음껏",
+        "모짜렐라 치즈 마음껏",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "꿀 3T",
+        "꿀",
+        "꿀",
+        "seasoning",
+        "[재료]",
+        "3",
+        "T",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "식빵 2장",
+      "raw_name": "식빵",
+      "ingredient_candidate": "식빵",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "버터 3T",
+      "raw_name": "버터",
+      "ingredient_candidate": "버터",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진 마늘 2T",
+      "raw_name": "다진 마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "모짜렐라 치즈 마음껏",
+      "raw_name": "모짜렐라 치즈 마음껏",
+      "ingredient_candidate": "모짜렐라 치즈 마음껏",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "꿀 3T",
+      "raw_name": "꿀",
+      "ingredient_candidate": "꿀",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 10,
+  "sent_steps": 0,
+  "evidence_text": "달콤 쫄깃 졸라토스트 만들기ㅣ모짜렐라 치즈로 고르곤졸라 토스트\n식빵 2장\n버터 3T\n다진 마늘 2T\n모짜렐라 치즈 마음껏\n꿀 3T"
+}

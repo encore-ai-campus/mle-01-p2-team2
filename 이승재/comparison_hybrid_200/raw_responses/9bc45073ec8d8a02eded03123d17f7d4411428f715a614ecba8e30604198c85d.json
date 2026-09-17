@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeaUIyskKWrnNogHtMccfrfaBCgn",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"문어숙회\",\"components\":[{\"raw_name\":\"문어 한마리\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"800\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"문어 한마리 800g\"],\"quality_flags\":[],\"ingredient_candidate\":\"문어 한마리\",\"alternatives\":[]},{\"raw_name\":\"맛술 1소주컵\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"맛술 1소주컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛술 1소주컵\",\"alternatives\":[]},{\"raw_name\":\"밀가루\",\"role\":\"food\",\"group\":\"[문어손질재료]\",\"quantity\":\"1\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"밀가루 1컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"밀가루\",\"alternatives\":[]},{\"raw_name\":\"굵은소금\",\"role\":\"food\",\"group\":\"[문어손질재료]\",\"quantity\":\"1/3\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"굵은소금 1/3컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"굵은소금\",\"alternatives\":[]},{\"raw_name\":\"된장\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"된장 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"된장\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544598,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 409,
+    "prompt_tokens": 2810,
+    "total_tokens": 3219,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

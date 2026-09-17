@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0PR1bFL7Aj10VQzKaDrfKod00E",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"오뎅탕\",\"components\":[{\"raw_name\":\"오뎅\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"20개\",\"unit\":null,\"preparation\":\"사각오뎅을 접어 앞, 뒤, 앞뒤 지그재그로 접어준 다음 오뎅꼬지에 넣어줌\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 오뎅 20개\",\"사각오뎅을 접어\",\"앞, 뒤, 앞뒤 지그재그로 접어준 다음 오뎅꼬지에 넣어줍니다\",\"오뎅을 넣고 한소끔 끓이다가 소금으로 간을 해줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"오뎅\",\"alternatives\":[]},{\"raw_name\":\"멸치\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"12마리\",\"unit\":\"마리\",\"preparation\":null,\"detail\":\"육수용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 멸치 12마리\",\"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\",\"모든 재료를 다넣고 끓여줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"멸치\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"큰거 1뿌리\",\"unit\":\"뿌리\",\"preparation\":null,\"detail\":\"육수용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 대파 큰거 1뿌리\",\"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\",\"모든 재료를 다넣고 끓여줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"무우\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"4토막\",\"unit\":\"토막\",\"preparation\":null,\"detail\":\"육수용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 무우 4토막\",\"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\",\"모든 재료를 다넣고 끓여줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"무우\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1개\",\"unit\":\"개\",\"preparation\":null,\"detail\":\"육수용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 양파 1개\",\"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\",\"모든 재료를 다넣고 끓여줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"표고버섯\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"3개\",\"unit\":\"개\",\"preparation\":null,\"detail\":\"육수용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 표고버섯 3개\",\"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\",\"모든 재료를 다넣고 끓여줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"표고버섯\",\"alternatives\":[]},{\"raw_name\":\"새우\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"5마리\",\"unit\":\"마리\",\"preparation\":null,\"detail\":\"육수용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 새우 5마리\"],\"quality_flags\":[],\"ingredient_candidate\":\"새우\",\"alternatives\":[]},{\"raw_name\":\"다시다\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"1장\",\"unit\":\"장\",\"preparation\":null,\"detail\":\"육수용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 다시다 1장\",\"끓기 시작하면 다시다만 건져줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"다시다\",\"alternatives\":[]},{\"raw_name\":\"굵은소금\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 굵은소금\",\"굵은 소금을 1숟가락 넣어주세요\",\"소금으로 간을 해줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"굵은소금\",\"alternatives\":[]},{\"raw_name\":\"집간장\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 집간장\",\"집간장과 쇠고기 다시다 한숟가락 넣어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"집간장\",\"alternatives\":[]},{\"raw_name\":\"쇠고기다시다\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"선택\",\"is_required\":false,\"alternative_mode\":\"either_or\",\"evidence\":[\"[양념] 쇠고기다시다 선택\",\"집간장과 쇠고기 다시다 한숟가락 넣어줍니다.\",\"다시다는 안넣어도 육수가 맛나지만 넣으면 파는 오뎅국물맛이랑 같아요 ^^\"],\"quality_flags\":[],\"ingredient_candidate\":\"쇠고기다시다\",\"alternatives\":[{\"raw_name\":\"집간장\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"집간장과 쇠고기 다시다 한숟가락 넣어줍니다.\"],\"ingredient_candidate\":\"집간장\"}]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530829,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1363,
+    "prompt_tokens": 3025,
+    "total_tokens": 4388,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

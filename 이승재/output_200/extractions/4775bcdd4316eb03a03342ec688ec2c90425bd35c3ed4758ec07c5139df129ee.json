@@ -1,0 +1,319 @@
+{
+  "recipe_uid": "10000recipe_6850809",
+  "cache_key": "812ca40844000fb941fb09b969993d35560cb5622a94355d7b008f8fae6a1618",
+  "model": "gpt-5.4-mini",
+  "input_hash": "c4b48b3714252b0bd1ea44f4d5968d180a4b15c47ca7ac308f2c1d81c612eac5",
+  "source_record_hash": "958bfc769c39e8d2df98fbdda515d621d4adf5b203604b0cc2fda53a51eb8821",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "경양식 돈까스",
+    "components": [
+      {
+        "raw_name": "식용유",
+        "role": "food",
+        "group": "돈까스 재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돈까스 재료] 식용유"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식용유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "돼지등심",
+        "role": "food",
+        "group": "돈까스 재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "고기망치로 두드려 넓게 편 뒤 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돈까스 재료] 돼지등심",
+          "등심을 적당한 크기로 잘라주세요.",
+          "고기망치로 두드려 넓게 펴주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돼지등심",
+        "alternatives": []
+      },
+      {
+        "raw_name": "튀김가루",
+        "role": "food",
+        "group": "돈까스 재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "달걀물, 빵가루와 함께 튀김옷에 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돈까스 재료] 튀김가루",
+          "튀김가루, 달걀물, 빵가루 순서로 튀김옷을 입혀주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "튀김가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "빵가루",
+        "role": "food",
+        "group": "돈까스 재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "달걀물, 튀김가루와 함께 튀김옷에 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돈까스 재료] 빵가루",
+          "튀김가루, 달걀물, 빵가루 순서로 튀김옷을 입혀주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "빵가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "돈까스 재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "밑간에 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돈까스 재료] 소금",
+          "소금, 후추로 밑간을 해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "돈까스 재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "밑간에 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돈까스 재료] 후추",
+          "소금, 후추로 밑간을 해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양배추",
+        "role": "food",
+        "group": "돈까스 재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": "가늘게 채썰어 찬 물에 담군",
+        "detail": "곁들임용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돈까스 재료] 양배추",
+          "양배추는 가늘게 채썰어 찬 물에 담궈주세요.",
+          "그릇에 양배추와 돈까스, 밥을 올려주면 완성!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양배추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밀가루",
+        "role": "food",
+        "group": "소스 재료",
+        "quantity": "1",
+        "unit": null,
+        "preparation": null,
+        "detail": "버터와 1:1 비율로 루를 만듦",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 밀가루",
+          "팬에 버터를 녹이고 밀가루를 섞어 루를 만들어주세요. (비율은 1:1이에요.)"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밀가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "food",
+        "group": "소스 재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "밀가루와 1:1 비율로 루를 만듦",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 버터",
+          "팬에 버터를 녹이고 밀가루를 섞어 루를 만들어주세요. (비율은 1:1이에요.)"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": "소스 재료",
+        "quantity": "0.5",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스 비율에 포함",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 식초",
+          "간장 1 식초 0.5 설탕 2 케챱 1 물 3 비율로 소스를 준비해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "소스 재료",
+        "quantity": "1",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스 비율에 포함",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 간장",
+          "간장 1 식초 0.5 설탕 2 케챱 1 물 3 비율로 소스를 준비해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "소스 재료",
+        "quantity": "2",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스 비율에 포함",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 설탕",
+          "간장 1 식초 0.5 설탕 2 케챱 1 물 3 비율로 소스를 준비해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "케챱",
+        "role": "seasoning",
+        "group": "소스 재료",
+        "quantity": "1",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스 비율에 포함",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 케챱",
+          "간장 1 식초 0.5 설탕 2 케챱 1 물 3 비율로 소스를 준비해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "케챱",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "소스 재료",
+        "quantity": "3",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스 비율에 포함",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 물",
+          "간장 1 식초 0.5 설탕 2 케챱 1 물 3 비율로 소스를 준비해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "달걀물",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "튀김옷에 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "튀김가루, 달걀물, 빵가루 순서로 튀김옷을 입혀주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "달걀물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밥",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "완성 시 곁들임",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "그릇에 양배추와 돈까스, 밥을 올려주면 완성!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밥",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1748,
+    "prompt_tokens": 3044,
+    "total_tokens": 4792,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "recipe_uid": "10000recipe_6844401",
+  "payload": {
+    "title": "백종원 돼지갈비찜",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "돼지갈비 찜용 4근",
+        "돼지갈비 찜용 4근",
+        "돼지갈비 찜용 4근",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "무",
+        "무",
+        "무",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "당근",
+        "당근",
+        "당근",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "대파",
+        "대파",
+        "대파",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "양파",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "진간장 2컵",
+        "진간장",
+        "진간장",
+        "seasoning",
+        "[갈비양념 만능소스]",
+        "2",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "설탕 1컵",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[갈비양념 만능소스]",
+        "1",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "맛술 1컵",
+        "맛술",
+        "맛술",
+        "seasoning",
+        "[갈비양념 만능소스]",
+        "1",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "물 2컵",
+        "물",
+        "물",
+        "seasoning",
+        "[갈비양념 만능소스]",
+        "2",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "다진마늘 1/2컵",
+        "다진마늘",
+        "마늘",
+        "seasoning",
+        "[갈비양념 만능소스]",
+        "1/2",
+        "컵",
+        "다진",
+        null
+      ],
+      [
+        "참기름 1/4컵",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[갈비양념 만능소스]",
+        "1/4",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "대파 1컵",
+        "대파",
+        "대파",
+        "seasoning",
+        "[갈비양념 만능소스]",
+        "1",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "다진생강 1/2스푼",
+        "다진생강",
+        "생강",
+        "seasoning",
+        "[갈비양념 만능소스]",
+        "1/2",
+        "스푼",
+        "다진",
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "돼지갈비 찜용 4근",
+      "raw_name": "돼지갈비 찜용 4근",
+      "ingredient_candidate": "돼지갈비 찜용 4근",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "무",
+      "raw_name": "무",
+      "ingredient_candidate": "무",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "당근",
+      "raw_name": "당근",
+      "ingredient_candidate": "당근",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파",
+      "raw_name": "대파",
+      "ingredient_candidate": "대파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "진간장 2컵",
+      "raw_name": "진간장",
+      "ingredient_candidate": "진간장",
+      "role": "seasoning",
+      "group": "[갈비양념 만능소스]",
+      "quantity": "2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 1컵",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[갈비양념 만능소스]",
+      "quantity": "1",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "맛술 1컵",
+      "raw_name": "맛술",
+      "ingredient_candidate": "맛술",
+      "role": "seasoning",
+      "group": "[갈비양념 만능소스]",
+      "quantity": "1",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 2컵",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "seasoning",
+      "group": "[갈비양념 만능소스]",
+      "quantity": "2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1/2컵",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[갈비양념 만능소스]",
+      "quantity": "1/2",
+      "unit": "컵",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "참기름 1/4컵",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[갈비양념 만능소스]",
+      "quantity": "1/4",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 1컵",
+      "raw_name": "대파",
+      "ingredient_candidate": "대파",
+      "role": "seasoning",
+      "group": "[갈비양념 만능소스]",
+      "quantity": "1",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진생강 1/2스푼",
+      "raw_name": "다진생강",
+      "ingredient_candidate": "생강",
+      "role": "seasoning",
+      "group": "[갈비양념 만능소스]",
+      "quantity": "1/2",
+      "unit": "스푼",
+      "preparation": "다진",
+      "detail": null
+    }
+  ],
+  "original_steps": 11,
+  "sent_steps": 0,
+  "evidence_text": "백종원 돼지갈비찜\n돼지갈비 찜용 4근\n무\n당근\n대파\n양파\n진간장 2컵\n설탕 1컵\n맛술 1컵\n물 2컵\n다진마늘 1/2컵\n참기름 1/4컵\n대파 1컵\n다진생강 1/2스푼"
+}

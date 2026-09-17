@@ -1,0 +1,291 @@
+{
+  "recipe_uid": "10000recipe_7082959",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082959",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082959",
+          "title": "꽃게무침 만드는법 양념 레시피 꽃게 요리 손질법",
+          "description": "꽃게가 맛있는 계절에는 탕으로도 끓여 먹지만 저는 매콤달콤하게 양념해서 먹는 꽃게무침도 참 좋아해요. 간장게장처럼 오래 숙성해서 먹는 방식이 아니라 싱싱한 꽃게를 손질한 뒤 매콤한 양념에 버무려 먹는 메뉴인데요. 살이 꽉 찬 꽃게에 양념이 착 달라붙어 한입 먹고 나면 밥부터 찾게 되는 맛이에요.",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 20,
+          "source_url": "https://www.10000recipe.com/recipe/7082959",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:649c4ce964e7b8fc026c0b44c81816116e6a593453b3ccd8b75722647e1a5e3b",
+        "label": "Dish",
+        "properties": {
+          "name": "꽃게무침"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꽃게",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "500",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"꽃게 500g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:b13a1fb25d7af2333b525bd1e0e001fcbb03333737bb33e47352f431742a3d1d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꽃게",
+          "name_normalized": "꽃게"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1/2",
+          "unit": "대",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"대파 1/2대\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"청양고추 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨 양념장숟가락 기준",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"통깨 양념장숟가락 기준 적당량\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:48258a43ee8b50f7a2e65fd88dbc94c5e01a004151f1f06611e73792474f89e8",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨 양념장숟가락 기준",
+          "name_normalized": "통깨 양념장숟가락 기준"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082959",
+        "type": "VARIANT_OF",
+        "target": "dish:649c4ce964e7b8fc026c0b44c81816116e6a593453b3ccd8b75722647e1a5e3b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:b13a1fb25d7af2333b525bd1e0e001fcbb03333737bb33e47352f431742a3d1d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:48258a43ee8b50f7a2e65fd88dbc94c5e01a004151f1f06611e73792474f89e8",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7082959:dish",
+      "canonical_id": "dish:649c4ce964e7b8fc026c0b44c81816116e6a593453b3ccd8b75722647e1a5e3b",
+      "original_name": "꽃게무침",
+      "canonical_name": "꽃게무침",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:001:candidate:0",
+      "canonical_id": "ingredient:b13a1fb25d7af2333b525bd1e0e001fcbb03333737bb33e47352f431742a3d1d",
+      "original_name": "꽃게",
+      "canonical_name": "꽃게",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:002:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:003:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:004:candidate:0",
+      "canonical_id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+      "original_name": "청양고추",
+      "canonical_name": "청양고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:005:candidate:0",
+      "canonical_id": "ingredient:48258a43ee8b50f7a2e65fd88dbc94c5e01a004151f1f06611e73792474f89e8",
+      "original_name": "통깨 양념장숟가락 기준",
+      "canonical_name": "통깨 양념장숟가락 기준",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 5,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 11,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

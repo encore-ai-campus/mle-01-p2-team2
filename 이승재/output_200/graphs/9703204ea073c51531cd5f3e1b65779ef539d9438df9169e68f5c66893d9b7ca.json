@@ -1,0 +1,687 @@
+{
+  "recipe_uid": "10000recipe_6095288",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6095288",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6095288",
+          "title": "단호박죽 만드는 법",
+          "description": "든든하고 맛 좋은 단호박죽",
+          "servings": null,
+          "cooking_time": null,
+          "difficulty": "초급",
+          "views": 110000,
+          "source_url": "https://www.10000recipe.com/recipe/6095288",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "단호박죽"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "단호박",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": "껍질을 벗겨내고, 절반으로 썰어 씨를 제거한 뒤 2~3등분 정도 내준 후 쪄서 으깨거나 믹서에 갈아 사용함",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 단호박 1개\", \"단호박죽을 끓이기 전 껍질을 벗겨내야하는데요..\", \"이렇게 껍질을 벗겨낸 단호박은.. 절반으로 썰어 주세요.\", \"그리고 노란 단호박의 속을 채우고 있는 씨를 숟가락을 이용해 제거해 줍니다.\", \"그리고 다시 2~3등분 정도 내준 후 짐기에 넣고 한 김 쪄 주세요.\", \"쪄 낸 단호박은 체에 받쳐 충분히 으깨 주거나 혹은 믹서에 넣고 곱게 갈아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6095288:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "단호박",
+          "name_normalized": "단호박"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1.5ml",
+          "unit": null,
+          "preparation": null,
+          "detail": "단호박과 함께 끓임",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 물 1.5ml\", \"여기에 1.5L의 물과 2컵의 우유를 넣은 후 한소끔 끓여 주세요.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_QUANTITY"
+          ],
+          "component_uid": "10000recipe_6095288:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "우유",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2컵",
+          "unit": null,
+          "preparation": null,
+          "detail": "단호박과 함께 끓임",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 우유 2컵\", \"여기에 1.5L의 물과 2컵의 우유를 넣은 후 한소끔 끓여 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6095288:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "우유",
+          "name_normalized": "우유"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀물",
+          "role": "food",
+          "group": "재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": "찹쌀가루와 물을 1:1로 섞은 것",
+          "detail": "끓이는 도중 넣어 농도를 맞춤",
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 찹쌀물\", \"여기에 준비한 찹쌀물을 넣어 국자로 휘리릭~ 저어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6095288:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀물",
+          "name_normalized": "찹쌀물"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:004:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밀가루",
+          "name_normalized": "밀가루"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "간을 맞춤",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 소금 약간\", \"이 때 소금간을 조금 하시면 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6095288:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6095288",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6095288:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6095288:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6095288:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6095288:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6095288:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6095288:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6095288:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6095288:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6095288:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:004",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_6095288:component:004:candidate:1",
+        "properties": {
+          "raw_name": "밀가루물",
+          "quantity": null,
+          "unit": null,
+          "preparation": "물과 섞은 것",
+          "condition": "찹쌀가루가 없다면",
+          "evidence": "[\"찹쌀가루가 없다면 밀가루도 괜찮아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6095288",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6095288:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6095288:component:005:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6095288",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6095288",
+          "title": "단호박죽 만드는 법",
+          "description": "든든하고 맛 좋은 단호박죽",
+          "servings": null,
+          "cooking_time": null,
+          "difficulty": "초급",
+          "views": 110000,
+          "source_url": "https://www.10000recipe.com/recipe/6095288",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:fbd0066020b8e8b30e6fbc42bc254fa7c88d57b255e0a9ac16336072042e0ece",
+        "label": "Dish",
+        "properties": {
+          "name": "단호박죽"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "단호박",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": "껍질을 벗겨내고, 절반으로 썰어 씨를 제거한 뒤 2~3등분 정도 내준 후 쪄서 으깨거나 믹서에 갈아 사용함",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 단호박 1개\", \"단호박죽을 끓이기 전 껍질을 벗겨내야하는데요..\", \"이렇게 껍질을 벗겨낸 단호박은.. 절반으로 썰어 주세요.\", \"그리고 노란 단호박의 속을 채우고 있는 씨를 숟가락을 이용해 제거해 줍니다.\", \"그리고 다시 2~3등분 정도 내준 후 짐기에 넣고 한 김 쪄 주세요.\", \"쪄 낸 단호박은 체에 받쳐 충분히 으깨 주거나 혹은 믹서에 넣고 곱게 갈아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6095288:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:74cd374e71bed5d7ef01161c998ba28ca994abb2732f54c2dbd1283ba5e41625",
+        "label": "Ingredient",
+        "properties": {
+          "name": "단호박",
+          "name_normalized": "단호박"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1.5ml",
+          "unit": null,
+          "preparation": null,
+          "detail": "단호박과 함께 끓임",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 물 1.5ml\", \"여기에 1.5L의 물과 2컵의 우유를 넣은 후 한소끔 끓여 주세요.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_QUANTITY"
+          ],
+          "component_uid": "10000recipe_6095288:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "우유",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2컵",
+          "unit": null,
+          "preparation": null,
+          "detail": "단호박과 함께 끓임",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 우유 2컵\", \"여기에 1.5L의 물과 2컵의 우유를 넣은 후 한소끔 끓여 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6095288:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "우유",
+          "name_normalized": "우유"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀물",
+          "role": "food",
+          "group": "재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": "찹쌀가루와 물을 1:1로 섞은 것",
+          "detail": "끓이는 도중 넣어 농도를 맞춤",
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 찹쌀물\", \"여기에 준비한 찹쌀물을 넣어 국자로 휘리릭~ 저어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6095288:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:26b930dce1107bbbd77abfbf37816268f5d625967a0e9d63bde49f11c4a0ed37",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀물",
+          "name_normalized": "찹쌀물"
+        }
+      },
+      {
+        "id": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밀가루",
+          "name_normalized": "밀가루"
+        }
+      },
+      {
+        "id": "10000recipe_6095288:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "간을 맞춤",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 소금 약간\", \"이 때 소금간을 조금 하시면 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6095288:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6095288",
+        "type": "VARIANT_OF",
+        "target": "dish:fbd0066020b8e8b30e6fbc42bc254fa7c88d57b255e0a9ac16336072042e0ece",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6095288:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:74cd374e71bed5d7ef01161c998ba28ca994abb2732f54c2dbd1283ba5e41625",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6095288:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6095288:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6095288:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:26b930dce1107bbbd77abfbf37816268f5d625967a0e9d63bde49f11c4a0ed37",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:004",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+        "properties": {
+          "raw_name": "밀가루물",
+          "quantity": null,
+          "unit": null,
+          "preparation": "물과 섞은 것",
+          "condition": "찹쌀가루가 없다면",
+          "evidence": "[\"찹쌀가루가 없다면 밀가루도 괜찮아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6095288",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6095288:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6095288:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "단호박죽",
+    "components": [
+      {
+        "raw_name": "단호박",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": "껍질을 벗겨내고, 절반으로 썰어 씨를 제거한 뒤 2~3등분 정도 내준 후 쪄서 으깨거나 믹서에 갈아 사용함",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 단호박 1개",
+          "단호박죽을 끓이기 전 껍질을 벗겨내야하는데요..",
+          "이렇게 껍질을 벗겨낸 단호박은.. 절반으로 썰어 주세요.",
+          "그리고 노란 단호박의 속을 채우고 있는 씨를 숟가락을 이용해 제거해 줍니다.",
+          "그리고 다시 2~3등분 정도 내준 후 짐기에 넣고 한 김 쪄 주세요.",
+          "쪄 낸 단호박은 체에 받쳐 충분히 으깨 주거나 혹은 믹서에 넣고 곱게 갈아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "단호박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1.5ml",
+        "unit": null,
+        "preparation": null,
+        "detail": "단호박과 함께 끓임",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 물 1.5ml",
+          "여기에 1.5L의 물과 2컵의 우유를 넣은 후 한소끔 끓여 주세요."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_QUANTITY"
+        ],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "우유",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2컵",
+        "unit": null,
+        "preparation": null,
+        "detail": "단호박과 함께 끓임",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 우유 2컵",
+          "여기에 1.5L의 물과 2컵의 우유를 넣은 후 한소끔 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "우유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "찹쌀물",
+        "role": "food",
+        "group": "재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": "찹쌀가루와 물을 1:1로 섞은 것",
+        "detail": "끓이는 도중 넣어 농도를 맞춤",
+        "is_required": true,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "[재료] 찹쌀물",
+          "여기에 준비한 찹쌀물을 넣어 국자로 휘리릭~ 저어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "찹쌀물",
+        "alternatives": [
+          {
+            "raw_name": "밀가루물",
+            "quantity": null,
+            "unit": null,
+            "preparation": "물과 섞은 것",
+            "condition": "찹쌀가루가 없다면",
+            "evidence": [
+              "찹쌀가루가 없다면 밀가루도 괜찮아요."
+            ],
+            "ingredient_candidate": "밀가루"
+          }
+        ]
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": "간을 맞춤",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 소금 약간",
+          "이 때 소금간을 조금 하시면 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "0c41bc61bd50dea21da031d3a749de83e7187cba1994efac15ac1e1b1878550f",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6095288:dish",
+      "canonical_id": "dish:fbd0066020b8e8b30e6fbc42bc254fa7c88d57b255e0a9ac16336072042e0ece",
+      "original_name": "단호박죽",
+      "canonical_name": "단호박죽",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6095288:component:001:candidate:0",
+      "canonical_id": "ingredient:74cd374e71bed5d7ef01161c998ba28ca994abb2732f54c2dbd1283ba5e41625",
+      "original_name": "단호박",
+      "canonical_name": "단호박",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6095288:component:002:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6095288:component:003:candidate:0",
+      "canonical_id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+      "original_name": "우유",
+      "canonical_name": "우유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6095288:component:004:candidate:0",
+      "canonical_id": "ingredient:26b930dce1107bbbd77abfbf37816268f5d625967a0e9d63bde49f11c4a0ed37",
+      "original_name": "찹쌀물",
+      "canonical_name": "찹쌀물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6095288:component:004:candidate:1",
+      "canonical_id": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+      "original_name": "밀가루",
+      "canonical_name": "밀가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6095288:component:005:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6095288",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "2560ee1a16e5dceb5ab2c0292bb0ca0981564e83b88bac8bd242c5b717802b4d"
+}

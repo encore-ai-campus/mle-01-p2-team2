@@ -1,0 +1,267 @@
+{
+  "recipe_uid": "10000recipe_6913491",
+  "payload": {
+    "title": "간단한데 맛은 기가막힌 백종원 비빔국수 황금레시피",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "소면 1인분",
+        "소면",
+        "소면",
+        "food",
+        "[재료]",
+        "1",
+        "인분",
+        null,
+        null
+      ],
+      [
+        "오이 1/2개",
+        "오이",
+        "오이",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "신김치 1줌",
+        "신김치",
+        "신김치",
+        "food",
+        "[재료]",
+        "1",
+        "줌",
+        null,
+        null
+      ],
+      [
+        "삶은달걀 1/2개",
+        "삶은달걀",
+        "삶은달걀",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "고추장 1T",
+        "고추장",
+        "고추장",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "고추가루 1/2T",
+        "고추가루",
+        "고춧가루",
+        "seasoning",
+        "[양념]",
+        "1/2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "설탕 1T",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "간장 1T",
+        "간장",
+        "간장",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "식초 1T",
+        "식초",
+        "식초",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "참기름 1T",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "깨 1T",
+        "깨",
+        "깨",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "소면 1인분",
+      "raw_name": "소면",
+      "ingredient_candidate": "소면",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "인분",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "오이 1/2개",
+      "raw_name": "오이",
+      "ingredient_candidate": "오이",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "신김치 1줌",
+      "raw_name": "신김치",
+      "ingredient_candidate": "신김치",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "줌",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "삶은달걀 1/2개",
+      "raw_name": "삶은달걀",
+      "ingredient_candidate": "삶은달걀",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추장 1T",
+      "raw_name": "고추장",
+      "ingredient_candidate": "고추장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추가루 1/2T",
+      "raw_name": "고추가루",
+      "ingredient_candidate": "고춧가루",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1/2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 1T",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 1T",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "식초 1T",
+      "raw_name": "식초",
+      "ingredient_candidate": "식초",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1T",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "깨 1T",
+      "raw_name": "깨",
+      "ingredient_candidate": "깨",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "간단한데 맛은 기가막힌 백종원 비빔국수 황금레시피\n소면 1인분\n오이 1/2개\n신김치 1줌\n삶은달걀 1/2개\n고추장 1T\n고추가루 1/2T\n설탕 1T\n간장 1T\n식초 1T\n참기름 1T\n깨 1T"
+}

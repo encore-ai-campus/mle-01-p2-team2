@@ -1,0 +1,410 @@
+{
+  "recipe_uid": "10000recipe_6863364",
+  "payload": {
+    "title": "돼지등갈비찜> 갈비찜요리 잡내없는 간장등갈비찜 만들기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "돼지등갈비 1kg",
+        "돼지등갈비",
+        "돼지등갈비",
+        "food",
+        "[재료]",
+        "1",
+        "kg",
+        null,
+        null
+      ],
+      [
+        "감자 중간사이즈 1개",
+        "감자 중간사이즈",
+        "감자 중간사이즈",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "무 80g",
+        "무",
+        "무",
+        "food",
+        "[재료]",
+        "80",
+        "g",
+        null,
+        null
+      ],
+      [
+        "당근 50g",
+        "당근",
+        "당근",
+        "food",
+        "[재료]",
+        "50",
+        "g",
+        null,
+        null
+      ],
+      [
+        "통마늘 6개",
+        "통마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "6",
+        "개",
+        "통",
+        null
+      ],
+      [
+        "돼지등갈비 잠길정도의 물",
+        "돼지등갈비 잠길정도의 물",
+        "돼지등갈비 잠길정도의 물",
+        "food",
+        "[등갈비 1차 삶기(5분)]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "통생강 1/2개",
+        "통생강",
+        "통생강",
+        "food",
+        "[등갈비 1차 삶기(5분)]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "계피 10g",
+        "계피",
+        "계피",
+        "food",
+        "[등갈비 1차 삶기(5분)]",
+        "10",
+        "g",
+        null,
+        null
+      ],
+      [
+        "육수 등갈비 삶은물 3컵",
+        "육수 등갈비 삶은물",
+        "육수 등갈비 삶은물",
+        "seasoning",
+        "[양념]",
+        "3",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "진간장 6큰술",
+        "진간장",
+        "진간장",
+        "seasoning",
+        "[양념]",
+        "6",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "설탕 조절 2큰술",
+        "설탕 조절",
+        "설탕 조절",
+        "seasoning",
+        "[양념]",
+        "2",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "물엿 1큰술",
+        "물엿",
+        "물엿",
+        "seasoning",
+        "[양념]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "매실청 1큰술",
+        "매실청",
+        "매실청",
+        "seasoning",
+        "[양념]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "다진마늘 1큰술",
+        "다진마늘",
+        "마늘",
+        "seasoning",
+        "[양념]",
+        "1",
+        "큰술",
+        "다진",
+        null
+      ],
+      [
+        "청주 2큰술",
+        "청주",
+        "청주",
+        "seasoning",
+        "[양념]",
+        "2",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "참기름 1큰술",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념]",
+        "1",
+        "큰술",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 6,
+        "text": "# 돼지등갈비찜 양념 만들기 고기 데칠때 그때 준비해 놓았어요 분량의 재료 다 넣고 잘 저어 주세요"
+      },
+      {
+        "step": 7,
+        "text": "냄비에 삶아낸 등갈비 넣고 건고추 한개 썰어서 넣었어요 없으면 패스~ 육수 (등갈비삶은물) 3컵 그리고 만들어 놓은 양념 넣어 주세요"
+      },
+      {
+        "step": 8,
+        "text": "끓어 오르기 시작하면 불을 줄이고 은근한 불에서 20분 정도 찜해 주세요 잠시 뚜껑을 닫아 두고"
+      },
+      {
+        "step": 9,
+        "text": "#돼지등갈비찜에 들어갈 야채 준비하기 집에 딱히 넣을만한 재료가 이것밖에 없어서 저는 이렇게 넣었는데요 안 넣으셔도 되구요 고구마 밤 대추등 다른 재료들을 넣으셔도 좋아요 재료를 3-4등분하고 끝에 둥글리기를 해서 부서지는걸 방지 했어요"
+      },
+      {
+        "step": 10,
+        "text": "20분 찜하니 먹음직 스럽게 익어 가네요"
+      },
+      {
+        "step": 11,
+        "text": "손질한 채소와 마지막 확실한 잡내를 잡기 위해 소주 2큰술 넣어 주고"
+      },
+      {
+        "step": 12,
+        "text": "약간의 매콤함을 넣어 주면 더 맛이 좋을꺼 같아서 청양고춧가루 1작은술 첨가 했어요 이건 안 넣으셔도 됩니다 아이들이 먹을때는 생략하시고 어른들이 드실거면 고춧가루 약간 첨가해 주세요 더 맛있어요"
+      },
+      {
+        "step": 13,
+        "text": "은근한 불에서 10분 졸였어요 뚜껑을 열어 보니 거의 다 졸여 졌네요 중간 중간 저어 주었구요 거의 국물없이 졸였답니다"
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "돼지등갈비 1kg",
+      "raw_name": "돼지등갈비",
+      "ingredient_candidate": "돼지등갈비",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "kg",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "감자 중간사이즈 1개",
+      "raw_name": "감자 중간사이즈",
+      "ingredient_candidate": "감자 중간사이즈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "무 80g",
+      "raw_name": "무",
+      "ingredient_candidate": "무",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "80",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "당근 50g",
+      "raw_name": "당근",
+      "ingredient_candidate": "당근",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "50",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "통마늘 6개",
+      "raw_name": "통마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "6",
+      "unit": "개",
+      "preparation": "통",
+      "detail": null
+    },
+    {
+      "raw": "돼지등갈비 잠길정도의 물",
+      "raw_name": "돼지등갈비 잠길정도의 물",
+      "ingredient_candidate": "돼지등갈비 잠길정도의 물",
+      "role": "food",
+      "group": "[등갈비 1차 삶기(5분)]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "통생강 1/2개",
+      "raw_name": "통생강",
+      "ingredient_candidate": "통생강",
+      "role": "food",
+      "group": "[등갈비 1차 삶기(5분)]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계피 10g",
+      "raw_name": "계피",
+      "ingredient_candidate": "계피",
+      "role": "food",
+      "group": "[등갈비 1차 삶기(5분)]",
+      "quantity": "10",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "육수 등갈비 삶은물 3컵",
+      "raw_name": "육수 등갈비 삶은물",
+      "ingredient_candidate": "육수 등갈비 삶은물",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "3",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "진간장 6큰술",
+      "raw_name": "진간장",
+      "ingredient_candidate": "진간장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "6",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 조절 2큰술",
+      "raw_name": "설탕 조절",
+      "ingredient_candidate": "설탕 조절",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물엿 1큰술",
+      "raw_name": "물엿",
+      "ingredient_candidate": "물엿",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "매실청 1큰술",
+      "raw_name": "매실청",
+      "ingredient_candidate": "매실청",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1큰술",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "청주 2큰술",
+      "raw_name": "청주",
+      "ingredient_candidate": "청주",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1큰술",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 14,
+  "sent_steps": 8,
+  "evidence_text": "돼지등갈비찜> 갈비찜요리 잡내없는 간장등갈비찜 만들기\n돼지등갈비 1kg\n감자 중간사이즈 1개\n무 80g\n당근 50g\n통마늘 6개\n돼지등갈비 잠길정도의 물\n통생강 1/2개\n계피 10g\n육수 등갈비 삶은물 3컵\n진간장 6큰술\n설탕 조절 2큰술\n물엿 1큰술\n매실청 1큰술\n다진마늘 1큰술\n청주 2큰술\n참기름 1큰술\n# 돼지등갈비찜 양념 만들기 고기 데칠때 그때 준비해 놓았어요 분량의 재료 다 넣고 잘 저어 주세요\n냄비에 삶아낸 등갈비 넣고 건고추 한개 썰어서 넣었어요 없으면 패스~ 육수 (등갈비삶은물) 3컵 그리고 만들어 놓은 양념 넣어 주세요\n끓어 오르기 시작하면 불을 줄이고 은근한 불에서 20분 정도 찜해 주세요 잠시 뚜껑을 닫아 두고\n#돼지등갈비찜에 들어갈 야채 준비하기 집에 딱히 넣을만한 재료가 이것밖에 없어서 저는 이렇게 넣었는데요 안 넣으셔도 되구요 고구마 밤 대추등 다른 재료들을 넣으셔도 좋아요 재료를 3-4등분하고 끝에 둥글리기를 해서 부서지는걸 방지 했어요\n20분 찜하니 먹음직 스럽게 익어 가네요\n손질한 채소와 마지막 확실한 잡내를 잡기 위해 소주 2큰술 넣어 주고\n약간의 매콤함을 넣어 주면 더 맛이 좋을꺼 같아서 청양고춧가루 1작은술 첨가 했어요 이건 안 넣으셔도 됩니다 아이들이 먹을때는 생략하시고 어른들이 드실거면 고춧가루 약간 첨가해 주세요 더 맛있어요\n은근한 불에서 10분 졸였어요 뚜껑을 열어 보니 거의 다 졸여 졌네요 중간 중간 저어 주었구요 거의 국물없이 졸였답니다"
+}

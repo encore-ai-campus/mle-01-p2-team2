@@ -1,0 +1,443 @@
+{
+  "recipe_uid": "10000recipe_6953652",
+  "payload": {
+    "title": "바삭하고 촉촉한 유린기 만들기(유린기 소스 만드는법)",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "닭다리살 200g",
+        "닭다리살",
+        "닭다리살",
+        "food",
+        "[닭재료]",
+        "200",
+        "g",
+        null,
+        null
+      ],
+      [
+        "튀김가루 1/2컵",
+        "튀김가루",
+        "튀김가루",
+        "food",
+        "[닭재료]",
+        "1/2",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "감자전분 1/2컵",
+        "감자전분",
+        "감자전분",
+        "food",
+        "[닭재료]",
+        "1/2",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "물 1/2컵",
+        "물",
+        "물",
+        "food",
+        "[닭재료]",
+        "1/2",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "기름 튀김용",
+        "기름 튀김용",
+        "기름 튀김용",
+        "food",
+        "[닭재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "양상추 1/4통",
+        "양상추",
+        "양상추",
+        "food",
+        "[닭재료]",
+        "1/4",
+        "통",
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[닭재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[닭재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "청주 약간",
+        "청주",
+        "청주",
+        "seasoning",
+        "[닭재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "설탕 3Ts",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[소스]",
+        "3",
+        "Ts",
+        null,
+        null
+      ],
+      [
+        "간장 2Ts",
+        "간장",
+        "간장",
+        "seasoning",
+        "[소스]",
+        "2",
+        "Ts",
+        null,
+        null
+      ],
+      [
+        "식초 2.5Ts",
+        "식초",
+        "식초",
+        "seasoning",
+        "[소스]",
+        "2.5",
+        "Ts",
+        null,
+        null
+      ],
+      [
+        "굴소스 0.5Ts",
+        "굴소스",
+        "굴소스",
+        "seasoning",
+        "[소스]",
+        "0.5",
+        "Ts",
+        null,
+        null
+      ],
+      [
+        "물 100ml",
+        "물",
+        "물",
+        "seasoning",
+        "[소스]",
+        "100",
+        "ml",
+        null,
+        null
+      ],
+      [
+        "베트남고추 5개",
+        "베트남고추",
+        "베트남고추",
+        "seasoning",
+        "[소스]",
+        "5",
+        "개",
+        null,
+        null
+      ],
+      [
+        "마늘 1톨",
+        "마늘",
+        "마늘",
+        "seasoning",
+        "[소스]",
+        "1",
+        "톨",
+        null,
+        null
+      ],
+      [
+        "청양고추 1개",
+        "청양고추",
+        "청양고추",
+        "seasoning",
+        "[소스]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "홍고추 1개",
+        "홍고추",
+        "홍고추",
+        "seasoning",
+        "[소스]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "대파 1/2뿌리",
+        "대파",
+        "대파",
+        "seasoning",
+        "[소스]",
+        "1/2",
+        "뿌리",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "닭다리살 200g",
+      "raw_name": "닭다리살",
+      "ingredient_candidate": "닭다리살",
+      "role": "food",
+      "group": "[닭재료]",
+      "quantity": "200",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "튀김가루 1/2컵",
+      "raw_name": "튀김가루",
+      "ingredient_candidate": "튀김가루",
+      "role": "food",
+      "group": "[닭재료]",
+      "quantity": "1/2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "감자전분 1/2컵",
+      "raw_name": "감자전분",
+      "ingredient_candidate": "감자전분",
+      "role": "food",
+      "group": "[닭재료]",
+      "quantity": "1/2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 1/2컵",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[닭재료]",
+      "quantity": "1/2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "기름 튀김용",
+      "raw_name": "기름 튀김용",
+      "ingredient_candidate": "기름 튀김용",
+      "role": "food",
+      "group": "[닭재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양상추 1/4통",
+      "raw_name": "양상추",
+      "ingredient_candidate": "양상추",
+      "role": "food",
+      "group": "[닭재료]",
+      "quantity": "1/4",
+      "unit": "통",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[닭재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[닭재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "청주 약간",
+      "raw_name": "청주",
+      "ingredient_candidate": "청주",
+      "role": "seasoning",
+      "group": "[닭재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 3Ts",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "3",
+      "unit": "Ts",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 2Ts",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "2",
+      "unit": "Ts",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "식초 2.5Ts",
+      "raw_name": "식초",
+      "ingredient_candidate": "식초",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "2.5",
+      "unit": "Ts",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "굴소스 0.5Ts",
+      "raw_name": "굴소스",
+      "ingredient_candidate": "굴소스",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "0.5",
+      "unit": "Ts",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 100ml",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "100",
+      "unit": "ml",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "베트남고추 5개",
+      "raw_name": "베트남고추",
+      "ingredient_candidate": "베트남고추",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "5",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마늘 1톨",
+      "raw_name": "마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "1",
+      "unit": "톨",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "청양고추 1개",
+      "raw_name": "청양고추",
+      "ingredient_candidate": "청양고추",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "홍고추 1개",
+      "raw_name": "홍고추",
+      "ingredient_candidate": "홍고추",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 1/2뿌리",
+      "raw_name": "대파",
+      "ingredient_candidate": "대파",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "1/2",
+      "unit": "뿌리",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 14,
+  "sent_steps": 0,
+  "evidence_text": "바삭하고 촉촉한 유린기 만들기(유린기 소스 만드는법)\n닭다리살 200g\n튀김가루 1/2컵\n감자전분 1/2컵\n물 1/2컵\n기름 튀김용\n양상추 1/4통\n소금 약간\n후추 약간\n청주 약간\n설탕 3Ts\n간장 2Ts\n식초 2.5Ts\n굴소스 0.5Ts\n물 100ml\n베트남고추 5개\n마늘 1톨\n청양고추 1개\n홍고추 1개\n대파 1/2뿌리"
+}

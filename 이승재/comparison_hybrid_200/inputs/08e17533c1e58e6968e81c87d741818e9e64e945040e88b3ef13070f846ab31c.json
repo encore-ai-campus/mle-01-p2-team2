@@ -1,0 +1,157 @@
+{
+  "recipe_uid": "10000recipe_7081096",
+  "payload": {
+    "title": "집에서 쉽게고추장만들기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "조청 5kg",
+        "조청",
+        "조청",
+        "food",
+        "[재료]",
+        "5",
+        "kg",
+        null,
+        null
+      ],
+      [
+        "고추장메주가루 1kg",
+        "고추장메주가루",
+        "고추장메주가루",
+        "food",
+        "[재료]",
+        "1",
+        "kg",
+        null,
+        null
+      ],
+      [
+        "굵은소금 800g",
+        "굵은소금",
+        "굵은소금",
+        "food",
+        "[재료]",
+        "800",
+        "g",
+        null,
+        null
+      ],
+      [
+        "물 3500ml",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "3500",
+        "ml",
+        null,
+        null
+      ],
+      [
+        "소주 1000ml",
+        "소주",
+        "소주",
+        "food",
+        "[재료]",
+        "1000",
+        "ml",
+        null,
+        null
+      ],
+      [
+        "고춧가루 2kg",
+        "고춧가루",
+        "고춧가루",
+        "seasoning",
+        "[재료]",
+        "2",
+        "kg",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "조청 5kg",
+      "raw_name": "조청",
+      "ingredient_candidate": "조청",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "5",
+      "unit": "kg",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추장메주가루 1kg",
+      "raw_name": "고추장메주가루",
+      "ingredient_candidate": "고추장메주가루",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "kg",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "굵은소금 800g",
+      "raw_name": "굵은소금",
+      "ingredient_candidate": "굵은소금",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "800",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 3500ml",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3500",
+      "unit": "ml",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소주 1000ml",
+      "raw_name": "소주",
+      "ingredient_candidate": "소주",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1000",
+      "unit": "ml",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고춧가루 2kg",
+      "raw_name": "고춧가루",
+      "ingredient_candidate": "고춧가루",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "kg",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 4,
+  "sent_steps": 0,
+  "evidence_text": "집에서 쉽게고추장만들기\n조청 5kg\n고추장메주가루 1kg\n굵은소금 800g\n물 3500ml\n소주 1000ml\n고춧가루 2kg"
+}

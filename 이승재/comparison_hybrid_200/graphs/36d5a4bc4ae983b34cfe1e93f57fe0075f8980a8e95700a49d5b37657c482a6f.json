@@ -1,0 +1,659 @@
+{
+  "recipe_uid": "10000recipe_6844401",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6844401",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6844401",
+          "title": "백종원 돼지갈비찜",
+          "description": "백종원 돼지갈비찜 만능소스 레시피 짱이에요. 2-3번정도 해먹은것 같은데 역시나 최고최고 너무 맛있더라구요.",
+          "servings": "6인분 이상",
+          "cooking_time": "2시간 이상",
+          "difficulty": "중급",
+          "views": 142000,
+          "source_url": "https://www.10000recipe.com/recipe/6844401",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:ee6f7aa5d0e0557150585d0e8e52c2a3c7aa2c78b3e8d08e476a39bf6d96e424",
+        "label": "Dish",
+        "properties": {
+          "name": "돼지갈비찜"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "돼지갈비 찜용 4근",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"돼지갈비 찜용 4근\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:33640dcd00cafa81b3627502b6c8ef8697672fde501a13ae29a70cf54dc899e8",
+        "label": "Ingredient",
+        "properties": {
+          "name": "돼지갈비 찜용 4근",
+          "name_normalized": "돼지갈비 찜용 4근"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"무\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"당근\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"대파\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양파\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "진간장",
+          "role": "seasoning",
+          "group": "[갈비양념 만능소스]",
+          "quantity": "2",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"진간장 2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+        "label": "Ingredient",
+        "properties": {
+          "name": "진간장",
+          "name_normalized": "진간장"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "[갈비양념 만능소스]",
+          "quantity": "1",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"설탕 1컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "[갈비양념 만능소스]",
+          "quantity": "1",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"맛술 1컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "seasoning",
+          "group": "[갈비양념 만능소스]",
+          "quantity": "2",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"물 2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "[갈비양념 만능소스]",
+          "quantity": "1/2",
+          "unit": "컵",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다진마늘 1/2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "[갈비양념 만능소스]",
+          "quantity": "1/4",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 1/4컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "seasoning",
+          "group": "[갈비양념 만능소스]",
+          "quantity": "1",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"대파 1컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_6844401:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진생강",
+          "role": "seasoning",
+          "group": "[갈비양념 만능소스]",
+          "quantity": "1/2",
+          "unit": "스푼",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다진생강 1/2스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6844401:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6844401",
+        "type": "VARIANT_OF",
+        "target": "dish:ee6f7aa5d0e0557150585d0e8e52c2a3c7aa2c78b3e8d08e476a39bf6d96e424",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:33640dcd00cafa81b3627502b6c8ef8697672fde501a13ae29a70cf54dc899e8",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6844401:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6844401:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6844401:dish",
+      "canonical_id": "dish:ee6f7aa5d0e0557150585d0e8e52c2a3c7aa2c78b3e8d08e476a39bf6d96e424",
+      "original_name": "돼지갈비찜",
+      "canonical_name": "돼지갈비찜",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:001:candidate:0",
+      "canonical_id": "ingredient:33640dcd00cafa81b3627502b6c8ef8697672fde501a13ae29a70cf54dc899e8",
+      "original_name": "돼지갈비 찜용 4근",
+      "canonical_name": "돼지갈비 찜용 4근",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:002:candidate:0",
+      "canonical_id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+      "original_name": "무",
+      "canonical_name": "무",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:003:candidate:0",
+      "canonical_id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+      "original_name": "당근",
+      "canonical_name": "당근",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:004:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:005:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:006:candidate:0",
+      "canonical_id": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+      "original_name": "진간장",
+      "canonical_name": "진간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:007:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:008:candidate:0",
+      "canonical_id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+      "original_name": "맛술",
+      "canonical_name": "맛술",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:009:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:010:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:011:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:012:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6844401:component:013:candidate:0",
+      "canonical_id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+      "original_name": "생강",
+      "canonical_name": "생강",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 13,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 27,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

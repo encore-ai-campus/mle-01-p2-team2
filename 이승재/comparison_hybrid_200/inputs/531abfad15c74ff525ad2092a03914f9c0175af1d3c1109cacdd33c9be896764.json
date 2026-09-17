@@ -1,0 +1,368 @@
+{
+  "recipe_uid": "10000recipe_6833247",
+  "payload": {
+    "title": "LA갈비찜양념 갈비찜만들기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "LA갈비 12대",
+        "LA갈비",
+        "LA갈비",
+        "food",
+        "[재료]",
+        "12",
+        "대",
+        null,
+        null
+      ],
+      [
+        "당근 1개",
+        "당근",
+        "당근",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "청양고추 1개",
+        "청양고추",
+        "청양고추",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "홍고추 2개",
+        "홍고추",
+        "홍고추",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "고구마 2개",
+        "고구마",
+        "고구마",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "양송이버섯 3개",
+        "양송이버섯",
+        "양송이버섯",
+        "food",
+        "[재료]",
+        "3",
+        "개",
+        null,
+        null
+      ],
+      [
+        "마늘 4개",
+        "마늘",
+        "마늘",
+        "seasoning",
+        "[양념]",
+        "4",
+        "개",
+        null,
+        null
+      ],
+      [
+        "파 1/2개",
+        "파",
+        "파",
+        "seasoning",
+        "[양념]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "양파 1개",
+        "양파",
+        "양파",
+        "seasoning",
+        "[양념]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "배 1개",
+        "배",
+        "배",
+        "seasoning",
+        "[양념]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "흑초 2t",
+        "흑초",
+        "흑초",
+        "seasoning",
+        "[양념]",
+        "2",
+        "t",
+        null,
+        null
+      ],
+      [
+        "참기름 1t",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념]",
+        "1",
+        "t",
+        null,
+        null
+      ],
+      [
+        "간장 3큰술",
+        "간장",
+        "간장",
+        "seasoning",
+        "[양념]",
+        "3",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "참치액 1큰술",
+        "참치액",
+        "참치액",
+        "seasoning",
+        "[양념]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "통깨 조금",
+        "통깨",
+        "통깨",
+        "seasoning",
+        "[양념]",
+        "조금",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 6,
+        "text": "갈아 놓은 양념도 같이 넣고"
+      },
+      {
+        "step": 7,
+        "text": "단맛을 주기 위해서 흑초를 넣어 주었습니다. 흑초가 없다면 매실액기스나 설탕으로 대체할 수 있습니다. 그리고 참기름, 간장, 참치액, 통깨를 넣고 잘 베이도록 섞어줍니다."
+      },
+      {
+        "step": 8,
+        "text": "양념이 고기속에 잘 베이도록 냉장고에 넣고 30분정도 재워 놓습니다."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "LA갈비 12대",
+      "raw_name": "LA갈비",
+      "ingredient_candidate": "LA갈비",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "12",
+      "unit": "대",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "당근 1개",
+      "raw_name": "당근",
+      "ingredient_candidate": "당근",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "청양고추 1개",
+      "raw_name": "청양고추",
+      "ingredient_candidate": "청양고추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "홍고추 2개",
+      "raw_name": "홍고추",
+      "ingredient_candidate": "홍고추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고구마 2개",
+      "raw_name": "고구마",
+      "ingredient_candidate": "고구마",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양송이버섯 3개",
+      "raw_name": "양송이버섯",
+      "ingredient_candidate": "양송이버섯",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마늘 4개",
+      "raw_name": "마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "4",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "파 1/2개",
+      "raw_name": "파",
+      "ingredient_candidate": "파",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "배 1개",
+      "raw_name": "배",
+      "ingredient_candidate": "배",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "흑초 2t",
+      "raw_name": "흑초",
+      "ingredient_candidate": "흑초",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "t",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1t",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "t",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 3큰술",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "3",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참치액 1큰술",
+      "raw_name": "참치액",
+      "ingredient_candidate": "참치액",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "통깨 조금",
+      "raw_name": "통깨",
+      "ingredient_candidate": "통깨",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "조금",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 9,
+  "sent_steps": 3,
+  "evidence_text": "LA갈비찜양념 갈비찜만들기\nLA갈비 12대\n당근 1개\n청양고추 1개\n홍고추 2개\n고구마 2개\n양송이버섯 3개\n마늘 4개\n파 1/2개\n양파 1개\n배 1개\n흑초 2t\n참기름 1t\n간장 3큰술\n참치액 1큰술\n통깨 조금\n갈아 놓은 양념도 같이 넣고\n단맛을 주기 위해서 흑초를 넣어 주었습니다. 흑초가 없다면 매실액기스나 설탕으로 대체할 수 있습니다. 그리고 참기름, 간장, 참치액, 통깨를 넣고 잘 베이도록 섞어줍니다.\n양념이 고기속에 잘 베이도록 냉장고에 넣고 30분정도 재워 놓습니다."
+}

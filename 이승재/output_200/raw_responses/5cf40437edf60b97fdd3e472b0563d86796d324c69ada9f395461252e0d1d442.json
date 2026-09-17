@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0JxtleA45WNQOHrTw43TAv0iXk",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"미역줄기볶음\",\"components\":[{\"raw_name\":\"염장미역줄기\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"400g\",\"unit\":\"g\",\"preparation\":\"염장\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 염장미역줄기 400g\"],\"quality_flags\":[],\"ingredient_candidate\":\"미역줄기\",\"alternatives\":[]},{\"raw_name\":\"자색양파 일반 양파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/3개\",\"unit\":\"개\",\"preparation\":\"자색양파 또는 일반 양파\",\"detail\":null,\"is_required\":false,\"alternative_mode\":\"either_or\",\"evidence\":[\"[재료] 자색양파 일반 양파 1/3개\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"당근\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 당근 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"당근\",\"alternatives\":[]},{\"raw_name\":\"다진 마늘\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 다진 마늘 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"다시마 간장 진간장&양조간장\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"다시마 간장 또는 진간장/양조간장 선택\",\"is_required\":true,\"alternative_mode\":\"unresolved\",\"evidence\":[\"[양념] 다시마 간장 진간장&양조간장 1큰술\",\"다시마 간장이나 양조간장 진간장 어느 것도 괜찮아요\"],\"quality_flags\":[\"COMPOUND_ALTERNATIVE\",\"AMBIGUOUS_ALTERNATIVE\"],\"ingredient_candidate\":\"간장\",\"alternatives\":[{\"raw_name\":\"진간장\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"[양념] 다시마 간장 진간장&양조간장 1큰술\"],\"ingredient_candidate\":\"간장\"},{\"raw_name\":\"양조간장\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"[양념] 다시마 간장 진간장&양조간장 1큰술\",\"다시마 간장이나 양조간장 진간장 어느 것도 괜찮아요\"],\"ingredient_candidate\":\"간장\"}]},{\"raw_name\":\"맛술\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":\"미림\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 맛술 미림 1큰술\",\"미역줄기를 넣고 맛술(미림)을 1큰술 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛술\",\"alternatives\":[]},{\"raw_name\":\"올리고당\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":\"알룰로스 대체 가능\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"either_or\",\"evidence\":[\"[양념] 올리고당 알룰로스 1큰술\",\"약간의 단맛과 감칠맛을 줄 올리고당이나 알룰로스(물엿)를 1큰술 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리고당\",\"alternatives\":[{\"raw_name\":\"알룰로스\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"[양념] 올리고당 알룰로스 1큰술\",\"약간의 단맛과 감칠맛을 줄 올리고당이나 알룰로스(물엿)를 1큰술 넣고\"],\"ingredient_candidate\":\"알룰로스\"}]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"마지막에 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 참기름 1큰술\",\"마지막에 불을 끈 상태에서 참기름 1큰술을 넣어줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"통깨\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":\"마무리로 넣거나 뿌림\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 통깨 약간\",\"마무리로 통깨를 넣어주면\",\"완성 접시에 담은 후 통깨 솔솔 뿌려주면\"],\"quality_flags\":[],\"ingredient_candidate\":\"통깨\",\"alternatives\":[]},{\"raw_name\":\"들기름\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"식용유와 함께 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 들기름 1큰술\",\"식용유 1큰술+들기름 1큰술을 두른 후\"],\"quality_flags\":[],\"ingredient_candidate\":\"들기름\",\"alternatives\":[]},{\"raw_name\":\"식용유\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"들기름과 함께 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 식용유 1큰술\",\"식용유 1큰술+들기름 1큰술을 두른 후\"],\"quality_flags\":[],\"ingredient_candidate\":\"식용유\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530823,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1360,
+    "prompt_tokens": 3981,
+    "total_tokens": 5341,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

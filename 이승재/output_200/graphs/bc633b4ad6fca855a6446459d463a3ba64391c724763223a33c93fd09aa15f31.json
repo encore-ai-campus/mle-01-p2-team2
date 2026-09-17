@@ -1,0 +1,1262 @@
+{
+  "recipe_uid": "10000recipe_7081494",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081494",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081494",
+          "title": "전자레인지 라따뚜이 레시피, 노오븐 노팬 다이어트식! 여름 불안쓰는 요리",
+          "description": "이제껏 프라이팬, 오븐으로 만들었는데.. 전자레인지로 라따뚜이가 가능하다면? 여름 홈브런치, 다이어트식으로 이만한 게 없죠. 개인적으로 너무 추천드리고 싶은 여름 제철 요리랍니다 요즘 한창 제철인 가지, 토마토, 애호박 채소를 듬뿍 먹을 수 있어서 건강에도 좋고 너무 맛있더라고요. 저는 다이어트 식단으로 먹어봤는데요, 양이 넉넉한 편이라 밀프랩처럼 소분해서 드셔도 좋고요. 아이들 간식으로도 최고! 뚜아자매 출출할 때 줬더니 또 달라며 맛있게 잘 먹었어요. 맛있어도 만들기 어려우면 손이 잘 안 가잖아요. 이건 노오븐, 노프라이팬, 온리 전자레인지! 요즘 폭염에 뜨거운 불 앞에서 요리하기 힘드실 텐데요 그럴 때 딱인 여름 제철레시피 되겠습니다. 요즘 구하기 쉬운 여름 제철 채소로 건강하고 근사한 한끼 뚝딱 만들어 보세요.",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "초급",
+          "views": 589,
+          "source_url": "https://www.10000recipe.com/recipe/7081494",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "라따뚜이"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 토마토 1개\", \"토마토 1개, 가지 1개, 애호박 1/2개 준비했어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "가지",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 가지 1개\", \"토마토 1개, 가지 1개, 애호박 1/2개 준비했어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "가지",
+          "name_normalized": "가지"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "애호박",
+          "role": "food",
+          "group": null,
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 애호박 1/2개\", \"토마토 1개, 가지 1개, 애호박 1/2개 준비했어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "애호박",
+          "name_normalized": "애호박"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": null,
+          "quantity": "1/5개",
+          "unit": null,
+          "preparation": "다진",
+          "detail": "자투리 채소 포함",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/5개\", \"여기에 양파 1/5개 도 추가해서 잘게 다져줬고요.\", \"꽁다리 부분이나 나머지 모양이 안 맞는 자투리 채소들은 작게 잘라서 활용할 거예요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후랑크소세지",
+          "role": "food",
+          "group": null,
+          "quantity": "2줄",
+          "unit": null,
+          "preparation": "동그랗게 썰어",
+          "detail": "베이컨, 햄 활용 가능",
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 후랑크소세지 2줄\", \"저는 후랑크소세지 2줄 동그랗게 썰어줬는데요, 아이들도 잘 먹고 더 맛있더라고요.\", \"베이컨, 햄 활용하셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후랑크소세지",
+          "name_normalized": "후랑크소세지"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:005:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이컨",
+          "name_normalized": "베이컨"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:005:candidate:2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토소스",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "150g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 토마토소스 150g\", \"전자레인지 전용 용기에 토마토소스 150g 부어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토소스",
+          "name_normalized": "토마토소스"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "윗면에 솔솔",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소금 약간\", \"윗면에 소금 솔솔, 후춧가루 드르륵~ 올리브오일 한 바퀴 둘러줍니다.\", \"채소에 간이 안 되어 있기 때문에 소금 후추 밑간을 해 주시면 더 맛있어요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "후춧가루",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 후추\", \"윗면에 소금 솔솔, 후춧가루 드르륵~ 올리브오일 한 바퀴 둘러줍니다.\", \"채소에 간이 안 되어 있기 때문에 소금 후추 밑간을 해 주시면 더 맛있어요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리브오일",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "한 바퀴 둘러줌",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 올리브오일 약간\", \"윗면에 소금 솔솔, 후춧가루 드르륵~ 올리브오일 한 바퀴 둘러줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리브오일",
+          "name_normalized": "올리브오일"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "모짜렐라치즈",
+          "role": "food",
+          "group": null,
+          "quantity": "듬뿍",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 모짜렐라치즈 듬뿍\", \"여기에 모짜렐라치즈를 듬뿍 올려주고 치즈가 녹을 정도로 3~4분 정도 돌려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "모짜렐라치즈",
+          "name_normalized": "모짜렐라치즈"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081494",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7081494:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081494:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081494:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081494:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081494:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081494:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:005",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7081494:component:005:candidate:1",
+        "properties": {
+          "raw_name": "베이컨",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"베이컨, 햄 활용하셔도 좋아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7081494:component:005",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7081494:component:005:candidate:2",
+        "properties": {
+          "raw_name": "햄",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"베이컨, 햄 활용하셔도 좋아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081494:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081494:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081494:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081494:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081494:component:010:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081494",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081494",
+          "title": "전자레인지 라따뚜이 레시피, 노오븐 노팬 다이어트식! 여름 불안쓰는 요리",
+          "description": "이제껏 프라이팬, 오븐으로 만들었는데.. 전자레인지로 라따뚜이가 가능하다면? 여름 홈브런치, 다이어트식으로 이만한 게 없죠. 개인적으로 너무 추천드리고 싶은 여름 제철 요리랍니다 요즘 한창 제철인 가지, 토마토, 애호박 채소를 듬뿍 먹을 수 있어서 건강에도 좋고 너무 맛있더라고요. 저는 다이어트 식단으로 먹어봤는데요, 양이 넉넉한 편이라 밀프랩처럼 소분해서 드셔도 좋고요. 아이들 간식으로도 최고! 뚜아자매 출출할 때 줬더니 또 달라며 맛있게 잘 먹었어요. 맛있어도 만들기 어려우면 손이 잘 안 가잖아요. 이건 노오븐, 노프라이팬, 온리 전자레인지! 요즘 폭염에 뜨거운 불 앞에서 요리하기 힘드실 텐데요 그럴 때 딱인 여름 제철레시피 되겠습니다. 요즘 구하기 쉬운 여름 제철 채소로 건강하고 근사한 한끼 뚝딱 만들어 보세요.",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "초급",
+          "views": 589,
+          "source_url": "https://www.10000recipe.com/recipe/7081494",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:b24f8be05538224284c78a88803d6180e4b6f9259ff959b66a795dce6bd76932",
+        "label": "Dish",
+        "properties": {
+          "name": "라따뚜이"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 토마토 1개\", \"토마토 1개, 가지 1개, 애호박 1/2개 준비했어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "가지",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 가지 1개\", \"토마토 1개, 가지 1개, 애호박 1/2개 준비했어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:17ab4df9ac2fb27ebd09b613dd1b34fb64dedef06df68cc430ae43d8406615b2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "가지",
+          "name_normalized": "가지"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "애호박",
+          "role": "food",
+          "group": null,
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 애호박 1/2개\", \"토마토 1개, 가지 1개, 애호박 1/2개 준비했어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:c51baef1506a3f642c2557093f24a4005a24aa866ce666649e92e9333c196b32",
+        "label": "Ingredient",
+        "properties": {
+          "name": "애호박",
+          "name_normalized": "애호박"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": null,
+          "quantity": "1/5개",
+          "unit": null,
+          "preparation": "다진",
+          "detail": "자투리 채소 포함",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/5개\", \"여기에 양파 1/5개 도 추가해서 잘게 다져줬고요.\", \"꽁다리 부분이나 나머지 모양이 안 맞는 자투리 채소들은 작게 잘라서 활용할 거예요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후랑크소세지",
+          "role": "food",
+          "group": null,
+          "quantity": "2줄",
+          "unit": null,
+          "preparation": "동그랗게 썰어",
+          "detail": "베이컨, 햄 활용 가능",
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 후랑크소세지 2줄\", \"저는 후랑크소세지 2줄 동그랗게 썰어줬는데요, 아이들도 잘 먹고 더 맛있더라고요.\", \"베이컨, 햄 활용하셔도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:9d684704060be2fdf8ad62175fba93a4636cd30698284c0348801ac9ef4deb18",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후랑크소세지",
+          "name_normalized": "후랑크소세지"
+        }
+      },
+      {
+        "id": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이컨",
+          "name_normalized": "베이컨"
+        }
+      },
+      {
+        "id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토소스",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "150g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 토마토소스 150g\", \"전자레인지 전용 용기에 토마토소스 150g 부어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:b0b2c1d3b00fb94a63823d91b25a3c48c07691210d30f9902c4165b4b3fef6b4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토소스",
+          "name_normalized": "토마토소스"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "윗면에 솔솔",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소금 약간\", \"윗면에 소금 솔솔, 후춧가루 드르륵~ 올리브오일 한 바퀴 둘러줍니다.\", \"채소에 간이 안 되어 있기 때문에 소금 후추 밑간을 해 주시면 더 맛있어요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "후춧가루",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 후추\", \"윗면에 소금 솔솔, 후춧가루 드르륵~ 올리브오일 한 바퀴 둘러줍니다.\", \"채소에 간이 안 되어 있기 때문에 소금 후추 밑간을 해 주시면 더 맛있어요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리브오일",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "한 바퀴 둘러줌",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 올리브오일 약간\", \"윗면에 소금 솔솔, 후춧가루 드르륵~ 올리브오일 한 바퀴 둘러줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리브오일",
+          "name_normalized": "올리브오일"
+        }
+      },
+      {
+        "id": "10000recipe_7081494:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "모짜렐라치즈",
+          "role": "food",
+          "group": null,
+          "quantity": "듬뿍",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 모짜렐라치즈 듬뿍\", \"여기에 모짜렐라치즈를 듬뿍 올려주고 치즈가 녹을 정도로 3~4분 정도 돌려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081494:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:4cb177481518716715849f70a5ed179fb38123f3f51490ef676fe4c73c62f9b5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "모짜렐라치즈",
+          "name_normalized": "모짜렐라치즈"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081494",
+        "type": "VARIANT_OF",
+        "target": "dish:b24f8be05538224284c78a88803d6180e4b6f9259ff959b66a795dce6bd76932",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:17ab4df9ac2fb27ebd09b613dd1b34fb64dedef06df68cc430ae43d8406615b2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:c51baef1506a3f642c2557093f24a4005a24aa866ce666649e92e9333c196b32",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:9d684704060be2fdf8ad62175fba93a4636cd30698284c0348801ac9ef4deb18",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:005",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+        "properties": {
+          "raw_name": "베이컨",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"베이컨, 햄 활용하셔도 좋아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7081494:component:005",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "properties": {
+          "raw_name": "햄",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"베이컨, 햄 활용하셔도 좋아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:b0b2c1d3b00fb94a63823d91b25a3c48c07691210d30f9902c4165b4b3fef6b4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081494:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081494:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:4cb177481518716715849f70a5ed179fb38123f3f51490ef676fe4c73c62f9b5",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "라따뚜이",
+    "components": [
+      {
+        "raw_name": "토마토",
+        "role": "food",
+        "group": null,
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 토마토 1개",
+          "토마토 1개, 가지 1개, 애호박 1/2개 준비했어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토",
+        "alternatives": []
+      },
+      {
+        "raw_name": "가지",
+        "role": "food",
+        "group": null,
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 가지 1개",
+          "토마토 1개, 가지 1개, 애호박 1/2개 준비했어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "가지",
+        "alternatives": []
+      },
+      {
+        "raw_name": "애호박",
+        "role": "food",
+        "group": null,
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 애호박 1/2개",
+          "토마토 1개, 가지 1개, 애호박 1/2개 준비했어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "애호박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": null,
+        "quantity": "1/5개",
+        "unit": null,
+        "preparation": "다진",
+        "detail": "자투리 채소 포함",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/5개",
+          "여기에 양파 1/5개 도 추가해서 잘게 다져줬고요.",
+          "꽁다리 부분이나 나머지 모양이 안 맞는 자투리 채소들은 작게 잘라서 활용할 거예요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후랑크소세지",
+        "role": "food",
+        "group": null,
+        "quantity": "2줄",
+        "unit": null,
+        "preparation": "동그랗게 썰어",
+        "detail": "베이컨, 햄 활용 가능",
+        "is_required": true,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "[재료] 후랑크소세지 2줄",
+          "저는 후랑크소세지 2줄 동그랗게 썰어줬는데요, 아이들도 잘 먹고 더 맛있더라고요.",
+          "베이컨, 햄 활용하셔도 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후랑크소세지",
+        "alternatives": [
+          {
+            "raw_name": "베이컨",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "베이컨, 햄 활용하셔도 좋아요."
+            ],
+            "ingredient_candidate": "베이컨"
+          },
+          {
+            "raw_name": "햄",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "베이컨, 햄 활용하셔도 좋아요."
+            ],
+            "ingredient_candidate": "햄"
+          }
+        ]
+      },
+      {
+        "raw_name": "토마토소스",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "150g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 토마토소스 150g",
+          "전자레인지 전용 용기에 토마토소스 150g 부어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": "윗면에 솔솔",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소금 약간",
+          "윗면에 소금 솔솔, 후춧가루 드르륵~ 올리브오일 한 바퀴 둘러줍니다.",
+          "채소에 간이 안 되어 있기 때문에 소금 후추 밑간을 해 주시면 더 맛있어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "후춧가루",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추",
+          "윗면에 소금 솔솔, 후춧가루 드르륵~ 올리브오일 한 바퀴 둘러줍니다.",
+          "채소에 간이 안 되어 있기 때문에 소금 후추 밑간을 해 주시면 더 맛있어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브오일",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": "한 바퀴 둘러줌",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 올리브오일 약간",
+          "윗면에 소금 솔솔, 후춧가루 드르륵~ 올리브오일 한 바퀴 둘러줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브오일",
+        "alternatives": []
+      },
+      {
+        "raw_name": "모짜렐라치즈",
+        "role": "food",
+        "group": null,
+        "quantity": "듬뿍",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 모짜렐라치즈 듬뿍",
+          "여기에 모짜렐라치즈를 듬뿍 올려주고 치즈가 녹을 정도로 3~4분 정도 돌려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "모짜렐라치즈",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "ede16417574b1e772ce736999da44a9bb1621172531b5feab5990beeca1899c1",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081494:dish",
+      "canonical_id": "dish:b24f8be05538224284c78a88803d6180e4b6f9259ff959b66a795dce6bd76932",
+      "original_name": "라따뚜이",
+      "canonical_name": "라따뚜이",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:001:candidate:0",
+      "canonical_id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+      "original_name": "토마토",
+      "canonical_name": "토마토",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:002:candidate:0",
+      "canonical_id": "ingredient:17ab4df9ac2fb27ebd09b613dd1b34fb64dedef06df68cc430ae43d8406615b2",
+      "original_name": "가지",
+      "canonical_name": "가지",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:003:candidate:0",
+      "canonical_id": "ingredient:c51baef1506a3f642c2557093f24a4005a24aa866ce666649e92e9333c196b32",
+      "original_name": "애호박",
+      "canonical_name": "애호박",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:004:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:005:candidate:0",
+      "canonical_id": "ingredient:9d684704060be2fdf8ad62175fba93a4636cd30698284c0348801ac9ef4deb18",
+      "original_name": "후랑크소세지",
+      "canonical_name": "후랑크소세지",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:005:candidate:1",
+      "canonical_id": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+      "original_name": "베이컨",
+      "canonical_name": "베이컨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:005:candidate:2",
+      "canonical_id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+      "original_name": "햄",
+      "canonical_name": "햄",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:006:candidate:0",
+      "canonical_id": "ingredient:b0b2c1d3b00fb94a63823d91b25a3c48c07691210d30f9902c4165b4b3fef6b4",
+      "original_name": "토마토소스",
+      "canonical_name": "토마토소스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:007:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:008:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:009:candidate:0",
+      "canonical_id": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+      "original_name": "올리브오일",
+      "canonical_name": "올리브오일",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081494:component:010:candidate:0",
+      "canonical_id": "ingredient:4cb177481518716715849f70a5ed179fb38123f3f51490ef676fe4c73c62f9b5",
+      "original_name": "모짜렐라치즈",
+      "canonical_name": "모짜렐라치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7081494",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "0ba895c420e9637c582f3e6cd4731f602b40c6cd5eeb31f10200f7ce0c105d60"
+}

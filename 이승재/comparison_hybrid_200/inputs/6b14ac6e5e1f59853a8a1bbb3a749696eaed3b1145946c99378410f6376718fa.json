@@ -1,0 +1,245 @@
+{
+  "recipe_uid": "10000recipe_3271213",
+  "payload": {
+    "title": "치즈케이크는 언제나 수플레 치즈케이크",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "크림치즈 200g",
+        "크림치즈",
+        "크림치즈",
+        "food",
+        "[재료]",
+        "200",
+        "g",
+        null,
+        null
+      ],
+      [
+        "설탕 A 20g",
+        "설탕 A",
+        "설탕 A",
+        "food",
+        "[재료]",
+        "20",
+        "g",
+        null,
+        null
+      ],
+      [
+        "우유 25g",
+        "우유",
+        "우유",
+        "food",
+        "[재료]",
+        "25",
+        "g",
+        null,
+        null
+      ],
+      [
+        "생크림 65g",
+        "생크림",
+        "생크림",
+        "food",
+        "[재료]",
+        "65",
+        "g",
+        null,
+        null
+      ],
+      [
+        "달걀 노른자 2개",
+        "달걀 노른자",
+        "달걀 노른자",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "박력분 3큰술",
+        "박력분",
+        "박력분",
+        "food",
+        "[재료]",
+        "3",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "레몬즙 1/3작은술",
+        "레몬즙",
+        "레몬즙",
+        "food",
+        "[재료]",
+        "1/3",
+        "작은술",
+        null,
+        null
+      ],
+      [
+        "제누와즈 1장",
+        "제누와즈",
+        "제누와즈",
+        "food",
+        "[재료]",
+        "1",
+        "장",
+        null,
+        null
+      ],
+      [
+        "달걀 흰자 3개",
+        "달걀 흰자",
+        "달걀 흰자",
+        "food",
+        "[머랭]",
+        "3",
+        "개",
+        null,
+        null
+      ],
+      [
+        "설탕 B 30g",
+        "설탕 B",
+        "설탕 B",
+        "food",
+        "[머랭]",
+        "30",
+        "g",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "크림치즈 200g",
+      "raw_name": "크림치즈",
+      "ingredient_candidate": "크림치즈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "200",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 A 20g",
+      "raw_name": "설탕 A",
+      "ingredient_candidate": "설탕 A",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "20",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "우유 25g",
+      "raw_name": "우유",
+      "ingredient_candidate": "우유",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "25",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "생크림 65g",
+      "raw_name": "생크림",
+      "ingredient_candidate": "생크림",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "65",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "달걀 노른자 2개",
+      "raw_name": "달걀 노른자",
+      "ingredient_candidate": "달걀 노른자",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "박력분 3큰술",
+      "raw_name": "박력분",
+      "ingredient_candidate": "박력분",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "레몬즙 1/3작은술",
+      "raw_name": "레몬즙",
+      "ingredient_candidate": "레몬즙",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/3",
+      "unit": "작은술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "제누와즈 1장",
+      "raw_name": "제누와즈",
+      "ingredient_candidate": "제누와즈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "달걀 흰자 3개",
+      "raw_name": "달걀 흰자",
+      "ingredient_candidate": "달걀 흰자",
+      "role": "food",
+      "group": "[머랭]",
+      "quantity": "3",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 B 30g",
+      "raw_name": "설탕 B",
+      "ingredient_candidate": "설탕 B",
+      "role": "food",
+      "group": "[머랭]",
+      "quantity": "30",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 6,
+  "sent_steps": 0,
+  "evidence_text": "치즈케이크는 언제나 수플레 치즈케이크\n크림치즈 200g\n설탕 A 20g\n우유 25g\n생크림 65g\n달걀 노른자 2개\n박력분 3큰술\n레몬즙 1/3작은술\n제누와즈 1장\n달걀 흰자 3개\n설탕 B 30g"
+}

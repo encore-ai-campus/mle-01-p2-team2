@@ -1,0 +1,192 @@
+{
+  "recipe_uid": "10000recipe_7082152",
+  "payload": {
+    "title": "[NO 가열] 겉바속촉 전기구이통닭 만들기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "백숙용 닭 1kg",
+        "백숙용 닭",
+        "백숙용 닭",
+        "food",
+        "[재료]",
+        "1",
+        "kg",
+        null,
+        null
+      ],
+      [
+        "찹쌀 2/3컵",
+        "찹쌀",
+        "찹쌀",
+        "food",
+        "[재료]",
+        "2/3",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "마늘 5쪽",
+        "마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "5",
+        "쪽",
+        null,
+        null
+      ],
+      [
+        "물 1/2컵",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "1/2",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "라꽁버터 2개",
+        "라꽁버터",
+        "라꽁버터",
+        "food",
+        "[마늘 버터]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "다진 마늘 듬뿍 1T",
+        "다진 마늘 듬뿍",
+        "다진 마늘",
+        "food",
+        "[마늘 버터]",
+        "1",
+        "T",
+        null,
+        "듬뿍"
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[마늘 버터]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 6,
+        "text": "그동안 손질한 닭의 뱃속에 마늘 5쪽과"
+      },
+      {
+        "step": 7,
+        "text": "불린 찹쌀을 안쪽에 물 1/2컵과 함께 넣어주세요. 물은 꼭 넣으세요. 찹쌀이 익으면서 물을 흡수하기 때문에 촉촉하고 맛있는 찹쌀밥 만들어진답니"
+      },
+      {
+        "step": 8,
+        "text": "닭의 꽁지 부분을 오므려 나무 꼬치로 고정해 주세요."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "백숙용 닭 1kg",
+      "raw_name": "백숙용 닭",
+      "ingredient_candidate": "백숙용 닭",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "kg",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "찹쌀 2/3컵",
+      "raw_name": "찹쌀",
+      "ingredient_candidate": "찹쌀",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2/3",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마늘 5쪽",
+      "raw_name": "마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "5",
+      "unit": "쪽",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 1/2컵",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "라꽁버터 2개",
+      "raw_name": "라꽁버터",
+      "ingredient_candidate": "라꽁버터",
+      "role": "food",
+      "group": "[마늘 버터]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진 마늘 듬뿍 1T",
+      "raw_name": "다진 마늘 듬뿍",
+      "ingredient_candidate": "다진 마늘",
+      "role": "food",
+      "group": "[마늘 버터]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": "듬뿍"
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[마늘 버터]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 15,
+  "sent_steps": 3,
+  "evidence_text": "[NO 가열] 겉바속촉 전기구이통닭 만들기\n백숙용 닭 1kg\n찹쌀 2/3컵\n마늘 5쪽\n물 1/2컵\n라꽁버터 2개\n다진 마늘 듬뿍 1T\n소금 약간\n그동안 손질한 닭의 뱃속에 마늘 5쪽과\n불린 찹쌀을 안쪽에 물 1/2컵과 함께 넣어주세요. 물은 꼭 넣으세요. 찹쌀이 익으면서 물을 흡수하기 때문에 촉촉하고 맛있는 찹쌀밥 만들어진답니\n닭의 꽁지 부분을 오므려 나무 꼬치로 고정해 주세요."
+}

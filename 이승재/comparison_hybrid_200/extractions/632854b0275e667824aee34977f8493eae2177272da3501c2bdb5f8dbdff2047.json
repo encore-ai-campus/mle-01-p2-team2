@@ -1,0 +1,156 @@
+{
+  "recipe_uid": "10000recipe_6858833",
+  "cache_key": "37431bfca879534e2680e7158f95bbc38d93f5dd5840d52deb53fcbf8d77c545",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 644,
+    "prompt_tokens": 3041,
+    "total_tokens": 3685,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "시금치된장국",
+    "components": [
+      {
+        "raw_name": "다진마늘",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "0.5",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진마늘 0.5큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "시금치",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2~3",
+        "unit": "줌",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "시금치 2~3줌",
+          "깨끗히 씻은 시금치의 시든 잎은 떼고, 뿌리부분은 자르며 다듬어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "시금치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "대",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "대파 1대",
+          "대파는 송송 또는 어슷 썰어준비합니다."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다시마 5*5",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다시마 5*5 1개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다시마 5*5",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다시멸치",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "13~15",
+        "unit": "마리",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다시멸치 13~15마리",
+          "팔팔 끓고 있는 멸치다시마 국물에 시금지를 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다시멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "두부",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/2",
+        "unit": "모",
+        "preparation": null,
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "두부 1/2모",
+          "두부는 생략 가능해요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "두부",
+        "alternatives": []
+      },
+      {
+        "raw_name": "된장",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "된장 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "된장",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 5.969
+}

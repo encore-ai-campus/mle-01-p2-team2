@@ -1,0 +1,275 @@
+{
+  "recipe_uid": "10000recipe_6888128",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6888128",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6888128",
+          "title": "간단한 아침, 오트밀 먹는법",
+          "description": "늘 분주하게 시작되는 아침. 끼니 챙겨먹기가 여간 번거로운게 아닌데요. 한국에 있을때는 씨리얼 정도나 토스트 정도가 간단한 서양식 아침식단이라고 생각을 했었는데, 캐나다에 지내다 보니 정말 다양한 아침대용 식품이 시중에 많더라구요. 그 중에서도 특히 식이섬유가 풍부해 포만감은 쉽게 들면서 칼로리는 낮고 위장활동에도 좋아 아침으로 많이들 찾는 오트밀을 가끔 아침으로 먹곤하는데요. 시판되는 다양한 제품이 있어 선택의 폭 까지 넓다는 장점이 있습니다. 그래도, 처음 먹어 본 분들이라면 도대체 무슨 맛으로 먹나 싶을 만큼 딱히 '맛'이라는게 없고 심심하고 뭔가 빠진듯한 맛이에요. 그래서 오늘은 조금 더 맛있게 오트밀 먹는법, 간단한 아침메뉴 추천 포스팅으로 함께합니다.",
+          "servings": "1인분",
+          "cooking_time": "5분 이내",
+          "difficulty": "아무나",
+          "views": 176000,
+          "source_url": "https://www.10000recipe.com/recipe/6888128",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:4cc9b2bb2e637af88032c99c6925235da10df81da491663a15f650bab633d1c3",
+        "label": "Dish",
+        "properties": {
+          "name": "오트밀"
+        }
+      },
+      {
+        "id": "10000recipe_6888128:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오트밀",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "팩",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"오트밀 1팩\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6888128:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:4cc9b2bb2e637af88032c99c6925235da10df81da491663a15f650bab633d1c3",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오트밀",
+          "name_normalized": "오트밀"
+        }
+      },
+      {
+        "id": "10000recipe_6888128:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "200",
+          "unit": "ml",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"물 200ml\", \"끓는 물을 오트밀이 담긴 그릇에 담아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6888128:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6888128:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "테이블크림",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"테이블크림 2T\", \"크림(커피에 타는 테이블크림)을 한 두스푼 정도 넣어주시면 훨씬 맛이 고소하고 든든해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6888128:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:3509052efc8b884484f56b667eae5b91eda1232a50475e058b9cfaab09309d8b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "테이블크림",
+          "name_normalized": "테이블크림"
+        }
+      },
+      {
+        "id": "10000recipe_6888128:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꿀",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "either_or",
+          "evidence": "[\"꿀 1T\", \"여기에 취향에 따라 꿀이나 메이플시럽을 넣고 잘 저어서 드시면 훨씬 맛이 좋아요.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_INGREDIENT"
+          ],
+          "component_uid": "10000recipe_6888128:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꿀",
+          "name_normalized": "꿀"
+        }
+      },
+      {
+        "id": "ingredient:14c2a8ae9dadf5bfce351051b311ec0ca4894425f8749891b8af351a8460dc07",
+        "label": "Ingredient",
+        "properties": {
+          "name": "메이플시럽",
+          "name_normalized": "메이플시럽"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6888128",
+        "type": "VARIANT_OF",
+        "target": "dish:4cc9b2bb2e637af88032c99c6925235da10df81da491663a15f650bab633d1c3",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6888128",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6888128:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6888128:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:4cc9b2bb2e637af88032c99c6925235da10df81da491663a15f650bab633d1c3",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6888128",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6888128:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6888128:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6888128",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6888128:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6888128:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:3509052efc8b884484f56b667eae5b91eda1232a50475e058b9cfaab09309d8b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6888128",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6888128:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6888128:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6888128:component:004",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:14c2a8ae9dadf5bfce351051b311ec0ca4894425f8749891b8af351a8460dc07",
+        "properties": {
+          "raw_name": "메이플시럽",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "취향에 따라",
+          "evidence": "[\"꿀이나 메이플시럽\"]"
+        }
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6888128:dish",
+      "canonical_id": "dish:4cc9b2bb2e637af88032c99c6925235da10df81da491663a15f650bab633d1c3",
+      "original_name": "오트밀",
+      "canonical_name": "오트밀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6888128:component:001:candidate:0",
+      "canonical_id": "ingredient:4cc9b2bb2e637af88032c99c6925235da10df81da491663a15f650bab633d1c3",
+      "original_name": "오트밀",
+      "canonical_name": "오트밀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6888128:component:002:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6888128:component:003:candidate:0",
+      "canonical_id": "ingredient:3509052efc8b884484f56b667eae5b91eda1232a50475e058b9cfaab09309d8b",
+      "original_name": "테이블크림",
+      "canonical_name": "테이블크림",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6888128:component:004:candidate:0",
+      "canonical_id": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+      "original_name": "꿀",
+      "canonical_name": "꿀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6888128:component:004:candidate:1",
+      "canonical_id": "ingredient:14c2a8ae9dadf5bfce351051b311ec0ca4894425f8749891b8af351a8460dc07",
+      "original_name": "메이플시럽",
+      "canonical_name": "메이플시럽",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 4,
+    "alternatives": 1,
+    "required_known": 0,
+    "dish": true,
+    "relations": 10,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

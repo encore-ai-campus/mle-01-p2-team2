@@ -1,0 +1,303 @@
+{
+  "recipe_uid": "10000recipe_6863364",
+  "cache_key": "9f609ef3b90adb95ea403fa4673d95237398ea36ceffbcff12362a96af0b57e2",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 1249,
+    "prompt_tokens": 3652,
+    "total_tokens": 4901,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "돼지등갈비찜",
+    "components": [
+      {
+        "raw_name": "돼지등갈비",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "kg",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "돼지등갈비 1kg"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돼지등갈비",
+        "alternatives": []
+      },
+      {
+        "raw_name": "감자 중간사이즈",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "감자 중간사이즈 1개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "감자",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "80",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "무 80g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "50",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "당근 50g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통마늘",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "6",
+        "unit": "개",
+        "preparation": "통",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "통마늘 6개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "돼지등갈비 잠길정도의 물",
+        "role": "food",
+        "group": "[등갈비 1차 삶기(5분)]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "돼지등갈비 잠길정도의 물"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돼지등갈비 잠길정도의 물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통생강",
+        "role": "food",
+        "group": "[등갈비 1차 삶기(5분)]",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "통생강 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통생강",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계피",
+        "role": "food",
+        "group": "[등갈비 1차 삶기(5분)]",
+        "quantity": "10",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "계피 10g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계피",
+        "alternatives": []
+      },
+      {
+        "raw_name": "육수 등갈비 삶은물",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "3",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "육수 등갈비 삶은물 3컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "육수 등갈비 삶은물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "진간장",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "6",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "진간장 6큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "진간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕 조절",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "설탕 조절 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕 조절",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물엿",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물엿 1큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물엿",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실청",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "매실청 1큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실청",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진마늘 1큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청주",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "청주 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름 1큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 8.11
+}

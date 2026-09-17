@@ -1,0 +1,223 @@
+{
+  "recipe_uid": "10000recipe_4784948",
+  "payload": {
+    "title": "샌드위치 만드는법",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "식빵",
+        "식빵",
+        "식빵",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "양상추",
+        "양상추",
+        "양상추",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "토마토",
+        "토마토",
+        "토마토",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "파프리카",
+        "파프리카",
+        "파프리카",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "베이컨",
+        "베이컨",
+        "베이컨",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "치즈",
+        "치즈",
+        "치즈",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "샌드위치용햄",
+        "샌드위치용햄",
+        "샌드위치용햄",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "딸기쨈",
+        "딸기쨈",
+        "딸기쨈",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "홀그레인머스타드",
+        "홀그레인머스타드",
+        "홀그레인머스타드",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "식빵",
+      "raw_name": "식빵",
+      "ingredient_candidate": "식빵",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양상추",
+      "raw_name": "양상추",
+      "ingredient_candidate": "양상추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "토마토",
+      "raw_name": "토마토",
+      "ingredient_candidate": "토마토",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "파프리카",
+      "raw_name": "파프리카",
+      "ingredient_candidate": "파프리카",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "베이컨",
+      "raw_name": "베이컨",
+      "ingredient_candidate": "베이컨",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "치즈",
+      "raw_name": "치즈",
+      "ingredient_candidate": "치즈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "샌드위치용햄",
+      "raw_name": "샌드위치용햄",
+      "ingredient_candidate": "샌드위치용햄",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "딸기쨈",
+      "raw_name": "딸기쨈",
+      "ingredient_candidate": "딸기쨈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "홀그레인머스타드",
+      "raw_name": "홀그레인머스타드",
+      "ingredient_candidate": "홀그레인머스타드",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 6,
+  "sent_steps": 0,
+  "evidence_text": "샌드위치 만드는법\n식빵\n양상추\n토마토\n파프리카\n베이컨\n치즈\n샌드위치용햄\n딸기쨈\n홀그레인머스타드"
+}

@@ -1,0 +1,1036 @@
+{
+  "recipe_uid": "10000recipe_7081437",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081437",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081437",
+          "title": "불 없이 만드는 간단 요리 오이 돌나물 초무침!",
+          "description": "날씨가 더워지면 야채 가격이 장난아니죠? 하지만 1년 내내 저렴한 가격을 유지하는 돌나물과 제철 오이로 이렇게 무쳐보세요. 침샘이 폭발할 정도로 맛있답니다.",
+          "servings": "6인분 이상",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 30,
+          "source_url": "https://www.10000recipe.com/recipe/7081437",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "오이 돌나물 초무침"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "돌나물",
+          "role": "food",
+          "group": "재료",
+          "quantity": "300g",
+          "unit": null,
+          "preparation": "생으로 먹는 채소, 깨끗하게 여러번 씻어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 돌나물 300g\", \"돌나물은 생으로 먹는 채소니까 4~5번 깨끗하게 여러번 씻어줍니다.\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "돌나물",
+          "name_normalized": "돌나물"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오이",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "반으로 자른 후 씨를 긁어서 버리고 0.5cm 내외로 자름",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 오이 1/2개\", \"그리고 오이는 반으로 자른 후 이렇게 숟가락으로 씨를 긁어서 버립니다.\", \"속을 파낸 오이는 0.5cm 내외로 잘라줍니다.\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오이",
+          "name_normalized": "오이"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "최대한 얇게 썰어서 준비",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"양파는 최대한 얇게 썰어서 준비하세요.\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 고춧가루 1큰술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "고추장이 들어가서 양념이 뭉치기 쉬움",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 고추장 2큰술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\", \"고추장이 들어가서 양념이 뭉치기 쉬우니 털어내듯 무쳐주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실액",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 매실액 1큰술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실액",
+          "name_normalized": "매실액"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 다진마늘 1작은술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 식초 2큰술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깨",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 깨 1큰술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081437",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7081437:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081437:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081437:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081437:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081437:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081437:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081437:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081437:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081437:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081437:component:009:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081437",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081437",
+          "title": "불 없이 만드는 간단 요리 오이 돌나물 초무침!",
+          "description": "날씨가 더워지면 야채 가격이 장난아니죠? 하지만 1년 내내 저렴한 가격을 유지하는 돌나물과 제철 오이로 이렇게 무쳐보세요. 침샘이 폭발할 정도로 맛있답니다.",
+          "servings": "6인분 이상",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 30,
+          "source_url": "https://www.10000recipe.com/recipe/7081437",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:8831b80e931ee1a34fe427f3b64050b3906d4ce35cd6aba28076b0af92e8d0e2",
+        "label": "Dish",
+        "properties": {
+          "name": "오이 돌나물 초무침"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "돌나물",
+          "role": "food",
+          "group": "재료",
+          "quantity": "300g",
+          "unit": null,
+          "preparation": "생으로 먹는 채소, 깨끗하게 여러번 씻어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 돌나물 300g\", \"돌나물은 생으로 먹는 채소니까 4~5번 깨끗하게 여러번 씻어줍니다.\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:3732f284bd86f991ee3fc68ab21819fb2d179cf5932085a13a515afc4b52f1dc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "돌나물",
+          "name_normalized": "돌나물"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오이",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "반으로 자른 후 씨를 긁어서 버리고 0.5cm 내외로 자름",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 오이 1/2개\", \"그리고 오이는 반으로 자른 후 이렇게 숟가락으로 씨를 긁어서 버립니다.\", \"속을 파낸 오이는 0.5cm 내외로 잘라줍니다.\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오이",
+          "name_normalized": "오이"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "최대한 얇게 썰어서 준비",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"양파는 최대한 얇게 썰어서 준비하세요.\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 고춧가루 1큰술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "고추장이 들어가서 양념이 뭉치기 쉬움",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 고추장 2큰술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\", \"고추장이 들어가서 양념이 뭉치기 쉬우니 털어내듯 무쳐주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실액",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 매실액 1큰술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실액",
+          "name_normalized": "매실액"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 다진마늘 1작은술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 식초 2큰술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_7081437:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깨",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 깨 1큰술\", \"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081437:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081437",
+        "type": "VARIANT_OF",
+        "target": "dish:8831b80e931ee1a34fe427f3b64050b3906d4ce35cd6aba28076b0af92e8d0e2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:3732f284bd86f991ee3fc68ab21819fb2d179cf5932085a13a515afc4b52f1dc",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081437:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081437:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "오이 돌나물 초무침",
+    "components": [
+      {
+        "raw_name": "돌나물",
+        "role": "food",
+        "group": "재료",
+        "quantity": "300g",
+        "unit": null,
+        "preparation": "생으로 먹는 채소, 깨끗하게 여러번 씻어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 돌나물 300g",
+          "돌나물은 생으로 먹는 채소니까 4~5번 깨끗하게 여러번 씻어줍니다.",
+          "믹싱볼에 손질한 돌나물, 오이, 양파를 담고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돌나물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "오이",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "반으로 자른 후 씨를 긁어서 버리고 0.5cm 내외로 자름",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 오이 1/2개",
+          "그리고 오이는 반으로 자른 후 이렇게 숟가락으로 씨를 긁어서 버립니다.",
+          "속을 파낸 오이는 0.5cm 내외로 잘라줍니다.",
+          "믹싱볼에 손질한 돌나물, 오이, 양파를 담고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "오이",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "최대한 얇게 썰어서 준비",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/2개",
+          "양파는 최대한 얇게 썰어서 준비하세요.",
+          "믹싱볼에 손질한 돌나물, 오이, 양파를 담고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 고춧가루 1큰술",
+          "믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "고추장이 들어가서 양념이 뭉치기 쉬움",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 고추장 2큰술",
+          "믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.",
+          "고추장이 들어가서 양념이 뭉치기 쉬우니 털어내듯 무쳐주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실액",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 매실액 1큰술",
+          "믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1작은술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 다진마늘 1작은술",
+          "믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 식초 2큰술",
+          "믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 깨 1큰술",
+          "믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "f531c4055c7541c7dace1ba3942e48173491cfa91f51159512131c71436dab83",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081437:dish",
+      "canonical_id": "dish:8831b80e931ee1a34fe427f3b64050b3906d4ce35cd6aba28076b0af92e8d0e2",
+      "original_name": "오이 돌나물 초무침",
+      "canonical_name": "오이 돌나물 초무침",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081437:component:001:candidate:0",
+      "canonical_id": "ingredient:3732f284bd86f991ee3fc68ab21819fb2d179cf5932085a13a515afc4b52f1dc",
+      "original_name": "돌나물",
+      "canonical_name": "돌나물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081437:component:002:candidate:0",
+      "canonical_id": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+      "original_name": "오이",
+      "canonical_name": "오이",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081437:component:003:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081437:component:004:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081437:component:005:candidate:0",
+      "canonical_id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+      "original_name": "고추장",
+      "canonical_name": "고추장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081437:component:006:candidate:0",
+      "canonical_id": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+      "original_name": "매실액",
+      "canonical_name": "매실액",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081437:component:007:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081437:component:008:candidate:0",
+      "canonical_id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+      "original_name": "식초",
+      "canonical_name": "식초",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081437:component:009:candidate:0",
+      "canonical_id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+      "original_name": "깨",
+      "canonical_name": "깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7081437",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "71afad568d23da304c6618c6e4d8d208aec3c40ebb60181cd2639603b7dbe0cb"
+}

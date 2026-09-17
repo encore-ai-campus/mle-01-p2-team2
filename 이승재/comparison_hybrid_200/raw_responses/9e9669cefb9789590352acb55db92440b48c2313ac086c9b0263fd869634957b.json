@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZtvFOHowkv5wbfljsGqs4pUQFE",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"된장찌개\",\"components\":[{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"[진하고 구수한 버섯두부 된장찌개 재료]\",\"quantity\":\"500\",\"unit\":\"ml\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"물 500ml\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"집된장\",\"role\":\"food\",\"group\":\"[진하고 구수한 버섯두부 된장찌개 재료]\",\"quantity\":\"1.5\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"집된장 1.5큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"집된장\",\"alternatives\":[]},{\"raw_name\":\"청양고추\",\"role\":\"food\",\"group\":\"[진하고 구수한 버섯두부 된장찌개 재료]\",\"quantity\":\"2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"청양고추 2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양고추\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"[진하고 구수한 버섯두부 된장찌개 재료]\",\"quantity\":\"1/4\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"양파 1/4개\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"표고버섯\",\"role\":\"food\",\"group\":\"[진하고 구수한 버섯두부 된장찌개 재료]\",\"quantity\":\"2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"표고버섯 2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"표고버섯\",\"alternatives\":[]},{\"raw_name\":\"팽이버섯\",\"role\":\"food\",\"group\":\"[진하고 구수한 버섯두부 된장찌개 재료]\",\"quantity\":\"1\",\"unit\":\"봉지\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"팽이버섯 1봉지\"],\"quality_flags\":[],\"ingredient_candidate\":\"팽이버섯\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":\"[진하고 구수한 버섯두부 된장찌개 재료]\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"대파 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"꽃게액\",\"role\":\"food\",\"group\":\"[진하고 구수한 버섯두부 된장찌개 재료]\",\"quantity\":\"1/2\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"꽃게액 1/2큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"꽃게액\",\"alternatives\":[]},{\"raw_name\":\"고추장\",\"role\":\"seasoning\",\"group\":\"[진하고 구수한 버섯두부 된장찌개 재료]\",\"quantity\":\"1/2\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"고추장 1/2큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추장\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544561,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 814,
+    "prompt_tokens": 3049,
+    "total_tokens": 3863,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

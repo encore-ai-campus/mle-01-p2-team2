@@ -1,0 +1,1301 @@
+{
+  "recipe_uid": "10000recipe_6906704",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6906704",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6906704",
+          "title": "저염식 건강 쌈장과 양배추 쌈밥, 맛있는 쌈장 쌈밥",
+          "description": "건강한 쌈장과 양배추 쌈밥입니다. 좀 더 건강에 도움이 되기 위해 저염식으로 쌈장을 만들고, 나트륨 배출을 돕는 양배추도 함께 했습니다, 건강 쌈장이면서 맛도 아주 좋아요, 꼭! 만들어 보세요~",
+          "servings": "4인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 104000,
+          "source_url": "https://www.10000recipe.com/recipe/6906704",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "쌈장 쌈밥"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "된장",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "2.5큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 된장 2.5큰술\", \"된장 2.5, 고추장 1.5큰술 넣습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "된장",
+          "name_normalized": "된장"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "1.5큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 고추장 1.5큰술\", \"된장 2.5, 고추장 1.5큰술 넣습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "두부",
+          "role": "food",
+          "group": "저염쌈장재료",
+          "quantity": "1/3모",
+          "unit": "모",
+          "preparation": "꼭 짠",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 두부 1/3모\", \"두부는 꼬옥 짜서 넣고 잘 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "두부",
+          "name_normalized": "두부"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "저염쌈장재료",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": "작은크기, 잘게 다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 양파 작은크기 1/2개\", \"양파와 고추는 잘게 다져주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "0.5큰술",
+          "unit": "큰술",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 다진마늘 0.5큰술\", \"다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "풋고추",
+          "role": "food",
+          "group": "저염쌈장재료",
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": "잘게 다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 풋고추 2개\", \"양파와 고추는 잘게 다져주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "풋고추",
+          "name_normalized": "풋고추"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실청",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "다른청가능",
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[저염쌈장재료] 매실청 다른청가능 2큰술\", \"매실청 2큰술 넣는데요, 다른청도 가능합니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실청",
+          "name_normalized": "매실청"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:007:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청",
+          "name_normalized": "청"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 참기름 1큰술\", \"다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 통깨 1큰술\", \"다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양배추",
+          "role": "food",
+          "group": "양배추쌈재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": "한장씩 뜯은, 씻은, 먹기좋은 크기로 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양배추쌈재료] 양배추\", \"양배추는 한장씩 뜯어 흐르는 물에 깨끗이 씻고 먹기좋은 크기로 썬후 그릇에 양배추 담고 물 반컵 담고 뚜껑이나 그릇 덮어 전자레인지에서 5~7분간 돌려주면 적당히 익는답니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양배추",
+          "name_normalized": "양배추"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "양배추쌈재료",
+          "quantity": "반컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양배추는 한장씩 뜯어 흐르는 물에 깨끗이 씻고 먹기좋은 크기로 썬후 그릇에 양배추 담고 물 반컵 담고 뚜껑이나 그릇 덮어 전자레인지에서 5~7분간 돌려주면 적당히 익는답니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6906704",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6906704:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:007",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_6906704:component:007:candidate:1",
+        "properties": {
+          "raw_name": "다른청",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[저염쌈장재료] 매실청 다른청가능 2큰술\", \"매실청 2큰술 넣는데요, 다른청도 가능합니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6906704:component:011:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6906704",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6906704",
+          "title": "저염식 건강 쌈장과 양배추 쌈밥, 맛있는 쌈장 쌈밥",
+          "description": "건강한 쌈장과 양배추 쌈밥입니다. 좀 더 건강에 도움이 되기 위해 저염식으로 쌈장을 만들고, 나트륨 배출을 돕는 양배추도 함께 했습니다, 건강 쌈장이면서 맛도 아주 좋아요, 꼭! 만들어 보세요~",
+          "servings": "4인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 104000,
+          "source_url": "https://www.10000recipe.com/recipe/6906704",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:3bad26ebbba6f90a8106a9ff17172a0702971b1a3c431a91fc8fd501de29452d",
+        "label": "Dish",
+        "properties": {
+          "name": "쌈장 쌈밥"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "된장",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "2.5큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 된장 2.5큰술\", \"된장 2.5, 고추장 1.5큰술 넣습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "된장",
+          "name_normalized": "된장"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "1.5큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 고추장 1.5큰술\", \"된장 2.5, 고추장 1.5큰술 넣습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "두부",
+          "role": "food",
+          "group": "저염쌈장재료",
+          "quantity": "1/3모",
+          "unit": "모",
+          "preparation": "꼭 짠",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 두부 1/3모\", \"두부는 꼬옥 짜서 넣고 잘 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+        "label": "Ingredient",
+        "properties": {
+          "name": "두부",
+          "name_normalized": "두부"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "저염쌈장재료",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": "작은크기, 잘게 다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 양파 작은크기 1/2개\", \"양파와 고추는 잘게 다져주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "0.5큰술",
+          "unit": "큰술",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 다진마늘 0.5큰술\", \"다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "풋고추",
+          "role": "food",
+          "group": "저염쌈장재료",
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": "잘게 다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 풋고추 2개\", \"양파와 고추는 잘게 다져주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:61ccf232a195012793d3416433f3dc4e557652e50e91e1f7ea4d4562150e27d5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "풋고추",
+          "name_normalized": "풋고추"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실청",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "다른청가능",
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[저염쌈장재료] 매실청 다른청가능 2큰술\", \"매실청 2큰술 넣는데요, 다른청도 가능합니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:f581a9abacd48573fe4dd3aeff8ade5e3f510a7faffc45524c78d075a564e794",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실청",
+          "name_normalized": "매실청"
+        }
+      },
+      {
+        "id": "ingredient:9c5b718640187aa660ff2c10c4ee97aea7f03e1371f2990ab34a29ebdb4f62cc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청",
+          "name_normalized": "청"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 참기름 1큰술\", \"다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "seasoning",
+          "group": "저염쌈장재료",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[저염쌈장재료] 통깨 1큰술\", \"다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양배추",
+          "role": "food",
+          "group": "양배추쌈재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": "한장씩 뜯은, 씻은, 먹기좋은 크기로 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양배추쌈재료] 양배추\", \"양배추는 한장씩 뜯어 흐르는 물에 깨끗이 씻고 먹기좋은 크기로 썬후 그릇에 양배추 담고 물 반컵 담고 뚜껑이나 그릇 덮어 전자레인지에서 5~7분간 돌려주면 적당히 익는답니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양배추",
+          "name_normalized": "양배추"
+        }
+      },
+      {
+        "id": "10000recipe_6906704:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "양배추쌈재료",
+          "quantity": "반컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양배추는 한장씩 뜯어 흐르는 물에 깨끗이 씻고 먹기좋은 크기로 썬후 그릇에 양배추 담고 물 반컵 담고 뚜껑이나 그릇 덮어 전자레인지에서 5~7분간 돌려주면 적당히 익는답니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6906704:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6906704",
+        "type": "VARIANT_OF",
+        "target": "dish:3bad26ebbba6f90a8106a9ff17172a0702971b1a3c431a91fc8fd501de29452d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:61ccf232a195012793d3416433f3dc4e557652e50e91e1f7ea4d4562150e27d5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:f581a9abacd48573fe4dd3aeff8ade5e3f510a7faffc45524c78d075a564e794",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:007",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:9c5b718640187aa660ff2c10c4ee97aea7f03e1371f2990ab34a29ebdb4f62cc",
+        "properties": {
+          "raw_name": "다른청",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[저염쌈장재료] 매실청 다른청가능 2큰술\", \"매실청 2큰술 넣는데요, 다른청도 가능합니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6906704:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6906704:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "쌈장 쌈밥",
+    "components": [
+      {
+        "raw_name": "된장",
+        "role": "seasoning",
+        "group": "저염쌈장재료",
+        "quantity": "2.5큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[저염쌈장재료] 된장 2.5큰술",
+          "된장 2.5, 고추장 1.5큰술 넣습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "된장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": "저염쌈장재료",
+        "quantity": "1.5큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[저염쌈장재료] 고추장 1.5큰술",
+          "된장 2.5, 고추장 1.5큰술 넣습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "두부",
+        "role": "food",
+        "group": "저염쌈장재료",
+        "quantity": "1/3모",
+        "unit": "모",
+        "preparation": "꼭 짠",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[저염쌈장재료] 두부 1/3모",
+          "두부는 꼬옥 짜서 넣고 잘 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "두부",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "저염쌈장재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": "작은크기, 잘게 다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[저염쌈장재료] 양파 작은크기 1/2개",
+          "양파와 고추는 잘게 다져주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "저염쌈장재료",
+        "quantity": "0.5큰술",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[저염쌈장재료] 다진마늘 0.5큰술",
+          "다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "풋고추",
+        "role": "food",
+        "group": "저염쌈장재료",
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": "잘게 다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[저염쌈장재료] 풋고추 2개",
+          "양파와 고추는 잘게 다져주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "풋고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실청",
+        "role": "seasoning",
+        "group": "저염쌈장재료",
+        "quantity": "2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "다른청가능",
+        "is_required": true,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "[저염쌈장재료] 매실청 다른청가능 2큰술",
+          "매실청 2큰술 넣는데요, 다른청도 가능합니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실청",
+        "alternatives": [
+          {
+            "raw_name": "다른청",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "[저염쌈장재료] 매실청 다른청가능 2큰술",
+              "매실청 2큰술 넣는데요, 다른청도 가능합니다."
+            ],
+            "ingredient_candidate": "청"
+          }
+        ]
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "저염쌈장재료",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[저염쌈장재료] 참기름 1큰술",
+          "다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "seasoning",
+        "group": "저염쌈장재료",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[저염쌈장재료] 통깨 1큰술",
+          "다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양배추",
+        "role": "food",
+        "group": "양배추쌈재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": "한장씩 뜯은, 씻은, 먹기좋은 크기로 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양배추쌈재료] 양배추",
+          "양배추는 한장씩 뜯어 흐르는 물에 깨끗이 씻고 먹기좋은 크기로 썬후 그릇에 양배추 담고 물 반컵 담고 뚜껑이나 그릇 덮어 전자레인지에서 5~7분간 돌려주면 적당히 익는답니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양배추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "양배추쌈재료",
+        "quantity": "반컵",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "양배추는 한장씩 뜯어 흐르는 물에 깨끗이 씻고 먹기좋은 크기로 썬후 그릇에 양배추 담고 물 반컵 담고 뚜껑이나 그릇 덮어 전자레인지에서 5~7분간 돌려주면 적당히 익는답니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "c1f75e87f122e8152b1018ec5e4b349ed9ee6feb1db2cb79322c907fa2a2c54c",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6906704:dish",
+      "canonical_id": "dish:3bad26ebbba6f90a8106a9ff17172a0702971b1a3c431a91fc8fd501de29452d",
+      "original_name": "쌈장 쌈밥",
+      "canonical_name": "쌈장 쌈밥",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:001:candidate:0",
+      "canonical_id": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+      "original_name": "된장",
+      "canonical_name": "된장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:002:candidate:0",
+      "canonical_id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+      "original_name": "고추장",
+      "canonical_name": "고추장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:003:candidate:0",
+      "canonical_id": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+      "original_name": "두부",
+      "canonical_name": "두부",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:004:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:005:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:006:candidate:0",
+      "canonical_id": "ingredient:61ccf232a195012793d3416433f3dc4e557652e50e91e1f7ea4d4562150e27d5",
+      "original_name": "풋고추",
+      "canonical_name": "풋고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:007:candidate:0",
+      "canonical_id": "ingredient:f581a9abacd48573fe4dd3aeff8ade5e3f510a7faffc45524c78d075a564e794",
+      "original_name": "매실청",
+      "canonical_name": "매실청",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:007:candidate:1",
+      "canonical_id": "ingredient:9c5b718640187aa660ff2c10c4ee97aea7f03e1371f2990ab34a29ebdb4f62cc",
+      "original_name": "청",
+      "canonical_name": "청",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:008:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:009:candidate:0",
+      "canonical_id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+      "original_name": "깨",
+      "canonical_name": "깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:010:candidate:0",
+      "canonical_id": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+      "original_name": "양배추",
+      "canonical_name": "양배추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6906704:component:011:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6906704",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "5c6294cc282a0246338284dc6b435a5bd67cb1b8d01c8d60df92ea6f8ce38402"
+}

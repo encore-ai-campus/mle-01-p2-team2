@@ -1,0 +1,479 @@
+{
+  "recipe_uid": "10000recipe_7081691",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081691",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081691",
+          "title": "아보카도 계란 샐러드",
+          "description": "아보카도 1.5개에 삶은계란 3개의 비율로 좋아하는 소스 비율로 골고루 섞어 만든 간단하고 맛있는 아보카도 계란 샐러드 만들어 볼게요",
+          "servings": "3인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 80,
+          "source_url": "https://www.10000recipe.com/recipe/7081691",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:1334af4ba47a530692f9aca4bd756a63c574184ff8e0846e11a1ba4ee7efb360",
+        "label": "Dish",
+        "properties": {
+          "name": "아보카도 계란 샐러드"
+        }
+      },
+      {
+        "id": "10000recipe_7081691:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "아보카도",
+          "role": "food",
+          "group": "[아보카도계란샐러드 재료]",
+          "quantity": "1.5",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"아보카도 1.5개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081691:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:9631227f9ebfb3584985838f4b516ad960fd7332503f86a58f1d1f133d487b9a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "아보카도",
+          "name_normalized": "아보카도"
+        }
+      },
+      {
+        "id": "10000recipe_7081691:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삶은계란",
+          "role": "food",
+          "group": "[아보카도계란샐러드 재료]",
+          "quantity": "3",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"삶은계란 3개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081691:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:dc8a537648070f8c995bc0e0859cf41b173296128d7a1560903862109c336d33",
+        "label": "Ingredient",
+        "properties": {
+          "name": "삶은계란",
+          "name_normalized": "삶은계란"
+        }
+      },
+      {
+        "id": "10000recipe_7081691:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "말돈소금",
+          "role": "food",
+          "group": "[아보카도계란샐러드 재료]",
+          "quantity": "조금",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"말돈소금 조금\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081691:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:58a974c1817c547914c2c774b0c81bf9465ae88c60d6c757fe475fac0dbf483b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "말돈소금",
+          "name_normalized": "말돈소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081691:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홀그레인머스터드",
+          "role": "food",
+          "group": "[아보카도계란샐러드 재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"홀그레인머스터드 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081691:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:6392e8a20641765cbc3565d6052bd7298e8a511aa926dac1502f27856c3753b6",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홀그레인머스터드",
+          "name_normalized": "홀그레인머스터드"
+        }
+      },
+      {
+        "id": "10000recipe_7081691:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "허니머스터드",
+          "role": "food",
+          "group": "[아보카도계란샐러드 재료]",
+          "quantity": "1/2",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"허니머스터드 1/2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081691:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:6ffac8927444591c41d18c59981343eff83634631e91738e75db51489978cf67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "허니머스터드",
+          "name_normalized": "허니머스터드"
+        }
+      },
+      {
+        "id": "10000recipe_7081691:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "알룰로스",
+          "role": "food",
+          "group": "[아보카도계란샐러드 재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"알룰로스 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081691:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:8a13e6661f3779097b6a98501f44386e7157f5ae95fb69566141f2942866c0a7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "알룰로스",
+          "name_normalized": "알룰로스"
+        }
+      },
+      {
+        "id": "10000recipe_7081691:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "치아씨드",
+          "role": "food",
+          "group": "[아보카도계란샐러드 재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"치아씨드 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081691:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:f8604717cf67c3d3ab51420eebf44e2b2c873b3b2a4ac517b7869bd9b424ed34",
+        "label": "Ingredient",
+        "properties": {
+          "name": "치아씨드",
+          "name_normalized": "치아씨드"
+        }
+      },
+      {
+        "id": "10000recipe_7081691:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "[아보카도계란샐러드 재료]",
+          "quantity": "조금",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"후추 조금\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081691:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_7081691:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마요네즈",
+          "role": "seasoning",
+          "group": "[아보카도계란샐러드 재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"마요네즈 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081691:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마요네즈",
+          "name_normalized": "마요네즈"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081691",
+        "type": "VARIANT_OF",
+        "target": "dish:1334af4ba47a530692f9aca4bd756a63c574184ff8e0846e11a1ba4ee7efb360",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081691:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:9631227f9ebfb3584985838f4b516ad960fd7332503f86a58f1d1f133d487b9a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081691:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:dc8a537648070f8c995bc0e0859cf41b173296128d7a1560903862109c336d33",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081691:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:58a974c1817c547914c2c774b0c81bf9465ae88c60d6c757fe475fac0dbf483b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081691:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:6392e8a20641765cbc3565d6052bd7298e8a511aa926dac1502f27856c3753b6",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081691:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:6ffac8927444591c41d18c59981343eff83634631e91738e75db51489978cf67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081691:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:8a13e6661f3779097b6a98501f44386e7157f5ae95fb69566141f2942866c0a7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081691:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:f8604717cf67c3d3ab51420eebf44e2b2c873b3b2a4ac517b7869bd9b424ed34",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081691:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081691:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081691:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081691:dish",
+      "canonical_id": "dish:1334af4ba47a530692f9aca4bd756a63c574184ff8e0846e11a1ba4ee7efb360",
+      "original_name": "아보카도 계란 샐러드",
+      "canonical_name": "아보카도 계란 샐러드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081691:component:001:candidate:0",
+      "canonical_id": "ingredient:9631227f9ebfb3584985838f4b516ad960fd7332503f86a58f1d1f133d487b9a",
+      "original_name": "아보카도",
+      "canonical_name": "아보카도",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081691:component:002:candidate:0",
+      "canonical_id": "ingredient:dc8a537648070f8c995bc0e0859cf41b173296128d7a1560903862109c336d33",
+      "original_name": "삶은계란",
+      "canonical_name": "삶은계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081691:component:003:candidate:0",
+      "canonical_id": "ingredient:58a974c1817c547914c2c774b0c81bf9465ae88c60d6c757fe475fac0dbf483b",
+      "original_name": "말돈소금",
+      "canonical_name": "말돈소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081691:component:004:candidate:0",
+      "canonical_id": "ingredient:6392e8a20641765cbc3565d6052bd7298e8a511aa926dac1502f27856c3753b6",
+      "original_name": "홀그레인머스터드",
+      "canonical_name": "홀그레인머스터드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081691:component:005:candidate:0",
+      "canonical_id": "ingredient:6ffac8927444591c41d18c59981343eff83634631e91738e75db51489978cf67",
+      "original_name": "허니머스터드",
+      "canonical_name": "허니머스터드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081691:component:006:candidate:0",
+      "canonical_id": "ingredient:8a13e6661f3779097b6a98501f44386e7157f5ae95fb69566141f2942866c0a7",
+      "original_name": "알룰로스",
+      "canonical_name": "알룰로스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081691:component:007:candidate:0",
+      "canonical_id": "ingredient:f8604717cf67c3d3ab51420eebf44e2b2c873b3b2a4ac517b7869bd9b424ed34",
+      "original_name": "치아씨드",
+      "canonical_name": "치아씨드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081691:component:008:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081691:component:009:candidate:0",
+      "canonical_id": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+      "original_name": "마요네즈",
+      "canonical_name": "마요네즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 9,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 19,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

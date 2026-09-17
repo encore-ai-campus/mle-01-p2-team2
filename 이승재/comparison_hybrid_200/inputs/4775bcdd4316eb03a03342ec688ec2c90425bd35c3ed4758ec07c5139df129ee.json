@@ -1,0 +1,333 @@
+{
+  "recipe_uid": "10000recipe_6850809",
+  "payload": {
+    "title": "경양식 돈까스",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "돼지등심",
+        "돼지등심",
+        "돼지등심",
+        "food",
+        "[돈까스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "튀김가루",
+        "튀김가루",
+        "튀김가루",
+        "food",
+        "[돈까스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "빵가루",
+        "빵가루",
+        "빵가루",
+        "food",
+        "[돈까스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "양배추",
+        "양배추",
+        "양배추",
+        "food",
+        "[돈까스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "식용유",
+        "식용유",
+        "식용유",
+        "seasoning",
+        "[돈까스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금",
+        "소금",
+        "소금",
+        "seasoning",
+        "[돈까스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "후추",
+        "후추",
+        "후추",
+        "seasoning",
+        "[돈까스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "밀가루",
+        "밀가루",
+        "밀가루",
+        "seasoning",
+        "[소스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "버터",
+        "버터",
+        "버터",
+        "seasoning",
+        "[소스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "식초",
+        "식초",
+        "식초",
+        "seasoning",
+        "[소스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "간장",
+        "간장",
+        "간장",
+        "seasoning",
+        "[소스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "설탕",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[소스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "케챱",
+        "케챱",
+        "케챱",
+        "seasoning",
+        "[소스 재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "물",
+        "물",
+        "물",
+        "seasoning",
+        "[소스 재료]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "돼지등심",
+      "raw_name": "돼지등심",
+      "ingredient_candidate": "돼지등심",
+      "role": "food",
+      "group": "[돈까스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "튀김가루",
+      "raw_name": "튀김가루",
+      "ingredient_candidate": "튀김가루",
+      "role": "food",
+      "group": "[돈까스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "빵가루",
+      "raw_name": "빵가루",
+      "ingredient_candidate": "빵가루",
+      "role": "food",
+      "group": "[돈까스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양배추",
+      "raw_name": "양배추",
+      "ingredient_candidate": "양배추",
+      "role": "food",
+      "group": "[돈까스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "식용유",
+      "raw_name": "식용유",
+      "ingredient_candidate": "식용유",
+      "role": "seasoning",
+      "group": "[돈까스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[돈까스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[돈까스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "밀가루",
+      "raw_name": "밀가루",
+      "ingredient_candidate": "밀가루",
+      "role": "seasoning",
+      "group": "[소스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "버터",
+      "raw_name": "버터",
+      "ingredient_candidate": "버터",
+      "role": "seasoning",
+      "group": "[소스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "식초",
+      "raw_name": "식초",
+      "ingredient_candidate": "식초",
+      "role": "seasoning",
+      "group": "[소스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[소스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[소스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "케챱",
+      "raw_name": "케챱",
+      "ingredient_candidate": "케챱",
+      "role": "seasoning",
+      "group": "[소스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "seasoning",
+      "group": "[소스 재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 12,
+  "sent_steps": 0,
+  "evidence_text": "경양식 돈까스\n돼지등심\n튀김가루\n빵가루\n양배추\n식용유\n소금\n후추\n밀가루\n버터\n식초\n간장\n설탕\n케챱\n물"
+}

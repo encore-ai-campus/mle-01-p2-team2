@@ -1,0 +1,223 @@
+{
+  "recipe_uid": "10000recipe_7081843",
+  "payload": {
+    "title": "No가열 불 없이 입안에서 폭발하는 단짠, 복숭아 페타치즈 샐러드",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "복숭아 2개",
+        "복숭아",
+        "복숭아",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "페타치즈 80g",
+        "페타치즈",
+        "페타치즈",
+        "food",
+        "[재료]",
+        "80",
+        "g",
+        null,
+        null
+      ],
+      [
+        "애플민트 2g",
+        "애플민트",
+        "애플민트",
+        "food",
+        "[재료]",
+        "2",
+        "g",
+        null,
+        null
+      ],
+      [
+        "발사믹식초 2숟가락",
+        "발사믹식초 2숟가락",
+        "발사믹식초 2숟가락",
+        "seasoning",
+        "[드레싱]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "레몬즙 2숟가락",
+        "레몬즙 2숟가락",
+        "레몬즙 2숟가락",
+        "seasoning",
+        "[드레싱]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "꿀 2숟가락",
+        "꿀 2숟가락",
+        "꿀 2숟가락",
+        "seasoning",
+        "[드레싱]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "올리브오일 3숟가락",
+        "올리브오일 3숟가락",
+        "올리브오일 3숟가락",
+        "seasoning",
+        "[드레싱]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 2꼬집",
+        "소금",
+        "소금",
+        "seasoning",
+        "[드레싱]",
+        "2",
+        "꼬집",
+        null,
+        null
+      ],
+      [
+        "후춧가루 2꼬집",
+        "후춧가루",
+        "후추",
+        "seasoning",
+        "[드레싱]",
+        "2",
+        "꼬집",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "복숭아 2개",
+      "raw_name": "복숭아",
+      "ingredient_candidate": "복숭아",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "페타치즈 80g",
+      "raw_name": "페타치즈",
+      "ingredient_candidate": "페타치즈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "80",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "애플민트 2g",
+      "raw_name": "애플민트",
+      "ingredient_candidate": "애플민트",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "발사믹식초 2숟가락",
+      "raw_name": "발사믹식초 2숟가락",
+      "ingredient_candidate": "발사믹식초 2숟가락",
+      "role": "seasoning",
+      "group": "[드레싱]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "레몬즙 2숟가락",
+      "raw_name": "레몬즙 2숟가락",
+      "ingredient_candidate": "레몬즙 2숟가락",
+      "role": "seasoning",
+      "group": "[드레싱]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "꿀 2숟가락",
+      "raw_name": "꿀 2숟가락",
+      "ingredient_candidate": "꿀 2숟가락",
+      "role": "seasoning",
+      "group": "[드레싱]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리브오일 3숟가락",
+      "raw_name": "올리브오일 3숟가락",
+      "ingredient_candidate": "올리브오일 3숟가락",
+      "role": "seasoning",
+      "group": "[드레싱]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 2꼬집",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[드레싱]",
+      "quantity": "2",
+      "unit": "꼬집",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후춧가루 2꼬집",
+      "raw_name": "후춧가루",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[드레싱]",
+      "quantity": "2",
+      "unit": "꼬집",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 7,
+  "sent_steps": 0,
+  "evidence_text": "No가열 불 없이 입안에서 폭발하는 단짠, 복숭아 페타치즈 샐러드\n복숭아 2개\n페타치즈 80g\n애플민트 2g\n발사믹식초 2숟가락\n레몬즙 2숟가락\n꿀 2숟가락\n올리브오일 3숟가락\n소금 2꼬집\n후춧가루 2꼬집"
+}

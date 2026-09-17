@@ -1,0 +1,823 @@
+{
+  "recipe_uid": "10000recipe_3334221",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_3334221",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_3334221",
+          "title": "검은콩자반-말캉말캉부드럽게바로 조려요 ^^",
+          "description": "불리고하는게 귀찮아서 늘 저는 바로 삶으면서 조린답니다. 약간 조림간장이남아서 밥비벼 먹으면 완전맛나잖아요 ㅋ 몸에도 좋고 보기에도 좋고 입안에서 식감도좋은 콩자반 만들어보자구요",
+          "servings": null,
+          "cooking_time": null,
+          "difficulty": "아무나",
+          "views": 144000,
+          "source_url": "https://www.10000recipe.com/recipe/3334221",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "검은콩자반"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "콩",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1",
+          "unit": "계량컵",
+          "preparation": "불리고 하는게 귀찮아서 늘 저는 바로 삶으면서 조린답니다",
+          "detail": "검은콩을 깨끗하게 골라내고 씻어서 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 콩 계량컵 기준 1\", \"검은콩을 꺠끗하게 골라내고 씻어줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "콩",
+          "name_normalized": "콩"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "4",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 간장 4T\", \"간장.설탕.청주.다넣고 조려줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "3",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 설탕 3T\", \"간장.설탕.청주.다넣고 조려줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청주",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청주 1T\", \"간장.설탕.청주.다넣고 조려줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청주",
+          "name_normalized": "청주"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리고당",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1.5",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 올리고당 1.5T\", \"다조려져갈때 올리고당을넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리고당",
+          "name_normalized": "올리고당"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "food",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 통깨 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다시마",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1",
+          "unit": "장",
+          "preparation": null,
+          "detail": "다시마는 콩비린내를 잡아줌",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 다시마 1장\", \"씻은콩에 다시마 한조각을넣고\", \"다시마는 콩비린내를잡아줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다시마",
+          "name_normalized": "다시마"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_3334221",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_3334221:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_3334221:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_3334221:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_3334221:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_3334221:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_3334221:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_3334221:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_3334221:component:007:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_3334221",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_3334221",
+          "title": "검은콩자반-말캉말캉부드럽게바로 조려요 ^^",
+          "description": "불리고하는게 귀찮아서 늘 저는 바로 삶으면서 조린답니다. 약간 조림간장이남아서 밥비벼 먹으면 완전맛나잖아요 ㅋ 몸에도 좋고 보기에도 좋고 입안에서 식감도좋은 콩자반 만들어보자구요",
+          "servings": null,
+          "cooking_time": null,
+          "difficulty": "아무나",
+          "views": 144000,
+          "source_url": "https://www.10000recipe.com/recipe/3334221",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:0da6b5a69e06c55fafde7af1be734e5aabd32479e0f8ab6547e8938b4590c47e",
+        "label": "Dish",
+        "properties": {
+          "name": "검은콩자반"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "콩",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1",
+          "unit": "계량컵",
+          "preparation": "불리고 하는게 귀찮아서 늘 저는 바로 삶으면서 조린답니다",
+          "detail": "검은콩을 깨끗하게 골라내고 씻어서 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 콩 계량컵 기준 1\", \"검은콩을 꺠끗하게 골라내고 씻어줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:1907b7af94794dcc5e23f607b641821db5bc8a14968def2fed97f608731d051e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "콩",
+          "name_normalized": "콩"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "4",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 간장 4T\", \"간장.설탕.청주.다넣고 조려줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "3",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 설탕 3T\", \"간장.설탕.청주.다넣고 조려줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청주",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청주 1T\", \"간장.설탕.청주.다넣고 조려줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청주",
+          "name_normalized": "청주"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리고당",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1.5",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 올리고당 1.5T\", \"다조려져갈때 올리고당을넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리고당",
+          "name_normalized": "올리고당"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "food",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 통깨 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_3334221:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다시마",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1",
+          "unit": "장",
+          "preparation": null,
+          "detail": "다시마는 콩비린내를 잡아줌",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 다시마 1장\", \"씻은콩에 다시마 한조각을넣고\", \"다시마는 콩비린내를잡아줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3334221:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:d0c385195df7238708a0225ac09a6fa03275a8de4e47c1550242f3472b417e56",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다시마",
+          "name_normalized": "다시마"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_3334221",
+        "type": "VARIANT_OF",
+        "target": "dish:0da6b5a69e06c55fafde7af1be734e5aabd32479e0f8ab6547e8938b4590c47e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:1907b7af94794dcc5e23f607b641821db5bc8a14968def2fed97f608731d051e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3334221:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3334221:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:d0c385195df7238708a0225ac09a6fa03275a8de4e47c1550242f3472b417e56",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "검은콩자반",
+    "components": [
+      {
+        "raw_name": "콩",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1",
+        "unit": "계량컵",
+        "preparation": "불리고 하는게 귀찮아서 늘 저는 바로 삶으면서 조린답니다",
+        "detail": "검은콩을 깨끗하게 골라내고 씻어서 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 콩 계량컵 기준 1",
+          "검은콩을 꺠끗하게 골라내고 씻어줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "콩",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "4",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 간장 4T",
+          "간장.설탕.청주.다넣고 조려줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "3",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 설탕 3T",
+          "간장.설탕.청주.다넣고 조려줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청주",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 청주 1T",
+          "간장.설탕.청주.다넣고 조려줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리고당",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1.5",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 올리고당 1.5T",
+          "다조려져갈때 올리고당을넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리고당",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "food",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 통깨 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다시마",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1",
+        "unit": "장",
+        "preparation": null,
+        "detail": "다시마는 콩비린내를 잡아줌",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 다시마 1장",
+          "씻은콩에 다시마 한조각을넣고",
+          "다시마는 콩비린내를잡아줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다시마",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "b6564e2442cefda756c2ba1cf2d67ada591edbe3689ee15de1802142dff34aca",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_3334221:dish",
+      "canonical_id": "dish:0da6b5a69e06c55fafde7af1be734e5aabd32479e0f8ab6547e8938b4590c47e",
+      "original_name": "검은콩자반",
+      "canonical_name": "검은콩자반",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3334221:component:001:candidate:0",
+      "canonical_id": "ingredient:1907b7af94794dcc5e23f607b641821db5bc8a14968def2fed97f608731d051e",
+      "original_name": "콩",
+      "canonical_name": "콩",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3334221:component:002:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3334221:component:003:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3334221:component:004:candidate:0",
+      "canonical_id": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+      "original_name": "청주",
+      "canonical_name": "청주",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3334221:component:005:candidate:0",
+      "canonical_id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+      "original_name": "올리고당",
+      "canonical_name": "올리고당",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3334221:component:006:candidate:0",
+      "canonical_id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+      "original_name": "통깨",
+      "canonical_name": "통깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3334221:component:007:candidate:0",
+      "canonical_id": "ingredient:d0c385195df7238708a0225ac09a6fa03275a8de4e47c1550242f3472b417e56",
+      "original_name": "다시마",
+      "canonical_name": "다시마",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_3334221",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "09ad5217fce4998fdca897eba1784575eb77aedf9e9a738e22abcfbef64f2e49"
+}

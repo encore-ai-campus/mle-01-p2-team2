@@ -1,0 +1,2026 @@
+{
+  "recipe_uid": "10000recipe_7082612",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082612",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082612",
+          "title": "자취생표 닭개장 만들기",
+          "description": "요즘 간단하게 끼니를 때우는 날이 많았는데요. 그랬더니 요즘 정말 뜨끈한 국물에 밥한그릇이 절실하게 생각이 났어요. 그래서 오늘은 모처럼 일찍 퇴근해서 왔고 저녁은 정말 든든하게 먹어야겠다 싶어서 만들어본 자취생표 닭개장 만들기입니다. 오늘 저는 무와 대파를 잔뜩 넣어서 시원하게 끓였고요. 원래는 무가 들어가지 않지만, 무를 잔뜩 넣어서 끓이는 고깃국인 소고기무국을 응용해서 만든 닭개장이랍니다.",
+          "servings": "5인분",
+          "cooking_time": "90분 이내",
+          "difficulty": "초급",
+          "views": 34,
+          "source_url": "https://www.10000recipe.com/recipe/7082612",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "닭개장"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "냉동 닭가슴살",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3덩이",
+          "unit": null,
+          "preparation": "해동된 것도 가능",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 냉동 닭가슴살 해동된 것도 가능 3덩이\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "닭가슴살",
+          "name_normalized": "닭가슴살"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:001:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "닭가슴살",
+          "name_normalized": "닭가슴살"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "큼직하게 썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1개\", \"대파는 큼직하게 썰어서 준비해주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "재료",
+          "quantity": "200g",
+          "unit": "g",
+          "preparation": "나박썰기",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 무 200g\", \"무는 나박썰기해주시면 되는데요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "얇게 총총 썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청양고추 1개\", \"청양고추랑 홍고추는 얇게 총총 썰어주시고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "얇게 총총 썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 홍고추 1개\", \"청양고추랑 홍고추는 얇게 총총 썰어주시고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "닭가슴살 삶을때",
+          "quantity": "1L",
+          "unit": "L",
+          "preparation": null,
+          "detail": "닭가슴살 삶을때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 삶을때] 물 1L\", \"닭가슴살을 냄비에 넣고 물을 1L부어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "닭가슴살 삶을때",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": null,
+          "detail": "닭가슴살 삶을때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 삶을때] 양파 1/2개\", \"양파 1/2개도 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "닭가슴살 삶을때",
+          "quantity": "1숟가락",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": "닭가슴살 삶을때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 삶을때] 맛술 1숟가락\", \"맛술 1숟갈 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "월계수잎",
+          "role": "seasoning",
+          "group": "닭가슴살 삶을때",
+          "quantity": "2장",
+          "unit": "장",
+          "preparation": null,
+          "detail": "닭가슴살 삶을때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 삶을때] 월계수잎 2장\", \"월계수잎2장 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "월계수잎",
+          "name_normalized": "월계수잎"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛소금",
+          "role": "seasoning",
+          "group": "닭가슴살 밑간",
+          "quantity": "1티스푼",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": "닭가슴살 밑간",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 밑간] 맛소금 1티스푼\", \"잘 찢어준 닭가슴살에는 맛소금 1티스푼 후추 1티스푼 넣고 골고루 섞어둡니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛소금",
+          "name_normalized": "맛소금"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "닭가슴살 밑간",
+          "quantity": "1티스푼",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": "닭가슴살 밑간",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 밑간] 후추 1티스푼\", \"잘 찢어준 닭가슴살에는 맛소금 1티스푼 후추 1티스푼 넣고 골고루 섞어둡니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식용유",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "4큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 식용유 4큰술\", \"큰냄비에 식용유 4큰숟갈 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식용유",
+          "name_normalized": "식용유"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2숟가락",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 고춧가루 2숟가락\", \"고춧가루 2숟갈\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": "다진",
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 다진마늘 1큰술\", \"다진마늘 1큰숟갈 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "국간장",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2.5숟가락",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 국간장 2.5숟가락\", \"국간장 2.5숟갈\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:015:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "국간장",
+          "name_normalized": "국간장"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참치액",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2숟가락",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 참치액 2숟가락\", \"참치액 2숟갈\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:016:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참치액",
+          "name_normalized": "참치액"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "치킨스톡",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1숟가락",
+          "unit": "숟가락",
+          "preparation": "분말형기준",
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 치킨스톡 분말형기준 1숟가락\", \"치킨스톡 1숟갈\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:017:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "치킨스톡",
+          "name_normalized": "치킨스톡"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1티스푼",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 후추 1티스푼\", \"후추 1티스푼 넣고\"]",
+          "quality_flags": [
+            "POSSIBLE_DUPLICATE_COMPONENT"
+          ],
+          "component_uid": "10000recipe_7082612:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:018:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082612",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7082612:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:001",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7082612:component:001:candidate:1",
+        "properties": {
+          "raw_name": "해동된 것도",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"냉동 닭가슴살 해동된 것도 가능\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:014:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:015",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:015:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:016",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:016:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:017",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:017:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:018",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082612:component:018:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082612",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082612",
+          "title": "자취생표 닭개장 만들기",
+          "description": "요즘 간단하게 끼니를 때우는 날이 많았는데요. 그랬더니 요즘 정말 뜨끈한 국물에 밥한그릇이 절실하게 생각이 났어요. 그래서 오늘은 모처럼 일찍 퇴근해서 왔고 저녁은 정말 든든하게 먹어야겠다 싶어서 만들어본 자취생표 닭개장 만들기입니다. 오늘 저는 무와 대파를 잔뜩 넣어서 시원하게 끓였고요. 원래는 무가 들어가지 않지만, 무를 잔뜩 넣어서 끓이는 고깃국인 소고기무국을 응용해서 만든 닭개장이랍니다.",
+          "servings": "5인분",
+          "cooking_time": "90분 이내",
+          "difficulty": "초급",
+          "views": 34,
+          "source_url": "https://www.10000recipe.com/recipe/7082612",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:f8ced615562a02823e390d30a38b3bc4260c641e1d378906656c3fba7c7954dc",
+        "label": "Dish",
+        "properties": {
+          "name": "닭개장"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "냉동 닭가슴살",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3덩이",
+          "unit": null,
+          "preparation": "해동된 것도 가능",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 냉동 닭가슴살 해동된 것도 가능 3덩이\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:8cc27807fe09522398497f01e6fd8a3224b95a20b357ee0d82490bcd3d52eae9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "닭가슴살",
+          "name_normalized": "닭가슴살"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "큼직하게 썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1개\", \"대파는 큼직하게 썰어서 준비해주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "재료",
+          "quantity": "200g",
+          "unit": "g",
+          "preparation": "나박썰기",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 무 200g\", \"무는 나박썰기해주시면 되는데요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "얇게 총총 썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청양고추 1개\", \"청양고추랑 홍고추는 얇게 총총 썰어주시고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "얇게 총총 썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 홍고추 1개\", \"청양고추랑 홍고추는 얇게 총총 썰어주시고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "닭가슴살 삶을때",
+          "quantity": "1L",
+          "unit": "L",
+          "preparation": null,
+          "detail": "닭가슴살 삶을때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 삶을때] 물 1L\", \"닭가슴살을 냄비에 넣고 물을 1L부어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "닭가슴살 삶을때",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": null,
+          "detail": "닭가슴살 삶을때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 삶을때] 양파 1/2개\", \"양파 1/2개도 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "닭가슴살 삶을때",
+          "quantity": "1숟가락",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": "닭가슴살 삶을때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 삶을때] 맛술 1숟가락\", \"맛술 1숟갈 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "월계수잎",
+          "role": "seasoning",
+          "group": "닭가슴살 삶을때",
+          "quantity": "2장",
+          "unit": "장",
+          "preparation": null,
+          "detail": "닭가슴살 삶을때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 삶을때] 월계수잎 2장\", \"월계수잎2장 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:9d4629eb2c9280759774fbbd080ce2abdbcbf8242c1211ec3a5f32da44d3f934",
+        "label": "Ingredient",
+        "properties": {
+          "name": "월계수잎",
+          "name_normalized": "월계수잎"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛소금",
+          "role": "seasoning",
+          "group": "닭가슴살 밑간",
+          "quantity": "1티스푼",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": "닭가슴살 밑간",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 밑간] 맛소금 1티스푼\", \"잘 찢어준 닭가슴살에는 맛소금 1티스푼 후추 1티스푼 넣고 골고루 섞어둡니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:fddbfc1ea6eb37da89f94b429b55c121e3f60b4c944dc9e7a70396aabef67d38",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛소금",
+          "name_normalized": "맛소금"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "닭가슴살 밑간",
+          "quantity": "1티스푼",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": "닭가슴살 밑간",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭가슴살 밑간] 후추 1티스푼\", \"잘 찢어준 닭가슴살에는 맛소금 1티스푼 후추 1티스푼 넣고 골고루 섞어둡니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식용유",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "4큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 식용유 4큰술\", \"큰냄비에 식용유 4큰숟갈 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식용유",
+          "name_normalized": "식용유"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2숟가락",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 고춧가루 2숟가락\", \"고춧가루 2숟갈\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": "다진",
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 다진마늘 1큰술\", \"다진마늘 1큰숟갈 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "국간장",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2.5숟가락",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 국간장 2.5숟가락\", \"국간장 2.5숟갈\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "국간장",
+          "name_normalized": "국간장"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참치액",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2숟가락",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 참치액 2숟가락\", \"참치액 2숟갈\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "ingredient:5fcc7ea8a0af0a2bc3dcf84673c51363d92331367fc3d729b1727828f61c3df8",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참치액",
+          "name_normalized": "참치액"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "치킨스톡",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1숟가락",
+          "unit": "숟가락",
+          "preparation": "분말형기준",
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 치킨스톡 분말형기준 1숟가락\", \"치킨스톡 1숟갈\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082612:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "ingredient:e5c5e7e9ee77de51dc033e78d43e2469c7b24ac5a9c72f559e39809b79cab91c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "치킨스톡",
+          "name_normalized": "치킨스톡"
+        }
+      },
+      {
+        "id": "10000recipe_7082612:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1티스푼",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": "양념재료",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 후추 1티스푼\", \"후추 1티스푼 넣고\"]",
+          "quality_flags": [
+            "POSSIBLE_DUPLICATE_COMPONENT"
+          ],
+          "component_uid": "10000recipe_7082612:component:018",
+          "index": 18
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082612",
+        "type": "VARIANT_OF",
+        "target": "dish:f8ced615562a02823e390d30a38b3bc4260c641e1d378906656c3fba7c7954dc",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:8cc27807fe09522398497f01e6fd8a3224b95a20b357ee0d82490bcd3d52eae9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:001",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:8cc27807fe09522398497f01e6fd8a3224b95a20b357ee0d82490bcd3d52eae9",
+        "properties": {
+          "raw_name": "해동된 것도",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"냉동 닭가슴살 해동된 것도 가능\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:9d4629eb2c9280759774fbbd080ce2abdbcbf8242c1211ec3a5f32da44d3f934",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:fddbfc1ea6eb37da89f94b429b55c121e3f60b4c944dc9e7a70396aabef67d38",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:016",
+        "type": "INGREDIENT",
+        "target": "ingredient:5fcc7ea8a0af0a2bc3dcf84673c51363d92331367fc3d729b1727828f61c3df8",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:017",
+        "type": "INGREDIENT",
+        "target": "ingredient:e5c5e7e9ee77de51dc033e78d43e2469c7b24ac5a9c72f559e39809b79cab91c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082612:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082612:component:018",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "닭개장",
+    "components": [
+      {
+        "raw_name": "냉동 닭가슴살",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3덩이",
+        "unit": null,
+        "preparation": "해동된 것도 가능",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 냉동 닭가슴살 해동된 것도 가능 3덩이"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "닭가슴살",
+        "alternatives": [
+          {
+            "raw_name": "해동된 것도",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "냉동 닭가슴살 해동된 것도 가능"
+            ],
+            "ingredient_candidate": "닭가슴살"
+          }
+        ]
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "큼직하게 썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1개",
+          "대파는 큼직하게 썰어서 준비해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무",
+        "role": "food",
+        "group": "재료",
+        "quantity": "200g",
+        "unit": "g",
+        "preparation": "나박썰기",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 무 200g",
+          "무는 나박썰기해주시면 되는데요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "얇게 총총 썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 청양고추 1개",
+          "청양고추랑 홍고추는 얇게 총총 썰어주시고요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "얇게 총총 썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 홍고추 1개",
+          "청양고추랑 홍고추는 얇게 총총 썰어주시고요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "닭가슴살 삶을때",
+        "quantity": "1L",
+        "unit": "L",
+        "preparation": null,
+        "detail": "닭가슴살 삶을때 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭가슴살 삶을때] 물 1L",
+          "닭가슴살을 냄비에 넣고 물을 1L부어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "닭가슴살 삶을때",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": null,
+        "detail": "닭가슴살 삶을때 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭가슴살 삶을때] 양파 1/2개",
+          "양파 1/2개도 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛술",
+        "role": "seasoning",
+        "group": "닭가슴살 삶을때",
+        "quantity": "1숟가락",
+        "unit": "숟가락",
+        "preparation": null,
+        "detail": "닭가슴살 삶을때 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭가슴살 삶을때] 맛술 1숟가락",
+          "맛술 1숟갈 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛술",
+        "alternatives": []
+      },
+      {
+        "raw_name": "월계수잎",
+        "role": "seasoning",
+        "group": "닭가슴살 삶을때",
+        "quantity": "2장",
+        "unit": "장",
+        "preparation": null,
+        "detail": "닭가슴살 삶을때 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭가슴살 삶을때] 월계수잎 2장",
+          "월계수잎2장 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "월계수잎",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛소금",
+        "role": "seasoning",
+        "group": "닭가슴살 밑간",
+        "quantity": "1티스푼",
+        "unit": "티스푼",
+        "preparation": null,
+        "detail": "닭가슴살 밑간",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭가슴살 밑간] 맛소금 1티스푼",
+          "잘 찢어준 닭가슴살에는 맛소금 1티스푼 후추 1티스푼 넣고 골고루 섞어둡니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "닭가슴살 밑간",
+        "quantity": "1티스푼",
+        "unit": "티스푼",
+        "preparation": null,
+        "detail": "닭가슴살 밑간",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭가슴살 밑간] 후추 1티스푼",
+          "잘 찢어준 닭가슴살에는 맛소금 1티스푼 후추 1티스푼 넣고 골고루 섞어둡니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식용유",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "4큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "양념재료",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 식용유 4큰술",
+          "큰냄비에 식용유 4큰숟갈 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식용유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2숟가락",
+        "unit": "숟가락",
+        "preparation": null,
+        "detail": "양념재료",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 고춧가루 2숟가락",
+          "고춧가루 2숟갈"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": "양념재료",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 다진마늘 1큰술",
+          "다진마늘 1큰숟갈 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2.5숟가락",
+        "unit": "숟가락",
+        "preparation": null,
+        "detail": "양념재료",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 국간장 2.5숟가락",
+          "국간장 2.5숟갈"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참치액",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2숟가락",
+        "unit": "숟가락",
+        "preparation": null,
+        "detail": "양념재료",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 참치액 2숟가락",
+          "참치액 2숟갈"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참치액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "치킨스톡",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1숟가락",
+        "unit": "숟가락",
+        "preparation": "분말형기준",
+        "detail": "양념재료",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 치킨스톡 분말형기준 1숟가락",
+          "치킨스톡 1숟갈"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "치킨스톡",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1티스푼",
+        "unit": "티스푼",
+        "preparation": null,
+        "detail": "양념재료",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 후추 1티스푼",
+          "후추 1티스푼 넣고"
+        ],
+        "quality_flags": [
+          "POSSIBLE_DUPLICATE_COMPONENT"
+        ],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "84a382554ee7881fe43ad53213dd5e3c6af44a969ad215ac68657e3a4e5d34c6",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7082612:dish",
+      "canonical_id": "dish:f8ced615562a02823e390d30a38b3bc4260c641e1d378906656c3fba7c7954dc",
+      "original_name": "닭개장",
+      "canonical_name": "닭개장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:001:candidate:0",
+      "canonical_id": "ingredient:8cc27807fe09522398497f01e6fd8a3224b95a20b357ee0d82490bcd3d52eae9",
+      "original_name": "닭가슴살",
+      "canonical_name": "닭가슴살",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:001:candidate:1",
+      "canonical_id": "ingredient:8cc27807fe09522398497f01e6fd8a3224b95a20b357ee0d82490bcd3d52eae9",
+      "original_name": "닭가슴살",
+      "canonical_name": "닭가슴살",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:002:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:003:candidate:0",
+      "canonical_id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+      "original_name": "무",
+      "canonical_name": "무",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:004:candidate:0",
+      "canonical_id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+      "original_name": "청양고추",
+      "canonical_name": "청양고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:005:candidate:0",
+      "canonical_id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+      "original_name": "홍고추",
+      "canonical_name": "홍고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:006:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:007:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:008:candidate:0",
+      "canonical_id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+      "original_name": "맛술",
+      "canonical_name": "맛술",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:009:candidate:0",
+      "canonical_id": "ingredient:9d4629eb2c9280759774fbbd080ce2abdbcbf8242c1211ec3a5f32da44d3f934",
+      "original_name": "월계수잎",
+      "canonical_name": "월계수잎",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:010:candidate:0",
+      "canonical_id": "ingredient:fddbfc1ea6eb37da89f94b429b55c121e3f60b4c944dc9e7a70396aabef67d38",
+      "original_name": "맛소금",
+      "canonical_name": "맛소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:011:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:012:candidate:0",
+      "canonical_id": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+      "original_name": "식용유",
+      "canonical_name": "식용유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:013:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:014:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:015:candidate:0",
+      "canonical_id": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+      "original_name": "국간장",
+      "canonical_name": "국간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:016:candidate:0",
+      "canonical_id": "ingredient:5fcc7ea8a0af0a2bc3dcf84673c51363d92331367fc3d729b1727828f61c3df8",
+      "original_name": "참치액",
+      "canonical_name": "참치액",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:017:candidate:0",
+      "canonical_id": "ingredient:e5c5e7e9ee77de51dc033e78d43e2469c7b24ac5a9c72f559e39809b79cab91c",
+      "original_name": "치킨스톡",
+      "canonical_name": "치킨스톡",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082612:component:018:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7082612",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_7082612:component:001: ALTERNATIVE_MODE",
+      "10000recipe_7082612:component:001: SELF_ALTERNATIVE"
+    ],
+    "stage1_errors": [
+      "10000recipe_7082612:component:001: ALTERNATIVE_MODE"
+    ],
+    "stage2_errors": [
+      "10000recipe_7082612:component:001: ALTERNATIVE_MODE",
+      "10000recipe_7082612:component:001: SELF_ALTERNATIVE"
+    ]
+  },
+  "review_hash": "71e6482b5e5bbbbb24ba9b4471f0f92f117d54b62fe2d8f859c7475e8c3cf0a6"
+}

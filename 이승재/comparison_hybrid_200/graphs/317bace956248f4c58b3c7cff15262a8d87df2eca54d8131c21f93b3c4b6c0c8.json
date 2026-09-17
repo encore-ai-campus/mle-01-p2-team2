@@ -1,0 +1,244 @@
+{
+  "recipe_uid": "10000recipe_1802633",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_1802633",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_1802633",
+          "title": "베이컨떡꼬치",
+          "description": "쫄깃한 떡에 짭쪼름한 베이컨이 감싼 베이컨떡꼬치입니다. 꼬치로 만들어서 먹기도 쉽고 술안주로 안성맞춤인 꼬치요리입니다.",
+          "servings": "2인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "초급",
+          "views": 102000,
+          "source_url": "https://www.10000recipe.com/recipe/1802633",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:715cfbc9f428252643f1ff035989954866260067428190cddd030a2e50654982",
+        "label": "Dish",
+        "properties": {
+          "name": "베이컨떡꼬치"
+        }
+      },
+      {
+        "id": "10000recipe_1802633:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "떡볶이떡",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"떡볶이떡\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_1802633:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:00f726882af9dc82d5fea79ff5b2b90fed8acab225673bd36f1ea01a3b9a92b0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "떡볶이떡",
+          "name_normalized": "떡볶이떡"
+        }
+      },
+      {
+        "id": "10000recipe_1802633:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베이컨",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"베이컨\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_1802633:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이컨",
+          "name_normalized": "베이컨"
+        }
+      },
+      {
+        "id": "10000recipe_1802633:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소금\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_1802633:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_1802633:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "블랙페이퍼(흑후추)",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"블랙페이퍼(흑후추)\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_1802633:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:5c6f5ad419bf01542502abf115d85d913568cf7d98756ecf95bbf3e67e9e04fd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "블랙페이퍼(흑후추)",
+          "name_normalized": "블랙페이퍼(흑후추)"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_1802633",
+        "type": "VARIANT_OF",
+        "target": "dish:715cfbc9f428252643f1ff035989954866260067428190cddd030a2e50654982",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_1802633",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_1802633:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_1802633:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:00f726882af9dc82d5fea79ff5b2b90fed8acab225673bd36f1ea01a3b9a92b0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_1802633",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_1802633:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_1802633:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_1802633",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_1802633:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_1802633:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_1802633",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_1802633:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_1802633:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:5c6f5ad419bf01542502abf115d85d913568cf7d98756ecf95bbf3e67e9e04fd",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_1802633:dish",
+      "canonical_id": "dish:715cfbc9f428252643f1ff035989954866260067428190cddd030a2e50654982",
+      "original_name": "베이컨떡꼬치",
+      "canonical_name": "베이컨떡꼬치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_1802633:component:001:candidate:0",
+      "canonical_id": "ingredient:00f726882af9dc82d5fea79ff5b2b90fed8acab225673bd36f1ea01a3b9a92b0",
+      "original_name": "떡볶이떡",
+      "canonical_name": "떡볶이떡",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_1802633:component:002:candidate:0",
+      "canonical_id": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+      "original_name": "베이컨",
+      "canonical_name": "베이컨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_1802633:component:003:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_1802633:component:004:candidate:0",
+      "canonical_id": "ingredient:5c6f5ad419bf01542502abf115d85d913568cf7d98756ecf95bbf3e67e9e04fd",
+      "original_name": "블랙페이퍼(흑후추)",
+      "canonical_name": "블랙페이퍼(흑후추)",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 4,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 9,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

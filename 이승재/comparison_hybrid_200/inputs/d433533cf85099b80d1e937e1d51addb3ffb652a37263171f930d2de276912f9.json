@@ -1,0 +1,311 @@
+{
+  "recipe_uid": "10000recipe_4790224",
+  "payload": {
+    "title": "고소하고 부드러운 소고기볶음밥",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "소고기 200g",
+        "소고기",
+        "소고기",
+        "food",
+        "[재료]",
+        "200",
+        "g",
+        null,
+        null
+      ],
+      [
+        "양파 1/4개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1/4",
+        "개",
+        null,
+        null
+      ],
+      [
+        "새송이버섯 1개",
+        "새송이버섯",
+        "새송이버섯",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "당근 1/5개",
+        "당근",
+        "당근",
+        "food",
+        "[재료]",
+        "1/5",
+        "개",
+        null,
+        null
+      ],
+      [
+        "호박 1/5개",
+        "호박",
+        "호박",
+        "food",
+        "[재료]",
+        "1/5",
+        "개",
+        null,
+        null
+      ],
+      [
+        "밥 2컵",
+        "밥",
+        "밥",
+        "food",
+        "[재료]",
+        "2",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "굴소스 1TS",
+        "굴소스",
+        "굴소스",
+        "seasoning",
+        "[양념]",
+        "1",
+        "TS",
+        null,
+        null
+      ],
+      [
+        "시판 소갈비양념 2TS",
+        "시판 소갈비양념",
+        "시판 소갈비양념",
+        "seasoning",
+        "[양념]",
+        "2",
+        "TS",
+        null,
+        null
+      ],
+      [
+        "간장 1ts",
+        "간장",
+        "간장",
+        "seasoning",
+        "[양념]",
+        "1",
+        "ts",
+        null,
+        null
+      ],
+      [
+        "후추 조금",
+        "후추",
+        "후추",
+        "seasoning",
+        "[양념]",
+        "조금",
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 조금",
+        "소금",
+        "소금",
+        "seasoning",
+        "[양념]",
+        "조금",
+        null,
+        null,
+        null
+      ],
+      [
+        "미림 1TS",
+        "미림",
+        "미림",
+        "seasoning",
+        "[양념]",
+        "1",
+        "TS",
+        null,
+        null
+      ],
+      [
+        "참기름 1TS",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념]",
+        "1",
+        "TS",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "소고기 200g",
+      "raw_name": "소고기",
+      "ingredient_candidate": "소고기",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "200",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1/4개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/4",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "새송이버섯 1개",
+      "raw_name": "새송이버섯",
+      "ingredient_candidate": "새송이버섯",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "당근 1/5개",
+      "raw_name": "당근",
+      "ingredient_candidate": "당근",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/5",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "호박 1/5개",
+      "raw_name": "호박",
+      "ingredient_candidate": "호박",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/5",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "밥 2컵",
+      "raw_name": "밥",
+      "ingredient_candidate": "밥",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "굴소스 1TS",
+      "raw_name": "굴소스",
+      "ingredient_candidate": "굴소스",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "TS",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "시판 소갈비양념 2TS",
+      "raw_name": "시판 소갈비양념",
+      "ingredient_candidate": "시판 소갈비양념",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "TS",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 1ts",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "ts",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 조금",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "조금",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 조금",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "조금",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "미림 1TS",
+      "raw_name": "미림",
+      "ingredient_candidate": "미림",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "TS",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1TS",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "TS",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 6,
+  "sent_steps": 0,
+  "evidence_text": "고소하고 부드러운 소고기볶음밥\n소고기 200g\n양파 1/4개\n새송이버섯 1개\n당근 1/5개\n호박 1/5개\n밥 2컵\n굴소스 1TS\n시판 소갈비양념 2TS\n간장 1ts\n후추 조금\n소금 조금\n미림 1TS\n참기름 1TS"
+}

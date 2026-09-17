@@ -1,0 +1,526 @@
+{
+  "recipe_uid": "10000recipe_7081834",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081834",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081834",
+          "title": "그릭요거트 무화과 복숭아 사과 여름 과일 샐러드 만들기 요리 레시피",
+          "description": null,
+          "servings": "4인분",
+          "cooking_time": "10분 이내",
+          "difficulty": "아무나",
+          "views": 116,
+          "source_url": "https://www.10000recipe.com/recipe/7081834",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:6657a9fc6be5fa3fc42f3b951a5eaf67e1a5b40490e7b3bf7e20d05ca6dbfbb1",
+        "label": "Dish",
+        "properties": {
+          "name": "과일 샐러드"
+        }
+      },
+      {
+        "id": "10000recipe_7081834:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "딱딱한 복숭아",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"딱딱한 복숭아 2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081834:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:eae42e3686aaa4df85c4b8d37940e38c9920f18a42d25cb8e96842ec79e1d6ac",
+        "label": "Ingredient",
+        "properties": {
+          "name": "딱딱한 복숭아",
+          "name_normalized": "딱딱한 복숭아"
+        }
+      },
+      {
+        "id": "10000recipe_7081834:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "아오리 사과",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"아오리 사과 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081834:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:265d4e6fe872d9f34c5666ced5fe9181d27e1ddaaaf990cce391d7a76342e43f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "아오리 사과",
+          "name_normalized": "아오리 사과"
+        }
+      },
+      {
+        "id": "10000recipe_7081834:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무화과",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "6",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"무화과 6개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081834:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:df7f604c88861e7b09625b14038c8f5f4b4882102ee2627abd4cd9a361e9189a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무화과",
+          "name_normalized": "무화과"
+        }
+      },
+      {
+        "id": "10000recipe_7081834:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "레몬즙",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"레몬즙 2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081834:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:2566dae2fabb632cce6f5f41e7b7fd4c4feb7e5d982b5f504195dfe89e84b4b8",
+        "label": "Ingredient",
+        "properties": {
+          "name": "레몬즙",
+          "name_normalized": "레몬즙"
+        }
+      },
+      {
+        "id": "10000recipe_7081834:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리브오일",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"올리브오일 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081834:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리브오일",
+          "name_normalized": "올리브오일"
+        }
+      },
+      {
+        "id": "10000recipe_7081834:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "발사믹 글레이즈",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"발사믹 글레이즈 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081834:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:b2cd7bc3cdc9a86e65d4e5103dc223e71dff0f7362d9dff4b411a6526f0eb46d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "발사믹 글레이즈",
+          "name_normalized": "발사믹 글레이즈"
+        }
+      },
+      {
+        "id": "10000recipe_7081834:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "그릭요거트",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "4",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"그릭요거트 4큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081834:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:0100270e97ecfaa338dac515c3095ef89ad32647d2d9da025de5aa9a0edf201b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "그릭요거트",
+          "name_normalized": "그릭요거트"
+        }
+      },
+      {
+        "id": "10000recipe_7081834:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 볶은 아몬드",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": "다진 볶은",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다진 볶은 아몬드 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081834:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:817728d99454ff3184409eb7347149abc06958000bbe4720b96f6c07429f575c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다진 볶은 아몬드",
+          "name_normalized": "다진 볶은 아몬드"
+        }
+      },
+      {
+        "id": "10000recipe_7081834:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소금\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081834:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081834:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"후추 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081834:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081834",
+        "type": "VARIANT_OF",
+        "target": "dish:6657a9fc6be5fa3fc42f3b951a5eaf67e1a5b40490e7b3bf7e20d05ca6dbfbb1",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081834:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:eae42e3686aaa4df85c4b8d37940e38c9920f18a42d25cb8e96842ec79e1d6ac",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081834:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:265d4e6fe872d9f34c5666ced5fe9181d27e1ddaaaf990cce391d7a76342e43f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081834:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:df7f604c88861e7b09625b14038c8f5f4b4882102ee2627abd4cd9a361e9189a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081834:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:2566dae2fabb632cce6f5f41e7b7fd4c4feb7e5d982b5f504195dfe89e84b4b8",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081834:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081834:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:b2cd7bc3cdc9a86e65d4e5103dc223e71dff0f7362d9dff4b411a6526f0eb46d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081834:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:0100270e97ecfaa338dac515c3095ef89ad32647d2d9da025de5aa9a0edf201b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081834:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:817728d99454ff3184409eb7347149abc06958000bbe4720b96f6c07429f575c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081834:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081834:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081834:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081834:dish",
+      "canonical_id": "dish:6657a9fc6be5fa3fc42f3b951a5eaf67e1a5b40490e7b3bf7e20d05ca6dbfbb1",
+      "original_name": "과일 샐러드",
+      "canonical_name": "과일 샐러드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081834:component:001:candidate:0",
+      "canonical_id": "ingredient:eae42e3686aaa4df85c4b8d37940e38c9920f18a42d25cb8e96842ec79e1d6ac",
+      "original_name": "딱딱한 복숭아",
+      "canonical_name": "딱딱한 복숭아",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081834:component:002:candidate:0",
+      "canonical_id": "ingredient:265d4e6fe872d9f34c5666ced5fe9181d27e1ddaaaf990cce391d7a76342e43f",
+      "original_name": "아오리 사과",
+      "canonical_name": "아오리 사과",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081834:component:003:candidate:0",
+      "canonical_id": "ingredient:df7f604c88861e7b09625b14038c8f5f4b4882102ee2627abd4cd9a361e9189a",
+      "original_name": "무화과",
+      "canonical_name": "무화과",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081834:component:004:candidate:0",
+      "canonical_id": "ingredient:2566dae2fabb632cce6f5f41e7b7fd4c4feb7e5d982b5f504195dfe89e84b4b8",
+      "original_name": "레몬즙",
+      "canonical_name": "레몬즙",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081834:component:005:candidate:0",
+      "canonical_id": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+      "original_name": "올리브오일",
+      "canonical_name": "올리브오일",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081834:component:006:candidate:0",
+      "canonical_id": "ingredient:b2cd7bc3cdc9a86e65d4e5103dc223e71dff0f7362d9dff4b411a6526f0eb46d",
+      "original_name": "발사믹 글레이즈",
+      "canonical_name": "발사믹 글레이즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081834:component:007:candidate:0",
+      "canonical_id": "ingredient:0100270e97ecfaa338dac515c3095ef89ad32647d2d9da025de5aa9a0edf201b",
+      "original_name": "그릭요거트",
+      "canonical_name": "그릭요거트",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081834:component:008:candidate:0",
+      "canonical_id": "ingredient:817728d99454ff3184409eb7347149abc06958000bbe4720b96f6c07429f575c",
+      "original_name": "다진 볶은 아몬드",
+      "canonical_name": "다진 볶은 아몬드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081834:component:009:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081834:component:010:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 10,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 21,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

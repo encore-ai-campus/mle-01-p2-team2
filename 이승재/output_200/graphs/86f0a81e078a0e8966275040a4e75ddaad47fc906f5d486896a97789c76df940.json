@@ -1,0 +1,1669 @@
+{
+  "recipe_uid": "10000recipe_7082059",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082059",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082059",
+          "title": "후르츠산도 만들기 무화과 과일 샌드위치 만드는 법 무화과효능 보관방법",
+          "description": "8월 중순이 되니 벌써 무화과가 마트에 빼꼼, 얼굴을 내밀고 있더라고요? ​ 무화과는 못 참지.. 싶어 장바구니에 담아 집으로 돌아왔어요. ​ 무화과의 효능 무화과는 위와 장을 튼튼하게 해주는 효능이 있고 이외 소화불량, 식욕부진, 인후통에도 효과가 좋다고 알려져 있어요. ​ 보관 방법 과육도 부드럽고 당도가 높은 만큼 빨리 짓무르기 쉬운 과일이라 집에 오자마자 플라스틱 통에서 꺼내 키친타월에 한 알씩 감싸 냉장고에 넣어 주었어요. 미리 씻어 두면 쉽게 물러서 먹을 때마다 씻어서 먹는 편이 좋아요. ​ ​ ​ 고르는 방법 무화과는 꼭지가 시들지 않고 아래 갈라진 부분이 별모양 처럼 터진게 잘 익은 것이라고 해요. 그리고 큰 것 보단 작은 사이즈가 더 달고 맛이 좋아요. 표면에 흠집이 없고 둥글게 잘 부푼 것이 맛이 좋다고 해요. ​ 구워 둔 통식빵이 딱 산도 만들기 좋은 만큼 남아 있길래 생크림 한통 시켜서 크림치즈 넣고 무화과산도를 만들기로 했어요. ​",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "초급",
+          "views": 63,
+          "source_url": "https://www.10000recipe.com/recipe/7082059",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "후르츠산도"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "두꺼운 식빵",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": "2~2.5cm",
+          "detail": "통식빵으로도 사용 가능",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 두꺼운 식빵 2~2.5cm 2장\", \"통식빵 없으신 분은 도톰한 식빵을 사서 사용해주셔도 됩니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:001:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무화과",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2개",
+          "unit": null,
+          "preparation": null,
+          "detail": "한 알은 통으로, 한 알은 4등분으로 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 무화과 2개\", \"미리 준비해둔 무화과는 가운데 먼저 통으로 한알 올리고 사각 귀퉁이에 4/1개씩 올려 줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무화과",
+          "name_normalized": "무화과"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생크림",
+          "role": "food",
+          "group": "재료",
+          "quantity": "100g",
+          "unit": "g",
+          "preparation": "휘핑",
+          "detail": "크림치즈와 섞어 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 생크림 100g\", \"생크림을 넣고 핸드믹서로 휘핑을 올려 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생크림",
+          "name_normalized": "생크림"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "크림치즈",
+          "role": "food",
+          "group": "재료",
+          "quantity": "50g",
+          "unit": "g",
+          "preparation": null,
+          "detail": "실온에 한두 시간 두고 부드럽게 만든 뒤 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 크림치즈 50g\", \"크림치즈는 실온에 한두 시간 두고 부드럽게 만들어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "크림치즈",
+          "name_normalized": "크림치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "에리스톨",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "5g",
+          "unit": "g",
+          "preparation": null,
+          "detail": "백설탕가능",
+          "is_required": null,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[재료] 에리스톨 백설탕가능 5g\", \"연유, 에리스톨을 넣어 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "에리스톨",
+          "name_normalized": "에리스톨"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:005:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "백설탕",
+          "name_normalized": "백설탕"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "연유",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "10g",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 연유 10g\", \"연유, 에리스톨을 넣어 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "연유",
+          "name_normalized": "연유"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "키친타월",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "무화과 물기 제거에 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"집에 오자마자 플라스틱 통에서 꺼내 키친타월에 한 알씩 감싸 냉장고에 넣어 주었어요.\", \"한 알은 통으로, 한 알은 4등분으로 잘라 키친타올 위에 올려 수분을 제거해 줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "키친타월",
+          "name_normalized": "키친타월"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "랩",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "완성 후 모양 고정에 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"생크림을 발라 두었던 남은 식빵 한쪽을 덮어 주고 랩을 싸주세요.\", \"랩은 단단하게 모양을 잡을 수 있도록 두 번씩 싸주는 게 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "랩",
+          "name_normalized": "랩"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "빵칼",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "완성 후 테두리 자르기에 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"먹기 전에 랩을 벗겨 내고 빵칼로 식빵 테두리를 썰어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "빵칼",
+          "name_normalized": "빵칼"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "손",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "무화과를 씻을 때 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"무화과는 흐르는 물에 꼭지가 위로 가게 두고 손으로 살살 문질러 주며 씻어 물기를 제거해 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "손",
+          "name_normalized": "손"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "주걱",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "크림 혼합에 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"주걱으로 섞어주며 마요네즈처럼 가볍게 퍼지는 농도로 만들어 주고 연유, 에리스톨을 넣어 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "주걱",
+          "name_normalized": "주걱"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "핸드믹서",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "생크림 휘핑에 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"생크림을 넣고 핸드믹서로 휘핑을 올려 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "핸드믹서",
+          "name_normalized": "핸드믹서"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "거품기",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "소량 생크림 휘핑 대체 도구",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소량이라 거품기를 사용하셔도 괜찮아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "거품기",
+          "name_normalized": "거품기"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "냉장고",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "굳히는 장소",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"냉장고에 2시간 정도 넣어 크림을 단단하게 굳혀 줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "냉장고",
+          "name_normalized": "냉장고"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082059",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7082059:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:001",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7082059:component:001:candidate:1",
+        "properties": {
+          "raw_name": "통식빵",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "통식빵 없으신 분은 도톰한 식빵을 사서 사용해주셔도 됩니다",
+          "evidence": "[\"통식빵 없으신 분은 도톰한 식빵을 사서 사용해주셔도 됩니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:005",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7082059:component:005:candidate:1",
+        "properties": {
+          "raw_name": "백설탕",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[재료] 에리스톨 백설탕가능 5g\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082059:component:014:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082059",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082059",
+          "title": "후르츠산도 만들기 무화과 과일 샌드위치 만드는 법 무화과효능 보관방법",
+          "description": "8월 중순이 되니 벌써 무화과가 마트에 빼꼼, 얼굴을 내밀고 있더라고요? ​ 무화과는 못 참지.. 싶어 장바구니에 담아 집으로 돌아왔어요. ​ 무화과의 효능 무화과는 위와 장을 튼튼하게 해주는 효능이 있고 이외 소화불량, 식욕부진, 인후통에도 효과가 좋다고 알려져 있어요. ​ 보관 방법 과육도 부드럽고 당도가 높은 만큼 빨리 짓무르기 쉬운 과일이라 집에 오자마자 플라스틱 통에서 꺼내 키친타월에 한 알씩 감싸 냉장고에 넣어 주었어요. 미리 씻어 두면 쉽게 물러서 먹을 때마다 씻어서 먹는 편이 좋아요. ​ ​ ​ 고르는 방법 무화과는 꼭지가 시들지 않고 아래 갈라진 부분이 별모양 처럼 터진게 잘 익은 것이라고 해요. 그리고 큰 것 보단 작은 사이즈가 더 달고 맛이 좋아요. 표면에 흠집이 없고 둥글게 잘 부푼 것이 맛이 좋다고 해요. ​ 구워 둔 통식빵이 딱 산도 만들기 좋은 만큼 남아 있길래 생크림 한통 시켜서 크림치즈 넣고 무화과산도를 만들기로 했어요. ​",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "초급",
+          "views": 63,
+          "source_url": "https://www.10000recipe.com/recipe/7082059",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:b4b812c0624e9fda6b883b6522a79453ca6be88599f343890871b4466eae8874",
+        "label": "Dish",
+        "properties": {
+          "name": "후르츠산도"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "두꺼운 식빵",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": "2~2.5cm",
+          "detail": "통식빵으로도 사용 가능",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 두꺼운 식빵 2~2.5cm 2장\", \"통식빵 없으신 분은 도톰한 식빵을 사서 사용해주셔도 됩니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무화과",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2개",
+          "unit": null,
+          "preparation": null,
+          "detail": "한 알은 통으로, 한 알은 4등분으로 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 무화과 2개\", \"미리 준비해둔 무화과는 가운데 먼저 통으로 한알 올리고 사각 귀퉁이에 4/1개씩 올려 줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:df7f604c88861e7b09625b14038c8f5f4b4882102ee2627abd4cd9a361e9189a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무화과",
+          "name_normalized": "무화과"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생크림",
+          "role": "food",
+          "group": "재료",
+          "quantity": "100g",
+          "unit": "g",
+          "preparation": "휘핑",
+          "detail": "크림치즈와 섞어 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 생크림 100g\", \"생크림을 넣고 핸드믹서로 휘핑을 올려 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:627a859d3fbe74ea8138f10071f593bc251b12f67aad64dfe1d07c19f2b7314c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생크림",
+          "name_normalized": "생크림"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "크림치즈",
+          "role": "food",
+          "group": "재료",
+          "quantity": "50g",
+          "unit": "g",
+          "preparation": null,
+          "detail": "실온에 한두 시간 두고 부드럽게 만든 뒤 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 크림치즈 50g\", \"크림치즈는 실온에 한두 시간 두고 부드럽게 만들어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:9c751f45e7e6256a066cb73e3a8110557ee4fe7be7c0e96b8418646606453561",
+        "label": "Ingredient",
+        "properties": {
+          "name": "크림치즈",
+          "name_normalized": "크림치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "에리스톨",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "5g",
+          "unit": "g",
+          "preparation": null,
+          "detail": "백설탕가능",
+          "is_required": null,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[재료] 에리스톨 백설탕가능 5g\", \"연유, 에리스톨을 넣어 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:17a6fc91c82b55873fb18b04eb4ad436141dad365a0b590124ac5bd5a6cf6c64",
+        "label": "Ingredient",
+        "properties": {
+          "name": "에리스톨",
+          "name_normalized": "에리스톨"
+        }
+      },
+      {
+        "id": "ingredient:42a0d5870a20b963af0528abf694463046f843967f75b2e0ab1631f8ffba1c07",
+        "label": "Ingredient",
+        "properties": {
+          "name": "백설탕",
+          "name_normalized": "백설탕"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "연유",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "10g",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 연유 10g\", \"연유, 에리스톨을 넣어 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:bd493bdc43d511ee84752b40263dd82862cf63f6d39c5cbaf289d5b2b2fcd4ec",
+        "label": "Ingredient",
+        "properties": {
+          "name": "연유",
+          "name_normalized": "연유"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "키친타월",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "무화과 물기 제거에 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"집에 오자마자 플라스틱 통에서 꺼내 키친타월에 한 알씩 감싸 냉장고에 넣어 주었어요.\", \"한 알은 통으로, 한 알은 4등분으로 잘라 키친타올 위에 올려 수분을 제거해 줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:1e5070640548cbe47b3dd83eb2883f24580e151e9e4a6f593138d36169534705",
+        "label": "Ingredient",
+        "properties": {
+          "name": "키친타월",
+          "name_normalized": "키친타월"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "랩",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "완성 후 모양 고정에 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"생크림을 발라 두었던 남은 식빵 한쪽을 덮어 주고 랩을 싸주세요.\", \"랩은 단단하게 모양을 잡을 수 있도록 두 번씩 싸주는 게 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:2132c43133b61e1a15b513f9520b981c275a6a0433dcd7b50536fee6e4baa3f1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "랩",
+          "name_normalized": "랩"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "빵칼",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "완성 후 테두리 자르기에 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"먹기 전에 랩을 벗겨 내고 빵칼로 식빵 테두리를 썰어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:6899683428bc54663f0f5245949b1ba2312b94fae25226c80b14c97fe4f8d5e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "빵칼",
+          "name_normalized": "빵칼"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "손",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "무화과를 씻을 때 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"무화과는 흐르는 물에 꼭지가 위로 가게 두고 손으로 살살 문질러 주며 씻어 물기를 제거해 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:136d2751b79f30c18af300ba505625d55d0ee36d586059a5d3f7d4ea657cf5bd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "손",
+          "name_normalized": "손"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "주걱",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "크림 혼합에 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"주걱으로 섞어주며 마요네즈처럼 가볍게 퍼지는 농도로 만들어 주고 연유, 에리스톨을 넣어 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:be50528f058e4f4ac846063b3cbb95ffa6de9e2765ae7a87438ac88a3c1a51ad",
+        "label": "Ingredient",
+        "properties": {
+          "name": "주걱",
+          "name_normalized": "주걱"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "핸드믹서",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "생크림 휘핑에 사용",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"생크림을 넣고 핸드믹서로 휘핑을 올려 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:76b8bebec68c5c577abea7f7c9387957f38ba0198dd60feddd4538906667ba48",
+        "label": "Ingredient",
+        "properties": {
+          "name": "핸드믹서",
+          "name_normalized": "핸드믹서"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "거품기",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "소량 생크림 휘핑 대체 도구",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소량이라 거품기를 사용하셔도 괜찮아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:c2b73c5c7c575a98f9df68d8467726e670ced1416e233b4a36ed118e06384cec",
+        "label": "Ingredient",
+        "properties": {
+          "name": "거품기",
+          "name_normalized": "거품기"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "냉장고",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "굳히는 장소",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"냉장고에 2시간 정도 넣어 크림을 단단하게 굳혀 줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:c932b8e7435e71a4f5a55908fea96cfe5d5eb52d7416356cfdbb3bf5b25e2cff",
+        "label": "Ingredient",
+        "properties": {
+          "name": "냉장고",
+          "name_normalized": "냉장고"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082059",
+        "type": "VARIANT_OF",
+        "target": "dish:b4b812c0624e9fda6b883b6522a79453ca6be88599f343890871b4466eae8874",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:001",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "properties": {
+          "raw_name": "통식빵",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "통식빵 없으신 분은 도톰한 식빵을 사서 사용해주셔도 됩니다",
+          "evidence": "[\"통식빵 없으신 분은 도톰한 식빵을 사서 사용해주셔도 됩니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:df7f604c88861e7b09625b14038c8f5f4b4882102ee2627abd4cd9a361e9189a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:627a859d3fbe74ea8138f10071f593bc251b12f67aad64dfe1d07c19f2b7314c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:9c751f45e7e6256a066cb73e3a8110557ee4fe7be7c0e96b8418646606453561",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:17a6fc91c82b55873fb18b04eb4ad436141dad365a0b590124ac5bd5a6cf6c64",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:005",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:42a0d5870a20b963af0528abf694463046f843967f75b2e0ab1631f8ffba1c07",
+        "properties": {
+          "raw_name": "백설탕",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[재료] 에리스톨 백설탕가능 5g\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:bd493bdc43d511ee84752b40263dd82862cf63f6d39c5cbaf289d5b2b2fcd4ec",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:1e5070640548cbe47b3dd83eb2883f24580e151e9e4a6f593138d36169534705",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:2132c43133b61e1a15b513f9520b981c275a6a0433dcd7b50536fee6e4baa3f1",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:6899683428bc54663f0f5245949b1ba2312b94fae25226c80b14c97fe4f8d5e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:136d2751b79f30c18af300ba505625d55d0ee36d586059a5d3f7d4ea657cf5bd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:be50528f058e4f4ac846063b3cbb95ffa6de9e2765ae7a87438ac88a3c1a51ad",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:76b8bebec68c5c577abea7f7c9387957f38ba0198dd60feddd4538906667ba48",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:c2b73c5c7c575a98f9df68d8467726e670ced1416e233b4a36ed118e06384cec",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:c932b8e7435e71a4f5a55908fea96cfe5d5eb52d7416356cfdbb3bf5b25e2cff",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "후르츠산도",
+    "components": [
+      {
+        "raw_name": "두꺼운 식빵",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": "2~2.5cm",
+        "detail": "통식빵으로도 사용 가능",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 두꺼운 식빵 2~2.5cm 2장",
+          "통식빵 없으신 분은 도톰한 식빵을 사서 사용해주셔도 됩니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식빵",
+        "alternatives": [
+          {
+            "raw_name": "통식빵",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": "통식빵 없으신 분은 도톰한 식빵을 사서 사용해주셔도 됩니다",
+            "evidence": [
+              "통식빵 없으신 분은 도톰한 식빵을 사서 사용해주셔도 됩니다."
+            ],
+            "ingredient_candidate": "식빵"
+          }
+        ]
+      },
+      {
+        "raw_name": "무화과",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2개",
+        "unit": null,
+        "preparation": null,
+        "detail": "한 알은 통으로, 한 알은 4등분으로 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 무화과 2개",
+          "미리 준비해둔 무화과는 가운데 먼저 통으로 한알 올리고 사각 귀퉁이에 4/1개씩 올려 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무화과",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생크림",
+        "role": "food",
+        "group": "재료",
+        "quantity": "100g",
+        "unit": "g",
+        "preparation": "휘핑",
+        "detail": "크림치즈와 섞어 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 생크림 100g",
+          "생크림을 넣고 핸드믹서로 휘핑을 올려 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생크림",
+        "alternatives": []
+      },
+      {
+        "raw_name": "크림치즈",
+        "role": "food",
+        "group": "재료",
+        "quantity": "50g",
+        "unit": "g",
+        "preparation": null,
+        "detail": "실온에 한두 시간 두고 부드럽게 만든 뒤 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 크림치즈 50g",
+          "크림치즈는 실온에 한두 시간 두고 부드럽게 만들어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "크림치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "에리스톨",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "5g",
+        "unit": "g",
+        "preparation": null,
+        "detail": "백설탕가능",
+        "is_required": null,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "[재료] 에리스톨 백설탕가능 5g",
+          "연유, 에리스톨을 넣어 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "에리스톨",
+        "alternatives": [
+          {
+            "raw_name": "백설탕",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "[재료] 에리스톨 백설탕가능 5g"
+            ],
+            "ingredient_candidate": "백설탕"
+          }
+        ]
+      },
+      {
+        "raw_name": "연유",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "10g",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 연유 10g",
+          "연유, 에리스톨을 넣어 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "연유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "키친타월",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "무화과 물기 제거에 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "집에 오자마자 플라스틱 통에서 꺼내 키친타월에 한 알씩 감싸 냉장고에 넣어 주었어요.",
+          "한 알은 통으로, 한 알은 4등분으로 잘라 키친타올 위에 올려 수분을 제거해 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "키친타월",
+        "alternatives": []
+      },
+      {
+        "raw_name": "랩",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "완성 후 모양 고정에 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "생크림을 발라 두었던 남은 식빵 한쪽을 덮어 주고 랩을 싸주세요.",
+          "랩은 단단하게 모양을 잡을 수 있도록 두 번씩 싸주는 게 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "랩",
+        "alternatives": []
+      },
+      {
+        "raw_name": "빵칼",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "완성 후 테두리 자르기에 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "먹기 전에 랩을 벗겨 내고 빵칼로 식빵 테두리를 썰어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "빵칼",
+        "alternatives": []
+      },
+      {
+        "raw_name": "손",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "무화과를 씻을 때 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "무화과는 흐르는 물에 꼭지가 위로 가게 두고 손으로 살살 문질러 주며 씻어 물기를 제거해 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "손",
+        "alternatives": []
+      },
+      {
+        "raw_name": "주걱",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "크림 혼합에 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "주걱으로 섞어주며 마요네즈처럼 가볍게 퍼지는 농도로 만들어 주고 연유, 에리스톨을 넣어 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "주걱",
+        "alternatives": []
+      },
+      {
+        "raw_name": "핸드믹서",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "생크림 휘핑에 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "생크림을 넣고 핸드믹서로 휘핑을 올려 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "핸드믹서",
+        "alternatives": []
+      },
+      {
+        "raw_name": "거품기",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "소량 생크림 휘핑 대체 도구",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소량이라 거품기를 사용하셔도 괜찮아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "거품기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "냉장고",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "굳히는 장소",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "냉장고에 2시간 정도 넣어 크림을 단단하게 굳혀 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "냉장고",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "33affe9a9a0d072de17cf3599ddb1cfb7ab782c1fb4ce3b615bc1fac73c8c7d8",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7082059:dish",
+      "canonical_id": "dish:b4b812c0624e9fda6b883b6522a79453ca6be88599f343890871b4466eae8874",
+      "original_name": "후르츠산도",
+      "canonical_name": "후르츠산도",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:001:candidate:0",
+      "canonical_id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+      "original_name": "식빵",
+      "canonical_name": "식빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:001:candidate:1",
+      "canonical_id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+      "original_name": "식빵",
+      "canonical_name": "식빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:002:candidate:0",
+      "canonical_id": "ingredient:df7f604c88861e7b09625b14038c8f5f4b4882102ee2627abd4cd9a361e9189a",
+      "original_name": "무화과",
+      "canonical_name": "무화과",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:003:candidate:0",
+      "canonical_id": "ingredient:627a859d3fbe74ea8138f10071f593bc251b12f67aad64dfe1d07c19f2b7314c",
+      "original_name": "생크림",
+      "canonical_name": "생크림",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:004:candidate:0",
+      "canonical_id": "ingredient:9c751f45e7e6256a066cb73e3a8110557ee4fe7be7c0e96b8418646606453561",
+      "original_name": "크림치즈",
+      "canonical_name": "크림치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:005:candidate:0",
+      "canonical_id": "ingredient:17a6fc91c82b55873fb18b04eb4ad436141dad365a0b590124ac5bd5a6cf6c64",
+      "original_name": "에리스톨",
+      "canonical_name": "에리스톨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:005:candidate:1",
+      "canonical_id": "ingredient:42a0d5870a20b963af0528abf694463046f843967f75b2e0ab1631f8ffba1c07",
+      "original_name": "백설탕",
+      "canonical_name": "백설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:006:candidate:0",
+      "canonical_id": "ingredient:bd493bdc43d511ee84752b40263dd82862cf63f6d39c5cbaf289d5b2b2fcd4ec",
+      "original_name": "연유",
+      "canonical_name": "연유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:007:candidate:0",
+      "canonical_id": "ingredient:1e5070640548cbe47b3dd83eb2883f24580e151e9e4a6f593138d36169534705",
+      "original_name": "키친타월",
+      "canonical_name": "키친타월",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:008:candidate:0",
+      "canonical_id": "ingredient:2132c43133b61e1a15b513f9520b981c275a6a0433dcd7b50536fee6e4baa3f1",
+      "original_name": "랩",
+      "canonical_name": "랩",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:009:candidate:0",
+      "canonical_id": "ingredient:6899683428bc54663f0f5245949b1ba2312b94fae25226c80b14c97fe4f8d5e4",
+      "original_name": "빵칼",
+      "canonical_name": "빵칼",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:010:candidate:0",
+      "canonical_id": "ingredient:136d2751b79f30c18af300ba505625d55d0ee36d586059a5d3f7d4ea657cf5bd",
+      "original_name": "손",
+      "canonical_name": "손",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:011:candidate:0",
+      "canonical_id": "ingredient:be50528f058e4f4ac846063b3cbb95ffa6de9e2765ae7a87438ac88a3c1a51ad",
+      "original_name": "주걱",
+      "canonical_name": "주걱",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:012:candidate:0",
+      "canonical_id": "ingredient:76b8bebec68c5c577abea7f7c9387957f38ba0198dd60feddd4538906667ba48",
+      "original_name": "핸드믹서",
+      "canonical_name": "핸드믹서",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:013:candidate:0",
+      "canonical_id": "ingredient:c2b73c5c7c575a98f9df68d8467726e670ced1416e233b4a36ed118e06384cec",
+      "original_name": "거품기",
+      "canonical_name": "거품기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:014:candidate:0",
+      "canonical_id": "ingredient:c932b8e7435e71a4f5a55908fea96cfe5d5eb52d7416356cfdbb3bf5b25e2cff",
+      "original_name": "냉장고",
+      "canonical_name": "냉장고",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7082059",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_7082059:component:001: ALTERNATIVE_MODE",
+      "10000recipe_7082059:component:001: SELF_ALTERNATIVE"
+    ],
+    "stage1_errors": [
+      "10000recipe_7082059:component:001: ALTERNATIVE_MODE"
+    ],
+    "stage2_errors": [
+      "10000recipe_7082059:component:001: ALTERNATIVE_MODE",
+      "10000recipe_7082059:component:001: SELF_ALTERNATIVE"
+    ]
+  },
+  "review_hash": "c05ec67ab4e3dc53700bed811ed0d0414d0c994950f52a3aae34eefe32230813"
+}

@@ -1,0 +1,158 @@
+{
+  "recipe_uid": "10000recipe_7081416",
+  "cache_key": "8458d96a16ead93fe2886229cc18a4f043ec8df520101a913a06092c6ab901a6",
+  "model": "gpt-5.4-mini",
+  "input_hash": "77ae7ec355648a63ba8be490c4f0994a131ca8f5d67e603d058494af09c769bf",
+  "source_record_hash": "27507b6c450673b76e1accb6b58369c24d5600eacda1a966905486c3f63fc695",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "토마토 파스타",
+    "components": [
+      {
+        "raw_name": "토마토",
+        "role": "food",
+        "group": "토마토퓌레",
+        "quantity": "1kg",
+        "unit": null,
+        "preparation": "흐르는 물에 깨끗히 씻은, 꼭지 부분을 도려 낸 후 4조각으로 자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토퓌레] 토마토 1kg",
+          "흐르는 물에 깨끗히 씻은 토마토는 꼭지 부분을 도려 낸 후 4조각으로 자른다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "food",
+        "group": "토마토퓌레",
+        "quantity": "10개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토퓌레] 마늘 10개",
+          "토마토 1kg 마늘 10개 넣고 블렌더로 곱게 갈아준다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "토마토퓌레",
+        "quantity": "1/4t",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토퓌레] 소금 1/4t",
+          "냄비에 간 토마토 소금 1/4t 올리브유 2큰술을 넣고 강불로 끓여 준다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파스타면",
+        "role": "food",
+        "group": "토마토 파스타",
+        "quantity": "90g",
+        "unit": null,
+        "preparation": "삶은",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토파스타] 파스타면 90g",
+          "삶은 파스타면과 토마토 퓌레를 넣고 잘 섞어 준다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파스타면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "브로컬리",
+        "role": "food",
+        "group": "토마토 파스타",
+        "quantity": "6~7조각",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토파스타] 브로컬리 6~7조각",
+          "팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "브로컬리",
+        "alternatives": []
+      },
+      {
+        "raw_name": "미트볼",
+        "role": "food",
+        "group": "토마토 파스타",
+        "quantity": "5개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토파스타] 미트볼 5개",
+          "팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "미트볼",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브유",
+        "role": "seasoning",
+        "group": "토마토 파스타",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토파스타] 올리브유 1큰술",
+          "팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브유",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 850,
+    "prompt_tokens": 3139,
+    "total_tokens": 3989,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

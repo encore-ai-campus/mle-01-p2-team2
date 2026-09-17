@@ -1,0 +1,179 @@
+{
+  "recipe_uid": "10000recipe_7082718",
+  "payload": {
+    "title": "물 생기지 않는 양배추 마요네즈 샐러드",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "배추 300g",
+        "배추",
+        "배추",
+        "food",
+        "[재료]",
+        "300",
+        "g",
+        null,
+        null
+      ],
+      [
+        "소금 1/2작은술",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        "1/2",
+        "작은술",
+        null,
+        null
+      ],
+      [
+        "마요네즈 4큰술",
+        "마요네즈",
+        "마요네즈",
+        "seasoning",
+        "[마요네즈소스]",
+        "4",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "설탕 1큰술",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[마요네즈소스]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "식초 1큰술",
+        "식초",
+        "식초",
+        "seasoning",
+        "[마요네즈소스]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "레몬즙 1/2큰술",
+        "레몬즙",
+        "레몬즙",
+        "seasoning",
+        "[마요네즈소스]",
+        "1/2",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "후춧가루 약간",
+        "후춧가루",
+        "후추",
+        "seasoning",
+        "[마요네즈소스]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "배추 300g",
+      "raw_name": "배추",
+      "ingredient_candidate": "배추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "300",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 1/2작은술",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "작은술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마요네즈 4큰술",
+      "raw_name": "마요네즈",
+      "ingredient_candidate": "마요네즈",
+      "role": "seasoning",
+      "group": "[마요네즈소스]",
+      "quantity": "4",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 1큰술",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[마요네즈소스]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "식초 1큰술",
+      "raw_name": "식초",
+      "ingredient_candidate": "식초",
+      "role": "seasoning",
+      "group": "[마요네즈소스]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "레몬즙 1/2큰술",
+      "raw_name": "레몬즙",
+      "ingredient_candidate": "레몬즙",
+      "role": "seasoning",
+      "group": "[마요네즈소스]",
+      "quantity": "1/2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후춧가루 약간",
+      "raw_name": "후춧가루",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[마요네즈소스]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 10,
+  "sent_steps": 0,
+  "evidence_text": "물 생기지 않는 양배추 마요네즈 샐러드\n배추 300g\n소금 1/2작은술\n마요네즈 4큰술\n설탕 1큰술\n식초 1큰술\n레몬즙 1/2큰술\n후춧가루 약간"
+}

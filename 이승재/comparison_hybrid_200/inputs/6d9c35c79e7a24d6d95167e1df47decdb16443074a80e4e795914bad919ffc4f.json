@@ -1,0 +1,113 @@
+{
+  "recipe_uid": "10000recipe_7080404",
+  "payload": {
+    "title": "수박주스 수박 에이드 만들기 요리 레시피",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "수박 1L",
+        "수박",
+        "수박",
+        "food",
+        "[재료]",
+        "1",
+        "L",
+        null,
+        null
+      ],
+      [
+        "레몬즙 2큰술",
+        "레몬즙",
+        "레몬즙",
+        "food",
+        "[재료]",
+        "2",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "사이다 1컵",
+        "사이다",
+        "사이다",
+        "food",
+        "[재료]",
+        "1",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "꿀 1큰술",
+        "꿀",
+        "꿀",
+        "seasoning",
+        "[재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "수박 1L",
+      "raw_name": "수박",
+      "ingredient_candidate": "수박",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "L",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "레몬즙 2큰술",
+      "raw_name": "레몬즙",
+      "ingredient_candidate": "레몬즙",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "사이다 1컵",
+      "raw_name": "사이다",
+      "ingredient_candidate": "사이다",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "꿀 1큰술",
+      "raw_name": "꿀",
+      "ingredient_candidate": "꿀",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "수박주스 수박 에이드 만들기 요리 레시피\n수박 1L\n레몬즙 2큰술\n사이다 1컵\n꿀 1큰술"
+}

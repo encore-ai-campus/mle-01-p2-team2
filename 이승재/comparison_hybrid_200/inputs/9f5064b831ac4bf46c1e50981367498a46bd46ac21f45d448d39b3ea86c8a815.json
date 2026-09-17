@@ -1,0 +1,267 @@
+{
+  "recipe_uid": "10000recipe_7080175",
+  "payload": {
+    "title": "감자수제비",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "코인윣 4개",
+        "코인윣",
+        "코인윣",
+        "food",
+        "[재료]",
+        "4",
+        "개",
+        null,
+        null
+      ],
+      [
+        "호박 1/2개",
+        "호박",
+        "호박",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "양파 1개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "감자 2개",
+        "감자",
+        "감자",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "파 20cm",
+        "파 20cm",
+        "파 20cm",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "다진마늘 1/2스푼",
+        "다진마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "1/2",
+        "스푼",
+        "다진",
+        null
+      ],
+      [
+        "참치액 2스푼",
+        "참치액",
+        "참치액",
+        "food",
+        "[재료]",
+        "2",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "감자수제비 마트용",
+        "감자수제비 마트용",
+        "감자수제비 마트용",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "국간장 1스푼",
+        "국간장",
+        "국간장",
+        "seasoning",
+        "[재료]",
+        "1",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "코인윣 4개",
+      "raw_name": "코인윣",
+      "ingredient_candidate": "코인윣",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "4",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "호박 1/2개",
+      "raw_name": "호박",
+      "ingredient_candidate": "호박",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "감자 2개",
+      "raw_name": "감자",
+      "ingredient_candidate": "감자",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "파 20cm",
+      "raw_name": "파 20cm",
+      "ingredient_candidate": "파 20cm",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1/2스푼",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "스푼",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "참치액 2스푼",
+      "raw_name": "참치액",
+      "ingredient_candidate": "참치액",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "감자수제비 마트용",
+      "raw_name": "감자수제비 마트용",
+      "ingredient_candidate": "감자수제비 마트용",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "국간장 1스푼",
+      "raw_name": "국간장",
+      "ingredient_candidate": "국간장",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 4,
+  "sent_steps": 0,
+  "evidence_text": "감자수제비\n코인윣 4개\n호박 1/2개\n양파 1개\n감자 2개\n파 20cm\n다진마늘 1/2스푼\n참치액 2스푼\n감자수제비 마트용\n국간장 1스푼\n소금 약간\n후추 약간"
+}

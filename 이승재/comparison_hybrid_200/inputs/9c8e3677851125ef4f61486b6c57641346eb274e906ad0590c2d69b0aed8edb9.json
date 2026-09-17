@@ -1,0 +1,179 @@
+{
+  "recipe_uid": "10000recipe_7082089",
+  "payload": {
+    "title": "[스콘] 밀가루 대신 아몬드가루 스콘",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "아몬드가루 250g",
+        "아몬드가루",
+        "아몬드가루",
+        "food",
+        "[재료]",
+        "250",
+        "g",
+        null,
+        null
+      ],
+      [
+        "설탕 2Tbsp",
+        "설탕 2Tbsp",
+        "설탕 2Tbsp",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "베이킹파우 1/2tsp",
+        "베이킹파우 1/2tsp",
+        "베이킹파우 1/2tsp",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 1/4tsp",
+        "소금 1/4tsp",
+        "소금 1/4tsp",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "무염 버터 70g",
+        "무염 버터",
+        "무염 버터",
+        "food",
+        "[재료]",
+        "70",
+        "g",
+        null,
+        null
+      ],
+      [
+        "불린 오트밀 1/4컵",
+        "불린 오트밀",
+        "불린 오트밀",
+        "food",
+        "[재료]",
+        "1/4",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "그릭요거트 60g",
+        "그릭요거트",
+        "그릭요거트",
+        "food",
+        "[재료]",
+        "60",
+        "g",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "아몬드가루 250g",
+      "raw_name": "아몬드가루",
+      "ingredient_candidate": "아몬드가루",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "250",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 2Tbsp",
+      "raw_name": "설탕 2Tbsp",
+      "ingredient_candidate": "설탕 2Tbsp",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "베이킹파우 1/2tsp",
+      "raw_name": "베이킹파우 1/2tsp",
+      "ingredient_candidate": "베이킹파우 1/2tsp",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 1/4tsp",
+      "raw_name": "소금 1/4tsp",
+      "ingredient_candidate": "소금 1/4tsp",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "무염 버터 70g",
+      "raw_name": "무염 버터",
+      "ingredient_candidate": "무염 버터",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "70",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "불린 오트밀 1/4컵",
+      "raw_name": "불린 오트밀",
+      "ingredient_candidate": "불린 오트밀",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/4",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "그릭요거트 60g",
+      "raw_name": "그릭요거트",
+      "ingredient_candidate": "그릭요거트",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "60",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 4,
+  "sent_steps": 0,
+  "evidence_text": "[스콘] 밀가루 대신 아몬드가루 스콘\n아몬드가루 250g\n설탕 2Tbsp\n베이킹파우 1/2tsp\n소금 1/4tsp\n무염 버터 70g\n불린 오트밀 1/4컵\n그릭요거트 60g"
+}

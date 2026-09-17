@@ -1,0 +1,1137 @@
+{
+  "recipe_uid": "10000recipe_6877036",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6877036",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6877036",
+          "title": "마성의 단짠단짠한 닭봉조림",
+          "description": "술안주에 딱맞춤인 요맛! 술을 부른다 불러~~ 세상의 모든 레시피 만개의레시피",
+          "servings": "2인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "아무나",
+          "views": 103000,
+          "source_url": "https://www.10000recipe.com/recipe/6877036",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "닭봉조림"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "닭봉",
+          "role": "food",
+          "group": "재료",
+          "quantity": "500g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 닭봉 500g\", \"깨끗이 씻은 닭봉은 우유에 30분 정도 담가준 후 물에 헹궈 준비한다.\", \"닭봉 500g, 우유 200ml\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "닭봉",
+          "name_normalized": "닭봉"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "우유",
+          "role": "food",
+          "group": "재료",
+          "quantity": "200ml",
+          "unit": null,
+          "preparation": null,
+          "detail": "닭봉을 담가 준비함",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 우유 200ml\", \"깨끗이 씻은 닭봉은 우유에 30분 정도 담가준 후 물에 헹궈 준비한다.\", \"닭봉 500g, 우유 200ml\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "우유",
+          "name_normalized": "우유"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1대",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1대\", \"닭봉이 든 냄비에 채소와 양념장을 넣고 끓인다. 대파 1대, 편마늘 2T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "편마늘",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 편마늘 2T\", \"닭봉이 든 냄비에 채소와 양념장을 넣고 끓인다. 대파 1대, 편마늘 2T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "편마늘",
+          "name_normalized": "편마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "3.5T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 간장 3.5T\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 설탕 2T\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 맛술 2T\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 후추 약간\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 소금 약간\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "100ml",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 물 100ml\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6877036",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6877036:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6877036:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6877036:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6877036:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6877036:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6877036:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6877036:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6877036:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6877036:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6877036:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6877036:component:010:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6877036",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6877036",
+          "title": "마성의 단짠단짠한 닭봉조림",
+          "description": "술안주에 딱맞춤인 요맛! 술을 부른다 불러~~ 세상의 모든 레시피 만개의레시피",
+          "servings": "2인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "아무나",
+          "views": 103000,
+          "source_url": "https://www.10000recipe.com/recipe/6877036",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:fd5b501158299d506c7e8b844d51baf8b0566445ad608094595ba66d409b9154",
+        "label": "Dish",
+        "properties": {
+          "name": "닭봉조림"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "닭봉",
+          "role": "food",
+          "group": "재료",
+          "quantity": "500g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 닭봉 500g\", \"깨끗이 씻은 닭봉은 우유에 30분 정도 담가준 후 물에 헹궈 준비한다.\", \"닭봉 500g, 우유 200ml\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:2be5218d14f11e203f79af762e67deceb362c6f22c2ee3220b188c9bbebf3fd3",
+        "label": "Ingredient",
+        "properties": {
+          "name": "닭봉",
+          "name_normalized": "닭봉"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "우유",
+          "role": "food",
+          "group": "재료",
+          "quantity": "200ml",
+          "unit": null,
+          "preparation": null,
+          "detail": "닭봉을 담가 준비함",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 우유 200ml\", \"깨끗이 씻은 닭봉은 우유에 30분 정도 담가준 후 물에 헹궈 준비한다.\", \"닭봉 500g, 우유 200ml\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "우유",
+          "name_normalized": "우유"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1대",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1대\", \"닭봉이 든 냄비에 채소와 양념장을 넣고 끓인다. 대파 1대, 편마늘 2T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "편마늘",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 편마늘 2T\", \"닭봉이 든 냄비에 채소와 양념장을 넣고 끓인다. 대파 1대, 편마늘 2T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:baa11804f48e04a7e775bbdd36a8eca1889dbb97f3b5514beedfeacb0d39d880",
+        "label": "Ingredient",
+        "properties": {
+          "name": "편마늘",
+          "name_normalized": "편마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "3.5T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 간장 3.5T\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 설탕 2T\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 맛술 2T\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 후추 약간\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 소금 약간\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6877036:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "100ml",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 물 100ml\", \"양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6877036:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6877036",
+        "type": "VARIANT_OF",
+        "target": "dish:fd5b501158299d506c7e8b844d51baf8b0566445ad608094595ba66d409b9154",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:2be5218d14f11e203f79af762e67deceb362c6f22c2ee3220b188c9bbebf3fd3",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:baa11804f48e04a7e775bbdd36a8eca1889dbb97f3b5514beedfeacb0d39d880",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6877036:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6877036:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "닭봉조림",
+    "components": [
+      {
+        "raw_name": "닭봉",
+        "role": "food",
+        "group": "재료",
+        "quantity": "500g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 닭봉 500g",
+          "깨끗이 씻은 닭봉은 우유에 30분 정도 담가준 후 물에 헹궈 준비한다.",
+          "닭봉 500g, 우유 200ml"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "닭봉",
+        "alternatives": []
+      },
+      {
+        "raw_name": "우유",
+        "role": "food",
+        "group": "재료",
+        "quantity": "200ml",
+        "unit": null,
+        "preparation": null,
+        "detail": "닭봉을 담가 준비함",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 우유 200ml",
+          "깨끗이 씻은 닭봉은 우유에 30분 정도 담가준 후 물에 헹궈 준비한다.",
+          "닭봉 500g, 우유 200ml"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "우유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1대",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1대",
+          "닭봉이 든 냄비에 채소와 양념장을 넣고 끓인다. 대파 1대, 편마늘 2T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "편마늘",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 편마늘 2T",
+          "닭봉이 든 냄비에 채소와 양념장을 넣고 끓인다. 대파 1대, 편마늘 2T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "편마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "3.5T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 간장 3.5T",
+          "양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 설탕 2T",
+          "양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛술",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 맛술 2T",
+          "양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛술",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 후추 약간",
+          "양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 소금 약간",
+          "양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "100ml",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 물 100ml",
+          "양념장을 만든다. 간장 3+1/2T, 설탕 2T, 맛술 2T, 후추 약간, 소금 약간, 물 100ML"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "eb8a4e89eee9fc69be024226ff4da752cac7cbfa495606a1144e0ab51d35ef2d",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6877036:dish",
+      "canonical_id": "dish:fd5b501158299d506c7e8b844d51baf8b0566445ad608094595ba66d409b9154",
+      "original_name": "닭봉조림",
+      "canonical_name": "닭봉조림",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6877036:component:001:candidate:0",
+      "canonical_id": "ingredient:2be5218d14f11e203f79af762e67deceb362c6f22c2ee3220b188c9bbebf3fd3",
+      "original_name": "닭봉",
+      "canonical_name": "닭봉",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6877036:component:002:candidate:0",
+      "canonical_id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+      "original_name": "우유",
+      "canonical_name": "우유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6877036:component:003:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6877036:component:004:candidate:0",
+      "canonical_id": "ingredient:baa11804f48e04a7e775bbdd36a8eca1889dbb97f3b5514beedfeacb0d39d880",
+      "original_name": "편마늘",
+      "canonical_name": "편마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6877036:component:005:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6877036:component:006:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6877036:component:007:candidate:0",
+      "canonical_id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+      "original_name": "맛술",
+      "canonical_name": "맛술",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6877036:component:008:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6877036:component:009:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6877036:component:010:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6877036",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "15912dd3cf433c923035cf7674acd76e24ed0516353d5597c338f2154895913a"
+}

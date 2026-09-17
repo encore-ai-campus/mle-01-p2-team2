@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0OEJQuJExHqekOT39riHu6PODF",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"돼지고기 계란 장조림\",\"components\":[{\"raw_name\":\"돼지고기 안심\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"500g\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"돼지고기 안심 500g\",\"돼지고기 장조림 부위는 안심으로 500g 준비해 주세요.\",\"돼지고기 안심, 통후추, 양파껍질 1개 분량을 넣어주세요.\",\"결대로 찢어둔 돼지고기 안심 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"돼지고기 안심\",\"alternatives\":[]},{\"raw_name\":\"삶은 계란\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"5~6개\",\"unit\":null,\"preparation\":\"삶은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"삶은 계란 5~6개\",\"삶은 계란도 5개 준비했어요.\",\"삶은 계란, 건표고버섯, 통마늘, 양파도 이 단계에 넣어 끓여주세요.\"],\"quality_flags\":[\"AMBIGUOUS_QUANTITY\"],\"ingredient_candidate\":\"계란\",\"alternatives\":[]},{\"raw_name\":\"생강 슬라이스\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"3쪽\",\"unit\":null,\"preparation\":\"슬라이스\",\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"생강 슬라이스 생략 가능 3쪽\"],\"quality_flags\":[],\"ingredient_candidate\":\"생강\",\"alternatives\":[]},{\"raw_name\":\"마늘\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"15개\",\"unit\":null,\"preparation\":\"통\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"마늘 15개\",\"통마늘 15알\",\"삶은 계란, 건표고버섯, 통마늘, 양파도 이 단계에 넣어 끓여주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"건표고버섯\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"3개\",\"unit\":null,\"preparation\":\"건\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"건표고버섯 3개\",\"건표고버섯 3개, 양파 1/2개, 통마늘 15알, 통후추 15알, 삶은 계란도 5개 준비했어요.\",\"삶은 계란, 건표고버섯, 통마늘, 양파도 이 단계에 넣어 끓여주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"표고버섯\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/2개\",\"unit\":null,\"preparation\":\"도톰하게 채 썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"양파 1/2개\",\"양파 1/2개\",\"양파는 도톰하게 채 썰어주면 재료 준비 끝!\",\"삶은 계란, 건표고버섯, 통마늘, 양파도 이 단계에 넣어 끓여주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"청양고추\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"2개\",\"unit\":null,\"preparation\":null,\"detail\":\"풋고추와 선택 관계\",\"is_required\":false,\"alternative_mode\":\"either_or\",\"evidence\":[\"청양고추 또는 풋고추 생략 가능 2개\",\"청양고추, 아이들이랑 드실 때는 풋고추 사용하셔도 좋아요.\",\"고추 넣으실 분은 완성 5분 남겨둔 시점에서 넣고 졸여주시면 됩니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양고추\",\"alternatives\":[{\"raw_name\":\"풋고추\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"청양고추 또는 풋고추 생략 가능 2개\",\"청양고추, 아이들이랑 드실 때는 풋고추 사용하셔도 좋아요.\",\"고추 넣으실 분은 완성 5분 남겨둔 시점에서 넣고 졸여주시면 됩니다\"],\"ingredient_candidate\":\"풋고추\"}]},{\"raw_name\":\"물\",\"role\":\"seasoning\",\"group\":\"삶을때\",\"quantity\":\"900ml\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"물 900ml\",\"물 900ml를 센 불에 끓여주고\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"소주\",\"role\":\"seasoning\",\"group\":\"삶을때\",\"quantity\":\"100ml\",\"unit\":null,\"preparation\":null,\"detail\":\"맛술과 선택 관계\",\"is_required\":true,\"alternative_mode\":\"either_or\",\"evidence\":[\"소주 또는 맛술 100ml\",\"소주 활용하셔도 좋은데요\"],\"quality_flags\":[],\"ingredient_candidate\":\"소주\",\"alternatives\":[{\"raw_name\":\"맛술\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"소주 또는 맛술 100ml\",\"이어선 잡내를 제거해 줄 맛술 100ml를 넣어주세요.\",\"소주 활용하셔도 좋은데요\"],\"ingredient_candidate\":\"맛술\"}]},{\"raw_name\":\"통후추\",\"role\":\"seasoning\",\"group\":\"삶을때\",\"quantity\":\"15알\",\"unit\":null,\"preparation\":\"통\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"통후추 15알\",\"돼지고기 안심, 통후추, 양파껍질 1개 분량을 넣어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]},{\"raw_name\":\"양파껍질\",\"role\":\"food\",\"group\":\"삶을때\",\"quantity\":\"1개\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"양파껍질 1개\",\"돼지고기 안심, 통후추, 양파껍질 1개 분량을 넣어주세요.\",\"오늘 양파껍질도 중요한 역할! 을 하니 버리지 말고 깨끗이 씻은 상태로 준비해 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파껍질\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"seasoning\",\"group\":\"조림 양념장\",\"quantity\":\"600ml\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"물 600ml\",\"물 600ml, 진간장 120ml, 청주 또는 맛술 50ml, 설탕 5T 넣고요 잘 섞어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"진간장\",\"role\":\"seasoning\",\"group\":\"조림 양념장\",\"quantity\":\"120ml\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"진간장 120ml\",\"물 600ml, 진간장 120ml, 청주 또는 맛술 50ml, 설탕 5T 넣고요 잘 섞어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"진간장\",\"alternatives\":[]},{\"raw_name\":\"청주\",\"role\":\"seasoning\",\"group\":\"조림 양념장\",\"quantity\":\"50ml\",\"unit\":null,\"preparation\":null,\"detail\":\"맛술과 선택 관계\",\"is_required\":true,\"alternative_mode\":\"either_or\",\"evidence\":[\"청주 또는 맛술 50ml\",\"물 600ml, 진간장 120ml, 청주 또는 맛술 50ml, 설탕 5T 넣고요 잘 섞어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"청주\",\"alternatives\":[{\"raw_name\":\"맛술\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"청주 또는 맛술 50ml\",\"물 600ml, 진간장 120ml, 청주 또는 맛술 50ml, 설탕 5T 넣고요 잘 섞어주세요.\"],\"ingredient_candidate\":\"맛술\"}]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"조림 양념장\",\"quantity\":\"5T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"설탕 5T\",\"물 600ml, 진간장 120ml, 청주 또는 맛술 50ml, 설탕 5T 넣고요 잘 섞어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530828,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1985,
+    "prompt_tokens": 3839,
+    "total_tokens": 5824,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

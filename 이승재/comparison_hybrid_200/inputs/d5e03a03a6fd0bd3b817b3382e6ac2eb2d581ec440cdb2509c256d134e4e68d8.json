@@ -1,0 +1,157 @@
+{
+  "recipe_uid": "10000recipe_7081462",
+  "payload": {
+    "title": "노각무침 레시피 늙은오이 고추장무침 제철 7월 여름 자취생밑반찬",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "늙은오이 1개",
+        "늙은오이",
+        "늙은오이",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "통깨 약간",
+        "통깨",
+        "통깨",
+        "food",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "파 1움큼",
+        "파",
+        "파",
+        "food",
+        "[재료]",
+        "1",
+        "움큼",
+        null,
+        null
+      ],
+      [
+        "고추장 1T",
+        "고추장",
+        "고추장",
+        "seasoning",
+        "[재료]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "고춧가루 1t",
+        "고춧가루",
+        "고춧가루",
+        "seasoning",
+        "[재료]",
+        "1",
+        "t",
+        null,
+        null
+      ],
+      [
+        "설탕 1t",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[재료]",
+        "1",
+        "t",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "늙은오이 1개",
+      "raw_name": "늙은오이",
+      "ingredient_candidate": "늙은오이",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "통깨 약간",
+      "raw_name": "통깨",
+      "ingredient_candidate": "통깨",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "파 1움큼",
+      "raw_name": "파",
+      "ingredient_candidate": "파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "움큼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추장 1T",
+      "raw_name": "고추장",
+      "ingredient_candidate": "고추장",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고춧가루 1t",
+      "raw_name": "고춧가루",
+      "ingredient_candidate": "고춧가루",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "t",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 1t",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "t",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 4,
+  "sent_steps": 0,
+  "evidence_text": "노각무침 레시피 늙은오이 고추장무침 제철 7월 여름 자취생밑반찬\n늙은오이 1개\n통깨 약간\n파 1움큼\n고추장 1T\n고춧가루 1t\n설탕 1t"
+}

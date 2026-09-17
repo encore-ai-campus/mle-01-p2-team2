@@ -1,0 +1,838 @@
+{
+  "recipe_uid": "10000recipe_7081416",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081416",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081416",
+          "title": "토마토 퓌레 만들기 & 토마토 파스타",
+          "description": "빨갛게 잘 익은 완숙 토마토로 토마토 퓌레를 만들어 토마토그라탕 토마토파스타를 만들어 보았습니다 토마토 퓌레로 파스타를 만들면 토마토 풍미가 깊고 토마토 본연의 맛이 잘 느껴져서 느끼 하지 않고 새콤 하면서 맛있습니다",
+          "servings": "4인분",
+          "cooking_time": "60분 이내",
+          "difficulty": "초급",
+          "views": 94,
+          "source_url": "https://www.10000recipe.com/recipe/7081416",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "토마토 파스타"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": "토마토퓌레",
+          "quantity": "1kg",
+          "unit": null,
+          "preparation": "흐르는 물에 깨끗히 씻은, 꼭지 부분을 도려 낸 후 4조각으로 자른",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토퓌레] 토마토 1kg\", \"흐르는 물에 깨끗히 씻은 토마토는 꼭지 부분을 도려 낸 후 4조각으로 자른다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "food",
+          "group": "토마토퓌레",
+          "quantity": "10개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토퓌레] 마늘 10개\", \"토마토 1kg 마늘 10개 넣고 블렌더로 곱게 갈아준다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "토마토퓌레",
+          "quantity": "1/4t",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토퓌레] 소금 1/4t\", \"냄비에 간 토마토 소금 1/4t 올리브유 2큰술을 넣고 강불로 끓여 준다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파스타면",
+          "role": "food",
+          "group": "토마토 파스타",
+          "quantity": "90g",
+          "unit": null,
+          "preparation": "삶은",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토파스타] 파스타면 90g\", \"삶은 파스타면과 토마토 퓌레를 넣고 잘 섞어 준다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파스타면",
+          "name_normalized": "파스타면"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "브로컬리",
+          "role": "food",
+          "group": "토마토 파스타",
+          "quantity": "6~7조각",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토파스타] 브로컬리 6~7조각\", \"팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "브로컬리",
+          "name_normalized": "브로컬리"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "미트볼",
+          "role": "food",
+          "group": "토마토 파스타",
+          "quantity": "5개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토파스타] 미트볼 5개\", \"팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "미트볼",
+          "name_normalized": "미트볼"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리브유",
+          "role": "seasoning",
+          "group": "토마토 파스타",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토파스타] 올리브유 1큰술\", \"팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리브유",
+          "name_normalized": "올리브유"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081416",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7081416:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081416:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081416:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081416:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081416:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081416:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081416:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081416:component:007:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081416",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081416",
+          "title": "토마토 퓌레 만들기 & 토마토 파스타",
+          "description": "빨갛게 잘 익은 완숙 토마토로 토마토 퓌레를 만들어 토마토그라탕 토마토파스타를 만들어 보았습니다 토마토 퓌레로 파스타를 만들면 토마토 풍미가 깊고 토마토 본연의 맛이 잘 느껴져서 느끼 하지 않고 새콤 하면서 맛있습니다",
+          "servings": "4인분",
+          "cooking_time": "60분 이내",
+          "difficulty": "초급",
+          "views": 94,
+          "source_url": "https://www.10000recipe.com/recipe/7081416",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:c729843d07df283ac9b780daa9542595bd3bae249d50515d4e9389af7c846733",
+        "label": "Dish",
+        "properties": {
+          "name": "토마토 파스타"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": "토마토퓌레",
+          "quantity": "1kg",
+          "unit": null,
+          "preparation": "흐르는 물에 깨끗히 씻은, 꼭지 부분을 도려 낸 후 4조각으로 자른",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토퓌레] 토마토 1kg\", \"흐르는 물에 깨끗히 씻은 토마토는 꼭지 부분을 도려 낸 후 4조각으로 자른다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "food",
+          "group": "토마토퓌레",
+          "quantity": "10개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토퓌레] 마늘 10개\", \"토마토 1kg 마늘 10개 넣고 블렌더로 곱게 갈아준다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "토마토퓌레",
+          "quantity": "1/4t",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토퓌레] 소금 1/4t\", \"냄비에 간 토마토 소금 1/4t 올리브유 2큰술을 넣고 강불로 끓여 준다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파스타면",
+          "role": "food",
+          "group": "토마토 파스타",
+          "quantity": "90g",
+          "unit": null,
+          "preparation": "삶은",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토파스타] 파스타면 90g\", \"삶은 파스타면과 토마토 퓌레를 넣고 잘 섞어 준다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:90a3a13887fbd86d52e7b59586c77df98bf903a3cbb195097f9f60cb2a51ae5b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파스타면",
+          "name_normalized": "파스타면"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "브로컬리",
+          "role": "food",
+          "group": "토마토 파스타",
+          "quantity": "6~7조각",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토파스타] 브로컬리 6~7조각\", \"팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:878a577c9d6f3679c9e664cb874984e12dea03612e5bc33ffb66bd73f5d02a1c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "브로컬리",
+          "name_normalized": "브로컬리"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "미트볼",
+          "role": "food",
+          "group": "토마토 파스타",
+          "quantity": "5개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토파스타] 미트볼 5개\", \"팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:daa59b656e483c951e967df3f3a768cc20dc1d046aab06bb426944dcfd2dd76b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "미트볼",
+          "name_normalized": "미트볼"
+        }
+      },
+      {
+        "id": "10000recipe_7081416:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리브유",
+          "role": "seasoning",
+          "group": "토마토 파스타",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료토마토파스타] 올리브유 1큰술\", \"팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081416:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:a84b56f330700afb0e4a895fec28ef0b36df40dd3eb25e7a8ab70a1ae29e27c3",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리브유",
+          "name_normalized": "올리브유"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081416",
+        "type": "VARIANT_OF",
+        "target": "dish:c729843d07df283ac9b780daa9542595bd3bae249d50515d4e9389af7c846733",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:90a3a13887fbd86d52e7b59586c77df98bf903a3cbb195097f9f60cb2a51ae5b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:878a577c9d6f3679c9e664cb874984e12dea03612e5bc33ffb66bd73f5d02a1c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:daa59b656e483c951e967df3f3a768cc20dc1d046aab06bb426944dcfd2dd76b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081416:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081416:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:a84b56f330700afb0e4a895fec28ef0b36df40dd3eb25e7a8ab70a1ae29e27c3",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "토마토 파스타",
+    "components": [
+      {
+        "raw_name": "토마토",
+        "role": "food",
+        "group": "토마토퓌레",
+        "quantity": "1kg",
+        "unit": null,
+        "preparation": "흐르는 물에 깨끗히 씻은, 꼭지 부분을 도려 낸 후 4조각으로 자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토퓌레] 토마토 1kg",
+          "흐르는 물에 깨끗히 씻은 토마토는 꼭지 부분을 도려 낸 후 4조각으로 자른다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "food",
+        "group": "토마토퓌레",
+        "quantity": "10개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토퓌레] 마늘 10개",
+          "토마토 1kg 마늘 10개 넣고 블렌더로 곱게 갈아준다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "토마토퓌레",
+        "quantity": "1/4t",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토퓌레] 소금 1/4t",
+          "냄비에 간 토마토 소금 1/4t 올리브유 2큰술을 넣고 강불로 끓여 준다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파스타면",
+        "role": "food",
+        "group": "토마토 파스타",
+        "quantity": "90g",
+        "unit": null,
+        "preparation": "삶은",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토파스타] 파스타면 90g",
+          "삶은 파스타면과 토마토 퓌레를 넣고 잘 섞어 준다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파스타면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "브로컬리",
+        "role": "food",
+        "group": "토마토 파스타",
+        "quantity": "6~7조각",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토파스타] 브로컬리 6~7조각",
+          "팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "브로컬리",
+        "alternatives": []
+      },
+      {
+        "raw_name": "미트볼",
+        "role": "food",
+        "group": "토마토 파스타",
+        "quantity": "5개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토파스타] 미트볼 5개",
+          "팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "미트볼",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브유",
+        "role": "seasoning",
+        "group": "토마토 파스타",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료토마토파스타] 올리브유 1큰술",
+          "팬에 브로컬리와 미트볼을 넣고 올리브유 1큰술 넣어 볶는다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브유",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "eb7c328a996ccbc5d6a48d349c7bfd31ca8fc166ace01a50b5ca9f876bcd9fcf",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081416:dish",
+      "canonical_id": "dish:c729843d07df283ac9b780daa9542595bd3bae249d50515d4e9389af7c846733",
+      "original_name": "토마토 파스타",
+      "canonical_name": "토마토 파스타",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081416:component:001:candidate:0",
+      "canonical_id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+      "original_name": "토마토",
+      "canonical_name": "토마토",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081416:component:002:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081416:component:003:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081416:component:004:candidate:0",
+      "canonical_id": "ingredient:90a3a13887fbd86d52e7b59586c77df98bf903a3cbb195097f9f60cb2a51ae5b",
+      "original_name": "파스타면",
+      "canonical_name": "파스타면",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081416:component:005:candidate:0",
+      "canonical_id": "ingredient:878a577c9d6f3679c9e664cb874984e12dea03612e5bc33ffb66bd73f5d02a1c",
+      "original_name": "브로컬리",
+      "canonical_name": "브로컬리",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081416:component:006:candidate:0",
+      "canonical_id": "ingredient:daa59b656e483c951e967df3f3a768cc20dc1d046aab06bb426944dcfd2dd76b",
+      "original_name": "미트볼",
+      "canonical_name": "미트볼",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081416:component:007:candidate:0",
+      "canonical_id": "ingredient:a84b56f330700afb0e4a895fec28ef0b36df40dd3eb25e7a8ab70a1ae29e27c3",
+      "original_name": "올리브유",
+      "canonical_name": "올리브유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7081416",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_7081416:component:004: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081416:component:005: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081416:component:006: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081416:component:007: EVIDENCE_NOT_FOUND"
+    ],
+    "stage1_errors": [
+      "10000recipe_7081416:component:004: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081416:component:005: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081416:component:006: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081416:component:007: EVIDENCE_NOT_FOUND"
+    ],
+    "stage2_errors": [
+      "10000recipe_7081416:component:004: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081416:component:005: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081416:component:006: EVIDENCE_NOT_FOUND",
+      "10000recipe_7081416:component:007: EVIDENCE_NOT_FOUND"
+    ]
+  },
+  "review_hash": "ca19bea30be8bf06959853643d7e59cc8e71dca6f3824675127a723561db5c2c"
+}

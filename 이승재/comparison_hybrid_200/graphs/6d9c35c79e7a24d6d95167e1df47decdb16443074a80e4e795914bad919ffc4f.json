@@ -1,0 +1,244 @@
+{
+  "recipe_uid": "10000recipe_7080404",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7080404",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7080404",
+          "title": "수박주스 수박 에이드 만들기 요리 레시피",
+          "description": "바람은 많이도 부는데 온 동네에 온풍기를 아주 강으로 털어놓은 줄 알았습니다. 잠깐 나갈 일이 있어 차에서 내려 몇 발자국 걷는데 아주 힘드네요. 입맛이 없어지는 무더위에 다이어트가 절로 되는 시기가 여름이 아닌가 싶습니다. 이때 식단만 좀 해주면 다이어트가 참으로 쉬운데 더위에 음식 지지고 볶고 하는 게 쉽지 않으니 쉬운 게 쉬운 게 아니네요. 이런 더운 날에는 무조건 시원한 것 만 찾게 되니 냉장고에 시원한 수박도 그냥 먹기보다는 시원한 수박주스 에이드를 만들어 먹었습니다.",
+          "servings": "2인분",
+          "cooking_time": "5분 이내",
+          "difficulty": "아무나",
+          "views": 127,
+          "source_url": "https://www.10000recipe.com/recipe/7080404",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:f5c483056263e4e12d09ffc631c93f0357e9cefe931a7a25e21febdb7644a3f8",
+        "label": "Dish",
+        "properties": {
+          "name": "수박주스"
+        }
+      },
+      {
+        "id": "10000recipe_7080404:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "수박",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "L",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"수박 1L\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080404:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:57fd5fba7c760309c7892afd0ad6ddd4178a5289c18a735879cdbc50e656a1ed",
+        "label": "Ingredient",
+        "properties": {
+          "name": "수박",
+          "name_normalized": "수박"
+        }
+      },
+      {
+        "id": "10000recipe_7080404:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "레몬즙",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"레몬즙 2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080404:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:2566dae2fabb632cce6f5f41e7b7fd4c4feb7e5d982b5f504195dfe89e84b4b8",
+        "label": "Ingredient",
+        "properties": {
+          "name": "레몬즙",
+          "name_normalized": "레몬즙"
+        }
+      },
+      {
+        "id": "10000recipe_7080404:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "사이다",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"사이다 1컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080404:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:3eb14def1242cfe0ad4073ad037d2a469e8826879a819b30b8e6b603824907f9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "사이다",
+          "name_normalized": "사이다"
+        }
+      },
+      {
+        "id": "10000recipe_7080404:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꿀",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"꿀 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080404:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꿀",
+          "name_normalized": "꿀"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7080404",
+        "type": "VARIANT_OF",
+        "target": "dish:f5c483056263e4e12d09ffc631c93f0357e9cefe931a7a25e21febdb7644a3f8",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080404:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080404:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:57fd5fba7c760309c7892afd0ad6ddd4178a5289c18a735879cdbc50e656a1ed",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080404:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080404:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:2566dae2fabb632cce6f5f41e7b7fd4c4feb7e5d982b5f504195dfe89e84b4b8",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080404:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080404:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:3eb14def1242cfe0ad4073ad037d2a469e8826879a819b30b8e6b603824907f9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080404:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080404:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7080404:dish",
+      "canonical_id": "dish:f5c483056263e4e12d09ffc631c93f0357e9cefe931a7a25e21febdb7644a3f8",
+      "original_name": "수박주스",
+      "canonical_name": "수박주스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080404:component:001:candidate:0",
+      "canonical_id": "ingredient:57fd5fba7c760309c7892afd0ad6ddd4178a5289c18a735879cdbc50e656a1ed",
+      "original_name": "수박",
+      "canonical_name": "수박",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080404:component:002:candidate:0",
+      "canonical_id": "ingredient:2566dae2fabb632cce6f5f41e7b7fd4c4feb7e5d982b5f504195dfe89e84b4b8",
+      "original_name": "레몬즙",
+      "canonical_name": "레몬즙",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080404:component:003:candidate:0",
+      "canonical_id": "ingredient:3eb14def1242cfe0ad4073ad037d2a469e8826879a819b30b8e6b603824907f9",
+      "original_name": "사이다",
+      "canonical_name": "사이다",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080404:component:004:candidate:0",
+      "canonical_id": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+      "original_name": "꿀",
+      "canonical_name": "꿀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 4,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 9,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

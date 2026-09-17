@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0v3blnudshGW9LaFjGOkGuVcM0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"오이 돌나물 초무침\",\"components\":[{\"raw_name\":\"돌나물\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"300g\",\"unit\":null,\"preparation\":\"생으로 먹는 채소, 깨끗하게 여러번 씻어\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 돌나물 300g\",\"돌나물은 생으로 먹는 채소니까 4~5번 깨끗하게 여러번 씻어줍니다.\",\"믹싱볼에 손질한 돌나물, 오이, 양파를 담고\"],\"quality_flags\":[],\"ingredient_candidate\":\"돌나물\",\"alternatives\":[]},{\"raw_name\":\"오이\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/2개\",\"unit\":null,\"preparation\":\"반으로 자른 후 씨를 긁어서 버리고 0.5cm 내외로 자름\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 오이 1/2개\",\"그리고 오이는 반으로 자른 후 이렇게 숟가락으로 씨를 긁어서 버립니다.\",\"속을 파낸 오이는 0.5cm 내외로 잘라줍니다.\",\"믹싱볼에 손질한 돌나물, 오이, 양파를 담고\"],\"quality_flags\":[],\"ingredient_candidate\":\"오이\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/2개\",\"unit\":null,\"preparation\":\"최대한 얇게 썰어서 준비\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 양파 1/2개\",\"양파는 최대한 얇게 썰어서 준비하세요.\",\"믹싱볼에 손질한 돌나물, 오이, 양파를 담고\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"고춧가루\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 고춧가루 1큰술\",\"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"고추장\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"2큰술\",\"unit\":null,\"preparation\":null,\"detail\":\"고추장이 들어가서 양념이 뭉치기 쉬움\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 고추장 2큰술\",\"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\",\"고추장이 들어가서 양념이 뭉치기 쉬우니 털어내듯 무쳐주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추장\",\"alternatives\":[]},{\"raw_name\":\"매실액\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 매실액 1큰술\",\"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"매실액\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"1작은술\",\"unit\":null,\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 다진마늘 1작은술\",\"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"식초\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"2큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 식초 2큰술\",\"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"식초\",\"alternatives\":[]},{\"raw_name\":\"깨\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 깨 1큰술\",\"믹싱볼에 손질한 돌나물, 오이, 양파를 담고 고춧가루 1큰술, 고추장 2큰술, 매실액 1큰술, 다진마늘 1작은술, 식초 2큰술, 깨 1큰술을 넣어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"깨\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530861,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1395,
+    "prompt_tokens": 3061,
+    "total_tokens": 4456,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

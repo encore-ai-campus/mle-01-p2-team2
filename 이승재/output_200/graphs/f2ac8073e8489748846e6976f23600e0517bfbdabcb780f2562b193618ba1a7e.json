@@ -1,0 +1,833 @@
+{
+  "recipe_uid": "10000recipe_7082328",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082328",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082328",
+          "title": "초간단 더블치즈햄토스트 만들기",
+          "description": "늦잠을 자서 급하게 식사를 먹어야했어요. 이럴때 저는 보통 생식빵을 먹는데요. 요 며칠 계속 그런식으로 끼니를 때웠더니 생식빵이 질려서 빠르고 쉽게 만들 수 있는 토스트가 먹고 싶었어요. 그래서 만들어본 더블치즈햄토스트 만들기입니다. 간단한 재료로 쉽게 만들수 있고 짭짤한 재료라 가벼운 와인류 안주로도 좋답니다.",
+          "servings": "1인분",
+          "cooking_time": "10분 이내",
+          "difficulty": "아무나",
+          "views": 30,
+          "source_url": "https://www.10000recipe.com/recipe/7082328",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "더블치즈햄토스트"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통밀식빵",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": null,
+          "detail": "일반 우유 식빵 등으로 변경가능",
+          "is_required": null,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장\", \"저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:001:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:001:candidate:2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "사각모짜렐라치즈",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 사각모짜렐라치즈 2장\", \"마요네즈를 바른 빵 위에 사각모짜렐라치즈를 올려주시고요.\", \"그리고 다시 사각모짜렐라치즈 1장을 올리고 마지막으로 허니 머스터드를 바른 빵을 덮어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "모짜렐라치즈",
+          "name_normalized": "모짜렐라치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "체다치즈",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1장",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 체다치즈 1장\", \"샌드위치햄도 1장, 체다치즈도 1장 올리고 다시 샌드위치햄을 1장 덮어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "체다치즈",
+          "name_normalized": "체다치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "샌드위치햄",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 샌드위치햄 2장\", \"샌드위치햄도 1장, 체다치즈도 1장 올리고 다시 샌드위치햄을 1장 덮어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마요네즈",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1/2숟갈",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 마요네즈 1/2숟갈\", \"먼저 통밀식빵 한장에는 마요네즈 1/2숟갈을 또 다른 장에는 허니머스터드 1/2숟갈을 골고루 발라주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마요네즈",
+          "name_normalized": "마요네즈"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "허니머스터드",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1/2숟갈",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 허니머스터드 1/2숟갈\", \"먼저 통밀식빵 한장에는 마요네즈 1/2숟갈을 또 다른 장에는 허니머스터드 1/2숟갈을 골고루 발라주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "허니머스터드",
+          "name_normalized": "허니머스터드"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082328",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7082328:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082328:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:001",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7082328:component:001:candidate:1",
+        "properties": {
+          "raw_name": "일반 식빵",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장\", \"저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082328:component:001",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7082328:component:001:candidate:2",
+        "properties": {
+          "raw_name": "우유 식빵",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장\", \"저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082328:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082328:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082328:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082328:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082328:component:006:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082328",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082328",
+          "title": "초간단 더블치즈햄토스트 만들기",
+          "description": "늦잠을 자서 급하게 식사를 먹어야했어요. 이럴때 저는 보통 생식빵을 먹는데요. 요 며칠 계속 그런식으로 끼니를 때웠더니 생식빵이 질려서 빠르고 쉽게 만들 수 있는 토스트가 먹고 싶었어요. 그래서 만들어본 더블치즈햄토스트 만들기입니다. 간단한 재료로 쉽게 만들수 있고 짭짤한 재료라 가벼운 와인류 안주로도 좋답니다.",
+          "servings": "1인분",
+          "cooking_time": "10분 이내",
+          "difficulty": "아무나",
+          "views": 30,
+          "source_url": "https://www.10000recipe.com/recipe/7082328",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:8be5a72443d51cbf2049e611235a9c8c2a34e73979280560deea3c4fbf5d563b",
+        "label": "Dish",
+        "properties": {
+          "name": "더블치즈햄토스트"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통밀식빵",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": null,
+          "detail": "일반 우유 식빵 등으로 변경가능",
+          "is_required": null,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장\", \"저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "사각모짜렐라치즈",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 사각모짜렐라치즈 2장\", \"마요네즈를 바른 빵 위에 사각모짜렐라치즈를 올려주시고요.\", \"그리고 다시 사각모짜렐라치즈 1장을 올리고 마지막으로 허니 머스터드를 바른 빵을 덮어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:4cb177481518716715849f70a5ed179fb38123f3f51490ef676fe4c73c62f9b5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "모짜렐라치즈",
+          "name_normalized": "모짜렐라치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "체다치즈",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1장",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 체다치즈 1장\", \"샌드위치햄도 1장, 체다치즈도 1장 올리고 다시 샌드위치햄을 1장 덮어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:8a67d5c11103538226690327743a2e41f62a839528df38977f6f879d0fa9549b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "체다치즈",
+          "name_normalized": "체다치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "샌드위치햄",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 샌드위치햄 2장\", \"샌드위치햄도 1장, 체다치즈도 1장 올리고 다시 샌드위치햄을 1장 덮어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마요네즈",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1/2숟갈",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 마요네즈 1/2숟갈\", \"먼저 통밀식빵 한장에는 마요네즈 1/2숟갈을 또 다른 장에는 허니머스터드 1/2숟갈을 골고루 발라주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마요네즈",
+          "name_normalized": "마요네즈"
+        }
+      },
+      {
+        "id": "10000recipe_7082328:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "허니머스터드",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1/2숟갈",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 허니머스터드 1/2숟갈\", \"먼저 통밀식빵 한장에는 마요네즈 1/2숟갈을 또 다른 장에는 허니머스터드 1/2숟갈을 골고루 발라주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082328:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:6ffac8927444591c41d18c59981343eff83634631e91738e75db51489978cf67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "허니머스터드",
+          "name_normalized": "허니머스터드"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082328",
+        "type": "VARIANT_OF",
+        "target": "dish:8be5a72443d51cbf2049e611235a9c8c2a34e73979280560deea3c4fbf5d563b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:001",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "properties": {
+          "raw_name": "일반 식빵",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장\", \"저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082328:component:001",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "properties": {
+          "raw_name": "우유 식빵",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장\", \"저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:4cb177481518716715849f70a5ed179fb38123f3f51490ef676fe4c73c62f9b5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:8a67d5c11103538226690327743a2e41f62a839528df38977f6f879d0fa9549b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082328:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082328:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:6ffac8927444591c41d18c59981343eff83634631e91738e75db51489978cf67",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "더블치즈햄토스트",
+    "components": [
+      {
+        "raw_name": "통밀식빵",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": null,
+        "detail": "일반 우유 식빵 등으로 변경가능",
+        "is_required": null,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장",
+          "저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식빵",
+        "alternatives": [
+          {
+            "raw_name": "일반 식빵",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장",
+              "저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다."
+            ],
+            "ingredient_candidate": "식빵"
+          },
+          {
+            "raw_name": "우유 식빵",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장",
+              "저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다."
+            ],
+            "ingredient_candidate": "식빵"
+          }
+        ]
+      },
+      {
+        "raw_name": "사각모짜렐라치즈",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 사각모짜렐라치즈 2장",
+          "마요네즈를 바른 빵 위에 사각모짜렐라치즈를 올려주시고요.",
+          "그리고 다시 사각모짜렐라치즈 1장을 올리고 마지막으로 허니 머스터드를 바른 빵을 덮어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "모짜렐라치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "체다치즈",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 체다치즈 1장",
+          "샌드위치햄도 1장, 체다치즈도 1장 올리고 다시 샌드위치햄을 1장 덮어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "체다치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "샌드위치햄",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 샌드위치햄 2장",
+          "샌드위치햄도 1장, 체다치즈도 1장 올리고 다시 샌드위치햄을 1장 덮어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "햄",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마요네즈",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1/2숟갈",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 마요네즈 1/2숟갈",
+          "먼저 통밀식빵 한장에는 마요네즈 1/2숟갈을 또 다른 장에는 허니머스터드 1/2숟갈을 골고루 발라주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마요네즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "허니머스터드",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1/2숟갈",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 허니머스터드 1/2숟갈",
+          "먼저 통밀식빵 한장에는 마요네즈 1/2숟갈을 또 다른 장에는 허니머스터드 1/2숟갈을 골고루 발라주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "허니머스터드",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "5a3710055401177c99cdd9e4b2bd45f326ff679912f35515589e54d5f53dbeb9",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7082328:dish",
+      "canonical_id": "dish:8be5a72443d51cbf2049e611235a9c8c2a34e73979280560deea3c4fbf5d563b",
+      "original_name": "더블치즈햄토스트",
+      "canonical_name": "더블치즈햄토스트",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082328:component:001:candidate:0",
+      "canonical_id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+      "original_name": "식빵",
+      "canonical_name": "식빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082328:component:001:candidate:1",
+      "canonical_id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+      "original_name": "식빵",
+      "canonical_name": "식빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082328:component:001:candidate:2",
+      "canonical_id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+      "original_name": "식빵",
+      "canonical_name": "식빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082328:component:002:candidate:0",
+      "canonical_id": "ingredient:4cb177481518716715849f70a5ed179fb38123f3f51490ef676fe4c73c62f9b5",
+      "original_name": "모짜렐라치즈",
+      "canonical_name": "모짜렐라치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082328:component:003:candidate:0",
+      "canonical_id": "ingredient:8a67d5c11103538226690327743a2e41f62a839528df38977f6f879d0fa9549b",
+      "original_name": "체다치즈",
+      "canonical_name": "체다치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082328:component:004:candidate:0",
+      "canonical_id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+      "original_name": "햄",
+      "canonical_name": "햄",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082328:component:005:candidate:0",
+      "canonical_id": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+      "original_name": "마요네즈",
+      "canonical_name": "마요네즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082328:component:006:candidate:0",
+      "canonical_id": "ingredient:6ffac8927444591c41d18c59981343eff83634631e91738e75db51489978cf67",
+      "original_name": "허니머스터드",
+      "canonical_name": "허니머스터드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7082328",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_7082328:component:001: SELF_ALTERNATIVE"
+    ],
+    "stage1_errors": [],
+    "stage2_errors": [
+      "10000recipe_7082328:component:001: SELF_ALTERNATIVE"
+    ]
+  },
+  "review_hash": "5fbb41e17702a17b2050b2d2886815ed512db5285cfa0447a21534df8b0f1711"
+}

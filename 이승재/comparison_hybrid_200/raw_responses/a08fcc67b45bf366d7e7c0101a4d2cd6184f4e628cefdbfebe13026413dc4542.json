@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeaL1rgIsq3B9nkz4uT4DURqaq4S",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"후르츠산도\",\"components\":[{\"raw_name\":\"두꺼운 식빵 2~2.5cm\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"장\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"두꺼운 식빵 2~2.5cm 2장\"],\"quality_flags\":[],\"ingredient_candidate\":\"두꺼운 식빵 2~2.5cm\",\"alternatives\":[]},{\"raw_name\":\"무화과\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"무화과 2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"무화과\",\"alternatives\":[]},{\"raw_name\":\"생크림\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"100\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"생크림 100g\"],\"quality_flags\":[],\"ingredient_candidate\":\"생크림\",\"alternatives\":[]},{\"raw_name\":\"크림치즈\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"50\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"크림치즈 50g\"],\"quality_flags\":[],\"ingredient_candidate\":\"크림치즈\",\"alternatives\":[]},{\"raw_name\":\"에리스톨 백설탕가능\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"5\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"either_or\",\"evidence\":[\"에리스톨 백설탕가능 5g\"],\"quality_flags\":[\"AMBIGUOUS_INGREDIENT\"],\"ingredient_candidate\":\"에리스톨 백설탕가능\",\"alternatives\":[{\"raw_name\":\"백설탕가능\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"에리스톨 백설탕가능 5g\"],\"ingredient_candidate\":\"백설탕가능\"}]},{\"raw_name\":\"연유\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"10\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"연유 10g\"],\"quality_flags\":[],\"ingredient_candidate\":\"연유\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544589,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 553,
+    "prompt_tokens": 2864,
+    "total_tokens": 3417,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

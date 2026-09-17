@@ -1,0 +1,223 @@
+{
+  "recipe_uid": "10000recipe_7082592",
+  "payload": {
+    "title": "찬밥으로만드는 표고버섯솥밥",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "표고버섯 100g",
+        "표고버섯",
+        "표고버섯",
+        "food",
+        "[재료]",
+        "100",
+        "g",
+        null,
+        null
+      ],
+      [
+        "간마늘 2/1T",
+        "간마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "2/1",
+        "T",
+        "간",
+        null
+      ],
+      [
+        "파 2/1T",
+        "파",
+        "파",
+        "food",
+        "[재료]",
+        "2/1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "찬밥 1공기",
+        "찬밥 1공기",
+        "찬밥 1공기",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "버터 20g",
+        "버터",
+        "버터",
+        "food",
+        "[재료]",
+        "20",
+        "g",
+        null,
+        null
+      ],
+      [
+        "가루육수 1포",
+        "가루육수 1포",
+        "가루육수 1포",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "쯔유 1.5T",
+        "쯔유",
+        "쯔유",
+        "food",
+        "[재료]",
+        "1.5",
+        "T",
+        null,
+        null
+      ],
+      [
+        "물 20ml",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "20",
+        "ml",
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "표고버섯 100g",
+      "raw_name": "표고버섯",
+      "ingredient_candidate": "표고버섯",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "100",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간마늘 2/1T",
+      "raw_name": "간마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2/1",
+      "unit": "T",
+      "preparation": "간",
+      "detail": null
+    },
+    {
+      "raw": "파 2/1T",
+      "raw_name": "파",
+      "ingredient_candidate": "파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2/1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "찬밥 1공기",
+      "raw_name": "찬밥 1공기",
+      "ingredient_candidate": "찬밥 1공기",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "버터 20g",
+      "raw_name": "버터",
+      "ingredient_candidate": "버터",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "20",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "가루육수 1포",
+      "raw_name": "가루육수 1포",
+      "ingredient_candidate": "가루육수 1포",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "쯔유 1.5T",
+      "raw_name": "쯔유",
+      "ingredient_candidate": "쯔유",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1.5",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 20ml",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "20",
+      "unit": "ml",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 3,
+  "sent_steps": 0,
+  "evidence_text": "찬밥으로만드는 표고버섯솥밥\n표고버섯 100g\n간마늘 2/1T\n파 2/1T\n찬밥 1공기\n버터 20g\n가루육수 1포\n쯔유 1.5T\n물 20ml\n후추 약간"
+}

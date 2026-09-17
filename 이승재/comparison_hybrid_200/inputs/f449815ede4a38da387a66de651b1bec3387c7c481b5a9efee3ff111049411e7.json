@@ -1,0 +1,223 @@
+{
+  "recipe_uid": "10000recipe_7081699",
+  "payload": {
+    "title": "부채살요리 추천! 부드럽고 촉촉한 소고기양념구이 레시피",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "구이용 부채살 300g",
+        "구이용 부채살",
+        "구이용 부채살",
+        "food",
+        "[재료]",
+        "300",
+        "g",
+        null,
+        null
+      ],
+      [
+        "다진마늘 1T",
+        "다진마늘",
+        "마늘",
+        "seasoning",
+        "[양념 ]",
+        "1",
+        "T",
+        "다진",
+        null
+      ],
+      [
+        "간장 2T",
+        "간장",
+        "간장",
+        "seasoning",
+        "[양념 ]",
+        "2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "맛술 1T",
+        "맛술",
+        "맛술",
+        "seasoning",
+        "[양념 ]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "설탕 0.5T",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[양념 ]",
+        "0.5",
+        "T",
+        null,
+        null
+      ],
+      [
+        "올리고당 1T",
+        "올리고당",
+        "올리고당",
+        "seasoning",
+        "[양념 ]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "소금 1꼬집",
+        "소금",
+        "소금",
+        "seasoning",
+        "[양념 ]",
+        "1",
+        "꼬집",
+        null,
+        null
+      ],
+      [
+        "후추",
+        "후추",
+        "후추",
+        "seasoning",
+        "[양념 ]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "참기름 1T",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념 ]",
+        "1",
+        "T",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "구이용 부채살 300g",
+      "raw_name": "구이용 부채살",
+      "ingredient_candidate": "구이용 부채살",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "300",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1T",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념 ]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "간장 2T",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[양념 ]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "맛술 1T",
+      "raw_name": "맛술",
+      "ingredient_candidate": "맛술",
+      "role": "seasoning",
+      "group": "[양념 ]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 0.5T",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[양념 ]",
+      "quantity": "0.5",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리고당 1T",
+      "raw_name": "올리고당",
+      "ingredient_candidate": "올리고당",
+      "role": "seasoning",
+      "group": "[양념 ]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 1꼬집",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[양념 ]",
+      "quantity": "1",
+      "unit": "꼬집",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[양념 ]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1T",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념 ]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "부채살요리 추천! 부드럽고 촉촉한 소고기양념구이 레시피\n구이용 부채살 300g\n다진마늘 1T\n간장 2T\n맛술 1T\n설탕 0.5T\n올리고당 1T\n소금 1꼬집\n후추\n참기름 1T"
+}

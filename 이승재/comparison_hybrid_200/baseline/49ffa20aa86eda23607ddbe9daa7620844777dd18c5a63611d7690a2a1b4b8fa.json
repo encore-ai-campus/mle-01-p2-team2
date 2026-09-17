@@ -1,0 +1,160 @@
+{
+  "recipe_uid": "10000recipe_6879745",
+  "cache_key": "449d6e637f81aa484241013bf2fa255be1eb1dd458d208cb883cbda2561f5455",
+  "model": "gpt-5.4-mini",
+  "input_hash": "b7f15e4d69b14f83c1a164bc725c87b54312f4377afda0834dfab852f77a6260",
+  "source_record_hash": "145859a5f32d7c888b33af7e00ef780f980783ad4d50b64e7c500a9b949d8ad1",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "옥수수콘치즈",
+    "components": [
+      {
+        "raw_name": "콘옥수수",
+        "role": "food",
+        "group": null,
+        "quantity": "300g",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 콘옥수수 300g",
+          "콘옥수수는 체에 받쳐 물기를 빼주세요.",
+          "옥수수를 넣고 살짝 볶아준 후"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "옥수수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": "녹인",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 버터 1T",
+          "달군 팬에 버터 1T를 넣고 녹여주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마요네즈",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2T",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 마요네즈 2T",
+          "마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마요네즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 설탕 1T",
+          "마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요.",
+          "단맛을 싫어하신다면 설탕양을 줄여주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추 약간",
+          "마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파슬리가루",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 파슬리가루",
+          "치즈를 녹여서 파슬리가루까지 뿌려서 완성해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파슬리 가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "모짜렐라치즈",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "본문에서는 피자치즈라고도 표현됨",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 모짜렐라치즈",
+          "피자치즈를 듬뿍 올려서 뚜껑으로 닫고 치즈를 녹여주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "모짜렐라 치즈",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 762,
+    "prompt_tokens": 3014,
+    "total_tokens": 3776,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

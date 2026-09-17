@@ -1,0 +1,680 @@
+{
+  "recipe_uid": "10000recipe_6853029",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6853029",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6853029",
+          "title": "문어숙회 문어삶는법과 시간/ 손질법 알아보기",
+          "description": "생선장사 하는덕분에 요즘 해산물은 원없이 묵고댕기는 루비씨가 오늘은 퉁퉁하니 쫀득한 맛을 자랑하는 돌문어로 숙회를 해볼까 합니다. 문어는 타우린이 풍부해서 간의 독소도 빼주고 피로와 원기를 회복시키고 피를 맑게 해준께 많이들 드시와요 ㅎㅎ",
+          "servings": "4인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 117000,
+          "source_url": "https://www.10000recipe.com/recipe/6853029",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "문어숙회"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "문어 한마리",
+          "role": "food",
+          "group": "재료",
+          "quantity": "800g",
+          "unit": null,
+          "preparation": "삶은 뒤 사선으로 얇게 썸",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 문어 한마리 800g\", \"잘 손질된 문어를 넣습니다.\", \"잘 삶아진 문어는 채에 받쳐 물기도뺄겸 식혀줍니다.\", \"사선으로 얇게 썰어주믄 끝!!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "문어",
+          "name_normalized": "문어"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "된장",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 된장 1큰술\", \"이제 끓는 물에 된장 1아빠숟가락,\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "된장",
+          "name_normalized": "된장"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1소주컵",
+          "unit": "소주컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": false,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 맛술 1소주컵\", \"맛술 소주컵1컵을 넣어 주시와요.\", \"맛술없으믄 소주 1/2컵넣어주시고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:003:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소주",
+          "name_normalized": "소주"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밀가루",
+          "role": "food",
+          "group": "문어손질재료",
+          "quantity": "1컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": "빨판 불순물 제거용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[문어손질재료] 밀가루 1컵\", \"빨판에 붙어있는 불순물은 밀가루 종이컵 1컵 분량을 넣고 반죽하듯 잘 주물러 문지른뒤 씻어주면 됩니다잉 ^^\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밀가루",
+          "name_normalized": "밀가루"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굵은소금",
+          "role": "seasoning",
+          "group": "문어손질재료",
+          "quantity": "1/3컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": "문어 손질용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[문어손질재료] 굵은소금 1/3컵\", \"먼저 문어의 머릿속 내장을 다 꺼내고 눈과 입도 떼준뒤 굵은 소금로 박박 한번 문질러 행궈줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굵은소금",
+          "name_normalized": "굵은소금"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6853029",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6853029:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6853029:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6853029:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6853029:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:003",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_6853029:component:003:candidate:1",
+        "properties": {
+          "raw_name": "소주",
+          "quantity": "1/2컵",
+          "unit": "컵",
+          "preparation": null,
+          "condition": "맛술없으믄",
+          "evidence": "[\"맛술없으믄 소주 1/2컵넣어주시고요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6853029:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6853029:component:005:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6853029",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6853029",
+          "title": "문어숙회 문어삶는법과 시간/ 손질법 알아보기",
+          "description": "생선장사 하는덕분에 요즘 해산물은 원없이 묵고댕기는 루비씨가 오늘은 퉁퉁하니 쫀득한 맛을 자랑하는 돌문어로 숙회를 해볼까 합니다. 문어는 타우린이 풍부해서 간의 독소도 빼주고 피로와 원기를 회복시키고 피를 맑게 해준께 많이들 드시와요 ㅎㅎ",
+          "servings": "4인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 117000,
+          "source_url": "https://www.10000recipe.com/recipe/6853029",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:6e3a4458c0b199c70971d7287dc888761b16807bc5ab317d9c0c3716424b1dbd",
+        "label": "Dish",
+        "properties": {
+          "name": "문어숙회"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "문어 한마리",
+          "role": "food",
+          "group": "재료",
+          "quantity": "800g",
+          "unit": null,
+          "preparation": "삶은 뒤 사선으로 얇게 썸",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 문어 한마리 800g\", \"잘 손질된 문어를 넣습니다.\", \"잘 삶아진 문어는 채에 받쳐 물기도뺄겸 식혀줍니다.\", \"사선으로 얇게 썰어주믄 끝!!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:8c7bd214f009a9c783f57bf41959ce787b3c57b8eed97e9c5e0890fe7d36abbd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "문어",
+          "name_normalized": "문어"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "된장",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 된장 1큰술\", \"이제 끓는 물에 된장 1아빠숟가락,\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "된장",
+          "name_normalized": "된장"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1소주컵",
+          "unit": "소주컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": false,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 맛술 1소주컵\", \"맛술 소주컵1컵을 넣어 주시와요.\", \"맛술없으믄 소주 1/2컵넣어주시고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소주",
+          "name_normalized": "소주"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밀가루",
+          "role": "food",
+          "group": "문어손질재료",
+          "quantity": "1컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": "빨판 불순물 제거용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[문어손질재료] 밀가루 1컵\", \"빨판에 붙어있는 불순물은 밀가루 종이컵 1컵 분량을 넣고 반죽하듯 잘 주물러 문지른뒤 씻어주면 됩니다잉 ^^\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밀가루",
+          "name_normalized": "밀가루"
+        }
+      },
+      {
+        "id": "10000recipe_6853029:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굵은소금",
+          "role": "seasoning",
+          "group": "문어손질재료",
+          "quantity": "1/3컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": "문어 손질용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[문어손질재료] 굵은소금 1/3컵\", \"먼저 문어의 머릿속 내장을 다 꺼내고 눈과 입도 떼준뒤 굵은 소금로 박박 한번 문질러 행궈줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6853029:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굵은소금",
+          "name_normalized": "굵은소금"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6853029",
+        "type": "VARIANT_OF",
+        "target": "dish:6e3a4458c0b199c70971d7287dc888761b16807bc5ab317d9c0c3716424b1dbd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:8c7bd214f009a9c783f57bf41959ce787b3c57b8eed97e9c5e0890fe7d36abbd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:003",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+        "properties": {
+          "raw_name": "소주",
+          "quantity": "1/2컵",
+          "unit": "컵",
+          "preparation": null,
+          "condition": "맛술없으믄",
+          "evidence": "[\"맛술없으믄 소주 1/2컵넣어주시고요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6853029:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6853029:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "문어숙회",
+    "components": [
+      {
+        "raw_name": "문어 한마리",
+        "role": "food",
+        "group": "재료",
+        "quantity": "800g",
+        "unit": null,
+        "preparation": "삶은 뒤 사선으로 얇게 썸",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 문어 한마리 800g",
+          "잘 손질된 문어를 넣습니다.",
+          "잘 삶아진 문어는 채에 받쳐 물기도뺄겸 식혀줍니다.",
+          "사선으로 얇게 썰어주믄 끝!!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "문어",
+        "alternatives": []
+      },
+      {
+        "raw_name": "된장",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 된장 1큰술",
+          "이제 끓는 물에 된장 1아빠숟가락,"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "된장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛술",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1소주컵",
+        "unit": "소주컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "[재료] 맛술 1소주컵",
+          "맛술 소주컵1컵을 넣어 주시와요.",
+          "맛술없으믄 소주 1/2컵넣어주시고요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛술",
+        "alternatives": [
+          {
+            "raw_name": "소주",
+            "quantity": "1/2컵",
+            "unit": "컵",
+            "preparation": null,
+            "condition": "맛술없으믄",
+            "evidence": [
+              "맛술없으믄 소주 1/2컵넣어주시고요."
+            ],
+            "ingredient_candidate": "소주"
+          }
+        ]
+      },
+      {
+        "raw_name": "밀가루",
+        "role": "food",
+        "group": "문어손질재료",
+        "quantity": "1컵",
+        "unit": "컵",
+        "preparation": null,
+        "detail": "빨판 불순물 제거용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[문어손질재료] 밀가루 1컵",
+          "빨판에 붙어있는 불순물은 밀가루 종이컵 1컵 분량을 넣고 반죽하듯 잘 주물러 문지른뒤 씻어주면 됩니다잉 ^^"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밀가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굵은소금",
+        "role": "seasoning",
+        "group": "문어손질재료",
+        "quantity": "1/3컵",
+        "unit": "컵",
+        "preparation": null,
+        "detail": "문어 손질용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[문어손질재료] 굵은소금 1/3컵",
+          "먼저 문어의 머릿속 내장을 다 꺼내고 눈과 입도 떼준뒤 굵은 소금로 박박 한번 문질러 행궈줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굵은소금",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "5e58544068ebfe7a1844546e42befd858d53d182237a01244a658a822363a7d3",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6853029:dish",
+      "canonical_id": "dish:6e3a4458c0b199c70971d7287dc888761b16807bc5ab317d9c0c3716424b1dbd",
+      "original_name": "문어숙회",
+      "canonical_name": "문어숙회",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:001:candidate:0",
+      "canonical_id": "ingredient:8c7bd214f009a9c783f57bf41959ce787b3c57b8eed97e9c5e0890fe7d36abbd",
+      "original_name": "문어",
+      "canonical_name": "문어",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:002:candidate:0",
+      "canonical_id": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+      "original_name": "된장",
+      "canonical_name": "된장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:003:candidate:0",
+      "canonical_id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+      "original_name": "맛술",
+      "canonical_name": "맛술",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:003:candidate:1",
+      "canonical_id": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+      "original_name": "소주",
+      "canonical_name": "소주",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:004:candidate:0",
+      "canonical_id": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+      "original_name": "밀가루",
+      "canonical_name": "밀가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6853029:component:005:candidate:0",
+      "canonical_id": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+      "original_name": "굵은소금",
+      "canonical_name": "굵은소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6853029",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "9a43a093fda89619532b9143cd5f14c88f89435f69a47c65923e0d021db54cf8"
+}

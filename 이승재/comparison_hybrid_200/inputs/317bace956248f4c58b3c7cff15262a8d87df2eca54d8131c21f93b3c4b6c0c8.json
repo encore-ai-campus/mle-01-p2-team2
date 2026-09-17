@@ -1,0 +1,113 @@
+{
+  "recipe_uid": "10000recipe_1802633",
+  "payload": {
+    "title": "베이컨떡꼬치",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "떡볶이떡",
+        "떡볶이떡",
+        "떡볶이떡",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "베이컨",
+        "베이컨",
+        "베이컨",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금",
+        "소금",
+        "소금",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "블랙페이퍼(흑후추)",
+        "블랙페이퍼(흑후추)",
+        "블랙페이퍼(흑후추)",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "떡볶이떡",
+      "raw_name": "떡볶이떡",
+      "ingredient_candidate": "떡볶이떡",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "베이컨",
+      "raw_name": "베이컨",
+      "ingredient_candidate": "베이컨",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "블랙페이퍼(흑후추)",
+      "raw_name": "블랙페이퍼(흑후추)",
+      "ingredient_candidate": "블랙페이퍼(흑후추)",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 4,
+  "sent_steps": 0,
+  "evidence_text": "베이컨떡꼬치\n떡볶이떡\n베이컨\n소금\n블랙페이퍼(흑후추)"
+}

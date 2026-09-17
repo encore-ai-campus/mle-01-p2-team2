@@ -1,0 +1,179 @@
+{
+  "recipe_uid": "10000recipe_6540658",
+  "payload": {
+    "title": "국물이 시원한 굴떡국! 떡국 맛있게 끓이는법~",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "떡국떡",
+        "떡국떡",
+        "떡국떡",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "굴",
+        "굴",
+        "굴",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "계란",
+        "계란",
+        "계란",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "김",
+        "김",
+        "김",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "양파",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "멸치육수",
+        "멸치육수",
+        "멸치육수",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금",
+        "소금",
+        "소금",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "떡국떡",
+      "raw_name": "떡국떡",
+      "ingredient_candidate": "떡국떡",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "굴",
+      "raw_name": "굴",
+      "ingredient_candidate": "굴",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란",
+      "raw_name": "계란",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "김",
+      "raw_name": "김",
+      "ingredient_candidate": "김",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "멸치육수",
+      "raw_name": "멸치육수",
+      "ingredient_candidate": "멸치육수",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 13,
+  "sent_steps": 0,
+  "evidence_text": "국물이 시원한 굴떡국! 떡국 맛있게 끓이는법~\n떡국떡\n굴\n계란\n김\n양파\n멸치육수\n소금"
+}

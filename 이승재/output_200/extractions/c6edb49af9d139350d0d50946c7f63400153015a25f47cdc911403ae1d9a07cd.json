@@ -1,0 +1,231 @@
+{
+  "recipe_uid": "10000recipe_7080174",
+  "cache_key": "a42fd4b9f48e5ed1b7e348cee9c42b0b11e3073345a67b8335776be02f51a7a7",
+  "model": "gpt-5.4-mini",
+  "input_hash": "fe6596e2c93c15c56e7eac378d2c489a81042d838756b09f6dc3c83fe522b791",
+  "source_record_hash": "46163064996af1d81514c2f855a2f8d31bb1124ed8ec07e821b343cc80177614",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "매콤한 닭다리살볶음",
+    "components": [
+      {
+        "raw_name": "닭다리살",
+        "role": "food",
+        "group": null,
+        "quantity": "800g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "닭다리살 800g",
+          "구워진 닭다리살에 대파 넣고 볶다가 떡볶이 떡 넣고 볶아요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "닭다리살",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": null,
+        "quantity": "20cm",
+        "unit": null,
+        "preparation": "송송 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "대파 20cm",
+          "떡볶이 떡과 송송 썬 대파 준비하고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "떡볶이 떡",
+        "role": "food",
+        "group": null,
+        "quantity": "2줌",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "떡볶이 2줌",
+          "떡볶이 떡과 송송 썬 대파 준비하고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "떡볶이 떡",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "고춧가루 2스푼",
+          "양념장 고추장 3스푼, 고춧가루 2스푼, 케첩 2스푼, 간장 2스푼, 굴소스 반스푼, 올리고당 1스푼반, 후추 1티스푼 준비해서 섞어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "케찹",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "케찹 2스푼",
+          "양념장 고추장 3스푼, 고춧가루 2스푼, 케첩 2스푼, 간장 2스푼, 굴소스 반스푼, 올리고당 1스푼반, 후추 1티스푼 준비해서 섞어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "케찹",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "간장 2스푼",
+          "양념장 고추장 3스푼, 고춧가루 2스푼, 케첩 2스푼, 간장 2스푼, 굴소스 반스푼, 올리고당 1스푼반, 후추 1티스푼 준비해서 섞어요",
+          "부족한 간은 간장을 조금씩 넣어주면서 맞춰요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굴소스",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1/2스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "굴소스 1/2스푼",
+          "양념장 고추장 3스푼, 고춧가루 2스푼, 케첩 2스푼, 간장 2스푼, 굴소스 반스푼, 올리고당 1스푼반, 후추 1티스푼 준비해서 섞어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굴소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리고당",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1+1/2스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "올리고당 1+1/2스푼",
+          "양념장 고추장 3스푼, 고춧가루 2스푼, 케첩 2스푼, 간장 2스푼, 굴소스 반스푼, 올리고당 1스푼반, 후추 1티스푼 준비해서 섞어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리고당",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1티스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "후추 1티스푼",
+          "양념장 고추장 3스푼, 고춧가루 2스푼, 케첩 2스푼, 간장 2스푼, 굴소스 반스푼, 올리고당 1스푼반, 후추 1티스푼 준비해서 섞어요",
+          "볶아진 양념 닭다리살 볶음에 꺠와 후추 뿌려주면 완성"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "3스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "고추장 3스푼",
+          "양념장 고추장 3스푼, 고춧가루 2스푼, 케첩 2스푼, 간장 2스푼, 굴소스 반스푼, 올리고당 1스푼반, 후추 1티스푼 준비해서 섞어요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "완성 시 뿌림",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "볶아진 양념 닭다리살 볶음에 꺠와 후추 뿌려주면 완성"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1570,
+    "prompt_tokens": 3143,
+    "total_tokens": 4713,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

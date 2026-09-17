@@ -1,0 +1,179 @@
+{
+  "recipe_uid": "10000recipe_6863267",
+  "payload": {
+    "title": "향긋한 미나리무침 만들기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "미나리 2줌",
+        "미나리",
+        "미나리",
+        "food",
+        "[재료]",
+        "2",
+        "줌",
+        null,
+        null
+      ],
+      [
+        "다진마늘 1스푼",
+        "다진마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "1",
+        "스푼",
+        "다진",
+        null
+      ],
+      [
+        "소금 1/2스푼",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        "1/2",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "간장 1스푼",
+        "간장",
+        "간장",
+        "seasoning",
+        "[재료]",
+        "1",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "매실액 1스푼",
+        "매실액",
+        "매실액",
+        "seasoning",
+        "[재료]",
+        "1",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "참기름 1스푼",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[재료]",
+        "1",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "참깨 취향껏",
+        "참깨",
+        "참깨",
+        "seasoning",
+        "[재료]",
+        "취향껏",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "미나리 2줌",
+      "raw_name": "미나리",
+      "ingredient_candidate": "미나리",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "줌",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1스푼",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "소금 1/2스푼",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 1스푼",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "매실액 1스푼",
+      "raw_name": "매실액",
+      "ingredient_candidate": "매실액",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1스푼",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참깨 취향껏",
+      "raw_name": "참깨",
+      "ingredient_candidate": "참깨",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "취향껏",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 9,
+  "sent_steps": 0,
+  "evidence_text": "향긋한 미나리무침 만들기\n미나리 2줌\n다진마늘 1스푼\n소금 1/2스푼\n간장 1스푼\n매실액 1스푼\n참기름 1스푼\n참깨 취향껏"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeaVUipYOpqCE6bndoHg5rjjwOuE",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":null,\"components\":[{\"raw_name\":\"들깨가루\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"3\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"들깨가루 3큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"들깨가루\",\"alternatives\":[]},{\"raw_name\":\"매실\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"매실 2큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"매실\",\"alternatives\":[]},{\"raw_name\":\"생크림요거트\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"3\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"생크림요거트 3큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"생크림요거트\",\"alternatives\":[]},{\"raw_name\":\"샐러드용 엑스트라버진 올리브오일\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"샐러드용 엑스트라버진 올리브오일 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"샐러드용 엑스트라버진 올리브오일\",\"alternatives\":[]},{\"raw_name\":\"말린 오렌지\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"말린 오렌지 적당량\",\"말린 오렌지를 사용하지 않을때는\"],\"quality_flags\":[],\"ingredient_candidate\":\"말린 오렌지\",\"alternatives\":[]},{\"raw_name\":\"양상추\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"양상추 적당량\"],\"quality_flags\":[],\"ingredient_candidate\":\"양상추\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"양파 적당량\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"삶은달걀\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"삶은달걀 적당량\"],\"quality_flags\":[],\"ingredient_candidate\":\"삶은달걀\",\"alternatives\":[]},{\"raw_name\":\"딸기\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"딸기 적당량\"],\"quality_flags\":[],\"ingredient_candidate\":\"딸기\",\"alternatives\":[]},{\"raw_name\":\"식초\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1/2\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"식초 1/2큰술\",\"신맛이 싫으시면 식초는 반으로 줄이고요\"],\"quality_flags\":[],\"ingredient_candidate\":\"식초\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"소금 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544599,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 906,
+    "prompt_tokens": 3212,
+    "total_tokens": 4118,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

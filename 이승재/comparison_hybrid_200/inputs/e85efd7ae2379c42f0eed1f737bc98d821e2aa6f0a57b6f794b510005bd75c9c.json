@@ -1,0 +1,135 @@
+{
+  "recipe_uid": "10000recipe_6833972",
+  "payload": {
+    "title": "[오븐요리]식빵마늘빵 만들기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "식빵 4장",
+        "식빵",
+        "식빵",
+        "food",
+        "[재료]",
+        "4",
+        "장",
+        null,
+        null
+      ],
+      [
+        "버터 3T",
+        "버터",
+        "버터",
+        "seasoning",
+        "[양념]",
+        "3",
+        "T",
+        null,
+        null
+      ],
+      [
+        "설탕 2T",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[양념]",
+        "2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "마늘 2T",
+        "마늘",
+        "마늘",
+        "seasoning",
+        "[양념]",
+        "2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "파슬리가루 1T",
+        "파슬리가루",
+        "파슬리가루",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "식빵 4장",
+      "raw_name": "식빵",
+      "ingredient_candidate": "식빵",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "4",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "버터 3T",
+      "raw_name": "버터",
+      "ingredient_candidate": "버터",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 2T",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마늘 2T",
+      "raw_name": "마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "파슬리가루 1T",
+      "raw_name": "파슬리가루",
+      "ingredient_candidate": "파슬리가루",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 8,
+  "sent_steps": 0,
+  "evidence_text": "[오븐요리]식빵마늘빵 만들기\n식빵 4장\n버터 3T\n설탕 2T\n마늘 2T\n파슬리가루 1T"
+}

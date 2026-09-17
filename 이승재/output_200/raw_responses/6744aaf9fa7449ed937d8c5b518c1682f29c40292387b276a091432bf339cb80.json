@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1alrHABGkmiW0drlsFHtgkexCs",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"비빔국수\",\"components\":[{\"raw_name\":\"생소면\",\"role\":\"food\",\"group\":null,\"quantity\":\"120g\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 생소면 120g\",\"생소면은 붙지 않도록 저으면서 끓여주세요\",\"4분 정도 삶아진 면은 찬물에 주물러 전분기를 빼면서 씻어 물기를 빼놓아요\"],\"quality_flags\":[],\"ingredient_candidate\":\"소면\",\"alternatives\":[]},{\"raw_name\":\"오이\",\"role\":\"food\",\"group\":null,\"quantity\":\"1/2개\",\"unit\":null,\"preparation\":\"채 썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 오이 1/2개\",\"오이는 채 썰어 준비해 주세요\",\"김치와 오이를 반반 씩 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"오이\",\"alternatives\":[]},{\"raw_name\":\"열무김치 또는 배추김치\",\"role\":\"food\",\"group\":null,\"quantity\":\"1젓가락\",\"unit\":null,\"preparation\":null,\"detail\":\"열무김치 또는 배추김치\",\"is_required\":true,\"alternative_mode\":\"either_or\",\"evidence\":[\"[재료] 열무김치 또는 배추김치 1젓가락\",\"김치와 오이를 반반 씩 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"김치\",\"alternatives\":[{\"raw_name\":\"배추김치\",\"quantity\":\"1젓가락\",\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"[재료] 열무김치 또는 배추김치 1젓가락\"],\"ingredient_candidate\":\"배추김치\"}]},{\"raw_name\":\"참외\",\"role\":\"food\",\"group\":null,\"quantity\":\"1/2개\",\"unit\":null,\"preparation\":\"씨를 뺀 후 얇게 썬\",\"detail\":\"껍질째 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 참외 1/2개\",\"외는 씨를 뺀 후 얇게 썰어주세요\",\"은근 껍질이 두꺼워서 껍질째 사용해 얇게 썰어주어야 됩니다\",\"그릇에 담고 썰어놓은 참외를 얹고\"],\"quality_flags\":[],\"ingredient_candidate\":\"참외\",\"alternatives\":[]},{\"raw_name\":\"삶은계란\",\"role\":\"food\",\"group\":null,\"quantity\":\"1개\",\"unit\":null,\"preparation\":\"삶은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 삶은계란 1개\",\"그릇에 담고 썰어놓은 참외를 얹고 삶은 계란까지 얹고\"],\"quality_flags\":[],\"ingredient_candidate\":\"달걀\",\"alternatives\":[]},{\"raw_name\":\"고추장\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1/2스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 고추장 1/2스푼\",\"김치와 오이를 반반 씩 넣고 고추장 고춧가루 간장 매실청 꿀 설탕을 넣어 양념을 만들어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추장\",\"alternatives\":[]},{\"raw_name\":\"고춧가루\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"2스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 고춧가루 2스푼\",\"김치와 오이를 반반 씩 넣고 고추장 고춧가루 간장 매실청 꿀 설탕을 넣어 양념을 만들어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"간장\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 간장 1스푼\",\"김치와 오이를 반반 씩 넣고 고추장 고춧가루 간장 매실청 꿀 설탕을 넣어 양념을 만들어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"간장\",\"alternatives\":[]},{\"raw_name\":\"액젓\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 액젓 1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"액젓\",\"alternatives\":[]},{\"raw_name\":\"마늘\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 마늘 1스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 설탕 1스푼\",\"김치와 오이를 반반 씩 넣고 고추장 고춧가루 간장 매실청 꿀 설탕을 넣어 양념을 만들어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"꿀\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 꿀 1스푼\",\"김치와 오이를 반반 씩 넣고 고추장 고춧가루 간장 매실청 꿀 설탕을 넣어 양념을 만들어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"꿀\",\"alternatives\":[]},{\"raw_name\":\"매실액\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 매실액 1스푼\",\"김치와 오이를 반반 씩 넣고 고추장 고춧가루 간장 매실청 꿀 설탕을 넣어 양념을 만들어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"매실액\",\"alternatives\":[]},{\"raw_name\":\"통깨\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 통깨 1스푼\",\"그릇에 담고 썰어놓은 참외를 얹고 삶은 계란까지 얹고 통깨를 뿌려 주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"깨\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 참기름 1스푼\",\"김치와 오이를 반반 씩 넣고 고추장 고춧가루 간장 매실청 꿀 설탕을 넣어 양념을 만들어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530902,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1755,
+    "prompt_tokens": 3371,
+    "total_tokens": 5126,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

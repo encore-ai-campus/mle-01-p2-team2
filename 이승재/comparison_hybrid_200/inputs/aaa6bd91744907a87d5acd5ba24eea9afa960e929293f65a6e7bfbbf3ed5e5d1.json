@@ -1,0 +1,179 @@
+{
+  "recipe_uid": "10000recipe_6829399",
+  "payload": {
+    "title": "초간단! 충무김밥 오뎅볶음(어묵볶음) 만들기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "어묵 3장",
+        "어묵",
+        "어묵",
+        "food",
+        "[재료]",
+        "3",
+        "장",
+        null,
+        null
+      ],
+      [
+        "양파 1/2개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "올리브유 적당량",
+        "올리브유",
+        "올리브유",
+        "seasoning",
+        "[양념]",
+        "적당량",
+        null,
+        null,
+        null
+      ],
+      [
+        "간장 4숟가락",
+        "간장 4숟가락",
+        "간장 4숟가락",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "고추가루 3숟가락",
+        "고추가루 3숟가락",
+        "고추가루 3숟가락",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "올리고당 3숟가락",
+        "올리고당 3숟가락",
+        "올리고당 3숟가락",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "청양고추 1~2개",
+        "청양고추",
+        "청양고추",
+        "seasoning",
+        "[양념]",
+        "1~2",
+        "개",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "어묵 3장",
+      "raw_name": "어묵",
+      "ingredient_candidate": "어묵",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1/2개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리브유 적당량",
+      "raw_name": "올리브유",
+      "ingredient_candidate": "올리브유",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "적당량",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 4숟가락",
+      "raw_name": "간장 4숟가락",
+      "ingredient_candidate": "간장 4숟가락",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추가루 3숟가락",
+      "raw_name": "고추가루 3숟가락",
+      "ingredient_candidate": "고추가루 3숟가락",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리고당 3숟가락",
+      "raw_name": "올리고당 3숟가락",
+      "ingredient_candidate": "올리고당 3숟가락",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "청양고추 1~2개",
+      "raw_name": "청양고추",
+      "ingredient_candidate": "청양고추",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1~2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "초간단! 충무김밥 오뎅볶음(어묵볶음) 만들기\n어묵 3장\n양파 1/2개\n올리브유 적당량\n간장 4숟가락\n고추가루 3숟가락\n올리고당 3숟가락\n청양고추 1~2개"
+}

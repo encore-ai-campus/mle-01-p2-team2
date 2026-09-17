@@ -1,0 +1,667 @@
+{
+  "recipe_uid": "10000recipe_6889620",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6889620",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6889620",
+          "title": "치킨수프 (치킨누들수프)",
+          "description": "몸살기 있는 남편을 위해 고심끝 고른 메뉴는 (영혼을 치유한다는) 닭고기 수프 ! 여러번 들은 얘기지만, 우리나라에서도 보양식으로 통하는 삼계탕이 있고 바다건너에서도 아플 때 치킨수프를 먹는 문화가 있다는 게 신기하다. 그냥 수프만 끓여 먹어도 되지만 뭔가 그럼 허전할 것 같아 펜네파스타도 같이 넣어 한그릇 요리로 해 먹은 주말 아침 한상~",
+          "servings": "2인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 90000,
+          "source_url": "https://www.10000recipe.com/recipe/6889620",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:a2f28481178f668022e35adc12f9da6be7ad708ccddf434581ceedfca8167713",
+        "label": "Dish",
+        "properties": {
+          "name": "치킨수프"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "닭가슴살 약",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "260",
+          "unit": "g",
+          "preparation": null,
+          "detail": "2덩이",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"닭가슴살 약 260g 2덩이\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:0c8528c73e72171272c583b15593246cd370944bd406459423b5675f71463af5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "닭가슴살 약",
+          "name_normalized": "닭가슴살 약"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "샐러리 3줄기",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"샐러리 3줄기\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:827984fbc87bee2daa5a9a89edf87b8bbbc8d338bb3ce09117b6f2ca681fe868",
+        "label": "Ingredient",
+        "properties": {
+          "name": "샐러리 3줄기",
+          "name_normalized": "샐러리 3줄기"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "줌",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"당근 1줌\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "표고버섯 큰 것",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"표고버섯 큰 것 2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:33830db56ca6d2d4c7df5c001c4fbbede5b0603642faee1494d7ce0904f36e84",
+        "label": "Ingredient",
+        "properties": {
+          "name": "표고버섯 큰 것",
+          "name_normalized": "표고버섯 큰 것"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "6~7",
+          "unit": "알",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"마늘 6~7알\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "치킨스톡",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2~3",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"치킨스톡 2~3T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:e5c5e7e9ee77de51dc033e78d43e2469c7b24ac5a9c72f559e39809b79cab91c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "치킨스톡",
+          "name_normalized": "치킨스톡"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "월계수잎",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "4",
+          "unit": "장",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"월계수잎 4장\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:9d4629eb2c9280759774fbbd080ce2abdbcbf8242c1211ec3a5f32da44d3f934",
+        "label": "Ingredient",
+        "properties": {
+          "name": "월계수잎",
+          "name_normalized": "월계수잎"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "레몬",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"레몬 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:b246bef1e296e4e41168d4ab137ad7c93d8c6d1672006639391049585e04d725",
+        "label": "Ingredient",
+        "properties": {
+          "name": "레몬",
+          "name_normalized": "레몬"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "펜네",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "100",
+          "unit": "g",
+          "preparation": null,
+          "detail": "1인분",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"펜네 100g 1인분\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:87e50dec24d9b21690b268da9227d07fcef209593d8917100f820dff429e70b7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "펜네",
+          "name_normalized": "펜네"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "화이트와인",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"화이트와인 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:c11a4b25237469dba5ee7347f7eee0239fb122be48d5cf0088b1950fc4371596",
+        "label": "Ingredient",
+        "properties": {
+          "name": "화이트와인",
+          "name_normalized": "화이트와인"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6889620:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"후추 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6889620:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6889620",
+        "type": "VARIANT_OF",
+        "target": "dish:a2f28481178f668022e35adc12f9da6be7ad708ccddf434581ceedfca8167713",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:0c8528c73e72171272c583b15593246cd370944bd406459423b5675f71463af5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:827984fbc87bee2daa5a9a89edf87b8bbbc8d338bb3ce09117b6f2ca681fe868",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:33830db56ca6d2d4c7df5c001c4fbbede5b0603642faee1494d7ce0904f36e84",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:e5c5e7e9ee77de51dc033e78d43e2469c7b24ac5a9c72f559e39809b79cab91c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:9d4629eb2c9280759774fbbd080ce2abdbcbf8242c1211ec3a5f32da44d3f934",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:b246bef1e296e4e41168d4ab137ad7c93d8c6d1672006639391049585e04d725",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:87e50dec24d9b21690b268da9227d07fcef209593d8917100f820dff429e70b7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:c11a4b25237469dba5ee7347f7eee0239fb122be48d5cf0088b1950fc4371596",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6889620:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6889620:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6889620:dish",
+      "canonical_id": "dish:a2f28481178f668022e35adc12f9da6be7ad708ccddf434581ceedfca8167713",
+      "original_name": "치킨수프",
+      "canonical_name": "치킨수프",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:001:candidate:0",
+      "canonical_id": "ingredient:0c8528c73e72171272c583b15593246cd370944bd406459423b5675f71463af5",
+      "original_name": "닭가슴살 약",
+      "canonical_name": "닭가슴살 약",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:002:candidate:0",
+      "canonical_id": "ingredient:827984fbc87bee2daa5a9a89edf87b8bbbc8d338bb3ce09117b6f2ca681fe868",
+      "original_name": "샐러리 3줄기",
+      "canonical_name": "샐러리 3줄기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:003:candidate:0",
+      "canonical_id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+      "original_name": "당근",
+      "canonical_name": "당근",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:004:candidate:0",
+      "canonical_id": "ingredient:33830db56ca6d2d4c7df5c001c4fbbede5b0603642faee1494d7ce0904f36e84",
+      "original_name": "표고버섯 큰 것",
+      "canonical_name": "표고버섯 큰 것",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:005:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:006:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:007:candidate:0",
+      "canonical_id": "ingredient:e5c5e7e9ee77de51dc033e78d43e2469c7b24ac5a9c72f559e39809b79cab91c",
+      "original_name": "치킨스톡",
+      "canonical_name": "치킨스톡",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:008:candidate:0",
+      "canonical_id": "ingredient:9d4629eb2c9280759774fbbd080ce2abdbcbf8242c1211ec3a5f32da44d3f934",
+      "original_name": "월계수잎",
+      "canonical_name": "월계수잎",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:009:candidate:0",
+      "canonical_id": "ingredient:b246bef1e296e4e41168d4ab137ad7c93d8c6d1672006639391049585e04d725",
+      "original_name": "레몬",
+      "canonical_name": "레몬",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:010:candidate:0",
+      "canonical_id": "ingredient:87e50dec24d9b21690b268da9227d07fcef209593d8917100f820dff429e70b7",
+      "original_name": "펜네",
+      "canonical_name": "펜네",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:011:candidate:0",
+      "canonical_id": "ingredient:c11a4b25237469dba5ee7347f7eee0239fb122be48d5cf0088b1950fc4371596",
+      "original_name": "화이트와인",
+      "canonical_name": "화이트와인",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:012:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6889620:component:013:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 13,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 27,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

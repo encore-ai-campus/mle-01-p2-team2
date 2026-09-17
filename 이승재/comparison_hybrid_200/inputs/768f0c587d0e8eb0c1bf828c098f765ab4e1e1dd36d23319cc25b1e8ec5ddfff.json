@@ -1,0 +1,179 @@
+{
+  "recipe_uid": "10000recipe_7081416",
+  "payload": {
+    "title": "토마토 퓌레 만들기 & 토마토 파스타",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "토마토 1kg",
+        "토마토",
+        "토마토",
+        "food",
+        "[재료토마토퓌레]",
+        "1",
+        "kg",
+        null,
+        null
+      ],
+      [
+        "마늘 10개",
+        "마늘",
+        "마늘",
+        "food",
+        "[재료토마토퓌레]",
+        "10",
+        "개",
+        null,
+        null
+      ],
+      [
+        "파스타면 90g",
+        "파스타면",
+        "파스타면",
+        "food",
+        "[토마토 파스타]",
+        "90",
+        "g",
+        null,
+        null
+      ],
+      [
+        "브로컬리 6~7조각",
+        "브로컬리 6~7조각",
+        "브로컬리 6~7조각",
+        "food",
+        "[토마토 파스타]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "미트볼 5개",
+        "미트볼",
+        "미트볼",
+        "food",
+        "[토마토 파스타]",
+        "5",
+        "개",
+        null,
+        null
+      ],
+      [
+        "소금 1/4t",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료토마토퓌레]",
+        "1/4",
+        "t",
+        null,
+        null
+      ],
+      [
+        "올리브유 1큰술",
+        "올리브유",
+        "올리브유",
+        "seasoning",
+        "[토마토 파스타]",
+        "1",
+        "큰술",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "토마토 1kg",
+      "raw_name": "토마토",
+      "ingredient_candidate": "토마토",
+      "role": "food",
+      "group": "[재료토마토퓌레]",
+      "quantity": "1",
+      "unit": "kg",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마늘 10개",
+      "raw_name": "마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료토마토퓌레]",
+      "quantity": "10",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "파스타면 90g",
+      "raw_name": "파스타면",
+      "ingredient_candidate": "파스타면",
+      "role": "food",
+      "group": "[토마토 파스타]",
+      "quantity": "90",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "브로컬리 6~7조각",
+      "raw_name": "브로컬리 6~7조각",
+      "ingredient_candidate": "브로컬리 6~7조각",
+      "role": "food",
+      "group": "[토마토 파스타]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "미트볼 5개",
+      "raw_name": "미트볼",
+      "ingredient_candidate": "미트볼",
+      "role": "food",
+      "group": "[토마토 파스타]",
+      "quantity": "5",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 1/4t",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료토마토퓌레]",
+      "quantity": "1/4",
+      "unit": "t",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리브유 1큰술",
+      "raw_name": "올리브유",
+      "ingredient_candidate": "올리브유",
+      "role": "seasoning",
+      "group": "[토마토 파스타]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 13,
+  "sent_steps": 0,
+  "evidence_text": "토마토 퓌레 만들기 & 토마토 파스타\n토마토 1kg\n마늘 10개\n파스타면 90g\n브로컬리 6~7조각\n미트볼 5개\n소금 1/4t\n올리브유 1큰술"
+}

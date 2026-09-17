@@ -1,0 +1,290 @@
+{
+  "recipe_uid": "10000recipe_7080940",
+  "cache_key": "661048ec1627698d478426da1ceb9e2f9c75702c5dcdc9b61ec65c3f45f52184",
+  "model": "gpt-5.4-mini",
+  "input_hash": "94aa9c137628dc0045dad86acfef3fcb4eb89726323c8b57760ddc32c73cefe6",
+  "source_record_hash": "565a17f350e78434b7038fda4a681d269be6814937f802654fe729dbe8b6c0b1",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "청양고추 멸치 다짐장",
+    "components": [
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "200g",
+        "unit": null,
+        "preparation": "다진",
+        "detail": "꼭지를 따고 깨끗이 물기를 뺀 후 짧게 썰어 다짐",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "청양고추 200g",
+          "청양고추는 꼭지를 따고 깨끗이 물기를 빼주세요.",
+          "물기 뺀 청양고추는 야채 다지기에 갈기 좋게 짧게 썰어 주세요.",
+          "청양고추를 다져주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치",
+        "role": "food",
+        "group": "재료",
+        "quantity": "손질 후 50g",
+        "unit": null,
+        "preparation": "손질 후 볶아 다짐",
+        "detail": "머리와 내장을 제거함",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "멸치 손질 후 50g",
+          "냉동실에 있던 멸치를 머리와 내장을 제거해 줍니다.",
+          "냉동실에 있던 멸치는 마른 팬에 한번 덕어 비린 맛을 날려주세요.",
+          "볶은 멸치는 칼로 굵직하게 다져줍니다.",
+          "다진 멸치"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간 마늘",
+        "role": "food",
+        "group": "재료",
+        "quantity": "4T",
+        "unit": null,
+        "preparation": "간",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "간 마늘 4T",
+          "넓은 궁중팬에 다진 청양고추, 다진 멸치, 간 마늘, 다진 양파를 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "100g 1/2개",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 100g 1/2개",
+          "넓은 궁중팬에 다진 청양고추, 다진 멸치, 간 마늘, 다진 양파를 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "3T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "국간장 3T",
+          "넓은 궁중팬에 다진 청양고추, 다진 멸치, 간 마늘, 다진 양파를 넣고 국간장, 멸치 액젓, 매실액, 알룰로스와 물, 코인 육수 한 알을 넣고 센 불로 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치액젓",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "멸치액젓 1T",
+          "국간장, 멸치 액젓, 매실액, 알룰로스와 물, 코인 육수 한 알을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치액젓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "알룰로스",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "알룰로스 1T",
+          "국간장, 멸치 액젓, 매실액, 알룰로스와 물, 코인 육수 한 알을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "알룰로스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실액",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "매실액 1T",
+          "국간장, 멸치 액젓, 매실액, 알룰로스와 물, 코인 육수 한 알을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "재료",
+        "quantity": "100ml",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 100ml",
+          "국간장, 멸치 액젓, 매실액, 알룰로스와 물, 코인 육수 한 알을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "코인육수",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "코인육수 1개",
+          "국간장, 멸치 액젓, 매실액, 알룰로스와 물, 코인 육수 한 알을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "코인육수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "된장",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "3T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "된장 3T",
+          "육수가 반 정도 졸아들면 된장, 고춧가루, 깨소금을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "된장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "고춧가루 2T",
+          "육수가 반 정도 졸아들면 된장, 고춧가루, 깨소금을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "깨소금 1T",
+          "육수가 반 정도 졸아들면 된장, 고춧가루, 깨소금을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "들기름",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "들기름 1T"
+        ],
+        "quality_flags": [
+          "EVIDENCE_NOT_FOUND"
+        ],
+        "ingredient_candidate": "들기름",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1589,
+    "prompt_tokens": 3246,
+    "total_tokens": 4835,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

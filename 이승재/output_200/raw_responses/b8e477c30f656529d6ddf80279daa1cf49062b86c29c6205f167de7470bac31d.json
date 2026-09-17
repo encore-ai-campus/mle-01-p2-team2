@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0hWp4wh1xvrRxyEHepKx2uqrVh",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"알리오올리오\",\"components\":[{\"raw_name\":\"올리브유\",\"role\":\"food\",\"group\":null,\"quantity\":\"2/3컵\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 올리브유 2/3컵\",\"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리브유\",\"alternatives\":[]},{\"raw_name\":\"스파게티면\",\"role\":\"food\",\"group\":null,\"quantity\":\"2인분\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 스파게티면 2인분\",\"파스타면을 샤악 넣어주시고 7~8분정도 중불에서 익혀줄꺼에요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"스파게티면\",\"alternatives\":[]},{\"raw_name\":\"통마늘\",\"role\":\"food\",\"group\":null,\"quantity\":\"4~5개\",\"unit\":null,\"preparation\":\"편을 썰어서\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 통마늘 4~5개\",\"마늘은 얇게 편을 썰어서 준비\",\"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1~2TS\",\"unit\":null,\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 다진마늘 1~2TS\",\"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"페페론치니\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"3~4개\",\"unit\":null,\"preparation\":\"2~3조각으로 손으로 부셔서\",\"detail\":\"씨까지 함께 준비\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 페페론치니 3~4개\",\"고추는 2~3조각으로 손으로 부셔서 씨까지 함께 준비해요.\",\"이 고추는 굉장히 매운맛을 내기에, 취향에 맞게 양조절하세요.\",\"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"페페론치니\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"파스타 끓일 물 및 마지막 간\",\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 소금\",\"[파스타 끓일 물] 소금 1Ts\",\"소금 1TS를 넣어준 다음 파스타면을 샤악 넣어주시고\",\"마지막으로 취향에 맞게 소금으로 간을 해주시면\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"unknown\",\"group\":\"파스타 끓일 물\",\"quantity\":\"2/3냄비\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[파스타 끓일 물] 물 2/3냄비\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"파스타 끓일 물\",\"quantity\":\"1Ts\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[파스타 끓일 물] 소금 1Ts\",\"소금 1TS를 넣어준 다음 파스타면을 샤악 넣어주시고\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530847,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 983,
+    "prompt_tokens": 3047,
+    "total_tokens": 4030,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

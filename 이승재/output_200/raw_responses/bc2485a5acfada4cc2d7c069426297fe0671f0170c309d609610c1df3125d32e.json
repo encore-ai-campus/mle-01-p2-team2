@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1grfW1rXstODTN9nDgVc2WVb76",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"진미채 계란말이 김밥\",\"components\":[{\"raw_name\":\"진미채\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"취향껏\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 진미채 취향껏\",\"진미채 양껏 올리고\"],\"quality_flags\":[],\"ingredient_candidate\":\"진미채\",\"alternatives\":[]},{\"raw_name\":\"김밥김\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"2장\",\"unit\":\"장\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 김밥김 2장\",\"김 까칠한 면을 위로 향하게 놓고\"],\"quality_flags\":[],\"ingredient_candidate\":\"김밥김\",\"alternatives\":[]},{\"raw_name\":\"단무지\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"2줄\",\"unit\":\"줄\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 단무지 2줄\",\"단무지와 계란말이를 올려 주고\"],\"quality_flags\":[],\"ingredient_candidate\":\"단무지\",\"alternatives\":[]},{\"raw_name\":\"현미유\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 현미유 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"현미유\",\"alternatives\":[]},{\"raw_name\":\"계란\",\"role\":\"food\",\"group\":\"계란말이\",\"quantity\":\"2개\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[계란말이] 계란 2개\",\"계란 2개에 소금 2꼬집을 넣고 잘 풀어 줘요..\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"계란말이\",\"quantity\":\"2꼬집\",\"unit\":\"꼬집\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[계란말이] 소금 2꼬집\",\"계란 2개에 소금 2꼬집을 넣고 잘 풀어 줘요..\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"밥\",\"role\":\"food\",\"group\":\"밥 양념\",\"quantity\":\"1공기\",\"unit\":\"공기\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[밥 양념] 밥 1공기\",\"밥 한공기, 참기름 1.5큰술, 통깨 1큰술, 소금 2꼬집을 넣어 주고, 섞어 주면 밥 양념 완성입니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"밥\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"밥 양념\",\"quantity\":\"1.5큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[밥 양념] 참기름 1.5큰술\",\"밥 한공기, 참기름 1.5큰술, 통깨 1큰술, 소금 2꼬집을 넣어 주고, 섞어 주면 밥 양념 완성입니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"통깨\",\"role\":\"seasoning\",\"group\":\"밥 양념\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[밥 양념] 통깨 1큰술\",\"밥 한공기, 참기름 1.5큰술, 통깨 1큰술, 소금 2꼬집을 넣어 주고, 섞어 주면 밥 양념 완성입니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"통깨\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"밥 양념\",\"quantity\":\"2꼬집\",\"unit\":\"꼬집\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"밥 한공기, 참기름 1.5큰술, 통깨 1큰술, 소금 2꼬집을 넣어 주고, 섞어 주면 밥 양념 완성입니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"5큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"진미채무침용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"진미채 150g 분량을 먹기 좋게 잘라줘요. -> 참기름 5큰술을 넣고 버무려 줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"물엿\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"6큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"진미채무침용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"물엿 6큰술, 고추장 1큰술을 넣고 버무려 주면 진미채무침 완성입니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"물엿\",\"alternatives\":[]},{\"raw_name\":\"고추장\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"진미채무침용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"물엿 6큰술, 고추장 1큰술을 넣고 버무려 주면 진미채무침 완성입니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추장\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530908,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1389,
+    "prompt_tokens": 3059,
+    "total_tokens": 4448,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

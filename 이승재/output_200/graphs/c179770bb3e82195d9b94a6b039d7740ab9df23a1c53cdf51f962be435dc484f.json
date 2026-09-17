@@ -1,0 +1,934 @@
+{
+  "recipe_uid": "10000recipe_6852992",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6852992",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6852992",
+          "title": "밥도둑 밑반찬 깻잎장아찌 만드는법!",
+          "description": "정말 밥한그릇 뚝딱 ♥ 밥도둑 이에요!​",
+          "servings": "6인분 이상",
+          "cooking_time": "30분 이내",
+          "difficulty": "아무나",
+          "views": 104000,
+          "source_url": "https://www.10000recipe.com/recipe/6852992",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "깻잎장아찌"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깻잎",
+          "role": "food",
+          "group": "재료",
+          "quantity": "20장",
+          "unit": null,
+          "preparation": "씻어서 준비",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 깻잎 20장 2묶음\", \"깻잎은 씻어서 준비\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깻잎",
+          "name_normalized": "깻잎"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "채썰어서 준비",
+          "detail": "양념장에 같이 넣어 섞음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"양파는 채썰어서 준비해 주었어요.\", \"양념장에 양파도 같이 넣어 섞어주었어요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "6스푼",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 간장 6스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "5스푼",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 물 5스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1스푼",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 고춧가루 1스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리고당",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1.5스푼",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 올리고당 1.5스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리고당",
+          "name_normalized": "올리고당"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실액",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1스푼",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 매실액 1스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실액",
+          "name_normalized": "매실액"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1/2스푼",
+          "unit": null,
+          "preparation": "다진",
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 다진마늘 1/2스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6852992",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6852992:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6852992:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6852992:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6852992:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6852992:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6852992:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6852992:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6852992:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6852992:component:008:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6852992",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6852992",
+          "title": "밥도둑 밑반찬 깻잎장아찌 만드는법!",
+          "description": "정말 밥한그릇 뚝딱 ♥ 밥도둑 이에요!​",
+          "servings": "6인분 이상",
+          "cooking_time": "30분 이내",
+          "difficulty": "아무나",
+          "views": 104000,
+          "source_url": "https://www.10000recipe.com/recipe/6852992",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:db1e81a09f1f67b542c347a61dfbefdfcb695961220513fcff9ed6a70857860c",
+        "label": "Dish",
+        "properties": {
+          "name": "깻잎장아찌"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깻잎",
+          "role": "food",
+          "group": "재료",
+          "quantity": "20장",
+          "unit": null,
+          "preparation": "씻어서 준비",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 깻잎 20장 2묶음\", \"깻잎은 씻어서 준비\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:0997323830e80618e15ea8cf65128689e71410895044edae60380351dd919005",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깻잎",
+          "name_normalized": "깻잎"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "채썰어서 준비",
+          "detail": "양념장에 같이 넣어 섞음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"양파는 채썰어서 준비해 주었어요.\", \"양념장에 양파도 같이 넣어 섞어주었어요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "6스푼",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 간장 6스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "5스푼",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 물 5스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1스푼",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 고춧가루 1스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리고당",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1.5스푼",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 올리고당 1.5스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리고당",
+          "name_normalized": "올리고당"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실액",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1스푼",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 매실액 1스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실액",
+          "name_normalized": "매실액"
+        }
+      },
+      {
+        "id": "10000recipe_6852992:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1/2스푼",
+          "unit": null,
+          "preparation": "다진",
+          "detail": "양념장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 다진마늘 1/2스푼\", \"분량의 양념장 만들기~!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6852992:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6852992",
+        "type": "VARIANT_OF",
+        "target": "dish:db1e81a09f1f67b542c347a61dfbefdfcb695961220513fcff9ed6a70857860c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:0997323830e80618e15ea8cf65128689e71410895044edae60380351dd919005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6852992:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6852992:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "깻잎장아찌",
+    "components": [
+      {
+        "raw_name": "깻잎",
+        "role": "food",
+        "group": "재료",
+        "quantity": "20장",
+        "unit": null,
+        "preparation": "씻어서 준비",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 깻잎 20장 2묶음",
+          "깻잎은 씻어서 준비"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깻잎",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "채썰어서 준비",
+        "detail": "양념장에 같이 넣어 섞음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/2개",
+          "양파는 채썰어서 준비해 주었어요.",
+          "양념장에 양파도 같이 넣어 섞어주었어요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "6스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 간장 6스푼",
+          "분량의 양념장 만들기~!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "5스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 물 5스푼",
+          "분량의 양념장 만들기~!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 고춧가루 1스푼",
+          "분량의 양념장 만들기~!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리고당",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1.5스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 올리고당 1.5스푼",
+          "분량의 양념장 만들기~!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리고당",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실액",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1스푼",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 매실액 1스푼",
+          "분량의 양념장 만들기~!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1/2스푼",
+        "unit": null,
+        "preparation": "다진",
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 다진마늘 1/2스푼",
+          "분량의 양념장 만들기~!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "7634bcb464f556f6a7a8d15efdbcc2c6cb37f01b08481da22ab88d7eae121823",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6852992:dish",
+      "canonical_id": "dish:db1e81a09f1f67b542c347a61dfbefdfcb695961220513fcff9ed6a70857860c",
+      "original_name": "깻잎장아찌",
+      "canonical_name": "깻잎장아찌",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6852992:component:001:candidate:0",
+      "canonical_id": "ingredient:0997323830e80618e15ea8cf65128689e71410895044edae60380351dd919005",
+      "original_name": "깻잎",
+      "canonical_name": "깻잎",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6852992:component:002:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6852992:component:003:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6852992:component:004:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6852992:component:005:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6852992:component:006:candidate:0",
+      "canonical_id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+      "original_name": "올리고당",
+      "canonical_name": "올리고당",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6852992:component:007:candidate:0",
+      "canonical_id": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+      "original_name": "매실액",
+      "canonical_name": "매실액",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6852992:component:008:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6852992",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_6852992:component:001: EVIDENCE_NOT_FOUND"
+    ],
+    "stage1_errors": [
+      "10000recipe_6852992:component:001: EVIDENCE_NOT_FOUND"
+    ],
+    "stage2_errors": [
+      "10000recipe_6852992:component:001: EVIDENCE_NOT_FOUND"
+    ]
+  },
+  "review_hash": "1c9542b2bc6277bf3a4629d525977df0350270fc112b4a036dd2c608a149dd2a"
+}
