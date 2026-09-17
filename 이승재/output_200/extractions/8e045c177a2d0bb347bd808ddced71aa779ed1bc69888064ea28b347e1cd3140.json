@@ -1,0 +1,176 @@
+{
+  "recipe_uid": "10000recipe_6884397",
+  "cache_key": "1f5c2faf53ec753be491233209bf94bc2baf56fb33ef24fd69721d7ba1800b91",
+  "model": "gpt-5.4-mini",
+  "input_hash": "00d512a828a05572f716ef44335124803d6f46e850e30c73fbd9182583d294bb",
+  "source_record_hash": "1224ec1c070534a4e62c482559655e8b73871be80f5e496d92897798c608b43c",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "파절이",
+    "components": [
+      {
+        "raw_name": "파 채",
+        "role": "food",
+        "group": null,
+        "quantity": "1줌",
+        "unit": null,
+        "preparation": "채",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[필수재료] 파 채 1줌",
+          "파채는 물에 5분 정도 담가 준 후 건진다.",
+          "양념장에 파채를 넣어 섞어 완성한다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파채",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 설탕 1숟가락",
+          "볼에 양념장을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양조 간장",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1.5숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 양조 간장 1.5숟가락",
+          "볼에 양념장을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양조간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고운 고춧가루",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2숟가락",
+        "unit": null,
+        "preparation": "고운",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 고운 고춧가루 2숟가락",
+          "볼에 양념장을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 식초 2숟가락",
+          "볼에 양념장을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 마늘",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1/2숟가락",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 다진 마늘 1/2숟가락",
+          "볼에 양념장을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 참기름 1숟가락",
+          "볼에 양념장을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 통깨 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 778,
+    "prompt_tokens": 2823,
+    "total_tokens": 3601,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

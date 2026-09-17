@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZviwGDmJxrFOrYzlz6RTfz2gVm",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"닭다리살볶음\",\"components\":[{\"raw_name\":\"닭다리살\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"800\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"닭다리살 800g\"],\"quality_flags\":[],\"ingredient_candidate\":\"닭다리살\",\"alternatives\":[]},{\"raw_name\":\"대파 20cm\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"대파 20cm\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파 20cm\",\"alternatives\":[]},{\"raw_name\":\"떡볶이\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"줌\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"떡볶이 2줌\"],\"quality_flags\":[],\"ingredient_candidate\":\"떡볶이\",\"alternatives\":[]},{\"raw_name\":\"케찹\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"케찹 2스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"케찹\",\"alternatives\":[]},{\"raw_name\":\"올리고당 1+\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1/2\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"올리고당 1+1/2스푼\"],\"quality_flags\":[\"AMBIGUOUS_QUANTITY\"],\"ingredient_candidate\":\"올리고당 1+\",\"alternatives\":[]},{\"raw_name\":\"고춧가루\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"고춧가루 2스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"간장\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"간장 2스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"간장\",\"alternatives\":[]},{\"raw_name\":\"굴소스\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1/2\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"굴소스 1/2스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"굴소스\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"티스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"후추 1티스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]},{\"raw_name\":\"고추장\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"3\",\"unit\":\"스푼\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"고추장 3스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추장\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544563,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 824,
+    "prompt_tokens": 3003,
+    "total_tokens": 3827,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

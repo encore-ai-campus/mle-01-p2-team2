@@ -1,0 +1,333 @@
+{
+  "recipe_uid": "10000recipe_6682573",
+  "payload": {
+    "title": "소고기 버섯 샤브샤브",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "숙주",
+        "숙주",
+        "숙주",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "배추",
+        "배추",
+        "배추",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "쑥갓",
+        "쑥갓",
+        "쑥갓",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "청경채",
+        "청경채",
+        "청경채",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "느타리버섯",
+        "느타리버섯",
+        "느타리버섯",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "팽이버섯",
+        "팽이버섯",
+        "팽이버섯",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "표고버섯",
+        "표고버섯",
+        "표고버섯",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "차돌박이",
+        "차돌박이",
+        "차돌박이",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "칼국수면",
+        "칼국수면",
+        "칼국수면",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "멸치다시마육수",
+        "멸치다시마육수",
+        "멸치다시마육수",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "국시장국 or 가쓰오장국 국간장",
+        "국시장국 or 가쓰오장국 국간장",
+        "국시장국 or 가쓰오장국 국간장",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "대파(흰부분)",
+        "대파(흰부분)",
+        "대파(흰부분)",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "가쓰오부시",
+        "가쓰오부시",
+        "가쓰오부시",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "칠리소스",
+        "칠리소스",
+        "칠리소스",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "숙주",
+      "raw_name": "숙주",
+      "ingredient_candidate": "숙주",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "배추",
+      "raw_name": "배추",
+      "ingredient_candidate": "배추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "쑥갓",
+      "raw_name": "쑥갓",
+      "ingredient_candidate": "쑥갓",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "청경채",
+      "raw_name": "청경채",
+      "ingredient_candidate": "청경채",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "느타리버섯",
+      "raw_name": "느타리버섯",
+      "ingredient_candidate": "느타리버섯",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "팽이버섯",
+      "raw_name": "팽이버섯",
+      "ingredient_candidate": "팽이버섯",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "표고버섯",
+      "raw_name": "표고버섯",
+      "ingredient_candidate": "표고버섯",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "차돌박이",
+      "raw_name": "차돌박이",
+      "ingredient_candidate": "차돌박이",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "칼국수면",
+      "raw_name": "칼국수면",
+      "ingredient_candidate": "칼국수면",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "멸치다시마육수",
+      "raw_name": "멸치다시마육수",
+      "ingredient_candidate": "멸치다시마육수",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "국시장국 or 가쓰오장국 국간장",
+      "raw_name": "국시장국 or 가쓰오장국 국간장",
+      "ingredient_candidate": "국시장국 or 가쓰오장국 국간장",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파(흰부분)",
+      "raw_name": "대파(흰부분)",
+      "ingredient_candidate": "대파(흰부분)",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "가쓰오부시",
+      "raw_name": "가쓰오부시",
+      "ingredient_candidate": "가쓰오부시",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "칠리소스",
+      "raw_name": "칠리소스",
+      "ingredient_candidate": "칠리소스",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 9,
+  "sent_steps": 0,
+  "evidence_text": "소고기 버섯 샤브샤브\n숙주\n배추\n쑥갓\n청경채\n느타리버섯\n팽이버섯\n표고버섯\n차돌박이\n칼국수면\n멸치다시마육수\n국시장국 or 가쓰오장국 국간장\n대파(흰부분)\n가쓰오부시\n칠리소스"
+}

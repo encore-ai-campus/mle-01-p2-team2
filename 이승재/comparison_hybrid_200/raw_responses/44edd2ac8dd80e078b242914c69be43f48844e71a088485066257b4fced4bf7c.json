@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeaKw4LF395bg5Q2VHkqA06sNe1t",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"몬테크리스토 샌드위치\",\"components\":[{\"raw_name\":\"식빵\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"3\",\"unit\":\"장\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"식빵 3장\"],\"quality_flags\":[],\"ingredient_candidate\":\"식빵\",\"alternatives\":[]},{\"raw_name\":\"딸기잼\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"딸기잼 2T\"],\"quality_flags\":[],\"ingredient_candidate\":\"딸기잼\",\"alternatives\":[]},{\"raw_name\":\"머스터드\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"머스터드 2T\"],\"quality_flags\":[],\"ingredient_candidate\":\"머스터드\",\"alternatives\":[]},{\"raw_name\":\"슬라이스 햄\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"장\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"슬라이스 햄 2장\"],\"quality_flags\":[],\"ingredient_candidate\":\"슬라이스 햄\",\"alternatives\":[]},{\"raw_name\":\"체다 치즈\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"장\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"체다 치즈 2장\"],\"quality_flags\":[],\"ingredient_candidate\":\"체다 치즈\",\"alternatives\":[]},{\"raw_name\":\"버터\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"버터 1T\"],\"quality_flags\":[],\"ingredient_candidate\":\"버터\",\"alternatives\":[]},{\"raw_name\":\"달걀\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"달걀 1개\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544588,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 535,
+    "prompt_tokens": 2853,
+    "total_tokens": 3388,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

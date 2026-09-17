@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0YBo18mSeuvP3jEyPrcRGlfQTh",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"굴떡국\",\"components\":[{\"raw_name\":\"떡국떡\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"물에 담궈두고, 불려놓은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 떡국떡\",\"우선 떡국떡은 물에 담궈두고요.\",\"그런다음 불려놓은 떡국떡을 넣고 보글보글 끓여주세요~\"],\"quality_flags\":[],\"ingredient_candidate\":\"떡국떡\",\"alternatives\":[]},{\"raw_name\":\"굴\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"소금을 푼 물에 씻은\",\"detail\":\"국물에 먼저 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 굴\",\"제철인 통통한 굴은 소금을 풀어놓은 물에 넣고 씻어서 휑궈주었답니다.\",\"육수가 끓어오르면 깨끗하게 씻어놓은 굴을 먼저 넣어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"굴\",\"alternatives\":[]},{\"raw_name\":\"계란\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"지단으로 만들어 구운\",\"detail\":\"고명으로 사용\",\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 계란\",\"계란지단만들기~ 그러고는 기름살짝 두룬팬에 따로 올려 구워주시면 완성!\",\"시원하게 끓여진 굴떡국 위에 고명만 올려주면 끝이지요^^\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란\",\"alternatives\":[]},{\"raw_name\":\"김\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"조미된, 구운\",\"detail\":\"고명으로 사용 가능\",\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 김\",\"집에 조미된 김이 있으면 그걸 사용하셔도 좋지만.\",\"구운김이 더 깔끔하다는 사실!\",\"시원하게 끓여진 굴떡국 위에 고명만 올려주면 끝이지요^^\"],\"quality_flags\":[],\"ingredient_candidate\":\"김\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"썰어진\",\"detail\":\"국물에 넣음\",\"is_required\":false,\"alternative_mode\":\"either_or\",\"evidence\":[\"[재료] 양파\",\"못난이로 썰어진 양파가 있어 같이 넣어줬는데~ 집에 있는 채소 파나 양파 같이 넣어주셔도 좋아요^^\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[{\"raw_name\":\"파\",\"quantity\":null,\"unit\":null,\"preparation\":\"썬\",\"condition\":\"집에 있는 채소로 양파 대신/함께 넣는 선택지\",\"evidence\":[\"집에 있는 채소 파나 양파 같이 넣어주셔도 좋아요^^\"],\"ingredient_candidate\":\"파\"}]},{\"raw_name\":\"멸치육수\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"국물 베이스\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 멸치육수\",\"멸치랑 다시마 넣고 멸치육수 만들고~\",\"육수가 끓어오르면 깨끗하게 씻어놓은 굴을 먼저 넣어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"멸치육수\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"굴 씻을 때와 간 맞출 때 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 소금\",\"제철인 통통한 굴은 소금을 풀어놓은 물에 넣고 씻어서 휑궈주었답니다.\",\"소금으로만 간합니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"멸치\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"육수용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"멸치랑 다시마 넣고 멸치육수 만들고~\"],\"quality_flags\":[],\"ingredient_candidate\":\"멸치\",\"alternatives\":[]},{\"raw_name\":\"다시마\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"육수용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"멸치랑 다시마 넣고 멸치육수 만들고~\"],\"quality_flags\":[],\"ingredient_candidate\":\"다시마\",\"alternatives\":[]},{\"raw_name\":\"기름\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"살짝\",\"unit\":null,\"preparation\":null,\"detail\":\"계란지단 부칠 때 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"기름살짝 두룬팬에 따로 올려 구워주시면 완성!\"],\"quality_flags\":[],\"ingredient_candidate\":\"식용유\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530838,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1224,
+    "prompt_tokens": 3031,
+    "total_tokens": 4255,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

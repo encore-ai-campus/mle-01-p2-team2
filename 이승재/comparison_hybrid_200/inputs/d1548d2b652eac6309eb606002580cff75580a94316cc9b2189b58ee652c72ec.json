@@ -1,0 +1,157 @@
+{
+  "recipe_uid": "10000recipe_5994149",
+  "payload": {
+    "title": "몸속 건강을 위한 해독주스 만드는 법",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "양배추",
+        "양배추",
+        "양배추",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "당근",
+        "당근",
+        "당근",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "브로콜리",
+        "브로콜리",
+        "브로콜리",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "토마토",
+        "토마토",
+        "토마토",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "사과",
+        "사과",
+        "사과",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "바나나 150g",
+        "바나나",
+        "바나나",
+        "food",
+        "[재료]",
+        "150",
+        "g",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "양배추",
+      "raw_name": "양배추",
+      "ingredient_candidate": "양배추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "당근",
+      "raw_name": "당근",
+      "ingredient_candidate": "당근",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "브로콜리",
+      "raw_name": "브로콜리",
+      "ingredient_candidate": "브로콜리",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "토마토",
+      "raw_name": "토마토",
+      "ingredient_candidate": "토마토",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "사과",
+      "raw_name": "사과",
+      "ingredient_candidate": "사과",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "바나나 150g",
+      "raw_name": "바나나",
+      "ingredient_candidate": "바나나",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "150",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "몸속 건강을 위한 해독주스 만드는 법\n양배추\n당근\n브로콜리\n토마토\n사과\n바나나 150g"
+}

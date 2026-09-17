@@ -1,0 +1,135 @@
+{
+  "recipe_uid": "10000recipe_6860165",
+  "payload": {
+    "title": "이렇게 삶아야 제맛! 종류별 면 삶는 법!!",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "스파게티면",
+        "스파게티면",
+        "스파게티면",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "칼국수면",
+        "칼국수면",
+        "칼국수면",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소면",
+        "소면",
+        "소면",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "물",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "스파게티면",
+      "raw_name": "스파게티면",
+      "ingredient_candidate": "스파게티면",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "칼국수면",
+      "raw_name": "칼국수면",
+      "ingredient_candidate": "칼국수면",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소면",
+      "raw_name": "소면",
+      "ingredient_candidate": "소면",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 20,
+  "sent_steps": 0,
+  "evidence_text": "이렇게 삶아야 제맛! 종류별 면 삶는 법!!\n스파게티면\n칼국수면\n소면\n물\n소금"
+}

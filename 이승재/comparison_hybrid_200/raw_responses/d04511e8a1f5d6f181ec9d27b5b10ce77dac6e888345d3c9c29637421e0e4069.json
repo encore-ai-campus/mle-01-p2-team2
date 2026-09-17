@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZFn5RoXxZmi7Da4srhGFpsNllZ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"냉이된장찌개\",\"components\":[{\"raw_name\":\"냉이\",\"role\":\"food\",\"group\":\"[필수재료]\",\"quantity\":\"1\",\"unit\":\"줌\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"냉이 100g 1줌\"],\"quality_flags\":[],\"ingredient_candidate\":\"냉이\",\"alternatives\":[]},{\"raw_name\":\"두부\",\"role\":\"food\",\"group\":\"[필수재료]\",\"quantity\":\"1\",\"unit\":\"모\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"두부 300g 1모\"],\"quality_flags\":[],\"ingredient_candidate\":\"두부\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"[필수재료]\",\"quantity\":\"1/2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"양파 1/2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"애호박\",\"role\":\"food\",\"group\":\"[필수재료]\",\"quantity\":\"1/4\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"애호박 1/4개\"],\"quality_flags\":[],\"ingredient_candidate\":\"애호박\",\"alternatives\":[]},{\"raw_name\":\"대파 10cm\",\"role\":\"food\",\"group\":\"[필수재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"대파 10cm\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"멸치다시마육수\",\"role\":\"food\",\"group\":\"[필수재료]\",\"quantity\":\"600\",\"unit\":\"ml\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"멸치다시마육수 600ml\"],\"quality_flags\":[],\"ingredient_candidate\":\"멸치다시마육수\",\"alternatives\":[]},{\"raw_name\":\"청양고추\",\"role\":\"food\",\"group\":\"[선택재료]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"청양고추 1개\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양고추\",\"alternatives\":[]},{\"raw_name\":\"된장\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":\"2\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"된장 2T\"],\"quality_flags\":[],\"ingredient_candidate\":\"된장\",\"alternatives\":[]},{\"raw_name\":\"국간장\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"국간장 1T\"],\"quality_flags\":[],\"ingredient_candidate\":\"국간장\",\"alternatives\":[]},{\"raw_name\":\"고춧가루\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"고춧가루 1T\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"[양념재료]\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"다진마늘 1T\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544521,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 864,
+    "prompt_tokens": 3017,
+    "total_tokens": 3881,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

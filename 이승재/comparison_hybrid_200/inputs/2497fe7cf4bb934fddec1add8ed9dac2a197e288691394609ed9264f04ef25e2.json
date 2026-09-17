@@ -1,0 +1,113 @@
+{
+  "recipe_uid": "10000recipe_7081581",
+  "payload": {
+    "title": "추억의 급식메뉴 몽실몽실 푸딩 달걀찜 (어른ver.)",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "달걀 6알",
+        "달걀",
+        "계란",
+        "food",
+        "[재료]",
+        "6",
+        "알",
+        null,
+        null
+      ],
+      [
+        "물 250ml",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "250",
+        "ml",
+        null,
+        null
+      ],
+      [
+        "냉장고짜투리야채",
+        "냉장고짜투리야채",
+        "냉장고짜투리야채",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 1/2스푼",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        "1/2",
+        "스푼",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "달걀 6알",
+      "raw_name": "달걀",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "6",
+      "unit": "알",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 250ml",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "250",
+      "unit": "ml",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "냉장고짜투리야채",
+      "raw_name": "냉장고짜투리야채",
+      "ingredient_candidate": "냉장고짜투리야채",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 1/2스푼",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 6,
+  "sent_steps": 0,
+  "evidence_text": "추억의 급식메뉴 몽실몽실 푸딩 달걀찜 (어른ver.)\n달걀 6알\n물 250ml\n냉장고짜투리야채\n소금 1/2스푼"
+}

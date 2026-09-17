@@ -1,0 +1,286 @@
+{
+  "recipe_uid": "10000recipe_6858197",
+  "cache_key": "ece88003377caa2faabbb2634b6d3b68f9f1166454d8ad9c327808f54717e815",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 1237,
+    "prompt_tokens": 3224,
+    "total_tokens": 4461,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "무말랭이 고춧잎무침",
+    "components": [
+      {
+        "raw_name": "무말랭이 말린것",
+        "role": "food",
+        "group": "[무말랭이 무침 재료]",
+        "quantity": "150",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "무말랭이 말린것 150g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무말랭이 말린것",
+        "alternatives": []
+      },
+      {
+        "raw_name": "건 고춧잎",
+        "role": "food",
+        "group": "[무말랭이 무침 재료]",
+        "quantity": "10",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "건 고춧잎 10g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "건 고춧잎",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "[무말랭이 무침 재료]",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍고추",
+        "role": "food",
+        "group": "[무말랭이 무침 재료]",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "홍고추 1개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쪽파",
+        "role": "food",
+        "group": "[무말랭이 무침 재료]",
+        "quantity": "7",
+        "unit": "뿌리",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "쪽파 7뿌리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쪽파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛간장 시판",
+        "role": "food",
+        "group": "[무말랭이 밑간 재료]",
+        "quantity": "3",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "맛간장 시판 3T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛간장 시판",
+        "alternatives": []
+      },
+      {
+        "raw_name": "찹쌀풀",
+        "role": "food",
+        "group": "[찹쌀풀 재료]",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "찹쌀풀 1T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "찹쌀풀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "[찹쌀풀 재료]",
+        "quantity": "1",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 1컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치액젓",
+        "role": "seasoning",
+        "group": "[무말랭이 밑간 재료]",
+        "quantity": "4",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "멸치액젓 4T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치액젓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "찹쌀풀국",
+        "role": "seasoning",
+        "group": "[양념재료]",
+        "quantity": "1/2",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "찹쌀풀국 1/2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "찹쌀풀국",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "[양념재료]",
+        "quantity": "2",
+        "unit": "T",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진마늘 2T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진생강",
+        "role": "seasoning",
+        "group": "[양념재료]",
+        "quantity": "1",
+        "unit": "t",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진생강 1t"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "[양념재료]",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "설탕 1T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "[양념재료]",
+        "quantity": "7",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "고춧가루 7T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물엿",
+        "role": "seasoning",
+        "group": "[양념재료]",
+        "quantity": "5",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물엿 5T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물엿",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 5.125
+}

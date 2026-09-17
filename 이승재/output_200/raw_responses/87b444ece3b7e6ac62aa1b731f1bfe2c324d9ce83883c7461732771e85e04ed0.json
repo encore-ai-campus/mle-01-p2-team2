@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1Cj2bH1rsHKZ4g2GiTz1MCOfVH",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"베이컨떡꼬치\",\"components\":[{\"raw_name\":\"떡볶이떡\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 떡볶이떡\",\"떡뽁이떡, 베이컨을 준비합니다.\",\"떡볶이떡에 베이컨을 말아서 꼬치에 꽂아주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"떡볶이떡\",\"alternatives\":[]},{\"raw_name\":\"베이컨\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 베이컨\",\"떡뽁이떡, 베이컨을 준비합니다.\",\"떡볶이떡에 베이컨을 말아서 꼬치에 꽂아주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"베이컨\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 소금\",\"후라이팬에 올리브유를 두르고 소금, 후추를 가볍게 뿌린 후 약불에 천천히 노릇노릇 구워주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"블랙페이퍼(흑후추)\",\"role\":\"seasoning\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 블랙페이퍼(흑후추)\",\"후라이팬에 올리브유를 두르고 소금, 후추를 가볍게 뿌린 후 약불에 천천히 노릇노릇 구워주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"흑후추\",\"alternatives\":[]},{\"raw_name\":\"올리브유\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"후라이팬에 올리브유를 두르고\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리브유\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530878,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 566,
+    "prompt_tokens": 2792,
+    "total_tokens": 3358,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

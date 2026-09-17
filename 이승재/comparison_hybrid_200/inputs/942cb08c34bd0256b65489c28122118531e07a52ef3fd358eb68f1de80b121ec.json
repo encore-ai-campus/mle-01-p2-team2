@@ -1,0 +1,276 @@
+{
+  "recipe_uid": "10000recipe_6869657",
+  "payload": {
+    "title": "간편하게 먹는 한 접시 요리! 버섯크림리조또",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "밥 1공기",
+        "밥 1공기",
+        "밥 1공기",
+        "food",
+        "[필수재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "양파 1/4개",
+        "양파",
+        "양파",
+        "food",
+        "[필수재료]",
+        "1/4",
+        "개",
+        null,
+        null
+      ],
+      [
+        "양송이버섯 3개",
+        "양송이버섯",
+        "양송이버섯",
+        "food",
+        "[필수재료]",
+        "3",
+        "개",
+        null,
+        null
+      ],
+      [
+        "다진 쪽파 1T",
+        "다진 쪽파",
+        "다진 쪽파",
+        "food",
+        "[선택재료]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[필수재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[필수재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "올리브유 2T",
+        "올리브유",
+        "올리브유",
+        "seasoning",
+        "[필수재료]",
+        "2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "버터 1T",
+        "버터",
+        "버터",
+        "seasoning",
+        "[소스재료]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "우유 1컵",
+        "우유",
+        "우유",
+        "seasoning",
+        "[소스재료]",
+        "1",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "파마산치즈가루 1T",
+        "파마산치즈가루",
+        "파마산치즈가루",
+        "seasoning",
+        "[소스재료]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "피자치즈 1/2컵",
+        "피자치즈",
+        "피자치즈",
+        "seasoning",
+        "[소스재료]",
+        "1/2",
+        "컵",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 4,
+        "text": "우유, 파마산 치즈가루를 넣어 중불에 졸인다. 우유 1cup, 파마산치즈가루 1T 중불"
+      },
+      {
+        "step": 5,
+        "text": "소스가 걸쭉해 지면 피자치즈를 넣어 치즈를 녹여 완성한다. 피자치즈 1/2cup [선택재료] 다진 쪽파 1T"
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "밥 1공기",
+      "raw_name": "밥 1공기",
+      "ingredient_candidate": "밥 1공기",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1/4개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": "1/4",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양송이버섯 3개",
+      "raw_name": "양송이버섯",
+      "ingredient_candidate": "양송이버섯",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": "3",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진 쪽파 1T",
+      "raw_name": "다진 쪽파",
+      "ingredient_candidate": "다진 쪽파",
+      "role": "food",
+      "group": "[선택재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[필수재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[필수재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리브유 2T",
+      "raw_name": "올리브유",
+      "ingredient_candidate": "올리브유",
+      "role": "seasoning",
+      "group": "[필수재료]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "버터 1T",
+      "raw_name": "버터",
+      "ingredient_candidate": "버터",
+      "role": "seasoning",
+      "group": "[소스재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "우유 1컵",
+      "raw_name": "우유",
+      "ingredient_candidate": "우유",
+      "role": "seasoning",
+      "group": "[소스재료]",
+      "quantity": "1",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "파마산치즈가루 1T",
+      "raw_name": "파마산치즈가루",
+      "ingredient_candidate": "파마산치즈가루",
+      "role": "seasoning",
+      "group": "[소스재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "피자치즈 1/2컵",
+      "raw_name": "피자치즈",
+      "ingredient_candidate": "피자치즈",
+      "role": "seasoning",
+      "group": "[소스재료]",
+      "quantity": "1/2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 2,
+  "evidence_text": "간편하게 먹는 한 접시 요리! 버섯크림리조또\n밥 1공기\n양파 1/4개\n양송이버섯 3개\n다진 쪽파 1T\n소금 약간\n후추 약간\n올리브유 2T\n버터 1T\n우유 1컵\n파마산치즈가루 1T\n피자치즈 1/2컵\n우유, 파마산 치즈가루를 넣어 중불에 졸인다. 우유 1cup, 파마산치즈가루 1T 중불\n소스가 걸쭉해 지면 피자치즈를 넣어 치즈를 녹여 완성한다. 피자치즈 1/2cup [선택재료] 다진 쪽파 1T"
+}

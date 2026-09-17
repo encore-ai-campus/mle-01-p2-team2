@@ -1,0 +1,354 @@
+{
+  "recipe_uid": "10000recipe_6953652",
+  "cache_key": "20949f96d75c381fc128157ae0aa59581568a2d51908146ef961ad79abee4d5b",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 1423,
+    "prompt_tokens": 3255,
+    "total_tokens": 4678,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "유린기",
+    "components": [
+      {
+        "raw_name": "닭다리살",
+        "role": "food",
+        "group": "[닭재료]",
+        "quantity": "200",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "닭다리살 200g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "닭다리살",
+        "alternatives": []
+      },
+      {
+        "raw_name": "튀김가루",
+        "role": "food",
+        "group": "[닭재료]",
+        "quantity": "1/2",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "튀김가루 1/2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "튀김가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "감자전분",
+        "role": "food",
+        "group": "[닭재료]",
+        "quantity": "1/2",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "감자전분 1/2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "감자전분",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "[닭재료]",
+        "quantity": "1/2",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 1/2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "기름 튀김용",
+        "role": "food",
+        "group": "[닭재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "기름 튀김용"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양상추",
+        "role": "food",
+        "group": "[닭재료]",
+        "quantity": "1/4",
+        "unit": "통",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양상추 1/4통"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양상추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "[닭재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "[닭재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "후추 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청주",
+        "role": "seasoning",
+        "group": "[닭재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "청주 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "[소스]",
+        "quantity": "3",
+        "unit": "Ts",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "설탕 3Ts"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "[소스]",
+        "quantity": "2",
+        "unit": "Ts",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "간장 2Ts"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": "[소스]",
+        "quantity": "2.5",
+        "unit": "Ts",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "식초 2.5Ts"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굴소스",
+        "role": "seasoning",
+        "group": "[소스]",
+        "quantity": "0.5",
+        "unit": "Ts",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "굴소스 0.5Ts"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굴소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "seasoning",
+        "group": "[소스]",
+        "quantity": "100",
+        "unit": "ml",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 100ml"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "베트남고추",
+        "role": "seasoning",
+        "group": "[소스]",
+        "quantity": "5",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "베트남고추 5개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "베트남고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "seasoning",
+        "group": "[소스]",
+        "quantity": "1",
+        "unit": "톨",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "마늘 1톨"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "seasoning",
+        "group": "[소스]",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "청양고추 1개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍고추",
+        "role": "seasoning",
+        "group": "[소스]",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "홍고추 1개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "seasoning",
+        "group": "[소스]",
+        "quantity": "1/2",
+        "unit": "뿌리",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "대파 1/2뿌리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 6.422
+}

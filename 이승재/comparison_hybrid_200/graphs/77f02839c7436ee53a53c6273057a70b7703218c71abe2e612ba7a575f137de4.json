@@ -1,0 +1,291 @@
+{
+  "recipe_uid": "10000recipe_6854359",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6854359",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6854359",
+          "title": "오븐 없이 컵케이크를 쉽게 만들어보자! 우유컵케이크",
+          "description": "오븐도 없이 컵케익을 만든다고!? 가능합니다 아주 쉬워요~ ♥ 세상의 모든 레시피 만개의레시피",
+          "servings": "3인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 164000,
+          "source_url": "https://www.10000recipe.com/recipe/6854359",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:e543762e8f0e8883e4d3cccaebef41e5249891d6afc095f9fc6ec017de1ad012",
+        "label": "Dish",
+        "properties": {
+          "name": "컵케이크"
+        }
+      },
+      {
+        "id": "10000recipe_6854359:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "박력분",
+          "role": "food",
+          "group": "[필수재료]",
+          "quantity": "200",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"박력분 200g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6854359:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:c3fa541fa31b53aeb1c49783b15d7f705dfb791ed9f26e9de4165a5b823adf37",
+        "label": "Ingredient",
+        "properties": {
+          "name": "박력분",
+          "name_normalized": "박력분"
+        }
+      },
+      {
+        "id": "10000recipe_6854359:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "우유",
+          "role": "food",
+          "group": "[필수재료]",
+          "quantity": "250",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"우유 250g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6854359:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "우유",
+          "name_normalized": "우유"
+        }
+      },
+      {
+        "id": "10000recipe_6854359:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베이킹파우더",
+          "role": "food",
+          "group": "[필수재료]",
+          "quantity": "1/4",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"베이킹파우더 1/4큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6854359:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:e2ef8f913d3c070207f6e0944a798fa7444d2400256b75224306e4cc2b5d08c8",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이킹파우더",
+          "name_normalized": "베이킹파우더"
+        }
+      },
+      {
+        "id": "10000recipe_6854359:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "[필수재료]",
+          "quantity": "4",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"설탕 4큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6854359:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6854359:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "[필수재료]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6854359:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6854359",
+        "type": "VARIANT_OF",
+        "target": "dish:e543762e8f0e8883e4d3cccaebef41e5249891d6afc095f9fc6ec017de1ad012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6854359",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6854359:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6854359:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:c3fa541fa31b53aeb1c49783b15d7f705dfb791ed9f26e9de4165a5b823adf37",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6854359",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6854359:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6854359:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6854359",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6854359:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6854359:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:e2ef8f913d3c070207f6e0944a798fa7444d2400256b75224306e4cc2b5d08c8",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6854359",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6854359:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6854359:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6854359",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6854359:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6854359:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6854359:dish",
+      "canonical_id": "dish:e543762e8f0e8883e4d3cccaebef41e5249891d6afc095f9fc6ec017de1ad012",
+      "original_name": "컵케이크",
+      "canonical_name": "컵케이크",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6854359:component:001:candidate:0",
+      "canonical_id": "ingredient:c3fa541fa31b53aeb1c49783b15d7f705dfb791ed9f26e9de4165a5b823adf37",
+      "original_name": "박력분",
+      "canonical_name": "박력분",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6854359:component:002:candidate:0",
+      "canonical_id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+      "original_name": "우유",
+      "canonical_name": "우유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6854359:component:003:candidate:0",
+      "canonical_id": "ingredient:e2ef8f913d3c070207f6e0944a798fa7444d2400256b75224306e4cc2b5d08c8",
+      "original_name": "베이킹파우더",
+      "canonical_name": "베이킹파우더",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6854359:component:004:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6854359:component:005:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 5,
+    "alternatives": 0,
+    "required_known": 5,
+    "dish": true,
+    "relations": 11,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

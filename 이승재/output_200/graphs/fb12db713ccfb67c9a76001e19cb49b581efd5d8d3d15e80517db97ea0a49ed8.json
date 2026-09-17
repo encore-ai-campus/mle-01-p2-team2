@@ -1,0 +1,1676 @@
+{
+  "recipe_uid": "10000recipe_5228712",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_5228712",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_5228712",
+          "title": "달콤하고 부드러운 소불고기",
+          "description": "불고기만 있으면 다른 반찬 없이도 밥 한 그릇 뚝딱하곤 하는데요. 달콤하면서도 부드러운 식감이 좋은 불고기 소개합니다.",
+          "servings": null,
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 137000,
+          "source_url": "https://www.10000recipe.com/recipe/5228712",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "소불고기"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소불고기",
+          "role": "food",
+          "group": "재료",
+          "quantity": "650g",
+          "unit": null,
+          "preparation": "불고기용",
+          "detail": "쇠고기는 불고기용으로 준비해서 키친타월을 이용해 핏물을 제거하고 적당한 크기로 썰어줍니다.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소불고기 650g\", \"쇠고기는 불고기용으로 준비해서 키친타월을 이용해 핏물을 제거하고 적당한 크기로 썰어줍니다.\", \"불고기용은 육질의 결이 고운 앞다리살이나 지방이 적은 설도를 사용한다고 하지요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소고기",
+          "name_normalized": "소고기"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:001:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소고기",
+          "name_normalized": "소고기"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:001:candidate:2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소고기",
+          "name_normalized": "소고기"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": "채 썬",
+          "detail": "양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.\", \"쇠고기가 어느 정도 익으면 양파와 대파를 넣고 볶아줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1뿌리",
+          "unit": null,
+          "preparation": "어슷 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1뿌리\", \"대파는 어슷 썰어줍니다.\", \"쇠고기가 어느 정도 익으면 양파와 대파를 넣고 볶아줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "팽이버섯",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1봉지",
+          "unit": null,
+          "preparation": "밑동을 제거하고 찢어서",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 팽이버섯 1봉지\", \"팽이버섯은 밑동을 제거하고 양파와 마늘은 껍질을 벗겨 씻은 후 양파는 채 썰고 대파는 어슷 썰어줍니다.\", \"쇠고기가 익으면 팽이버섯을 찢어서 넣고 볶은 후 불에서 내려요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "팽이버섯",
+          "name_normalized": "팽이버섯"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "food",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": "뿌려냄",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 통깨 약간\", \"불고기를 접시에 담고 통깨를 조금 뿌려냅니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양조간장",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "3큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 양조간장 3큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양조간장",
+          "name_normalized": "양조간장"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실액",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 매실액 1큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실액",
+          "name_normalized": "매실액"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 설탕 1큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1.5큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 맛술 1.5큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 다진 마늘 1큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후춧가루",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 후춧가루 약간\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후춧가루",
+          "name_normalized": "후춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 참기름 1큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "배즙",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "고기가 부드러운데요.",
+          "is_required": false,
+          "alternative_mode": "replacement",
+          "evidence": "[\"배즙을 넣어 주면 고기가 부드러운데요.\", \"배가 없어서 배즙은 생략했습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배즙",
+          "name_normalized": "배즙"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파즙",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.",
+          "is_required": false,
+          "alternative_mode": "replacement",
+          "evidence": "[\"또한 양파즙을 사용하기도 하는데요.\", \"양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파즙",
+          "name_normalized": "양파즙"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_5228712",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_5228712:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:001",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_5228712:component:001:candidate:1",
+        "properties": {
+          "raw_name": "앞다리살",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "불고기용으로 준비",
+          "evidence": "[\"불고기용은 육질의 결이 고운 앞다리살이나 지방이 적은 설도를 사용한다고 하지요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_5228712:component:001",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_5228712:component:001:candidate:2",
+        "properties": {
+          "raw_name": "설도",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "불고기용으로 준비",
+          "evidence": "[\"불고기용은 육질의 결이 고운 앞다리살이나 지방이 적은 설도를 사용한다고 하지요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_5228712:component:014:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_5228712",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_5228712",
+          "title": "달콤하고 부드러운 소불고기",
+          "description": "불고기만 있으면 다른 반찬 없이도 밥 한 그릇 뚝딱하곤 하는데요. 달콤하면서도 부드러운 식감이 좋은 불고기 소개합니다.",
+          "servings": null,
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 137000,
+          "source_url": "https://www.10000recipe.com/recipe/5228712",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:e92c2effb95bfe7d124ed06576ee4f05070fe411f3f6f806e11d23adee3fbf4c",
+        "label": "Dish",
+        "properties": {
+          "name": "소불고기"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소불고기",
+          "role": "food",
+          "group": "재료",
+          "quantity": "650g",
+          "unit": null,
+          "preparation": "불고기용",
+          "detail": "쇠고기는 불고기용으로 준비해서 키친타월을 이용해 핏물을 제거하고 적당한 크기로 썰어줍니다.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소불고기 650g\", \"쇠고기는 불고기용으로 준비해서 키친타월을 이용해 핏물을 제거하고 적당한 크기로 썰어줍니다.\", \"불고기용은 육질의 결이 고운 앞다리살이나 지방이 적은 설도를 사용한다고 하지요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:934b01ccdc52751e8e093d6b7d22a07ea1e49df755ef164f450bb96b9ff2bc44",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소고기",
+          "name_normalized": "소고기"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": "채 썬",
+          "detail": "양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.\", \"쇠고기가 어느 정도 익으면 양파와 대파를 넣고 볶아줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1뿌리",
+          "unit": null,
+          "preparation": "어슷 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1뿌리\", \"대파는 어슷 썰어줍니다.\", \"쇠고기가 어느 정도 익으면 양파와 대파를 넣고 볶아줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "팽이버섯",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1봉지",
+          "unit": null,
+          "preparation": "밑동을 제거하고 찢어서",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 팽이버섯 1봉지\", \"팽이버섯은 밑동을 제거하고 양파와 마늘은 껍질을 벗겨 씻은 후 양파는 채 썰고 대파는 어슷 썰어줍니다.\", \"쇠고기가 익으면 팽이버섯을 찢어서 넣고 볶은 후 불에서 내려요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:1818f3526be56549adcad35017a3b1c451aa7c71ea546d21061b41ac3c1dd808",
+        "label": "Ingredient",
+        "properties": {
+          "name": "팽이버섯",
+          "name_normalized": "팽이버섯"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "food",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": "뿌려냄",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 통깨 약간\", \"불고기를 접시에 담고 통깨를 조금 뿌려냅니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양조간장",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "3큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 양조간장 3큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:c6ced8bb2f235c9964a3ac52bf9dc477bb4e1b95281b217cfe74900054b6618a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양조간장",
+          "name_normalized": "양조간장"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실액",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 매실액 1큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실액",
+          "name_normalized": "매실액"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 설탕 1큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1.5큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 맛술 1.5큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 다진 마늘 1큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후춧가루",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 후춧가루 약간\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:7c4463c61c0762ace7914efaecc4c6ebcba165f5da16c1829adc8261f32c023d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후춧가루",
+          "name_normalized": "후춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 참기름 1큰술\", \"분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "배즙",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "고기가 부드러운데요.",
+          "is_required": false,
+          "alternative_mode": "replacement",
+          "evidence": "[\"배즙을 넣어 주면 고기가 부드러운데요.\", \"배가 없어서 배즙은 생략했습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:7b051de47951c2129ce87a3b29b86459b5f656c917028f65036040522dd90dfb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배즙",
+          "name_normalized": "배즙"
+        }
+      },
+      {
+        "id": "10000recipe_5228712:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파즙",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.",
+          "is_required": false,
+          "alternative_mode": "replacement",
+          "evidence": "[\"또한 양파즙을 사용하기도 하는데요.\", \"양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_5228712:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:742f575f3c74c93cbc8e49d61898fa87e8364909a3cab22cc47c5b50b10d4efa",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파즙",
+          "name_normalized": "양파즙"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_5228712",
+        "type": "VARIANT_OF",
+        "target": "dish:e92c2effb95bfe7d124ed06576ee4f05070fe411f3f6f806e11d23adee3fbf4c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:934b01ccdc52751e8e093d6b7d22a07ea1e49df755ef164f450bb96b9ff2bc44",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:001",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:934b01ccdc52751e8e093d6b7d22a07ea1e49df755ef164f450bb96b9ff2bc44",
+        "properties": {
+          "raw_name": "앞다리살",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "불고기용으로 준비",
+          "evidence": "[\"불고기용은 육질의 결이 고운 앞다리살이나 지방이 적은 설도를 사용한다고 하지요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_5228712:component:001",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:934b01ccdc52751e8e093d6b7d22a07ea1e49df755ef164f450bb96b9ff2bc44",
+        "properties": {
+          "raw_name": "설도",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "불고기용으로 준비",
+          "evidence": "[\"불고기용은 육질의 결이 고운 앞다리살이나 지방이 적은 설도를 사용한다고 하지요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:1818f3526be56549adcad35017a3b1c451aa7c71ea546d21061b41ac3c1dd808",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:c6ced8bb2f235c9964a3ac52bf9dc477bb4e1b95281b217cfe74900054b6618a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:7c4463c61c0762ace7914efaecc4c6ebcba165f5da16c1829adc8261f32c023d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:7b051de47951c2129ce87a3b29b86459b5f656c917028f65036040522dd90dfb",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_5228712:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_5228712:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:742f575f3c74c93cbc8e49d61898fa87e8364909a3cab22cc47c5b50b10d4efa",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "소불고기",
+    "components": [
+      {
+        "raw_name": "소불고기",
+        "role": "food",
+        "group": "재료",
+        "quantity": "650g",
+        "unit": null,
+        "preparation": "불고기용",
+        "detail": "쇠고기는 불고기용으로 준비해서 키친타월을 이용해 핏물을 제거하고 적당한 크기로 썰어줍니다.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소불고기 650g",
+          "쇠고기는 불고기용으로 준비해서 키친타월을 이용해 핏물을 제거하고 적당한 크기로 썰어줍니다.",
+          "불고기용은 육질의 결이 고운 앞다리살이나 지방이 적은 설도를 사용한다고 하지요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소고기",
+        "alternatives": [
+          {
+            "raw_name": "앞다리살",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": "불고기용으로 준비",
+            "evidence": [
+              "불고기용은 육질의 결이 고운 앞다리살이나 지방이 적은 설도를 사용한다고 하지요."
+            ],
+            "ingredient_candidate": "소고기"
+          },
+          {
+            "raw_name": "설도",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": "불고기용으로 준비",
+            "evidence": [
+              "불고기용은 육질의 결이 고운 앞다리살이나 지방이 적은 설도를 사용한다고 하지요."
+            ],
+            "ingredient_candidate": "소고기"
+          }
+        ]
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": "채 썬",
+        "detail": "양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/2개",
+          "양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.",
+          "쇠고기가 어느 정도 익으면 양파와 대파를 넣고 볶아줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1뿌리",
+        "unit": null,
+        "preparation": "어슷 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1뿌리",
+          "대파는 어슷 썰어줍니다.",
+          "쇠고기가 어느 정도 익으면 양파와 대파를 넣고 볶아줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "팽이버섯",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1봉지",
+        "unit": null,
+        "preparation": "밑동을 제거하고 찢어서",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 팽이버섯 1봉지",
+          "팽이버섯은 밑동을 제거하고 양파와 마늘은 껍질을 벗겨 씻은 후 양파는 채 썰고 대파는 어슷 썰어줍니다.",
+          "쇠고기가 익으면 팽이버섯을 찢어서 넣고 볶은 후 불에서 내려요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "팽이버섯",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "food",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": "뿌려냄",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 통깨 약간",
+          "불고기를 접시에 담고 통깨를 조금 뿌려냅니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양조간장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "3큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 양조간장 3큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양조간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실액",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 매실액 1큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 설탕 1큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛술",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1.5큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 맛술 1.5큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛술",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 마늘",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 다진 마늘 1큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후춧가루",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 후춧가루 약간",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 참기름 1큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "배즙",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "고기가 부드러운데요.",
+        "is_required": false,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "배즙을 넣어 주면 고기가 부드러운데요.",
+          "배가 없어서 배즙은 생략했습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "배즙",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파즙",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다.",
+        "is_required": false,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "또한 양파즙을 사용하기도 하는데요.",
+          "양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파즙",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "7b9db680de453182315eb52fd08159a2e627f4493cef2f4ea33d42c608c9501e",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_5228712:dish",
+      "canonical_id": "dish:e92c2effb95bfe7d124ed06576ee4f05070fe411f3f6f806e11d23adee3fbf4c",
+      "original_name": "소불고기",
+      "canonical_name": "소불고기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:001:candidate:0",
+      "canonical_id": "ingredient:934b01ccdc52751e8e093d6b7d22a07ea1e49df755ef164f450bb96b9ff2bc44",
+      "original_name": "소고기",
+      "canonical_name": "소고기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:001:candidate:1",
+      "canonical_id": "ingredient:934b01ccdc52751e8e093d6b7d22a07ea1e49df755ef164f450bb96b9ff2bc44",
+      "original_name": "소고기",
+      "canonical_name": "소고기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:001:candidate:2",
+      "canonical_id": "ingredient:934b01ccdc52751e8e093d6b7d22a07ea1e49df755ef164f450bb96b9ff2bc44",
+      "original_name": "소고기",
+      "canonical_name": "소고기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:002:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:003:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:004:candidate:0",
+      "canonical_id": "ingredient:1818f3526be56549adcad35017a3b1c451aa7c71ea546d21061b41ac3c1dd808",
+      "original_name": "팽이버섯",
+      "canonical_name": "팽이버섯",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:005:candidate:0",
+      "canonical_id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+      "original_name": "통깨",
+      "canonical_name": "통깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:006:candidate:0",
+      "canonical_id": "ingredient:c6ced8bb2f235c9964a3ac52bf9dc477bb4e1b95281b217cfe74900054b6618a",
+      "original_name": "양조간장",
+      "canonical_name": "양조간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:007:candidate:0",
+      "canonical_id": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+      "original_name": "매실액",
+      "canonical_name": "매실액",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:008:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:009:candidate:0",
+      "canonical_id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+      "original_name": "맛술",
+      "canonical_name": "맛술",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:010:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:011:candidate:0",
+      "canonical_id": "ingredient:7c4463c61c0762ace7914efaecc4c6ebcba165f5da16c1829adc8261f32c023d",
+      "original_name": "후춧가루",
+      "canonical_name": "후춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:012:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:013:candidate:0",
+      "canonical_id": "ingredient:7b051de47951c2129ce87a3b29b86459b5f656c917028f65036040522dd90dfb",
+      "original_name": "배즙",
+      "canonical_name": "배즙",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_5228712:component:014:candidate:0",
+      "canonical_id": "ingredient:742f575f3c74c93cbc8e49d61898fa87e8364909a3cab22cc47c5b50b10d4efa",
+      "original_name": "양파즙",
+      "canonical_name": "양파즙",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_5228712",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_5228712:component:001: ALTERNATIVE_MODE",
+      "10000recipe_5228712:component:001: SELF_ALTERNATIVE",
+      "10000recipe_5228712:component:013: ALTERNATIVE_MODE",
+      "10000recipe_5228712:component:014: ALTERNATIVE_MODE"
+    ],
+    "stage1_errors": [
+      "10000recipe_5228712:component:001: ALTERNATIVE_MODE",
+      "10000recipe_5228712:component:013: ALTERNATIVE_MODE",
+      "10000recipe_5228712:component:014: ALTERNATIVE_MODE"
+    ],
+    "stage2_errors": [
+      "10000recipe_5228712:component:001: ALTERNATIVE_MODE",
+      "10000recipe_5228712:component:001: SELF_ALTERNATIVE",
+      "10000recipe_5228712:component:013: ALTERNATIVE_MODE",
+      "10000recipe_5228712:component:014: ALTERNATIVE_MODE"
+    ]
+  },
+  "review_hash": "2e8fc3639384a4c7725dc7e8e1b16ded1da1c0bbfa1ec6e42d019c32135e54f9"
+}

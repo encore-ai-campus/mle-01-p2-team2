@@ -1,0 +1,1371 @@
+{
+  "recipe_uid": "10000recipe_7082638",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082638",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082638",
+          "title": "깍두기 여름깍두기 레시피 실패없이 여름깍두기 담그기",
+          "description": "식탁에 김치가 없으면 아무리 진수성찬이라도 젓가락이 방황을 하는데요 그래서 여름엔 깍두기나 무생채 오이김치 등으로 김치를 대신하곤 하지요 요즘 나오는 여름 무는 가을무와 달리 단맛도 덜하고 수분이 많아서 시원하게 담아 놓으면 여름철 효자 반찬이 되는데요 아삭아삭하고 달큼하면서 시원한 무의 맛에 익었을 때는 감칠맛에 국물 한 모금까지 떠먹게 하는 여름 반찬 여름 깍두기 담그는 법입니다 ​",
+          "servings": "6인분 이상",
+          "cooking_time": "60분 이내",
+          "difficulty": "아무나",
+          "views": 94,
+          "source_url": "https://www.10000recipe.com/recipe/7082638",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "깍두기"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1.5kg",
+          "unit": null,
+          "preparation": "손질 후",
+          "detail": "사방 2cm 정도 굵기로 썰어 사용함",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 무 손질 후 1.5kg\", \"무는 들어보았을 때 단단하고 묵직한 것을 고르고 흐르는 물에 표면의 흙과 이물질을 씻어낸 뒤 필러로 껍질을 벗겨 줍니다\", \"무를 필러로 껍질을 벗긴 후 2cm 정도 굵기로 동글동글 썰어줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3큰술",
+          "unit": null,
+          "preparation": "다짐",
+          "detail": "썰어 넣어 버무림",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 다짐 3큰술\", \"양념 넣어 버무려놓고 썰어놓은 대파를 넣어 버무려주면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굵은소금",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "무를 절일 때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 굵은소금 1큰술\", \"볼에 썰어놓은 무를 담고 굵은소금 1큰술과 뉴 슈거 1작은술을 넣고 뒤적여 잘 섞어서 30분~40분 정도 절여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굵은소금",
+          "name_normalized": "굵은소금"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "뉴슈거",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": "무를 절일 때 사용",
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 뉴슈거 1작은술\", \"볼에 썰어놓은 무를 담고 굵은소금 1큰술과 뉴 슈거 1작은술을 넣고 뒤적여 잘 섞어서 30분~40분 정도 절여줍니다\", \"뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "뉴슈거",
+          "name_normalized": "뉴슈거"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:004:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:004:candidate:2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물엿",
+          "name_normalized": "물엿"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "6큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "일부는 무에 먼저 버무리고 나머지는 양념장에 섞음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 고춧가루 6큰술\", \"갈아놓은 재료에 고춧가루 6큰술 중 4큰술을 넣고 섞어줍니다\", \"절여서 물기 뺀 무에 고춧가루 2큰술을 넣고 뒤섞어 버무려주면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치액젓",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장에 넣음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 멸치액젓 2큰술\", \"볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치액젓",
+          "name_normalized": "멸치액젓"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "까나리액젓",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장에 넣음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 까나리액젓 2큰술\", \"까나리액젓 2큰술과 생강가루 밥 수북하게 1큰술을 넣어줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "까나리액젓",
+          "name_normalized": "까나리액젓"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "새우젓",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장에 넣음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 새우젓 1큰술\", \"볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "새우젓",
+          "name_normalized": "새우젓"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강가루",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "0.2작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": "원문에서 수량 표현이 혼재됨",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 생강가루 0.2작은술\", \"까나리액젓 2큰술과 생강가루 밥 수북하게 1큰술을 넣어줍니다\"]",
+          "quality_flags": [
+            "QUANTITY_CONFLICT"
+          ],
+          "component_uid": "10000recipe_7082638:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강가루",
+          "name_normalized": "생강가루"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밥",
+          "role": "food",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "믹서기로 살짝 갈아 양념장에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 밥 1큰술\", \"밥이 있어서 믹서기로 살짝 갈아줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밥",
+          "name_normalized": "밥"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": "양념장에 넣음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 다진 마늘 1큰술\", \"볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082638",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7082638:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:004",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7082638:component:004:candidate:1",
+        "properties": {
+          "raw_name": "설탕",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082638:component:004",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7082638:component:004:candidate:2",
+        "properties": {
+          "raw_name": "물엿",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082638:component:011:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082638",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082638",
+          "title": "깍두기 여름깍두기 레시피 실패없이 여름깍두기 담그기",
+          "description": "식탁에 김치가 없으면 아무리 진수성찬이라도 젓가락이 방황을 하는데요 그래서 여름엔 깍두기나 무생채 오이김치 등으로 김치를 대신하곤 하지요 요즘 나오는 여름 무는 가을무와 달리 단맛도 덜하고 수분이 많아서 시원하게 담아 놓으면 여름철 효자 반찬이 되는데요 아삭아삭하고 달큼하면서 시원한 무의 맛에 익었을 때는 감칠맛에 국물 한 모금까지 떠먹게 하는 여름 반찬 여름 깍두기 담그는 법입니다 ​",
+          "servings": "6인분 이상",
+          "cooking_time": "60분 이내",
+          "difficulty": "아무나",
+          "views": 94,
+          "source_url": "https://www.10000recipe.com/recipe/7082638",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:a45adaf8cf5cc79b2dad82ee24ae2a7ef60aec9de4fd24670bb10d998f0bf2df",
+        "label": "Dish",
+        "properties": {
+          "name": "깍두기"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1.5kg",
+          "unit": null,
+          "preparation": "손질 후",
+          "detail": "사방 2cm 정도 굵기로 썰어 사용함",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 무 손질 후 1.5kg\", \"무는 들어보았을 때 단단하고 묵직한 것을 고르고 흐르는 물에 표면의 흙과 이물질을 씻어낸 뒤 필러로 껍질을 벗겨 줍니다\", \"무를 필러로 껍질을 벗긴 후 2cm 정도 굵기로 동글동글 썰어줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3큰술",
+          "unit": null,
+          "preparation": "다짐",
+          "detail": "썰어 넣어 버무림",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 다짐 3큰술\", \"양념 넣어 버무려놓고 썰어놓은 대파를 넣어 버무려주면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굵은소금",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "무를 절일 때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 굵은소금 1큰술\", \"볼에 썰어놓은 무를 담고 굵은소금 1큰술과 뉴 슈거 1작은술을 넣고 뒤적여 잘 섞어서 30분~40분 정도 절여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굵은소금",
+          "name_normalized": "굵은소금"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "뉴슈거",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": "무를 절일 때 사용",
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 뉴슈거 1작은술\", \"볼에 썰어놓은 무를 담고 굵은소금 1큰술과 뉴 슈거 1작은술을 넣고 뒤적여 잘 섞어서 30분~40분 정도 절여줍니다\", \"뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:6a451f4052266dd145fc4af937f3bd6d8c56d799c330082eb12a7257c8880a2a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "뉴슈거",
+          "name_normalized": "뉴슈거"
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물엿",
+          "name_normalized": "물엿"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "6큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "일부는 무에 먼저 버무리고 나머지는 양념장에 섞음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 고춧가루 6큰술\", \"갈아놓은 재료에 고춧가루 6큰술 중 4큰술을 넣고 섞어줍니다\", \"절여서 물기 뺀 무에 고춧가루 2큰술을 넣고 뒤섞어 버무려주면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치액젓",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장에 넣음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 멸치액젓 2큰술\", \"볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치액젓",
+          "name_normalized": "멸치액젓"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "까나리액젓",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장에 넣음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 까나리액젓 2큰술\", \"까나리액젓 2큰술과 생강가루 밥 수북하게 1큰술을 넣어줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:fe5663cce07837aefe0d8e6177d3bbea51ac1bc54824beda9a884ed84b0bf92d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "까나리액젓",
+          "name_normalized": "까나리액젓"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "새우젓",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장에 넣음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 새우젓 1큰술\", \"볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:439f2a9cdea844c70dc64a9c17b07c1378c4d62d6f7cc6006f286d94f1d91749",
+        "label": "Ingredient",
+        "properties": {
+          "name": "새우젓",
+          "name_normalized": "새우젓"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강가루",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "0.2작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": "원문에서 수량 표현이 혼재됨",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 생강가루 0.2작은술\", \"까나리액젓 2큰술과 생강가루 밥 수북하게 1큰술을 넣어줍니다\"]",
+          "quality_flags": [
+            "QUANTITY_CONFLICT"
+          ],
+          "component_uid": "10000recipe_7082638:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:1eccdf22fba1cf12fd4a67d9ad2c11555c33306467301a9a80f9cda9888698c8",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강가루",
+          "name_normalized": "생강가루"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밥",
+          "role": "food",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "믹서기로 살짝 갈아 양념장에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 밥 1큰술\", \"밥이 있어서 믹서기로 살짝 갈아줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:231653094546aa552934a83f2d9ff01a899bdc16e9a269ed9aeab39cf8d0311d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밥",
+          "name_normalized": "밥"
+        }
+      },
+      {
+        "id": "10000recipe_7082638:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": "양념장에 넣음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 다진 마늘 1큰술\", \"볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082638:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082638",
+        "type": "VARIANT_OF",
+        "target": "dish:a45adaf8cf5cc79b2dad82ee24ae2a7ef60aec9de4fd24670bb10d998f0bf2df",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:6a451f4052266dd145fc4af937f3bd6d8c56d799c330082eb12a7257c8880a2a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:004",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {
+          "raw_name": "설탕",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082638:component:004",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+        "properties": {
+          "raw_name": "물엿",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:fe5663cce07837aefe0d8e6177d3bbea51ac1bc54824beda9a884ed84b0bf92d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:439f2a9cdea844c70dc64a9c17b07c1378c4d62d6f7cc6006f286d94f1d91749",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:1eccdf22fba1cf12fd4a67d9ad2c11555c33306467301a9a80f9cda9888698c8",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:231653094546aa552934a83f2d9ff01a899bdc16e9a269ed9aeab39cf8d0311d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082638:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082638:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "깍두기",
+    "components": [
+      {
+        "raw_name": "무",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1.5kg",
+        "unit": null,
+        "preparation": "손질 후",
+        "detail": "사방 2cm 정도 굵기로 썰어 사용함",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 무 손질 후 1.5kg",
+          "무는 들어보았을 때 단단하고 묵직한 것을 고르고 흐르는 물에 표면의 흙과 이물질을 씻어낸 뒤 필러로 껍질을 벗겨 줍니다",
+          "무를 필러로 껍질을 벗긴 후 2cm 정도 굵기로 동글동글 썰어줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3큰술",
+        "unit": null,
+        "preparation": "다짐",
+        "detail": "썰어 넣어 버무림",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 다짐 3큰술",
+          "양념 넣어 버무려놓고 썰어놓은 대파를 넣어 버무려주면"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굵은소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "무를 절일 때 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 굵은소금 1큰술",
+          "볼에 썰어놓은 무를 담고 굵은소금 1큰술과 뉴 슈거 1작은술을 넣고 뒤적여 잘 섞어서 30분~40분 정도 절여줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굵은소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "뉴슈거",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1작은술",
+        "unit": null,
+        "preparation": null,
+        "detail": "무를 절일 때 사용",
+        "is_required": true,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "[재료] 뉴슈거 1작은술",
+          "볼에 썰어놓은 무를 담고 굵은소금 1큰술과 뉴 슈거 1작은술을 넣고 뒤적여 잘 섞어서 30분~40분 정도 절여줍니다",
+          "뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "뉴슈거",
+        "alternatives": [
+          {
+            "raw_name": "설탕",
+            "quantity": "1큰술",
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다"
+            ],
+            "ingredient_candidate": "설탕"
+          },
+          {
+            "raw_name": "물엿",
+            "quantity": "2큰술",
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다"
+            ],
+            "ingredient_candidate": "물엿"
+          }
+        ]
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "6큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "일부는 무에 먼저 버무리고 나머지는 양념장에 섞음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 고춧가루 6큰술",
+          "갈아놓은 재료에 고춧가루 6큰술 중 4큰술을 넣고 섞어줍니다",
+          "절여서 물기 뺀 무에 고춧가루 2큰술을 넣고 뒤섞어 버무려주면"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치액젓",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장에 넣음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 멸치액젓 2큰술",
+          "볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치액젓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "까나리액젓",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장에 넣음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 까나리액젓 2큰술",
+          "까나리액젓 2큰술과 생강가루 밥 수북하게 1큰술을 넣어줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "까나리액젓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "새우젓",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장에 넣음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 새우젓 1큰술",
+          "볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "새우젓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강가루",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "0.2작은술",
+        "unit": null,
+        "preparation": null,
+        "detail": "원문에서 수량 표현이 혼재됨",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 생강가루 0.2작은술",
+          "까나리액젓 2큰술과 생강가루 밥 수북하게 1큰술을 넣어줍니다"
+        ],
+        "quality_flags": [
+          "QUANTITY_CONFLICT"
+        ],
+        "ingredient_candidate": "생강가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밥",
+        "role": "food",
+        "group": "양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "믹서기로 살짝 갈아 양념장에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 밥 1큰술",
+          "밥이 있어서 믹서기로 살짝 갈아줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밥",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 마늘",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": "양념장에 넣음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 다진 마늘 1큰술",
+          "볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "5234c6c3f552952c0cf5cca194afae545ce9b04489aae5ec43d0f112c67ddf23",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7082638:dish",
+      "canonical_id": "dish:a45adaf8cf5cc79b2dad82ee24ae2a7ef60aec9de4fd24670bb10d998f0bf2df",
+      "original_name": "깍두기",
+      "canonical_name": "깍두기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:001:candidate:0",
+      "canonical_id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+      "original_name": "무",
+      "canonical_name": "무",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:002:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:003:candidate:0",
+      "canonical_id": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+      "original_name": "굵은소금",
+      "canonical_name": "굵은소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:004:candidate:0",
+      "canonical_id": "ingredient:6a451f4052266dd145fc4af937f3bd6d8c56d799c330082eb12a7257c8880a2a",
+      "original_name": "뉴슈거",
+      "canonical_name": "뉴슈거",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:004:candidate:1",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:004:candidate:2",
+      "canonical_id": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+      "original_name": "물엿",
+      "canonical_name": "물엿",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:005:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:006:candidate:0",
+      "canonical_id": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+      "original_name": "멸치액젓",
+      "canonical_name": "멸치액젓",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:007:candidate:0",
+      "canonical_id": "ingredient:fe5663cce07837aefe0d8e6177d3bbea51ac1bc54824beda9a884ed84b0bf92d",
+      "original_name": "까나리액젓",
+      "canonical_name": "까나리액젓",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:008:candidate:0",
+      "canonical_id": "ingredient:439f2a9cdea844c70dc64a9c17b07c1378c4d62d6f7cc6006f286d94f1d91749",
+      "original_name": "새우젓",
+      "canonical_name": "새우젓",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:009:candidate:0",
+      "canonical_id": "ingredient:1eccdf22fba1cf12fd4a67d9ad2c11555c33306467301a9a80f9cda9888698c8",
+      "original_name": "생강가루",
+      "canonical_name": "생강가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:010:candidate:0",
+      "canonical_id": "ingredient:231653094546aa552934a83f2d9ff01a899bdc16e9a269ed9aeab39cf8d0311d",
+      "original_name": "밥",
+      "canonical_name": "밥",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082638:component:011:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7082638",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "dffd86a6cddbd7fdcf99bbc85b53e05b30de4952a7342759a074452701cbaf67"
+}

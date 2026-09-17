@@ -1,0 +1,260 @@
+{
+  "recipe_uid": "10000recipe_7081121",
+  "cache_key": "dfba0e976472753122625cf607779eb5d8dbd1504fb63a8871c3bb369b8eeadb",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 1138,
+    "prompt_tokens": 3250,
+    "total_tokens": 4388,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "김치제육볶음",
+    "components": [
+      {
+        "raw_name": "제육용돼지고기",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "500",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "제육용돼지고기 500g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "제육용돼지고기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "당근 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "애호박",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/3",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "애호박 1/3개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "애호박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "김장김치",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/4",
+        "unit": "포기",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "김장김치 1/4포기",
+          "김장김치도 넣어 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김장김치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강액",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "생강액 1큰술",
+          "생강액, 매실액을 넣어 주고 김장김치도 넣어 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진마늘 1큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/2",
+        "unit": "대",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "대파 1/2대",
+          "아직 대파와 고추가루는 넣지 않았습니다.",
+          "나중에 볶을때에 넣어 줄 예정입니다.",
+          "달달 볶다가 대파와 고춧가루를 투하해서 섞어가면서 볶아 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "통깨 1큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "고추장 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "고춧가루 2큰술",
+          "아직 대파와 고추가루는 넣지 않았습니다.",
+          "나중에 볶을때에 넣어 줄 예정입니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "작은술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "후추 1작은술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실액",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "매실액 2큰술",
+          "생강액, 매실액을 넣어 주고 김장김치도 넣어 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실액",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 5.157
+}

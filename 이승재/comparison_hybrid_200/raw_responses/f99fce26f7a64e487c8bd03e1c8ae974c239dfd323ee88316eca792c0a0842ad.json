@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeaETgrgiCgAksBurtjhmWDU3Qwv",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"토마토 파스타\",\"components\":[{\"raw_name\":\"토마토\",\"role\":\"food\",\"group\":\"[재료토마토퓌레]\",\"quantity\":\"1\",\"unit\":\"kg\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"토마토 1kg\"],\"quality_flags\":[],\"ingredient_candidate\":\"토마토\",\"alternatives\":[]},{\"raw_name\":\"마늘\",\"role\":\"food\",\"group\":\"[재료토마토퓌레]\",\"quantity\":\"10\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"마늘 10개\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"파스타면\",\"role\":\"food\",\"group\":\"[토마토 파스타]\",\"quantity\":\"90\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"파스타면 90g\"],\"quality_flags\":[],\"ingredient_candidate\":\"파스타면\",\"alternatives\":[]},{\"raw_name\":\"브로컬리 6~7조각\",\"role\":\"food\",\"group\":\"[토마토 파스타]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"브로컬리 6~7조각\"],\"quality_flags\":[],\"ingredient_candidate\":\"브로컬리 6~7조각\",\"alternatives\":[]},{\"raw_name\":\"미트볼\",\"role\":\"food\",\"group\":\"[토마토 파스타]\",\"quantity\":\"5\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"미트볼 5개\"],\"quality_flags\":[],\"ingredient_candidate\":\"미트볼\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"[재료토마토퓌레]\",\"quantity\":\"1/4\",\"unit\":\"t\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"소금 1/4t\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"올리브유\",\"role\":\"seasoning\",\"group\":\"[토마토 파스타]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"올리브유 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리브유\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544582,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 575,
+    "prompt_tokens": 2890,
+    "total_tokens": 3465,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

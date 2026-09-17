@@ -1,0 +1,1345 @@
+{
+  "recipe_uid": "10000recipe_6907445",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6907445",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6907445",
+          "title": "물김치 담그는법! 배추물김치~",
+          "description": "명절에 담근 물김치인데 이제야 정리해봅니다. 느끼하고 소화가 잘 안되는 명절 음식엔 톡 쏘는 물김치가 최고라지요. 시원하게 담근 물김치! ​",
+          "servings": "6인분 이상",
+          "cooking_time": "60분 이내",
+          "difficulty": "아무나",
+          "views": 88000,
+          "source_url": "https://www.10000recipe.com/recipe/6907445",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "배추물김치"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "배추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1포기",
+          "unit": null,
+          "preparation": "겉잎은 떼어내고 노란 속살만 사용, 1.5cmx2cm 정도로 잘게 자름",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"배추 1포기\", \"배추는 겉잎은 떼어내고 노란 속살만 사용해서 물김치를 담갔어요.\", \"사이즈는 1.5cmx2cm 정도로 잘게 잘라서\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배추",
+          "name_normalized": "배추"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1+1/4컵",
+          "unit": null,
+          "preparation": null,
+          "detail": "+5큰술",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 +5큰술 1+1/4컵\", \"소금 1컵을 넣어 10분 정도 절이고요.\", \"소금 1/4 더 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "6큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"고춧가루 6큰술\", \"고춧가루 6큰술을 넣어 풀어주는데요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "100g",
+          "unit": null,
+          "preparation": "간 것",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"마늘 100g\", \"마늘, 양파, 생강 간 것을 붓고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "30g",
+          "unit": null,
+          "preparation": "간 것",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"생강 30g\", \"마늘, 양파, 생강 간 것을 붓고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3개",
+          "unit": null,
+          "preparation": "동글동글하게",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"홍고추 3개\", \"홍고추는 동글동글하게\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2/3개",
+          "unit": null,
+          "preparation": "꽃 모양으로",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"당근 2/3개\", \"당근은 꽃 모양으로 자르고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "간 것",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 1/2개\", \"마늘, 양파, 생강 간 것을 붓고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쪽파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "100g",
+          "unit": null,
+          "preparation": "2~3cm 정도로 자름",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"쪽파 100g\", \"쪽파는 2~3cm 정도로 자르고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쪽파",
+          "name_normalized": "쪽파"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀풀",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2컵",
+          "unit": null,
+          "preparation": "묽게 쑤어 체에 걸러 거른 것",
+          "detail": "농도는 진하지 않게",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"찹쌀풀 2컵\", \"찹쌀 풀 쑨 것 2컵 붓고요.\", \"물김치에 찹쌀 풀 농도는 진하지 않게 묽게 쑤어서 준비했어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀풀",
+          "name_normalized": "찹쌀풀"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": "껍질을 벗겨서 깔끔하게 준비하고 얇게 썬 후 배추와 비슷한 사이즈로 자름",
+          "detail": "본문에만 등장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"무는 껍질을 벗겨서 깔끔하게 준비하고 얇게 썬 후 배추와 비슷한 사이즈로 자르고요.\", \"배추와 무를 볼에 담고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "뉴슈가",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2/3큰술",
+          "unit": null,
+          "preparation": "푼 것",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"뉴슈가 2/3큰술을 풀어 준 다음\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "뉴슈가",
+          "name_normalized": "뉴슈가"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6907445",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6907445:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907445:component:012:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6907445",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6907445",
+          "title": "물김치 담그는법! 배추물김치~",
+          "description": "명절에 담근 물김치인데 이제야 정리해봅니다. 느끼하고 소화가 잘 안되는 명절 음식엔 톡 쏘는 물김치가 최고라지요. 시원하게 담근 물김치! ​",
+          "servings": "6인분 이상",
+          "cooking_time": "60분 이내",
+          "difficulty": "아무나",
+          "views": 88000,
+          "source_url": "https://www.10000recipe.com/recipe/6907445",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:87ee96962db8067ac25b48f7eadfd16b6a5a0a00d076a0723ab22f4d375f503f",
+        "label": "Dish",
+        "properties": {
+          "name": "배추물김치"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "배추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1포기",
+          "unit": null,
+          "preparation": "겉잎은 떼어내고 노란 속살만 사용, 1.5cmx2cm 정도로 잘게 자름",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"배추 1포기\", \"배추는 겉잎은 떼어내고 노란 속살만 사용해서 물김치를 담갔어요.\", \"사이즈는 1.5cmx2cm 정도로 잘게 잘라서\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:c20932d07132d70aaa0de308146cd42e0a65bdee6d4156d2bdcf77f1612dca5e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배추",
+          "name_normalized": "배추"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1+1/4컵",
+          "unit": null,
+          "preparation": null,
+          "detail": "+5큰술",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 +5큰술 1+1/4컵\", \"소금 1컵을 넣어 10분 정도 절이고요.\", \"소금 1/4 더 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "6큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"고춧가루 6큰술\", \"고춧가루 6큰술을 넣어 풀어주는데요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "100g",
+          "unit": null,
+          "preparation": "간 것",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"마늘 100g\", \"마늘, 양파, 생강 간 것을 붓고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "30g",
+          "unit": null,
+          "preparation": "간 것",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"생강 30g\", \"마늘, 양파, 생강 간 것을 붓고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3개",
+          "unit": null,
+          "preparation": "동글동글하게",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"홍고추 3개\", \"홍고추는 동글동글하게\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2/3개",
+          "unit": null,
+          "preparation": "꽃 모양으로",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"당근 2/3개\", \"당근은 꽃 모양으로 자르고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "간 것",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 1/2개\", \"마늘, 양파, 생강 간 것을 붓고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쪽파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "100g",
+          "unit": null,
+          "preparation": "2~3cm 정도로 자름",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"쪽파 100g\", \"쪽파는 2~3cm 정도로 자르고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쪽파",
+          "name_normalized": "쪽파"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀풀",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2컵",
+          "unit": null,
+          "preparation": "묽게 쑤어 체에 걸러 거른 것",
+          "detail": "농도는 진하지 않게",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"찹쌀풀 2컵\", \"찹쌀 풀 쑨 것 2컵 붓고요.\", \"물김치에 찹쌀 풀 농도는 진하지 않게 묽게 쑤어서 준비했어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀풀",
+          "name_normalized": "찹쌀풀"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": "껍질을 벗겨서 깔끔하게 준비하고 얇게 썬 후 배추와 비슷한 사이즈로 자름",
+          "detail": "본문에만 등장",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"무는 껍질을 벗겨서 깔끔하게 준비하고 얇게 썬 후 배추와 비슷한 사이즈로 자르고요.\", \"배추와 무를 볼에 담고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_6907445:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "뉴슈가",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2/3큰술",
+          "unit": null,
+          "preparation": "푼 것",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"뉴슈가 2/3큰술을 풀어 준 다음\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907445:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:0bd5c8d9bcc0be67d406fe85e991c430f616163680fcacd6668c335d4d3cde6f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "뉴슈가",
+          "name_normalized": "뉴슈가"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6907445",
+        "type": "VARIANT_OF",
+        "target": "dish:87ee96962db8067ac25b48f7eadfd16b6a5a0a00d076a0723ab22f4d375f503f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:c20932d07132d70aaa0de308146cd42e0a65bdee6d4156d2bdcf77f1612dca5e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907445:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907445:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:0bd5c8d9bcc0be67d406fe85e991c430f616163680fcacd6668c335d4d3cde6f",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "배추물김치",
+    "components": [
+      {
+        "raw_name": "배추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1포기",
+        "unit": null,
+        "preparation": "겉잎은 떼어내고 노란 속살만 사용, 1.5cmx2cm 정도로 잘게 자름",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "배추 1포기",
+          "배추는 겉잎은 떼어내고 노란 속살만 사용해서 물김치를 담갔어요.",
+          "사이즈는 1.5cmx2cm 정도로 잘게 잘라서"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "배추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1+1/4컵",
+        "unit": null,
+        "preparation": null,
+        "detail": "+5큰술",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 +5큰술 1+1/4컵",
+          "소금 1컵을 넣어 10분 정도 절이고요.",
+          "소금 1/4 더 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "6큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "고춧가루 6큰술",
+          "고춧가루 6큰술을 넣어 풀어주는데요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "100g",
+        "unit": null,
+        "preparation": "간 것",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "마늘 100g",
+          "마늘, 양파, 생강 간 것을 붓고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "30g",
+        "unit": null,
+        "preparation": "간 것",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "생강 30g",
+          "마늘, 양파, 생강 간 것을 붓고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3개",
+        "unit": null,
+        "preparation": "동글동글하게",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "홍고추 3개",
+          "홍고추는 동글동글하게"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2/3개",
+        "unit": null,
+        "preparation": "꽃 모양으로",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "당근 2/3개",
+          "당근은 꽃 모양으로 자르고요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "간 것",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 1/2개",
+          "마늘, 양파, 생강 간 것을 붓고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쪽파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "100g",
+        "unit": null,
+        "preparation": "2~3cm 정도로 자름",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "쪽파 100g",
+          "쪽파는 2~3cm 정도로 자르고요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쪽파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "찹쌀풀",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2컵",
+        "unit": null,
+        "preparation": "묽게 쑤어 체에 걸러 거른 것",
+        "detail": "농도는 진하지 않게",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "찹쌀풀 2컵",
+          "찹쌀 풀 쑨 것 2컵 붓고요.",
+          "물김치에 찹쌀 풀 농도는 진하지 않게 묽게 쑤어서 준비했어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "찹쌀풀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무",
+        "role": "food",
+        "group": "재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": "껍질을 벗겨서 깔끔하게 준비하고 얇게 썬 후 배추와 비슷한 사이즈로 자름",
+        "detail": "본문에만 등장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "무는 껍질을 벗겨서 깔끔하게 준비하고 얇게 썬 후 배추와 비슷한 사이즈로 자르고요.",
+          "배추와 무를 볼에 담고요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무",
+        "alternatives": []
+      },
+      {
+        "raw_name": "뉴슈가",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2/3큰술",
+        "unit": null,
+        "preparation": "푼 것",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "뉴슈가 2/3큰술을 풀어 준 다음"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "뉴슈가",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "efad08df07e6c8e44e324494c5b56cfd3dd5070af380dc6199ddf043a9e8c1e6",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6907445:dish",
+      "canonical_id": "dish:87ee96962db8067ac25b48f7eadfd16b6a5a0a00d076a0723ab22f4d375f503f",
+      "original_name": "배추물김치",
+      "canonical_name": "배추물김치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:001:candidate:0",
+      "canonical_id": "ingredient:c20932d07132d70aaa0de308146cd42e0a65bdee6d4156d2bdcf77f1612dca5e",
+      "original_name": "배추",
+      "canonical_name": "배추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:002:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:003:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:004:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:005:candidate:0",
+      "canonical_id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+      "original_name": "생강",
+      "canonical_name": "생강",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:006:candidate:0",
+      "canonical_id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+      "original_name": "홍고추",
+      "canonical_name": "홍고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:007:candidate:0",
+      "canonical_id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+      "original_name": "당근",
+      "canonical_name": "당근",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:008:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:009:candidate:0",
+      "canonical_id": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+      "original_name": "쪽파",
+      "canonical_name": "쪽파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:010:candidate:0",
+      "canonical_id": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+      "original_name": "찹쌀풀",
+      "canonical_name": "찹쌀풀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:011:candidate:0",
+      "canonical_id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+      "original_name": "무",
+      "canonical_name": "무",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907445:component:012:candidate:0",
+      "canonical_id": "ingredient:0bd5c8d9bcc0be67d406fe85e991c430f616163680fcacd6668c335d4d3cde6f",
+      "original_name": "뉴슈가",
+      "canonical_name": "뉴슈가",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6907445",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "48d3dbb0f2a17ba707dbd9bd71895a25e1a76e522f6f4de8f620077bd4d2d45f"
+}

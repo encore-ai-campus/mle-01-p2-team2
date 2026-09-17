@@ -1,0 +1,223 @@
+{
+  "recipe_uid": "10000recipe_6840613",
+  "payload": {
+    "title": "진미채볶음 만들기 밑반찬으로 딱 쪼아~!",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "진미채 180~200g",
+        "진미채",
+        "진미채",
+        "food",
+        "[재료]",
+        "180~200",
+        "g",
+        null,
+        null
+      ],
+      [
+        "마요네즈 1T",
+        "마요네즈",
+        "마요네즈",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "고추장 1.5T",
+        "고추장",
+        "고추장",
+        "seasoning",
+        "[양념]",
+        "1.5",
+        "T",
+        null,
+        null
+      ],
+      [
+        "고추가루 1T",
+        "고추가루",
+        "고춧가루",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "설탕 1T",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "올리고당 3T",
+        "올리고당",
+        "올리고당",
+        "seasoning",
+        "[양념]",
+        "3",
+        "T",
+        null,
+        null
+      ],
+      [
+        "맛술 1T",
+        "맛술",
+        "맛술",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "다진마늘 0.5T",
+        "다진마늘",
+        "마늘",
+        "seasoning",
+        "[양념]",
+        "0.5",
+        "T",
+        "다진",
+        null
+      ],
+      [
+        "참기름 1T",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "진미채 180~200g",
+      "raw_name": "진미채",
+      "ingredient_candidate": "진미채",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "180~200",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마요네즈 1T",
+      "raw_name": "마요네즈",
+      "ingredient_candidate": "마요네즈",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추장 1.5T",
+      "raw_name": "고추장",
+      "ingredient_candidate": "고추장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1.5",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추가루 1T",
+      "raw_name": "고추가루",
+      "ingredient_candidate": "고춧가루",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 1T",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리고당 3T",
+      "raw_name": "올리고당",
+      "ingredient_candidate": "올리고당",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "맛술 1T",
+      "raw_name": "맛술",
+      "ingredient_candidate": "맛술",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 0.5T",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "0.5",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "참기름 1T",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "진미채볶음 만들기 밑반찬으로 딱 쪼아~!\n진미채 180~200g\n마요네즈 1T\n고추장 1.5T\n고추가루 1T\n설탕 1T\n올리고당 3T\n맛술 1T\n다진마늘 0.5T\n참기름 1T"
+}

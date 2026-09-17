@@ -1,0 +1,235 @@
+{
+  "recipe_uid": "10000recipe_4436323",
+  "cache_key": "197a1d90276738fc37295206429467f4b9d138a2056e38ed3e3742dd8bd013b1",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 914,
+    "prompt_tokens": 3020,
+    "total_tokens": 3934,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "떡만둣국",
+    "components": [
+      {
+        "raw_name": "만두",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "10",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "만두 10개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "만두",
+        "alternatives": []
+      },
+      {
+        "raw_name": "떡국떡",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "3",
+        "unit": "움큼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "떡국떡 3움큼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "떡국떡",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "계란 1개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "송송 썬 파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "조금",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "송송 썬 파 조금"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "송송 썬 파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "김가루",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "취향껏",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "김가루 취향껏"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "[육수]",
+        "quantity": "2",
+        "unit": "L",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 2L"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다시멸치",
+        "role": "food",
+        "group": "[육수]",
+        "quantity": "15",
+        "unit": "마리",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다시멸치 15마리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다시멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "황태포",
+        "role": "food",
+        "group": "[육수]",
+        "quantity": "1/2",
+        "unit": "쪽",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "황태포 1/2쪽"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "황태포",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금 깍아서",
+        "role": "food",
+        "group": "[육수]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 깍아서 1큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금 깍아서",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 마늘",
+        "role": "food",
+        "group": "[육수]",
+        "quantity": "1/2",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진 마늘 1/2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후춧가루",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "조금",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "후춧가루 조금"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": "[육수]",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "국간장 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 4.062
+}

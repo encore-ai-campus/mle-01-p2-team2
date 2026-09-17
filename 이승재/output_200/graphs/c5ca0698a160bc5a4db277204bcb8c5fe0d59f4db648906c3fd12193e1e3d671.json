@@ -1,0 +1,826 @@
+{
+  "recipe_uid": "10000recipe_6876209",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6876209",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6876209",
+          "title": "간단한 브런치 메뉴인 몬테크리스토 샌드위치♥",
+          "description": "아침에는 정신없어 아침밥 챙겨먹기 힘드시죠? 이럴땐 간단하면서도 든든한 몬테크리스토 샌드위치 먹고 출근하세요~♥ 세상의 모든 레시피 만개의레시피",
+          "servings": "1인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 124000,
+          "source_url": "https://www.10000recipe.com/recipe/6876209",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "몬테크리스토 샌드위치"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식빵",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3장",
+          "unit": null,
+          "preparation": "테두리를 자른",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 식빵 3장\", \"식빵은 테두리를 자른다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "딸기잼",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 딸기잼 2T\", \"다른 식빵에 딸기잼을 바른 후 잼이 발라진 면을 치즈와 맞닿게 덮는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "딸기잼",
+          "name_normalized": "딸기잼"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "머스터드",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 머스터드 2T\", \"식빵에 머스터드를 바른 후 햄, 치즈를 올린다.\", \"그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "머스터드",
+          "name_normalized": "머스터드"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "슬라이스 햄",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": "슬라이스",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 슬라이스 햄 2장\", \"식빵에 머스터드를 바른 후 햄, 치즈를 올린다.\", \"그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "체다 치즈",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 체다 치즈 2장\", \"식빵에 머스터드를 바른 후 햄, 치즈를 올린다.\", \"그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "체다 치즈",
+          "name_normalized": "체다 치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "버터",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 버터 1T\", \"팬에 버터를 넣고 식빵을 구워 완성한다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "달걀",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "잘 풀어준 후",
+          "detail": "식빵에 골고루 묻힌다",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 달걀 1개\", \"달걀을 잘 풀어준 후 식빵에 골고루 묻힌다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀",
+          "name_normalized": "달걀"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6876209",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6876209:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6876209:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6876209:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6876209:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6876209:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6876209:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6876209:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6876209:component:007:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6876209",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6876209",
+          "title": "간단한 브런치 메뉴인 몬테크리스토 샌드위치♥",
+          "description": "아침에는 정신없어 아침밥 챙겨먹기 힘드시죠? 이럴땐 간단하면서도 든든한 몬테크리스토 샌드위치 먹고 출근하세요~♥ 세상의 모든 레시피 만개의레시피",
+          "servings": "1인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 124000,
+          "source_url": "https://www.10000recipe.com/recipe/6876209",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:aecb7cd1b1536ece032a43f25ca511da27a50ef1e9704902bad70518087a9f05",
+        "label": "Dish",
+        "properties": {
+          "name": "몬테크리스토 샌드위치"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식빵",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3장",
+          "unit": null,
+          "preparation": "테두리를 자른",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 식빵 3장\", \"식빵은 테두리를 자른다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "딸기잼",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 딸기잼 2T\", \"다른 식빵에 딸기잼을 바른 후 잼이 발라진 면을 치즈와 맞닿게 덮는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:8a9fd7d6df10357b4c6496642b13d2e962c9ab2a5919ff79056bbf5256cd0cf1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "딸기잼",
+          "name_normalized": "딸기잼"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "머스터드",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 머스터드 2T\", \"식빵에 머스터드를 바른 후 햄, 치즈를 올린다.\", \"그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:7b2c93e863ae16509d439c99b72c3fe17fcfeec85f6c787e8d89d9b558336255",
+        "label": "Ingredient",
+        "properties": {
+          "name": "머스터드",
+          "name_normalized": "머스터드"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "슬라이스 햄",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": "슬라이스",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 슬라이스 햄 2장\", \"식빵에 머스터드를 바른 후 햄, 치즈를 올린다.\", \"그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "체다 치즈",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2장",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 체다 치즈 2장\", \"식빵에 머스터드를 바른 후 햄, 치즈를 올린다.\", \"그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:5cd4dbb27f1aa2d08e1af90d0e0904f65780082904f4a9e62b226f169a87a3de",
+        "label": "Ingredient",
+        "properties": {
+          "name": "체다 치즈",
+          "name_normalized": "체다 치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "버터",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 버터 1T\", \"팬에 버터를 넣고 식빵을 구워 완성한다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_6876209:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "달걀",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "잘 풀어준 후",
+          "detail": "식빵에 골고루 묻힌다",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 달걀 1개\", \"달걀을 잘 풀어준 후 식빵에 골고루 묻힌다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6876209:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀",
+          "name_normalized": "달걀"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6876209",
+        "type": "VARIANT_OF",
+        "target": "dish:aecb7cd1b1536ece032a43f25ca511da27a50ef1e9704902bad70518087a9f05",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:8a9fd7d6df10357b4c6496642b13d2e962c9ab2a5919ff79056bbf5256cd0cf1",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:7b2c93e863ae16509d439c99b72c3fe17fcfeec85f6c787e8d89d9b558336255",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:5cd4dbb27f1aa2d08e1af90d0e0904f65780082904f4a9e62b226f169a87a3de",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6876209:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6876209:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "몬테크리스토 샌드위치",
+    "components": [
+      {
+        "raw_name": "식빵",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3장",
+        "unit": null,
+        "preparation": "테두리를 자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 식빵 3장",
+          "식빵은 테두리를 자른다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식빵",
+        "alternatives": []
+      },
+      {
+        "raw_name": "딸기잼",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 딸기잼 2T",
+          "다른 식빵에 딸기잼을 바른 후 잼이 발라진 면을 치즈와 맞닿게 덮는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "딸기잼",
+        "alternatives": []
+      },
+      {
+        "raw_name": "머스터드",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 머스터드 2T",
+          "식빵에 머스터드를 바른 후 햄, 치즈를 올린다.",
+          "그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "머스터드",
+        "alternatives": []
+      },
+      {
+        "raw_name": "슬라이스 햄",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": "슬라이스",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 슬라이스 햄 2장",
+          "식빵에 머스터드를 바른 후 햄, 치즈를 올린다.",
+          "그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "햄",
+        "alternatives": []
+      },
+      {
+        "raw_name": "체다 치즈",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 체다 치즈 2장",
+          "식빵에 머스터드를 바른 후 햄, 치즈를 올린다.",
+          "그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "체다 치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 버터 1T",
+          "팬에 버터를 넣고 식빵을 구워 완성한다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "달걀",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "잘 풀어준 후",
+        "detail": "식빵에 골고루 묻힌다",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 달걀 1개",
+          "달걀을 잘 풀어준 후 식빵에 골고루 묻힌다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "달걀",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "fe3d8e3899b8470806769ae32300b94ced280bf3a83aebe9baffd827b740fa13",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6876209:dish",
+      "canonical_id": "dish:aecb7cd1b1536ece032a43f25ca511da27a50ef1e9704902bad70518087a9f05",
+      "original_name": "몬테크리스토 샌드위치",
+      "canonical_name": "몬테크리스토 샌드위치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6876209:component:001:candidate:0",
+      "canonical_id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+      "original_name": "식빵",
+      "canonical_name": "식빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6876209:component:002:candidate:0",
+      "canonical_id": "ingredient:8a9fd7d6df10357b4c6496642b13d2e962c9ab2a5919ff79056bbf5256cd0cf1",
+      "original_name": "딸기잼",
+      "canonical_name": "딸기잼",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6876209:component:003:candidate:0",
+      "canonical_id": "ingredient:7b2c93e863ae16509d439c99b72c3fe17fcfeec85f6c787e8d89d9b558336255",
+      "original_name": "머스터드",
+      "canonical_name": "머스터드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6876209:component:004:candidate:0",
+      "canonical_id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+      "original_name": "햄",
+      "canonical_name": "햄",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6876209:component:005:candidate:0",
+      "canonical_id": "ingredient:5cd4dbb27f1aa2d08e1af90d0e0904f65780082904f4a9e62b226f169a87a3de",
+      "original_name": "체다 치즈",
+      "canonical_name": "체다 치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6876209:component:006:candidate:0",
+      "canonical_id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+      "original_name": "버터",
+      "canonical_name": "버터",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6876209:component:007:candidate:0",
+      "canonical_id": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+      "original_name": "달걀",
+      "canonical_name": "달걀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6876209",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "8463748b93f7b51935789ae1742e20a841bd0f919f080e95d4e3732a28457b54"
+}

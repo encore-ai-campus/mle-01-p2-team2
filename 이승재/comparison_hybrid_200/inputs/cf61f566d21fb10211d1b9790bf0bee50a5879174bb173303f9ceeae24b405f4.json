@@ -1,0 +1,148 @@
+{
+  "recipe_uid": "10000recipe_6887748",
+  "payload": {
+    "title": "SNS유명먹템♥대구꿀떡",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "찹쌀가루 120g",
+        "찹쌀가루",
+        "찹쌀가루",
+        "food",
+        "[필수재료]",
+        "120",
+        "g",
+        null,
+        null
+      ],
+      [
+        "뜨거운물 1/3종이컵",
+        "뜨거운물",
+        "뜨거운물",
+        "food",
+        "[필수재료]",
+        "1/3",
+        "종이컵",
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[필수재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "황설탕 1/3종이컵",
+        "황설탕",
+        "황설탕",
+        "seasoning",
+        "[소스재료]",
+        "1/3",
+        "종이컵",
+        null,
+        null
+      ],
+      [
+        "물 1/3종이컵",
+        "물",
+        "물",
+        "seasoning",
+        "[소스재료]",
+        "1/3",
+        "종이컵",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 2,
+        "text": "끓는 물에 반죽을 넣고 떠오르면 건진다."
+      },
+      {
+        "step": 3,
+        "text": "팬에 소스재료를 넣고 끓인다. 팬 - 기호에 따라 시나몬, 커피를 넣어도 좋아요."
+      },
+      {
+        "step": 4,
+        "text": "접시에 떡을 넣고 소스를 부어 완성한다. 접시"
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "찹쌀가루 120g",
+      "raw_name": "찹쌀가루",
+      "ingredient_candidate": "찹쌀가루",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": "120",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "뜨거운물 1/3종이컵",
+      "raw_name": "뜨거운물",
+      "ingredient_candidate": "뜨거운물",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": "1/3",
+      "unit": "종이컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[필수재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "황설탕 1/3종이컵",
+      "raw_name": "황설탕",
+      "ingredient_candidate": "황설탕",
+      "role": "seasoning",
+      "group": "[소스재료]",
+      "quantity": "1/3",
+      "unit": "종이컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 1/3종이컵",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "seasoning",
+      "group": "[소스재료]",
+      "quantity": "1/3",
+      "unit": "종이컵",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 4,
+  "sent_steps": 3,
+  "evidence_text": "SNS유명먹템♥대구꿀떡\n찹쌀가루 120g\n뜨거운물 1/3종이컵\n소금 약간\n황설탕 1/3종이컵\n물 1/3종이컵\n끓는 물에 반죽을 넣고 떠오르면 건진다.\n팬에 소스재료를 넣고 끓인다. 팬 - 기호에 따라 시나몬, 커피를 넣어도 좋아요.\n접시에 떡을 넣고 소스를 부어 완성한다. 접시"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb07oR0UGNi1gu0hp7BiLYpf14Wq",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"돼지등갈비찜\",\"components\":[{\"raw_name\":\"돼지등갈비\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1kg\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 돼지등갈비 1kg\",\"돼지등갈비가 잠길 정도로 물을 냄비에 넣고 계피 10g 과 생강을 넣어 줍니다\",\"냄비에 삶아낸 등갈비 넣고 건고추 한개 썰어서 넣었어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"돼지등갈비\",\"alternatives\":[]},{\"raw_name\":\"감자\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1개\",\"unit\":null,\"preparation\":\"중간사이즈\",\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 감자 중간사이즈 1개\",\"집에 딱히 넣을만한 재료가 이것밖에 없어서 저는 이렇게 넣었는데요 안 넣으셔도 되구요\"],\"quality_flags\":[],\"ingredient_candidate\":\"감자\",\"alternatives\":[]},{\"raw_name\":\"무\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"80g\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 무 80g\"],\"quality_flags\":[],\"ingredient_candidate\":\"무\",\"alternatives\":[]},{\"raw_name\":\"당근\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"50g\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 당근 50g\"],\"quality_flags\":[],\"ingredient_candidate\":\"당근\",\"alternatives\":[]},{\"raw_name\":\"통마늘\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"6개\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 통마늘 6개\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"unknown\",\"group\":\"등갈비 1차 삶기(5분)\",\"quantity\":\"돼지등갈비 잠길정도의\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"돼지등갈비 잠길정도의 물\",\"돼지등갈비가 잠길 정도로 물을 냄비에 넣고 계피 10g 과 생강을 넣어 줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"통생강\",\"role\":\"seasoning\",\"group\":\"등갈비 1차 삶기(5분)\",\"quantity\":\"1/2개\",\"unit\":null,\"preparation\":\"통\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[등갈비 1차 삶기(5분)] 통생강 1/2개\",\"돼지등갈비가 잠길 정도로 물을 냄비에 넣고 계피 10g 과 생강을 넣어 줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"생강\",\"alternatives\":[]},{\"raw_name\":\"계피\",\"role\":\"seasoning\",\"group\":\"등갈비 1차 삶기(5분)\",\"quantity\":\"10g\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[등갈비 1차 삶기(5분)] 계피 10g\",\"돼지등갈비가 잠길 정도로 물을 냄비에 넣고 계피 10g 과 생강을 넣어 줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"계피\",\"alternatives\":[]},{\"raw_name\":\"등갈비 삶은물\",\"role\":\"unknown\",\"group\":\"양념\",\"quantity\":\"3컵\",\"unit\":null,\"preparation\":null,\"detail\":\"육수\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 육수 등갈비 삶은물 3컵\",\"육수 (등갈비삶은물) 3컵 그리고 만들어 놓은 양념 넣어 주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"등갈비 삶은물\",\"alternatives\":[]},{\"raw_name\":\"진간장\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"6큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 진간장 6큰술\",\"분량의 재료 다 넣고 잘 저어 주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"진간장\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"2큰술\",\"unit\":null,\"preparation\":\"조절\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 설탕 조절 2큰술\",\"양념은 대부분 비슷 해요 설탕만 조절하심요..\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"물엿\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 물엿 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"물엿\",\"alternatives\":[]},{\"raw_name\":\"매실청\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 매실청 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"매실청\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 다진마늘 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"청주\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"2큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 청주 2큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"청주\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 참기름 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"건고추\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"한개\",\"unit\":null,\"preparation\":\"썰어서\",\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"냄비에 삶아낸 등갈비 넣고 건고추 한개 썰어서 넣었어요\",\"없으면 패스~\"],\"quality_flags\":[],\"ingredient_candidate\":\"건고추\",\"alternatives\":[]},{\"raw_name\":\"소주\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"2큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"손질한 채소와 마지막 확실한 잡내를 잡기 위해 소주 2큰술 넣어 주고\"],\"quality_flags\":[],\"ingredient_candidate\":\"소주\",\"alternatives\":[]},{\"raw_name\":\"청양고춧가루\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1작은술\",\"unit\":null,\"preparation\":null,\"detail\":\"약간의 매콤함\",\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"약간의 매콤함을 넣어 주면 더 맛이 좋을꺼 같아서 청양고춧가루 1작은술 첨가 했어요\",\"이건 안 넣으셔도 됩니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530811,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1847,
+    "prompt_tokens": 3976,
+    "total_tokens": 5823,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

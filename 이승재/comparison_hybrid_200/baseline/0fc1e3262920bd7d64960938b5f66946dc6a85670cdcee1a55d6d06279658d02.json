@@ -1,0 +1,214 @@
+{
+  "recipe_uid": "10000recipe_6864530",
+  "cache_key": "aa7e274d9761e53a2f8954764a9208473e50e4a8d0a3d77d12f0286570544a7a",
+  "model": "gpt-5.4-mini",
+  "input_hash": "c7698225a19f9bb6f5633764f4b22c7e8f3b3ed3cb1fc955f33203c437a94cf1",
+  "source_record_hash": "428b2c715453d6253f4cdd7f81c21a89d7dc06e5589d65b4e34b8e0614b065b3",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "사골떡국",
+    "components": [
+      {
+        "raw_name": "떡국떡",
+        "role": "food",
+        "group": "재료",
+        "quantity": "350g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 떡국떡 350g",
+          "육수가 끓기 시작하면 떡국과 다진 마늘을 넣고 떡이 부드럽게 익을 때까지 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "떡국떡",
+        "alternatives": []
+      },
+      {
+        "raw_name": "달걀",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "지단",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 달걀 1개",
+          "달군 팬에 식용유를 살짝 두른 후 잘 풀은 달걀을 넣고 지단을 부쳐주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "달걀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2대",
+        "unit": null,
+        "preparation": "채 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1/2대",
+          "대파와 달걀지단은 채 썰어 두었고.."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "김",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1장",
+        "unit": null,
+        "preparation": "구워서 부순",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 김 1장",
+          "김은 구워서 비닐팩에 넣고 종이 구기듯이 구겨 잘게 부숴 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "재료",
+        "quantity": "800ml",
+        "unit": null,
+        "preparation": null,
+        "detail": "생수",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 물 800ml 4컵",
+          "생수 800ml에 시판되는 사골육수 3포를 넣고 잘 풀어 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "사골육수",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "3컵",
+        "unit": null,
+        "preparation": null,
+        "detail": "시판",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 사골육수 3컵",
+          "생수 800ml에 시판되는 사골육수 3포를 넣고 잘 풀어 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "사골육수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1작은술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 다진마늘 1작은술",
+          "육수가 끓기 시작하면 떡국과 다진 마늘을 넣고 떡이 부드럽게 익을 때까지 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소금 약간",
+          "부족한 간은 소금으로 해 주시면 됩니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추 약간",
+          "전 소금과 후춧가루를 살짝 넣어 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "살치살",
+        "role": "food",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": "구워서 양념한",
+        "detail": "고명용",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 살치살 약간",
+          "지난 주말에 구워 먹고 남은 부채살이 있어서 살짝 양념하여 구워 주었습니다.",
+          "고기는 사실 안 넣어도 됩니다.",
+          "모양을 예쁘게 하기 위해 넣었는데.."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "살치살",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1051,
+    "prompt_tokens": 3606,
+    "total_tokens": 4657,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

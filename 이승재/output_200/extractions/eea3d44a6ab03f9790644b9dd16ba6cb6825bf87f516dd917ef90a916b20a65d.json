@@ -1,0 +1,85 @@
+{
+  "recipe_uid": "10000recipe_6838224",
+  "cache_key": "fb687592f8e3fc701661689d2cf9a60ee19671c14d3e1fe59237c08bdafb1755",
+  "model": "gpt-5.4-mini",
+  "input_hash": "e5aad3f9b29c97158419ce158235c9d1d5ac30cbee21e3a99388417bdc0c9f0f",
+  "source_record_hash": "6639456f7a06d163c65558a143ff4c2a957803cb677587a551f40840c17baf96",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "배추절이기",
+    "components": [
+      {
+        "raw_name": "배추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3포기",
+        "unit": null,
+        "preparation": null,
+        "detail": "4등분으로 잘라 절임",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 배추 3포기",
+          "배추는 밑동 부분을 열십자로 칼집을 내어서 손으로 쪼개어서 4등분으로 잘라주면 돼요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "배추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굵은소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "6컵",
+        "unit": null,
+        "preparation": null,
+        "detail": "절임용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 굵은소금 6컵",
+          "소금 6컵중에 3컵은 물에타고 나머지 세컵으로 배추 1포기에 1컵씩 뿌려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굵은소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "3리터",
+        "unit": null,
+        "preparation": null,
+        "detail": "소금물용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 3리터에 소금3컵을 풀어 넣어서 녹여주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 343,
+    "prompt_tokens": 3190,
+    "total_tokens": 3533,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

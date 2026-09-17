@@ -1,0 +1,201 @@
+{
+  "recipe_uid": "10000recipe_7082943",
+  "payload": {
+    "title": "살찔 걱정 없는 양배추새우덮밥.",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "양배추 1/4통",
+        "양배추",
+        "양배추",
+        "food",
+        "[재료]",
+        "1/4",
+        "통",
+        null,
+        null
+      ],
+      [
+        "대파 1/2대",
+        "대파",
+        "대파",
+        "food",
+        "[재료]",
+        "1/2",
+        "대",
+        null,
+        null
+      ],
+      [
+        "새우 먹을만큼",
+        "새우 먹을만큼",
+        "새우 먹을만큼",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "계란 1개",
+        "계란",
+        "계란",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "참치액 2T",
+        "참치액",
+        "참치액",
+        "food",
+        "[재료]",
+        "2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "고춧가루 2T",
+        "고춧가루",
+        "고춧가루",
+        "seasoning",
+        "[재료]",
+        "2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "참기름 1T",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[재료]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "깨 약간",
+        "깨",
+        "깨",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "양배추 1/4통",
+      "raw_name": "양배추",
+      "ingredient_candidate": "양배추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/4",
+      "unit": "통",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 1/2대",
+      "raw_name": "대파",
+      "ingredient_candidate": "대파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "대",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "새우 먹을만큼",
+      "raw_name": "새우 먹을만큼",
+      "ingredient_candidate": "새우 먹을만큼",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란 1개",
+      "raw_name": "계란",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참치액 2T",
+      "raw_name": "참치액",
+      "ingredient_candidate": "참치액",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고춧가루 2T",
+      "raw_name": "고춧가루",
+      "ingredient_candidate": "고춧가루",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1T",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "깨 약간",
+      "raw_name": "깨",
+      "ingredient_candidate": "깨",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 4,
+  "sent_steps": 0,
+  "evidence_text": "살찔 걱정 없는 양배추새우덮밥.\n양배추 1/4통\n대파 1/2대\n새우 먹을만큼\n계란 1개\n참치액 2T\n고춧가루 2T\n참기름 1T\n깨 약간"
+}

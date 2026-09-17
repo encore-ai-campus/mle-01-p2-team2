@@ -1,0 +1,286 @@
+{
+  "recipe_uid": "10000recipe_4529642",
+  "cache_key": "99de27c104f89bad3146b84376bef61441ced09170a94f526c012362477c53e9",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 1230,
+    "prompt_tokens": 3217,
+    "total_tokens": 4447,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": null,
+    "components": [
+      {
+        "raw_name": "막국수",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "막국수"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "막국수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무 4cm길이 1토막",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "무 4cm길이 1토막"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무 4cm길이 1토막",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "1/3",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 1/3개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "사과",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "사과 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "사과",
+        "alternatives": []
+      },
+      {
+        "raw_name": "배",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "배 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "배",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "1/2",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "설탕 1/2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "4",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "고춧가루 4큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "4",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름 4큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치액젓",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "3",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "멸치액젓 3큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치액젓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진마늘 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "깨 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "1/2",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "식초 1/2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "연겨자",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "연겨자 1큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "연겨자",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "고추장 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강즙",
+        "role": "seasoning",
+        "group": "[막국수 비빔양념]",
+        "quantity": "1",
+        "unit": "작은술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "생강즙 1작은술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강즙",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 5.359
+}

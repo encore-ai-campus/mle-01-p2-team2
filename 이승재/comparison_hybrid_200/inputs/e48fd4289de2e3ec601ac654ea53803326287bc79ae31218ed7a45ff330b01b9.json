@@ -1,0 +1,223 @@
+{
+  "recipe_uid": "10000recipe_7081691",
+  "payload": {
+    "title": "아보카도 계란 샐러드",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "아보카도 1.5개",
+        "아보카도",
+        "아보카도",
+        "food",
+        "[아보카도계란샐러드 재료]",
+        "1.5",
+        "개",
+        null,
+        null
+      ],
+      [
+        "삶은계란 3개",
+        "삶은계란",
+        "삶은계란",
+        "food",
+        "[아보카도계란샐러드 재료]",
+        "3",
+        "개",
+        null,
+        null
+      ],
+      [
+        "말돈소금 조금",
+        "말돈소금",
+        "말돈소금",
+        "food",
+        "[아보카도계란샐러드 재료]",
+        "조금",
+        null,
+        null,
+        null
+      ],
+      [
+        "홀그레인머스터드 1큰술",
+        "홀그레인머스터드",
+        "홀그레인머스터드",
+        "food",
+        "[아보카도계란샐러드 재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "허니머스터드 1/2큰술",
+        "허니머스터드",
+        "허니머스터드",
+        "food",
+        "[아보카도계란샐러드 재료]",
+        "1/2",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "알룰로스 1큰술",
+        "알룰로스",
+        "알룰로스",
+        "food",
+        "[아보카도계란샐러드 재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "치아씨드 1큰술",
+        "치아씨드",
+        "치아씨드",
+        "food",
+        "[아보카도계란샐러드 재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "후추 조금",
+        "후추",
+        "후추",
+        "seasoning",
+        "[아보카도계란샐러드 재료]",
+        "조금",
+        null,
+        null,
+        null
+      ],
+      [
+        "마요네즈 1큰술",
+        "마요네즈",
+        "마요네즈",
+        "seasoning",
+        "[아보카도계란샐러드 재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "아보카도 1.5개",
+      "raw_name": "아보카도",
+      "ingredient_candidate": "아보카도",
+      "role": "food",
+      "group": "[아보카도계란샐러드 재료]",
+      "quantity": "1.5",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "삶은계란 3개",
+      "raw_name": "삶은계란",
+      "ingredient_candidate": "삶은계란",
+      "role": "food",
+      "group": "[아보카도계란샐러드 재료]",
+      "quantity": "3",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "말돈소금 조금",
+      "raw_name": "말돈소금",
+      "ingredient_candidate": "말돈소금",
+      "role": "food",
+      "group": "[아보카도계란샐러드 재료]",
+      "quantity": "조금",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "홀그레인머스터드 1큰술",
+      "raw_name": "홀그레인머스터드",
+      "ingredient_candidate": "홀그레인머스터드",
+      "role": "food",
+      "group": "[아보카도계란샐러드 재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "허니머스터드 1/2큰술",
+      "raw_name": "허니머스터드",
+      "ingredient_candidate": "허니머스터드",
+      "role": "food",
+      "group": "[아보카도계란샐러드 재료]",
+      "quantity": "1/2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "알룰로스 1큰술",
+      "raw_name": "알룰로스",
+      "ingredient_candidate": "알룰로스",
+      "role": "food",
+      "group": "[아보카도계란샐러드 재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "치아씨드 1큰술",
+      "raw_name": "치아씨드",
+      "ingredient_candidate": "치아씨드",
+      "role": "food",
+      "group": "[아보카도계란샐러드 재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 조금",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[아보카도계란샐러드 재료]",
+      "quantity": "조금",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마요네즈 1큰술",
+      "raw_name": "마요네즈",
+      "ingredient_candidate": "마요네즈",
+      "role": "seasoning",
+      "group": "[아보카도계란샐러드 재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 8,
+  "sent_steps": 0,
+  "evidence_text": "아보카도 계란 샐러드\n아보카도 1.5개\n삶은계란 3개\n말돈소금 조금\n홀그레인머스터드 1큰술\n허니머스터드 1/2큰술\n알룰로스 1큰술\n치아씨드 1큰술\n후추 조금\n마요네즈 1큰술"
+}

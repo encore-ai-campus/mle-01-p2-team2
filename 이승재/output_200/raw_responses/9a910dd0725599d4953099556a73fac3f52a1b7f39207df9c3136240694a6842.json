@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1S3B3PPcS1cnBl47h59SkjzaVC",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":null,\"components\":[{\"raw_name\":\"스파게티면\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"면 삶는 법 중 스파게티면\",\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 스파게티면\",\"면을 잘 펼쳐 넣는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"스파게티면\",\"alternatives\":[]},{\"raw_name\":\"칼국수면\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"면 삶는 법 중 칼국수면\",\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 칼국수면\",\"면을 넣고 들러붙지 않게 잘 젓는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"칼국수면\",\"alternatives\":[]},{\"raw_name\":\"소면\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"면 삶는 법 중 소면\",\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 소면\",\"부채꼴 모양으로 면을 잘 펼쳐 넣는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"소면\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"unknown\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":\"넉넉히\",\"detail\":\"면 삶기용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 물\",\"냄비에 물을 넉넉히 넣고 끓인다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"물 양의 10%\",\"unit\":null,\"preparation\":null,\"detail\":\"삶는 물에 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 소금\",\"물이 끓기 시작하면 물 양의 10% 소금을 넣는다\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530894,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 476,
+    "prompt_tokens": 3234,
+    "total_tokens": 3710,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

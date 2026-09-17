@@ -1,0 +1,471 @@
+{
+  "recipe_uid": "10000recipe_7081890",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081890",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081890",
+          "title": "오무라이스 황금레시피",
+          "description": "입맛없는 언니위해 새콤달콤한 오무라이스소스 만들어해줬더니. 너무맛있다고하네요",
+          "servings": "2인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 281,
+          "source_url": "https://www.10000recipe.com/recipe/7081890",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:6ee36994ff3e49c97bc6f1c0873fc556ac9f496c16d6600dbc10109fbb050d82",
+        "label": "Dish",
+        "properties": {
+          "name": "오무라이스"
+        }
+      },
+      {
+        "id": "10000recipe_7081890:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란",
+          "role": "food",
+          "group": "[밥2공기]",
+          "quantity": "4",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"계란 4개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081890:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_7081890:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소고기",
+          "role": "food",
+          "group": "[밥2공기]",
+          "quantity": "100",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소고기 100g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081890:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:934b01ccdc52751e8e093d6b7d22a07ea1e49df755ef164f450bb96b9ff2bc44",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소고기",
+          "name_normalized": "소고기"
+        }
+      },
+      {
+        "id": "10000recipe_7081890:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "[밥2공기]",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081890:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7081890:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "케찹",
+          "role": "food",
+          "group": "[밥2공기]",
+          "quantity": "1",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"케찹 1T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081890:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:18a15bbd31b0a0f59b38848f03582d328dcb5b90e6f99cf93091f2bd641390df",
+        "label": "Ingredient",
+        "properties": {
+          "name": "케찹",
+          "name_normalized": "케찹"
+        }
+      },
+      {
+        "id": "10000recipe_7081890:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "버터",
+          "role": "food",
+          "group": "[밥2공기]",
+          "quantity": "10",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"버터 10g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081890:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_7081890:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "케찹",
+          "role": "food",
+          "group": "[밥2공기]",
+          "quantity": "4",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"케찹 4T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081890:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7081890:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "[밥2공기]",
+          "quantity": "6",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"물 6T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081890:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7081890:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굴소스",
+          "role": "seasoning",
+          "group": "[밥2공기]",
+          "quantity": "2",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"굴소스 2T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081890:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굴소스",
+          "name_normalized": "굴소스"
+        }
+      },
+      {
+        "id": "10000recipe_7081890:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "돈까스소스",
+          "role": "seasoning",
+          "group": "[밥2공기]",
+          "quantity": "6",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"돈까스소스 6T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081890:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:e6bd9dab7dda9b6dcad4a3c3fb40e21b446ab813ec3bebed96f9d19e2ec54fc4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "돈까스소스",
+          "name_normalized": "돈까스소스"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081890",
+        "type": "VARIANT_OF",
+        "target": "dish:6ee36994ff3e49c97bc6f1c0873fc556ac9f496c16d6600dbc10109fbb050d82",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081890:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081890:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:934b01ccdc52751e8e093d6b7d22a07ea1e49df755ef164f450bb96b9ff2bc44",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081890:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081890:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:18a15bbd31b0a0f59b38848f03582d328dcb5b90e6f99cf93091f2bd641390df",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081890:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081890:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:18a15bbd31b0a0f59b38848f03582d328dcb5b90e6f99cf93091f2bd641390df",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081890:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081890:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081890:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081890:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:e6bd9dab7dda9b6dcad4a3c3fb40e21b446ab813ec3bebed96f9d19e2ec54fc4",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081890:dish",
+      "canonical_id": "dish:6ee36994ff3e49c97bc6f1c0873fc556ac9f496c16d6600dbc10109fbb050d82",
+      "original_name": "오무라이스",
+      "canonical_name": "오무라이스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081890:component:001:candidate:0",
+      "canonical_id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+      "original_name": "계란",
+      "canonical_name": "계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081890:component:002:candidate:0",
+      "canonical_id": "ingredient:934b01ccdc52751e8e093d6b7d22a07ea1e49df755ef164f450bb96b9ff2bc44",
+      "original_name": "소고기",
+      "canonical_name": "소고기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081890:component:003:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081890:component:004:candidate:0",
+      "canonical_id": "ingredient:18a15bbd31b0a0f59b38848f03582d328dcb5b90e6f99cf93091f2bd641390df",
+      "original_name": "케찹",
+      "canonical_name": "케찹",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081890:component:005:candidate:0",
+      "canonical_id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+      "original_name": "버터",
+      "canonical_name": "버터",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081890:component:006:candidate:0",
+      "canonical_id": "ingredient:18a15bbd31b0a0f59b38848f03582d328dcb5b90e6f99cf93091f2bd641390df",
+      "original_name": "케찹",
+      "canonical_name": "케찹",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081890:component:007:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081890:component:008:candidate:0",
+      "canonical_id": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+      "original_name": "굴소스",
+      "canonical_name": "굴소스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081890:component:009:candidate:0",
+      "canonical_id": "ingredient:e6bd9dab7dda9b6dcad4a3c3fb40e21b446ab813ec3bebed96f9d19e2ec54fc4",
+      "original_name": "돈까스소스",
+      "canonical_name": "돈까스소스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 9,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 19,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

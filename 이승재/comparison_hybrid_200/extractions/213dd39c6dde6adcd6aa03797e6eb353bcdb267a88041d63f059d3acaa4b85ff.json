@@ -1,0 +1,201 @@
+{
+  "recipe_uid": "10000recipe_6907445",
+  "cache_key": "8966616b4e62c42f815f53bfa8da097e78f875331499564192bd9fc0ad80b388",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 757,
+    "prompt_tokens": 2952,
+    "total_tokens": 3709,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "배추물김치",
+    "components": [
+      {
+        "raw_name": "​배추",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "포기",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "​배추 1포기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "​배추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "​소금 +",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/4",
+        "unit": "컵",
+        "preparation": null,
+        "detail": "1+",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "​소금 +5큰술 1+1/4컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "​소금 +",
+        "alternatives": []
+      },
+      {
+        "raw_name": "​고춧가루",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "6",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "​고춧가루 6큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "​고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "마늘 100g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "30",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "생강 30g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍고추",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "3",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "홍고추 3개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2/3",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "당근 2/3개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쪽파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "쪽파 100g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쪽파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "찹쌀풀",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "찹쌀풀 2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "찹쌀풀",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 3.5
+}

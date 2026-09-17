@@ -1,0 +1,1354 @@
+{
+  "recipe_uid": "10000recipe_4436323",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_4436323",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_4436323",
+          "title": "멸치육수 떡만둣국",
+          "description": "위에 부담이 없는 뜨끈한 멸치육수 떡만둣국을 야식으로 준비했답니다.",
+          "servings": "4인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 135000,
+          "source_url": "https://www.10000recipe.com/recipe/4436323",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "떡만둣국"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "만두",
+          "role": "food",
+          "group": null,
+          "quantity": "10개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"만두 10개\", \"육수가 팔팔 끓을 때 만두와 떡국떡을 넣고 한소끔 끓인 후\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "만두",
+          "name_normalized": "만두"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "떡국떡",
+          "role": "food",
+          "group": null,
+          "quantity": "3움큼",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"떡국떡 3움큼\", \"육수가 팔팔 끓을 때 만두와 떡국떡을 넣고 한소끔 끓인 후\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "떡국떡",
+          "name_normalized": "떡국떡"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": "계란지단으로 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"계란 1개\", \"육수가 끓는 동안 계란지단과 파를 송송 썰어서 준비해주세요.\", \"준비해논 지단을 올려주시면 된답니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파",
+          "role": "food",
+          "group": null,
+          "quantity": "조금",
+          "unit": null,
+          "preparation": "송송 썬",
+          "detail": "계란지단과 함께 준비",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"송송 썬 파 조금\", \"육수가 끓는 동안 계란지단과 파를 송송 썰어서 준비해주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파",
+          "name_normalized": "파"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후춧가루",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "조금",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"후춧가루 조금\", \"약간의 후춧가루와 김가루가 빠질 수 없지요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후춧가루",
+          "name_normalized": "후춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "김가루",
+          "role": "food",
+          "group": null,
+          "quantity": "취향껏",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"김가루 취향껏\", \"약간의 후춧가루와 김가루가 빠질 수 없지요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "김가루",
+          "name_normalized": "김가루"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "육수",
+          "quantity": "2L",
+          "unit": null,
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 물 2L\", \"물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다시멸치",
+          "role": "food",
+          "group": "육수",
+          "quantity": "15마리",
+          "unit": null,
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 다시멸치 15마리\", \"물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다시멸치",
+          "name_normalized": "다시멸치"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "황태포",
+          "role": "food",
+          "group": "육수",
+          "quantity": "1/2쪽",
+          "unit": null,
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 황태포 1/2쪽\", \"물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "황태포",
+          "name_normalized": "황태포"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "육수",
+          "quantity": "깍아서 1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 소금 깍아서 1큰술\", \"물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다.\", \"국물이 우러났으면 건더기는 건져내고 분량의 다진 마늘과 국간장을 넣고 간을 맞춰줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": "육수",
+          "quantity": "1/2큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": "육수 간 맞추기용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 다진 마늘 1/2큰술\", \"국물이 우러났으면 건더기는 건져내고 분량의 다진 마늘과 국간장을 넣고 간을 맞춰줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "국간장",
+          "role": "seasoning",
+          "group": "육수",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "육수 간 맞추기용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 국간장 2큰술\", \"국물이 우러났으면 건더기는 건져내고 분량의 다진 마늘과 국간장을 넣고 간을 맞춰줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "국간장",
+          "name_normalized": "국간장"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_4436323",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_4436323:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4436323:component:012:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_4436323",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_4436323",
+          "title": "멸치육수 떡만둣국",
+          "description": "위에 부담이 없는 뜨끈한 멸치육수 떡만둣국을 야식으로 준비했답니다.",
+          "servings": "4인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 135000,
+          "source_url": "https://www.10000recipe.com/recipe/4436323",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:bb0d9e28de7d0a8ecb34d297fc1ea671da54c305badd9a81b4d9e49479bd8129",
+        "label": "Dish",
+        "properties": {
+          "name": "떡만둣국"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "만두",
+          "role": "food",
+          "group": null,
+          "quantity": "10개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"만두 10개\", \"육수가 팔팔 끓을 때 만두와 떡국떡을 넣고 한소끔 끓인 후\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:a26fec174bf86fcdc86e8bd25f67a130238b08466fb1676e67e41c461756382b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "만두",
+          "name_normalized": "만두"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "떡국떡",
+          "role": "food",
+          "group": null,
+          "quantity": "3움큼",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"떡국떡 3움큼\", \"육수가 팔팔 끓을 때 만두와 떡국떡을 넣고 한소끔 끓인 후\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:0ff16b1f6c1be6cc88cadf34fb33c888ed51695963c9af415543ed5da4ef89ca",
+        "label": "Ingredient",
+        "properties": {
+          "name": "떡국떡",
+          "name_normalized": "떡국떡"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란",
+          "role": "food",
+          "group": null,
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": "계란지단으로 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"계란 1개\", \"육수가 끓는 동안 계란지단과 파를 송송 썰어서 준비해주세요.\", \"준비해논 지단을 올려주시면 된답니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파",
+          "role": "food",
+          "group": null,
+          "quantity": "조금",
+          "unit": null,
+          "preparation": "송송 썬",
+          "detail": "계란지단과 함께 준비",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"송송 썬 파 조금\", \"육수가 끓는 동안 계란지단과 파를 송송 썰어서 준비해주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:a15c2560ff0b688f3f6f7d97d419928328fcc8c5a56d4beb51d2e5c264a4af78",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파",
+          "name_normalized": "파"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후춧가루",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "조금",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"후춧가루 조금\", \"약간의 후춧가루와 김가루가 빠질 수 없지요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:7c4463c61c0762ace7914efaecc4c6ebcba165f5da16c1829adc8261f32c023d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후춧가루",
+          "name_normalized": "후춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "김가루",
+          "role": "food",
+          "group": null,
+          "quantity": "취향껏",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"김가루 취향껏\", \"약간의 후춧가루와 김가루가 빠질 수 없지요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:b19aecdc4209b545cc1e5dae8626365f5be98796f085880692974768458706aa",
+        "label": "Ingredient",
+        "properties": {
+          "name": "김가루",
+          "name_normalized": "김가루"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "육수",
+          "quantity": "2L",
+          "unit": null,
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 물 2L\", \"물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다시멸치",
+          "role": "food",
+          "group": "육수",
+          "quantity": "15마리",
+          "unit": null,
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 다시멸치 15마리\", \"물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:7a711e8774d242eeb23c345eaa41852239a76f8303f09d5c14ab37addbf2ee96",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다시멸치",
+          "name_normalized": "다시멸치"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "황태포",
+          "role": "food",
+          "group": "육수",
+          "quantity": "1/2쪽",
+          "unit": null,
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 황태포 1/2쪽\", \"물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:1b015a72408934dd221ee8dcd0e3b48c5681ce4877b737ac810c3575558bf6d3",
+        "label": "Ingredient",
+        "properties": {
+          "name": "황태포",
+          "name_normalized": "황태포"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "육수",
+          "quantity": "깍아서 1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 소금 깍아서 1큰술\", \"물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다.\", \"국물이 우러났으면 건더기는 건져내고 분량의 다진 마늘과 국간장을 넣고 간을 맞춰줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": "육수",
+          "quantity": "1/2큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": "육수 간 맞추기용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 다진 마늘 1/2큰술\", \"국물이 우러났으면 건더기는 건져내고 분량의 다진 마늘과 국간장을 넣고 간을 맞춰줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_4436323:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "국간장",
+          "role": "seasoning",
+          "group": "육수",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "육수 간 맞추기용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[육수] 국간장 2큰술\", \"국물이 우러났으면 건더기는 건져내고 분량의 다진 마늘과 국간장을 넣고 간을 맞춰줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4436323:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "국간장",
+          "name_normalized": "국간장"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_4436323",
+        "type": "VARIANT_OF",
+        "target": "dish:bb0d9e28de7d0a8ecb34d297fc1ea671da54c305badd9a81b4d9e49479bd8129",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:a26fec174bf86fcdc86e8bd25f67a130238b08466fb1676e67e41c461756382b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:0ff16b1f6c1be6cc88cadf34fb33c888ed51695963c9af415543ed5da4ef89ca",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:a15c2560ff0b688f3f6f7d97d419928328fcc8c5a56d4beb51d2e5c264a4af78",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:7c4463c61c0762ace7914efaecc4c6ebcba165f5da16c1829adc8261f32c023d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:b19aecdc4209b545cc1e5dae8626365f5be98796f085880692974768458706aa",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:7a711e8774d242eeb23c345eaa41852239a76f8303f09d5c14ab37addbf2ee96",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:1b015a72408934dd221ee8dcd0e3b48c5681ce4877b737ac810c3575558bf6d3",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4436323:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4436323:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "떡만둣국",
+    "components": [
+      {
+        "raw_name": "만두",
+        "role": "food",
+        "group": null,
+        "quantity": "10개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "만두 10개",
+          "육수가 팔팔 끓을 때 만두와 떡국떡을 넣고 한소끔 끓인 후"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "만두",
+        "alternatives": []
+      },
+      {
+        "raw_name": "떡국떡",
+        "role": "food",
+        "group": null,
+        "quantity": "3움큼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "떡국떡 3움큼",
+          "육수가 팔팔 끓을 때 만두와 떡국떡을 넣고 한소끔 끓인 후"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "떡국떡",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": null,
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": "계란지단으로 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "계란 1개",
+          "육수가 끓는 동안 계란지단과 파를 송송 썰어서 준비해주세요.",
+          "준비해논 지단을 올려주시면 된답니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파",
+        "role": "food",
+        "group": null,
+        "quantity": "조금",
+        "unit": null,
+        "preparation": "송송 썬",
+        "detail": "계란지단과 함께 준비",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "송송 썬 파 조금",
+          "육수가 끓는 동안 계란지단과 파를 송송 썰어서 준비해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후춧가루",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "조금",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "후춧가루 조금",
+          "약간의 후춧가루와 김가루가 빠질 수 없지요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "김가루",
+        "role": "food",
+        "group": null,
+        "quantity": "취향껏",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "김가루 취향껏",
+          "약간의 후춧가루와 김가루가 빠질 수 없지요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "육수",
+        "quantity": "2L",
+        "unit": null,
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[육수] 물 2L",
+          "물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다시멸치",
+        "role": "food",
+        "group": "육수",
+        "quantity": "15마리",
+        "unit": null,
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[육수] 다시멸치 15마리",
+          "물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다시멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "황태포",
+        "role": "food",
+        "group": "육수",
+        "quantity": "1/2쪽",
+        "unit": null,
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[육수] 황태포 1/2쪽",
+          "물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "황태포",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "육수",
+        "quantity": "깍아서 1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[육수] 소금 깍아서 1큰술",
+          "물2000ml에 분량의 황태포와 다시멸치, 소금(깍아서)1스푼을 넣고 10분가량 끓여서 육수를 내줍니다.",
+          "국물이 우러났으면 건더기는 건져내고 분량의 다진 마늘과 국간장을 넣고 간을 맞춰줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 마늘",
+        "role": "seasoning",
+        "group": "육수",
+        "quantity": "1/2큰술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": "육수 간 맞추기용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[육수] 다진 마늘 1/2큰술",
+          "국물이 우러났으면 건더기는 건져내고 분량의 다진 마늘과 국간장을 넣고 간을 맞춰줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": "육수",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "육수 간 맞추기용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[육수] 국간장 2큰술",
+          "국물이 우러났으면 건더기는 건져내고 분량의 다진 마늘과 국간장을 넣고 간을 맞춰줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "2996047adeca3c0e255dc26be393b9eae35571965669036d9dd3febca3ce0e2f",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_4436323:dish",
+      "canonical_id": "dish:bb0d9e28de7d0a8ecb34d297fc1ea671da54c305badd9a81b4d9e49479bd8129",
+      "original_name": "떡만둣국",
+      "canonical_name": "떡만둣국",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:001:candidate:0",
+      "canonical_id": "ingredient:a26fec174bf86fcdc86e8bd25f67a130238b08466fb1676e67e41c461756382b",
+      "original_name": "만두",
+      "canonical_name": "만두",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:002:candidate:0",
+      "canonical_id": "ingredient:0ff16b1f6c1be6cc88cadf34fb33c888ed51695963c9af415543ed5da4ef89ca",
+      "original_name": "떡국떡",
+      "canonical_name": "떡국떡",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:003:candidate:0",
+      "canonical_id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+      "original_name": "계란",
+      "canonical_name": "계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:004:candidate:0",
+      "canonical_id": "ingredient:a15c2560ff0b688f3f6f7d97d419928328fcc8c5a56d4beb51d2e5c264a4af78",
+      "original_name": "파",
+      "canonical_name": "파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:005:candidate:0",
+      "canonical_id": "ingredient:7c4463c61c0762ace7914efaecc4c6ebcba165f5da16c1829adc8261f32c023d",
+      "original_name": "후춧가루",
+      "canonical_name": "후춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:006:candidate:0",
+      "canonical_id": "ingredient:b19aecdc4209b545cc1e5dae8626365f5be98796f085880692974768458706aa",
+      "original_name": "김가루",
+      "canonical_name": "김가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:007:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:008:candidate:0",
+      "canonical_id": "ingredient:7a711e8774d242eeb23c345eaa41852239a76f8303f09d5c14ab37addbf2ee96",
+      "original_name": "다시멸치",
+      "canonical_name": "다시멸치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:009:candidate:0",
+      "canonical_id": "ingredient:1b015a72408934dd221ee8dcd0e3b48c5681ce4877b737ac810c3575558bf6d3",
+      "original_name": "황태포",
+      "canonical_name": "황태포",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:010:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:011:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4436323:component:012:candidate:0",
+      "canonical_id": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+      "original_name": "국간장",
+      "canonical_name": "국간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_4436323",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_4436323:component:005: EVIDENCE_NOT_FOUND",
+      "10000recipe_4436323:component:006: EVIDENCE_NOT_FOUND"
+    ],
+    "stage1_errors": [
+      "10000recipe_4436323:component:005: EVIDENCE_NOT_FOUND",
+      "10000recipe_4436323:component:006: EVIDENCE_NOT_FOUND"
+    ],
+    "stage2_errors": [
+      "10000recipe_4436323:component:005: EVIDENCE_NOT_FOUND",
+      "10000recipe_4436323:component:006: EVIDENCE_NOT_FOUND"
+    ]
+  },
+  "review_hash": "6dd02e1599038471cad952e8c62b80dc478bbd3d4116ee99c142527f99384fae"
+}

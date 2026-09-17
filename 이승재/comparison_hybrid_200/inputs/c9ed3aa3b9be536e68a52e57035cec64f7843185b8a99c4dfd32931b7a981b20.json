@@ -1,0 +1,267 @@
+{
+  "recipe_uid": "10000recipe_7083094",
+  "payload": {
+    "title": "모닝빵 샌드위치 레시피 오이 옥수수 계란 샐러드 에그마요빵 만들기 오이 절이기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "삶은계란 2개",
+        "삶은계란",
+        "삶은계란",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "옥수수콘 5T",
+        "옥수수콘",
+        "옥수수콘",
+        "food",
+        "[재료]",
+        "5",
+        "T",
+        null,
+        null
+      ],
+      [
+        "모닝빵 4~5개",
+        "모닝빵",
+        "모닝빵",
+        "food",
+        "[재료]",
+        "4~5",
+        "개",
+        null,
+        null
+      ],
+      [
+        "오이 1/2개",
+        "오이",
+        "오이",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "소금 절일때 1/3T",
+        "소금 절일때",
+        "소금 절일때",
+        "food",
+        "[재료]",
+        "1/3",
+        "T",
+        null,
+        null
+      ],
+      [
+        "설탕 절일때 1/3T",
+        "설탕 절일때",
+        "설탕 절일때",
+        "food",
+        "[재료]",
+        "1/3",
+        "T",
+        null,
+        null
+      ],
+      [
+        "마요네즈 3T",
+        "마요네즈",
+        "마요네즈",
+        "seasoning",
+        "[양념]",
+        "3",
+        "T",
+        null,
+        null
+      ],
+      [
+        "홀그레인머스터드 1/2T",
+        "홀그레인머스터드",
+        "홀그레인머스터드",
+        "seasoning",
+        "[양념]",
+        "1/2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "올리고당 1.5T",
+        "올리고당",
+        "올리고당",
+        "seasoning",
+        "[양념]",
+        "1.5",
+        "T",
+        null,
+        null
+      ],
+      [
+        "소금 1꼬집",
+        "소금",
+        "소금",
+        "seasoning",
+        "[양념]",
+        "1",
+        "꼬집",
+        null,
+        null
+      ],
+      [
+        "후춧가루 톡톡",
+        "후춧가루",
+        "후추",
+        "seasoning",
+        "[양념]",
+        "톡톡",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "삶은계란 2개",
+      "raw_name": "삶은계란",
+      "ingredient_candidate": "삶은계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "옥수수콘 5T",
+      "raw_name": "옥수수콘",
+      "ingredient_candidate": "옥수수콘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "5",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "모닝빵 4~5개",
+      "raw_name": "모닝빵",
+      "ingredient_candidate": "모닝빵",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "4~5",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "오이 1/2개",
+      "raw_name": "오이",
+      "ingredient_candidate": "오이",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 절일때 1/3T",
+      "raw_name": "소금 절일때",
+      "ingredient_candidate": "소금 절일때",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 절일때 1/3T",
+      "raw_name": "설탕 절일때",
+      "ingredient_candidate": "설탕 절일때",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마요네즈 3T",
+      "raw_name": "마요네즈",
+      "ingredient_candidate": "마요네즈",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "홀그레인머스터드 1/2T",
+      "raw_name": "홀그레인머스터드",
+      "ingredient_candidate": "홀그레인머스터드",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1/2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리고당 1.5T",
+      "raw_name": "올리고당",
+      "ingredient_candidate": "올리고당",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1.5",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 1꼬집",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "꼬집",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후춧가루 톡톡",
+      "raw_name": "후춧가루",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "톡톡",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 7,
+  "sent_steps": 0,
+  "evidence_text": "모닝빵 샌드위치 레시피 오이 옥수수 계란 샐러드 에그마요빵 만들기 오이 절이기\n삶은계란 2개\n옥수수콘 5T\n모닝빵 4~5개\n오이 1/2개\n소금 절일때 1/3T\n설탕 절일때 1/3T\n마요네즈 3T\n홀그레인머스터드 1/2T\n올리고당 1.5T\n소금 1꼬집\n후춧가루 톡톡"
+}

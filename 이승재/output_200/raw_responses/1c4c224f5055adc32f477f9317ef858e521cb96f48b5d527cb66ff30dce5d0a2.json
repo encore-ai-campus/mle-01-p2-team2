@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0QWMVS8jSvnmy14BIoWUgOxiQX",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"양파김치\",\"components\":[{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"3\",\"unit\":\"개\",\"preparation\":\"큰것\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 양파 큰것 3개\",\"양파는 원하는 모양으로 썰어 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"부추\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1\",\"unit\":\"줌\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 부추 1줌\",\"텃밭에서 잘라온 부추도 조금 넣어 봅니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"부추\",\"alternatives\":[]},{\"raw_name\":\"멸치액젓\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"4\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 멸치액젓 4T\",\"양념 넣고 살살 버무립니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"멸치액젓\",\"alternatives\":[]},{\"raw_name\":\"까나리액젓\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 까나리액젓 1T\",\"양념 넣고 살살 버무립니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"까나리액젓\",\"alternatives\":[]},{\"raw_name\":\"매실액\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 매실액 1T\",\"양념 넣고 살살 버무립니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"매실액\",\"alternatives\":[]},{\"raw_name\":\"고춧가루\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"4\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 고춧가루 4T\",\"양념 넣고 살살 버무립니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 다진마늘 1T\",\"양념 넣고 살살 버무립니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"다진생강\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"t\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 다진생강 1t\",\"양념 넣고 살살 버무립니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"생강\",\"alternatives\":[]},{\"raw_name\":\"통깨\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 통깨\",\"양념 넣고 살살 버무립니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"깨\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530830,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 804,
+    "prompt_tokens": 2839,
+    "total_tokens": 3643,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

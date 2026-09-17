@@ -1,0 +1,266 @@
+{
+  "recipe_uid": "10000recipe_6864530",
+  "payload": {
+    "title": "사골떡국 시판 사골육수로 간편하게 끓이기!!",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "떡국떡 350g",
+        "떡국떡",
+        "떡국떡",
+        "food",
+        "[재료]",
+        "350",
+        "g",
+        null,
+        null
+      ],
+      [
+        "달걀 1개",
+        "달걀",
+        "계란",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "대파 1/2대",
+        "대파",
+        "대파",
+        "food",
+        "[재료]",
+        "1/2",
+        "대",
+        null,
+        null
+      ],
+      [
+        "김 1장",
+        "김",
+        "김",
+        "food",
+        "[재료]",
+        "1",
+        "장",
+        null,
+        null
+      ],
+      [
+        "물 800ml 4컵",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "4",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "사골육수 3컵",
+        "사골육수",
+        "사골육수",
+        "food",
+        "[재료]",
+        "3",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "다진마늘 1작은술",
+        "다진마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "1",
+        "작은술",
+        "다진",
+        null
+      ],
+      [
+        "살치살 약간",
+        "살치살",
+        "살치살",
+        "food",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 1,
+        "text": "요즘은 방앗간에서 직접 가래떡을 뽑아 썰어 말리시는 분은 안 계실 것 같은데.. 그래도 혹시나.. 해서 말씀드립니다. 마트에서 판매하는 떡국은 불릴 필요 없이 그냥 물에 씻어 넣으시면 됩니다. 그러나.. 집에서 말린 떡국은 물에 불려 사용해야 합니다.^^ 시중에서 판매하는 떡국떡은 서로 달라붙어 있는 것들은 반드시 떼어 낸 후 사용하세요. 안 그러면 붙은 것들은 잘 익지 않습니다."
+      },
+      {
+        "step": 2,
+        "text": "김은 구워서 비닐팩에 넣고 종이 구기듯이 구겨 잘게 부숴 주었습니다."
+      },
+      {
+        "step": 5,
+        "text": "대파와 달걀지단은 채 썰어 두었고.."
+      },
+      {
+        "step": 6,
+        "text": "지난 주말에 구워 먹고 남은 부채살이 있어서 살짝 양념하여 구워 주었습니다. 고기는 사실 안 넣어도 됩니다. 전 집에 있길래... 모양을 예쁘게 하기 위해 넣었는데.. 육수 맛에는 전혀 영향을 주지 않는 재료입니다.^^"
+      },
+      {
+        "step": 7,
+        "text": "생수 800ml에 시판되는 사골육수 3포를 넣고 잘 풀어 주었습니다. 원래 표기된 양보다 살짝 더 넣어 주었습니다. 우리 아들이 진하게 먹는 것을 좋아해서요.^^ 정말 아무것도 안 하고 젓기만 했는데.... 우유 빛깔 사골육수가 2-3초 만에 완성이 되었습니다. 정말 신기하죠? 참 좋은 세상입니다. 하루종이 외출도 못하고 집안 가득 수증기 세상을 만들어야 완성되는 사골육수인데....ㅋㅋ 사골육수는 끓여 주었습니다."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "떡국떡 350g",
+      "raw_name": "떡국떡",
+      "ingredient_candidate": "떡국떡",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "350",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "달걀 1개",
+      "raw_name": "달걀",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 1/2대",
+      "raw_name": "대파",
+      "ingredient_candidate": "대파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "대",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "김 1장",
+      "raw_name": "김",
+      "ingredient_candidate": "김",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 800ml 4컵",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "4",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "사골육수 3컵",
+      "raw_name": "사골육수",
+      "ingredient_candidate": "사골육수",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1작은술",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "작은술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "살치살 약간",
+      "raw_name": "살치살",
+      "ingredient_candidate": "살치살",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 9,
+  "sent_steps": 5,
+  "evidence_text": "사골떡국 시판 사골육수로 간편하게 끓이기!!\n떡국떡 350g\n달걀 1개\n대파 1/2대\n김 1장\n물 800ml 4컵\n사골육수 3컵\n다진마늘 1작은술\n살치살 약간\n소금 약간\n후추 약간\n요즘은 방앗간에서 직접 가래떡을 뽑아 썰어 말리시는 분은 안 계실 것 같은데.. 그래도 혹시나.. 해서 말씀드립니다. 마트에서 판매하는 떡국은 불릴 필요 없이 그냥 물에 씻어 넣으시면 됩니다. 그러나.. 집에서 말린 떡국은 물에 불려 사용해야 합니다.^^ 시중에서 판매하는 떡국떡은 서로 달라붙어 있는 것들은 반드시 떼어 낸 후 사용하세요. 안 그러면 붙은 것들은 잘 익지 않습니다.\n김은 구워서 비닐팩에 넣고 종이 구기듯이 구겨 잘게 부숴 주었습니다.\n대파와 달걀지단은 채 썰어 두었고..\n지난 주말에 구워 먹고 남은 부채살이 있어서 살짝 양념하여 구워 주었습니다. 고기는 사실 안 넣어도 됩니다. 전 집에 있길래... 모양을 예쁘게 하기 위해 넣었는데.. 육수 맛에는 전혀 영향을 주지 않는 재료입니다.^^\n생수 800ml에 시판되는 사골육수 3포를 넣고 잘 풀어 주었습니다. 원래 표기된 양보다 살짝 더 넣어 주었습니다. 우리 아들이 진하게 먹는 것을 좋아해서요.^^ 정말 아무것도 안 하고 젓기만 했는데.... 우유 빛깔 사골육수가 2-3초 만에 완성이 되었습니다. 정말 신기하죠? 참 좋은 세상입니다. 하루종이 외출도 못하고 집안 가득 수증기 세상을 만들어야 완성되는 사골육수인데....ㅋㅋ 사골육수는 끓여 주었습니다."
+}

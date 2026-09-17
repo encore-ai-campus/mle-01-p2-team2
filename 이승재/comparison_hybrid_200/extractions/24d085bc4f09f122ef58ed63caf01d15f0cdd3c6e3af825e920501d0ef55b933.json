@@ -1,0 +1,150 @@
+{
+  "recipe_uid": "10000recipe_6863267",
+  "cache_key": "4dbd4180b905d1a89d1f18898032c0adc5ecee08f17d3801c0adb98c16cfc451",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 557,
+    "prompt_tokens": 2871,
+    "total_tokens": 3428,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "미나리무침",
+    "components": [
+      {
+        "raw_name": "미나리",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "줌",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "미나리 2줌"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "미나리",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진마늘 1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "1/2",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 1/2스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "간장 1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실액",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "매실액 1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름 1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참깨",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "취향껏",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "참깨 취향껏"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참깨",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 2.765
+}

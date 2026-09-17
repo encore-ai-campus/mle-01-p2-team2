@@ -1,0 +1,1033 @@
+{
+  "recipe_uid": "10000recipe_4592833",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_4592833",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_4592833",
+          "title": "해피투게더 야간매점 진구의 진국수",
+          "description": "시원한 육수와 아삭한 총각김치가 어우러진 진국수입니다.",
+          "servings": "1인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "초급",
+          "views": 107000,
+          "source_url": "https://www.10000recipe.com/recipe/4592833",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "진국수"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소면",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소면\", \"소면을 체반에 걸러 주세요.\", \"소면을 찬물로 씻어 꼬들꼬들하게 만들어주세요.\", \"소면에 냉면육수를 붓고 언 육수를 숟가락으로 긁어 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소면",
+          "name_normalized": "소면"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "냉면육수",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 냉면육수\", \"소면에 냉면육수를 붓고 언 육수를 숟가락으로 긁어 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "냉면육수",
+          "name_normalized": "냉면육수"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "총각김치",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "무청부분만 잘라",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 총각김치\", \"총각김치의 무청부분만 잘라주세요.\", \"그 위에 버무린 무청과 총각김치를 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "총각김치",
+          "name_normalized": "총각김치"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "초고추장",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1ts",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"초고추장1ts\", \"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "초고추장",
+          "name_normalized": "초고추장"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1ts",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"설탕 1ts\", \"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1ts",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름1ts\", \"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"통깨를 넣어주세요.\", \"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1ts",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 1ts을 넣은 팔팔끓는 물에 소면을 부채처럼 펴서 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찬물",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"찬물을 조금 부어 거품을 없애주세요.\", \"소면을 찬물로 씻어 꼬들꼬들하게 만들어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찬물",
+          "name_normalized": "찬물"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_4592833",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_4592833:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4592833:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4592833:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4592833:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4592833:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4592833:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4592833:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4592833:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4592833:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4592833:component:009:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_4592833",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_4592833",
+          "title": "해피투게더 야간매점 진구의 진국수",
+          "description": "시원한 육수와 아삭한 총각김치가 어우러진 진국수입니다.",
+          "servings": "1인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "초급",
+          "views": 107000,
+          "source_url": "https://www.10000recipe.com/recipe/4592833",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:4422589faa5b9c926053439670a05e1a9893b8d1b1a650de8af68aa684111601",
+        "label": "Dish",
+        "properties": {
+          "name": "진국수"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소면",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소면\", \"소면을 체반에 걸러 주세요.\", \"소면을 찬물로 씻어 꼬들꼬들하게 만들어주세요.\", \"소면에 냉면육수를 붓고 언 육수를 숟가락으로 긁어 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:7fcfe65119def7052bdd7d7a99c2c134c3f3781079ab363de8b90f3073c0e262",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소면",
+          "name_normalized": "소면"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "냉면육수",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 냉면육수\", \"소면에 냉면육수를 붓고 언 육수를 숟가락으로 긁어 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:9556e809d830b950c9eef01cfd939c24fb088208d005fdf01e0b7695f4708c21",
+        "label": "Ingredient",
+        "properties": {
+          "name": "냉면육수",
+          "name_normalized": "냉면육수"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "총각김치",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "무청부분만 잘라",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 총각김치\", \"총각김치의 무청부분만 잘라주세요.\", \"그 위에 버무린 무청과 총각김치를 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:d68f139b01f7587e2332b1f3c2be530e65be8edb29b5de1ba86c48b332de2ff2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "총각김치",
+          "name_normalized": "총각김치"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "초고추장",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1ts",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"초고추장1ts\", \"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:e0da8270eb5c6d64aa6e1c9a2cf6cba6f2303874736ef17ca30c80c4be6e376f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "초고추장",
+          "name_normalized": "초고추장"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1ts",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"설탕 1ts\", \"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1ts",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름1ts\", \"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"통깨를 넣어주세요.\", \"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1ts",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 1ts을 넣은 팔팔끓는 물에 소면을 부채처럼 펴서 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_4592833:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찬물",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"찬물을 조금 부어 거품을 없애주세요.\", \"소면을 찬물로 씻어 꼬들꼬들하게 만들어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4592833:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:36fba93e9a06939702c24824cea9944445318bbb03e439c156d8287955b51a75",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찬물",
+          "name_normalized": "찬물"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_4592833",
+        "type": "VARIANT_OF",
+        "target": "dish:4422589faa5b9c926053439670a05e1a9893b8d1b1a650de8af68aa684111601",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:7fcfe65119def7052bdd7d7a99c2c134c3f3781079ab363de8b90f3073c0e262",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:9556e809d830b950c9eef01cfd939c24fb088208d005fdf01e0b7695f4708c21",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:d68f139b01f7587e2332b1f3c2be530e65be8edb29b5de1ba86c48b332de2ff2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:e0da8270eb5c6d64aa6e1c9a2cf6cba6f2303874736ef17ca30c80c4be6e376f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4592833:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4592833:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:36fba93e9a06939702c24824cea9944445318bbb03e439c156d8287955b51a75",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "진국수",
+    "components": [
+      {
+        "raw_name": "소면",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소면",
+          "소면을 체반에 걸러 주세요.",
+          "소면을 찬물로 씻어 꼬들꼬들하게 만들어주세요.",
+          "소면에 냉면육수를 붓고 언 육수를 숟가락으로 긁어 올려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "냉면육수",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 냉면육수",
+          "소면에 냉면육수를 붓고 언 육수를 숟가락으로 긁어 올려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "냉면육수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "총각김치",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "무청부분만 잘라",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 총각김치",
+          "총각김치의 무청부분만 잘라주세요.",
+          "그 위에 버무린 무청과 총각김치를 올려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "총각김치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "초고추장",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1ts",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "초고추장1ts",
+          "초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "초고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1ts",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "설탕 1ts",
+          "초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1ts",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름1ts",
+          "초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "통깨를 넣어주세요.",
+          "초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1ts",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 1ts을 넣은 팔팔끓는 물에 소면을 부채처럼 펴서 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "찬물",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "찬물을 조금 부어 거품을 없애주세요.",
+          "소면을 찬물로 씻어 꼬들꼬들하게 만들어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "찬물",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "3a4bb1ddd114c193c827443f6a4fed3e90c0a77c73eb3ba16d3426d42c5a6383",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_4592833:dish",
+      "canonical_id": "dish:4422589faa5b9c926053439670a05e1a9893b8d1b1a650de8af68aa684111601",
+      "original_name": "진국수",
+      "canonical_name": "진국수",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4592833:component:001:candidate:0",
+      "canonical_id": "ingredient:7fcfe65119def7052bdd7d7a99c2c134c3f3781079ab363de8b90f3073c0e262",
+      "original_name": "소면",
+      "canonical_name": "소면",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4592833:component:002:candidate:0",
+      "canonical_id": "ingredient:9556e809d830b950c9eef01cfd939c24fb088208d005fdf01e0b7695f4708c21",
+      "original_name": "냉면육수",
+      "canonical_name": "냉면육수",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4592833:component:003:candidate:0",
+      "canonical_id": "ingredient:d68f139b01f7587e2332b1f3c2be530e65be8edb29b5de1ba86c48b332de2ff2",
+      "original_name": "총각김치",
+      "canonical_name": "총각김치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4592833:component:004:candidate:0",
+      "canonical_id": "ingredient:e0da8270eb5c6d64aa6e1c9a2cf6cba6f2303874736ef17ca30c80c4be6e376f",
+      "original_name": "초고추장",
+      "canonical_name": "초고추장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4592833:component:005:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4592833:component:006:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4592833:component:007:candidate:0",
+      "canonical_id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+      "original_name": "통깨",
+      "canonical_name": "통깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4592833:component:008:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4592833:component:009:candidate:0",
+      "canonical_id": "ingredient:36fba93e9a06939702c24824cea9944445318bbb03e439c156d8287955b51a75",
+      "original_name": "찬물",
+      "canonical_name": "찬물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_4592833",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "86e3c849c981e0db553d8d0aee8de207aa4b3476b1ea5358fb881888fb868881"
+}

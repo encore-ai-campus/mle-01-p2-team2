@@ -1,0 +1,2356 @@
+{
+  "recipe_uid": "10000recipe_6953652",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6953652",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6953652",
+          "title": "바삭하고 촉촉한 유린기 만들기(유린기 소스 만드는법)",
+          "description": "왠지 어려울 것 같은 중국요리 집에서도 생각보다 쉽게 가능합니다. 바삭한 닭튀김에 유린기 소스올려서 중국음식 집에서도 즐겨보세요 ~",
+          "servings": "2인분",
+          "cooking_time": "60분 이내",
+          "difficulty": "중급",
+          "views": 88000,
+          "source_url": "https://www.10000recipe.com/recipe/6953652",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "유린기"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "닭다리살",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": "200g",
+          "unit": null,
+          "preparation": "반으로 포를 떠서 넓게 펴고 칼집을 낸",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 닭다리살 200g\", \"닭다리살은 반으로 포를 떠서 넓게 펴주고 칼집을 야무지게 내어주세요\", \"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "닭다리살",
+          "name_normalized": "닭다리살"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "닭재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 소금 약간\", \"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "닭재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 후추 약간\", \"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청주",
+          "role": "seasoning",
+          "group": "닭재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 청주 약간\", \"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청주",
+          "name_normalized": "청주"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "튀김가루",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": "1/2컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 튀김가루 1/2컵\", \"튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "튀김가루",
+          "name_normalized": "튀김가루"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "감자전분",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": "1/2컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 감자전분 1/2컵\", \"튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "감자전분",
+          "name_normalized": "감자전분"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": "1/2컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 물 1/2컵\", \"튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "기름",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": "튀김용",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 기름 튀김용\", \"170도 달군 기름에 닭을 넣고\", \"식용유 1큰술 더 넣으면 튀김옷 식감이 더 부드러워집니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "기름",
+          "name_normalized": "기름"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:008:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식용유",
+          "name_normalized": "식용유"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양상추",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": "1/4통",
+          "unit": "통",
+          "preparation": "손으로 찢어 찬물에 담가 아삭해지면 채에 받쳐 준비한",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 양상추 1/4통\", \"양상추는 먹기 좋은 크기로 손으로 찢어서 찬물에 담가 두셨다가 아삭해지면 채에 받쳐 건져내어 준비해주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양상추",
+          "name_normalized": "양상추"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "3Ts",
+          "unit": "Ts",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 설탕 3Ts\", \"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "2Ts",
+          "unit": "Ts",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 간장 2Ts\", \"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "2.5Ts",
+          "unit": "Ts",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 식초 2.5Ts\", \"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굴소스",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "0.5Ts",
+          "unit": "Ts",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 굴소스 0.5Ts\", \"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굴소스",
+          "name_normalized": "굴소스"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "소스",
+          "quantity": "100ml",
+          "unit": "ml",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 물 100ml\", \"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베트남고추",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "5개",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 베트남고추 5개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:015:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베트남고추",
+          "name_normalized": "베트남고추"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1톨",
+          "unit": "톨",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 마늘 1톨\", \"마늘과 대파는 곱게 다져 준비해주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:016:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1개",
+          "unit": "개",
+          "preparation": "씨를 살짝 떼어내고 잘게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 청양고추 1개\", \"청양고추, 홍고추는 티스푼으로 고추씨를 살짝 떼어내고 잘게 썰어주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:017:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1개",
+          "unit": "개",
+          "preparation": "씨를 살짝 떼어내고 잘게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 홍고추 1개\", \"청양고추, 홍고추는 티스푼으로 고추씨를 살짝 떼어내고 잘게 썰어주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:018:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:019",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1/2뿌리",
+          "unit": "뿌리",
+          "preparation": "곱게 다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 대파 1/2뿌리\", \"마늘과 대파는 곱게 다져 준비해주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:019",
+          "index": 19
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:019:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:020",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [
+            "EVIDENCE_NOT_FOUND"
+          ],
+          "component_uid": "10000recipe_6953652:component:020",
+          "index": 20
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:020:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:021",
+        "label": "Component",
+        "properties": {
+          "raw_name": "건고추",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [
+            "EVIDENCE_NOT_FOUND"
+          ],
+          "component_uid": "10000recipe_6953652:component:021",
+          "index": 21
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:021:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "건고추",
+          "name_normalized": "건고추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6953652",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6953652:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:008",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_6953652:component:008:candidate:1",
+        "properties": {
+          "raw_name": "식용유",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "condition": "튀김반죽에 더 넣는 경우",
+          "evidence": "[\"식용유 1큰술 더 넣으면 튀김옷 식감이 더 부드러워집니다\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:014:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:015",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:015:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:016",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:016:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:017",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:017:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:018",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:018:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:019",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:019",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:019:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:020",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:020",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:020:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:021",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:021",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6953652:component:021:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6953652",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6953652",
+          "title": "바삭하고 촉촉한 유린기 만들기(유린기 소스 만드는법)",
+          "description": "왠지 어려울 것 같은 중국요리 집에서도 생각보다 쉽게 가능합니다. 바삭한 닭튀김에 유린기 소스올려서 중국음식 집에서도 즐겨보세요 ~",
+          "servings": "2인분",
+          "cooking_time": "60분 이내",
+          "difficulty": "중급",
+          "views": 88000,
+          "source_url": "https://www.10000recipe.com/recipe/6953652",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:ec3f418bffe5735030a33db82ddace392a5a77d3eb03c7d586753f4db3aff7cc",
+        "label": "Dish",
+        "properties": {
+          "name": "유린기"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "닭다리살",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": "200g",
+          "unit": null,
+          "preparation": "반으로 포를 떠서 넓게 펴고 칼집을 낸",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 닭다리살 200g\", \"닭다리살은 반으로 포를 떠서 넓게 펴주고 칼집을 야무지게 내어주세요\", \"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:33d035f879ebd630552461c4c7d334627e62aa8bc1520f95aa14119d91b21e8e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "닭다리살",
+          "name_normalized": "닭다리살"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "닭재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 소금 약간\", \"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "닭재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 후추 약간\", \"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청주",
+          "role": "seasoning",
+          "group": "닭재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 청주 약간\", \"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청주",
+          "name_normalized": "청주"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "튀김가루",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": "1/2컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 튀김가루 1/2컵\", \"튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:47ae084ceb0606fda157ef2a8ffcabd0a7d72dcacef5f045eef436d945b9050b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "튀김가루",
+          "name_normalized": "튀김가루"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "감자전분",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": "1/2컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 감자전분 1/2컵\", \"튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:c291af8d2148f73c497a27f83a1a00beebb8f855c63e6ffb78f756df160b307b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "감자전분",
+          "name_normalized": "감자전분"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": "1/2컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 물 1/2컵\", \"튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "기름",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": "튀김용",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 기름 튀김용\", \"170도 달군 기름에 닭을 넣고\", \"식용유 1큰술 더 넣으면 튀김옷 식감이 더 부드러워집니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:81e01a774a72d20aed48f82738c64ba961b457e9f7801cf2cfbc6e96dfe6709a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "기름",
+          "name_normalized": "기름"
+        }
+      },
+      {
+        "id": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식용유",
+          "name_normalized": "식용유"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양상추",
+          "role": "food",
+          "group": "닭재료",
+          "quantity": "1/4통",
+          "unit": "통",
+          "preparation": "손으로 찢어 찬물에 담가 아삭해지면 채에 받쳐 준비한",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[닭재료] 양상추 1/4통\", \"양상추는 먹기 좋은 크기로 손으로 찢어서 찬물에 담가 두셨다가 아삭해지면 채에 받쳐 건져내어 준비해주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:789e70a866653b5b8415c75d9eeb30e5dd7eb1bc04cc0602fb3d8139fa9c15be",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양상추",
+          "name_normalized": "양상추"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "3Ts",
+          "unit": "Ts",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 설탕 3Ts\", \"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "2Ts",
+          "unit": "Ts",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 간장 2Ts\", \"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "2.5Ts",
+          "unit": "Ts",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 식초 2.5Ts\", \"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굴소스",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "0.5Ts",
+          "unit": "Ts",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 굴소스 0.5Ts\", \"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굴소스",
+          "name_normalized": "굴소스"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "소스",
+          "quantity": "100ml",
+          "unit": "ml",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 물 100ml\", \"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베트남고추",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "5개",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 베트남고추 5개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:356f314d06a7f4a5dcf2ce7d4881717f8b62072d5ca0a3b7dc9038804b3416df",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베트남고추",
+          "name_normalized": "베트남고추"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1톨",
+          "unit": "톨",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 마늘 1톨\", \"마늘과 대파는 곱게 다져 준비해주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1개",
+          "unit": "개",
+          "preparation": "씨를 살짝 떼어내고 잘게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 청양고추 1개\", \"청양고추, 홍고추는 티스푼으로 고추씨를 살짝 떼어내고 잘게 썰어주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1개",
+          "unit": "개",
+          "preparation": "씨를 살짝 떼어내고 잘게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 홍고추 1개\", \"청양고추, 홍고추는 티스푼으로 고추씨를 살짝 떼어내고 잘게 썰어주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:019",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": "1/2뿌리",
+          "unit": "뿌리",
+          "preparation": "곱게 다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[소스] 대파 1/2뿌리\", \"마늘과 대파는 곱게 다져 준비해주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6953652:component:019",
+          "index": 19
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:020",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [
+            "EVIDENCE_NOT_FOUND"
+          ],
+          "component_uid": "10000recipe_6953652:component:020",
+          "index": 20
+        }
+      },
+      {
+        "id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6953652:component:021",
+        "label": "Component",
+        "properties": {
+          "raw_name": "건고추",
+          "role": "seasoning",
+          "group": "소스",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\", \"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"]",
+          "quality_flags": [
+            "EVIDENCE_NOT_FOUND"
+          ],
+          "component_uid": "10000recipe_6953652:component:021",
+          "index": 21
+        }
+      },
+      {
+        "id": "ingredient:fe7b3b225a2737f24e4bab49e00df37352f6e1cdad6cb3c4c81dacc40df1d704",
+        "label": "Ingredient",
+        "properties": {
+          "name": "건고추",
+          "name_normalized": "건고추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6953652",
+        "type": "VARIANT_OF",
+        "target": "dish:ec3f418bffe5735030a33db82ddace392a5a77d3eb03c7d586753f4db3aff7cc",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:33d035f879ebd630552461c4c7d334627e62aa8bc1520f95aa14119d91b21e8e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:47ae084ceb0606fda157ef2a8ffcabd0a7d72dcacef5f045eef436d945b9050b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:c291af8d2148f73c497a27f83a1a00beebb8f855c63e6ffb78f756df160b307b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:81e01a774a72d20aed48f82738c64ba961b457e9f7801cf2cfbc6e96dfe6709a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:008",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+        "properties": {
+          "raw_name": "식용유",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "condition": "튀김반죽에 더 넣는 경우",
+          "evidence": "[\"식용유 1큰술 더 넣으면 튀김옷 식감이 더 부드러워집니다\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:789e70a866653b5b8415c75d9eeb30e5dd7eb1bc04cc0602fb3d8139fa9c15be",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:356f314d06a7f4a5dcf2ce7d4881717f8b62072d5ca0a3b7dc9038804b3416df",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:016",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:017",
+        "type": "INGREDIENT",
+        "target": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:018",
+        "type": "INGREDIENT",
+        "target": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:019",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:019",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:020",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:020",
+        "type": "INGREDIENT",
+        "target": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6953652:component:021",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6953652:component:021",
+        "type": "INGREDIENT",
+        "target": "ingredient:fe7b3b225a2737f24e4bab49e00df37352f6e1cdad6cb3c4c81dacc40df1d704",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "유린기",
+    "components": [
+      {
+        "raw_name": "닭다리살",
+        "role": "food",
+        "group": "닭재료",
+        "quantity": "200g",
+        "unit": null,
+        "preparation": "반으로 포를 떠서 넓게 펴고 칼집을 낸",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭재료] 닭다리살 200g",
+          "닭다리살은 반으로 포를 떠서 넓게 펴주고 칼집을 야무지게 내어주세요",
+          "칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "닭다리살",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "닭재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭재료] 소금 약간",
+          "칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "닭재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭재료] 후추 약간",
+          "칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청주",
+        "role": "seasoning",
+        "group": "닭재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭재료] 청주 약간",
+          "칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "튀김가루",
+        "role": "food",
+        "group": "닭재료",
+        "quantity": "1/2컵",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭재료] 튀김가루 1/2컵",
+          "튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "튀김가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "감자전분",
+        "role": "food",
+        "group": "닭재료",
+        "quantity": "1/2컵",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭재료] 감자전분 1/2컵",
+          "튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "감자전분",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "닭재료",
+        "quantity": "1/2컵",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭재료] 물 1/2컵",
+          "튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "기름",
+        "role": "food",
+        "group": "닭재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": "튀김용",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭재료] 기름 튀김용",
+          "170도 달군 기름에 닭을 넣고",
+          "식용유 1큰술 더 넣으면 튀김옷 식감이 더 부드러워집니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "기름",
+        "alternatives": [
+          {
+            "raw_name": "식용유",
+            "quantity": "1큰술",
+            "unit": "큰술",
+            "preparation": null,
+            "condition": "튀김반죽에 더 넣는 경우",
+            "evidence": [
+              "식용유 1큰술 더 넣으면 튀김옷 식감이 더 부드러워집니다"
+            ],
+            "ingredient_candidate": "식용유"
+          }
+        ]
+      },
+      {
+        "raw_name": "양상추",
+        "role": "food",
+        "group": "닭재료",
+        "quantity": "1/4통",
+        "unit": "통",
+        "preparation": "손으로 찢어 찬물에 담가 아삭해지면 채에 받쳐 준비한",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[닭재료] 양상추 1/4통",
+          "양상추는 먹기 좋은 크기로 손으로 찢어서 찬물에 담가 두셨다가 아삭해지면 채에 받쳐 건져내어 준비해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양상추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "3Ts",
+        "unit": "Ts",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 설탕 3Ts",
+          "유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "2Ts",
+        "unit": "Ts",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 간장 2Ts",
+          "유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "2.5Ts",
+        "unit": "Ts",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 식초 2.5Ts",
+          "유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굴소스",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "0.5Ts",
+        "unit": "Ts",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 굴소스 0.5Ts",
+          "유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굴소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "소스",
+        "quantity": "100ml",
+        "unit": "ml",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 물 100ml",
+          "유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "베트남고추",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "5개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 베트남고추 5개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "베트남고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "1톨",
+        "unit": "톨",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 마늘 1톨",
+          "마늘과 대파는 곱게 다져 준비해주세요",
+          "차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "1개",
+        "unit": "개",
+        "preparation": "씨를 살짝 떼어내고 잘게 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 청양고추 1개",
+          "청양고추, 홍고추는 티스푼으로 고추씨를 살짝 떼어내고 잘게 썰어주세요",
+          "차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍고추",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "1개",
+        "unit": "개",
+        "preparation": "씨를 살짝 떼어내고 잘게 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 홍고추 1개",
+          "청양고추, 홍고추는 티스푼으로 고추씨를 살짝 떼어내고 잘게 썰어주세요",
+          "차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": "1/2뿌리",
+        "unit": "뿌리",
+        "preparation": "곱게 다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스] 대파 1/2뿌리",
+          "마늘과 대파는 곱게 다져 준비해주세요",
+          "차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요",
+          "차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다."
+        ],
+        "quality_flags": [
+          "EVIDENCE_NOT_FOUND"
+        ],
+        "ingredient_candidate": "생강",
+        "alternatives": []
+      },
+      {
+        "raw_name": "건고추",
+        "role": "seasoning",
+        "group": "소스",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요",
+          "차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다."
+        ],
+        "quality_flags": [
+          "EVIDENCE_NOT_FOUND"
+        ],
+        "ingredient_candidate": "건고추",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "13857c7336363fa66186d93a5071f1ce828ebb1acecb772bdacfd094a5e4face",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6953652:dish",
+      "canonical_id": "dish:ec3f418bffe5735030a33db82ddace392a5a77d3eb03c7d586753f4db3aff7cc",
+      "original_name": "유린기",
+      "canonical_name": "유린기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:001:candidate:0",
+      "canonical_id": "ingredient:33d035f879ebd630552461c4c7d334627e62aa8bc1520f95aa14119d91b21e8e",
+      "original_name": "닭다리살",
+      "canonical_name": "닭다리살",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:002:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:003:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:004:candidate:0",
+      "canonical_id": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+      "original_name": "청주",
+      "canonical_name": "청주",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:005:candidate:0",
+      "canonical_id": "ingredient:47ae084ceb0606fda157ef2a8ffcabd0a7d72dcacef5f045eef436d945b9050b",
+      "original_name": "튀김가루",
+      "canonical_name": "튀김가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:006:candidate:0",
+      "canonical_id": "ingredient:c291af8d2148f73c497a27f83a1a00beebb8f855c63e6ffb78f756df160b307b",
+      "original_name": "감자전분",
+      "canonical_name": "감자전분",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:007:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:008:candidate:0",
+      "canonical_id": "ingredient:81e01a774a72d20aed48f82738c64ba961b457e9f7801cf2cfbc6e96dfe6709a",
+      "original_name": "기름",
+      "canonical_name": "기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:008:candidate:1",
+      "canonical_id": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+      "original_name": "식용유",
+      "canonical_name": "식용유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:009:candidate:0",
+      "canonical_id": "ingredient:789e70a866653b5b8415c75d9eeb30e5dd7eb1bc04cc0602fb3d8139fa9c15be",
+      "original_name": "양상추",
+      "canonical_name": "양상추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:010:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:011:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:012:candidate:0",
+      "canonical_id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+      "original_name": "식초",
+      "canonical_name": "식초",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:013:candidate:0",
+      "canonical_id": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+      "original_name": "굴소스",
+      "canonical_name": "굴소스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:014:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:015:candidate:0",
+      "canonical_id": "ingredient:356f314d06a7f4a5dcf2ce7d4881717f8b62072d5ca0a3b7dc9038804b3416df",
+      "original_name": "베트남고추",
+      "canonical_name": "베트남고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:016:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:017:candidate:0",
+      "canonical_id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+      "original_name": "청양고추",
+      "canonical_name": "청양고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:018:candidate:0",
+      "canonical_id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+      "original_name": "홍고추",
+      "canonical_name": "홍고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:019:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:020:candidate:0",
+      "canonical_id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+      "original_name": "생강",
+      "canonical_name": "생강",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6953652:component:021:candidate:0",
+      "canonical_id": "ingredient:fe7b3b225a2737f24e4bab49e00df37352f6e1cdad6cb3c4c81dacc40df1d704",
+      "original_name": "건고추",
+      "canonical_name": "건고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6953652",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_6953652:component:008: ALTERNATIVE_MODE"
+    ],
+    "stage1_errors": [
+      "10000recipe_6953652:component:008: ALTERNATIVE_MODE"
+    ],
+    "stage2_errors": [
+      "10000recipe_6953652:component:008: ALTERNATIVE_MODE"
+    ]
+  },
+  "review_hash": "e7b7a72ef6942121a0b5a5cd4aaa134d71527ab8dd793528bbbfd7f15908a639"
+}

@@ -1,0 +1,196 @@
+{
+  "recipe_uid": "10000recipe_6858833",
+  "payload": {
+    "title": "뜨끈한 국물이 일품인 시금치된장국/시금치두부된장국 만들기♥",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "다진마늘 0.5큰술",
+        "다진마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "0.5",
+        "큰술",
+        "다진",
+        null
+      ],
+      [
+        "시금치 2~3줌",
+        "시금치",
+        "시금치",
+        "food",
+        "[재료]",
+        "2~3",
+        "줌",
+        null,
+        null
+      ],
+      [
+        "대파 1대",
+        "대파",
+        "대파",
+        "food",
+        "[재료]",
+        "1",
+        "대",
+        null,
+        null
+      ],
+      [
+        "다시마 5*5 1개",
+        "다시마 5*5",
+        "다시마 5*5",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "다시멸치 13~15마리",
+        "다시멸치",
+        "다시멸치",
+        "food",
+        "[재료]",
+        "13~15",
+        "마리",
+        null,
+        null
+      ],
+      [
+        "두부 1/2모",
+        "두부",
+        "두부",
+        "food",
+        "[재료]",
+        "1/2",
+        "모",
+        null,
+        null
+      ],
+      [
+        "된장 2큰술",
+        "된장",
+        "된장",
+        "seasoning",
+        "[재료]",
+        "2",
+        "큰술",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 3,
+        "text": "깨끗히 씻은 시금치의 시든 잎은 떼고, 뿌리부분은 자르며 다듬어 주세요. 뿌리부분을 자르지 않고 칼로 살살 긁어 손질해도 좋아요"
+      },
+      {
+        "step": 4,
+        "text": "대파는 송송 또는 어슷 썰어준비합니다."
+      },
+      {
+        "step": 5,
+        "text": "두부는 작게(엄지손가락 한 마디만큼의 크기로) 잘라주세요. 두부는 생략 가능해요"
+      },
+      {
+        "step": 6,
+        "text": "팔팔 끓고 있는 멸치다시마 국물에 시금지를 넣고"
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "다진마늘 0.5큰술",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "0.5",
+      "unit": "큰술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "시금치 2~3줌",
+      "raw_name": "시금치",
+      "ingredient_candidate": "시금치",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2~3",
+      "unit": "줌",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 1대",
+      "raw_name": "대파",
+      "ingredient_candidate": "대파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "대",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다시마 5*5 1개",
+      "raw_name": "다시마 5*5",
+      "ingredient_candidate": "다시마 5*5",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다시멸치 13~15마리",
+      "raw_name": "다시멸치",
+      "ingredient_candidate": "다시멸치",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "13~15",
+      "unit": "마리",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "두부 1/2모",
+      "raw_name": "두부",
+      "ingredient_candidate": "두부",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "모",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "된장 2큰술",
+      "raw_name": "된장",
+      "ingredient_candidate": "된장",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 11,
+  "sent_steps": 4,
+  "evidence_text": "뜨끈한 국물이 일품인 시금치된장국/시금치두부된장국 만들기♥\n다진마늘 0.5큰술\n시금치 2~3줌\n대파 1대\n다시마 5*5 1개\n다시멸치 13~15마리\n두부 1/2모\n된장 2큰술\n깨끗히 씻은 시금치의 시든 잎은 떼고, 뿌리부분은 자르며 다듬어 주세요. 뿌리부분을 자르지 않고 칼로 살살 긁어 손질해도 좋아요\n대파는 송송 또는 어슷 썰어준비합니다.\n두부는 작게(엄지손가락 한 마디만큼의 크기로) 잘라주세요. 두부는 생략 가능해요\n팔팔 끓고 있는 멸치다시마 국물에 시금지를 넣고"
+}

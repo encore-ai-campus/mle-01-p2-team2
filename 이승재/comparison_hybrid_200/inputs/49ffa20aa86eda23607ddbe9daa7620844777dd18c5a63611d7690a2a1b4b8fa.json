@@ -1,0 +1,179 @@
+{
+  "recipe_uid": "10000recipe_6879745",
+  "payload": {
+    "title": "옥수수콘치즈 만드는 법, 옥수수콘 요리",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "콘옥수수 300g",
+        "콘옥수수",
+        "콘옥수수",
+        "food",
+        "[재료]",
+        "300",
+        "g",
+        null,
+        null
+      ],
+      [
+        "버터 1T",
+        "버터",
+        "버터",
+        "food",
+        "[재료]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "파슬리가루",
+        "파슬리가루",
+        "파슬리가루",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "모짜렐라치즈",
+        "모짜렐라치즈",
+        "모짜렐라치즈",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "마요네즈 2T",
+        "마요네즈",
+        "마요네즈",
+        "seasoning",
+        "[재료]",
+        "2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "설탕 1T",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[재료]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "콘옥수수 300g",
+      "raw_name": "콘옥수수",
+      "ingredient_candidate": "콘옥수수",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "300",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "버터 1T",
+      "raw_name": "버터",
+      "ingredient_candidate": "버터",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "파슬리가루",
+      "raw_name": "파슬리가루",
+      "ingredient_candidate": "파슬리가루",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "모짜렐라치즈",
+      "raw_name": "모짜렐라치즈",
+      "ingredient_candidate": "모짜렐라치즈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마요네즈 2T",
+      "raw_name": "마요네즈",
+      "ingredient_candidate": "마요네즈",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 1T",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "옥수수콘치즈 만드는 법, 옥수수콘 요리\n콘옥수수 300g\n버터 1T\n파슬리가루\n모짜렐라치즈\n마요네즈 2T\n설탕 1T\n후추 약간"
+}

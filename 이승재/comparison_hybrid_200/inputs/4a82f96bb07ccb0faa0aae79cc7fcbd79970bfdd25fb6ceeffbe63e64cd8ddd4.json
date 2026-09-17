@@ -1,0 +1,280 @@
+{
+  "recipe_uid": "10000recipe_4323582",
+  "payload": {
+    "title": "시원한 오뎅탕 만드는 법",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "오뎅 20개",
+        "오뎅",
+        "오뎅",
+        "food",
+        "[재료]",
+        "20",
+        "개",
+        null,
+        null
+      ],
+      [
+        "멸치 12마리",
+        "멸치",
+        "멸치",
+        "food",
+        "[재료]",
+        "12",
+        "마리",
+        null,
+        null
+      ],
+      [
+        "대파 큰거 1뿌리",
+        "대파 큰거",
+        "대파 큰거",
+        "food",
+        "[재료]",
+        "1",
+        "뿌리",
+        null,
+        null
+      ],
+      [
+        "무우 4토막",
+        "무우 4토막",
+        "무우 4토막",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "양파 1개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "표고버섯 3개",
+        "표고버섯",
+        "표고버섯",
+        "food",
+        "[재료]",
+        "3",
+        "개",
+        null,
+        null
+      ],
+      [
+        "새우 5마리",
+        "새우",
+        "새우",
+        "food",
+        "[재료]",
+        "5",
+        "마리",
+        null,
+        null
+      ],
+      [
+        "다시다 1장",
+        "다시다",
+        "다시다",
+        "food",
+        "[재료]",
+        "1",
+        "장",
+        null,
+        null
+      ],
+      [
+        "굵은소금",
+        "굵은소금",
+        "굵은소금",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "집간장",
+        "집간장",
+        "집간장",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "쇠고기다시다 선택",
+        "쇠고기다시다 선택",
+        "쇠고기다시다 선택",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 3,
+        "text": "굵은 소금을 1숟가락 넣어주세요"
+      },
+      {
+        "step": 4,
+        "text": "집간장과 쇠고기 다시다 한숟가락 넣어줍니다. (다시다는 안넣어도 육수가 맛나지만 넣으면 파는 오뎅국물맛이랑 같아요 ^^)"
+      },
+      {
+        "step": 5,
+        "text": "사각오뎅을 접어"
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "오뎅 20개",
+      "raw_name": "오뎅",
+      "ingredient_candidate": "오뎅",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "20",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "멸치 12마리",
+      "raw_name": "멸치",
+      "ingredient_candidate": "멸치",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "12",
+      "unit": "마리",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 큰거 1뿌리",
+      "raw_name": "대파 큰거",
+      "ingredient_candidate": "대파 큰거",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "뿌리",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "무우 4토막",
+      "raw_name": "무우 4토막",
+      "ingredient_candidate": "무우 4토막",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "표고버섯 3개",
+      "raw_name": "표고버섯",
+      "ingredient_candidate": "표고버섯",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "새우 5마리",
+      "raw_name": "새우",
+      "ingredient_candidate": "새우",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "5",
+      "unit": "마리",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다시다 1장",
+      "raw_name": "다시다",
+      "ingredient_candidate": "다시다",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "굵은소금",
+      "raw_name": "굵은소금",
+      "ingredient_candidate": "굵은소금",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "집간장",
+      "raw_name": "집간장",
+      "ingredient_candidate": "집간장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "쇠고기다시다 선택",
+      "raw_name": "쇠고기다시다 선택",
+      "ingredient_candidate": "쇠고기다시다 선택",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 9,
+  "sent_steps": 3,
+  "evidence_text": "시원한 오뎅탕 만드는 법\n오뎅 20개\n멸치 12마리\n대파 큰거 1뿌리\n무우 4토막\n양파 1개\n표고버섯 3개\n새우 5마리\n다시다 1장\n굵은소금\n집간장\n쇠고기다시다 선택\n굵은 소금을 1숟가락 넣어주세요\n집간장과 쇠고기 다시다 한숟가락 넣어줍니다. (다시다는 안넣어도 육수가 맛나지만 넣으면 파는 오뎅국물맛이랑 같아요 ^^)\n사각오뎅을 접어"
+}

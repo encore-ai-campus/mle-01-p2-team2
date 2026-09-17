@@ -1,0 +1,1670 @@
+{
+  "recipe_uid": "10000recipe_7082959",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082959",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082959",
+          "title": "꽃게무침 만드는법 양념 레시피 꽃게 요리 손질법",
+          "description": "꽃게가 맛있는 계절에는 탕으로도 끓여 먹지만 저는 매콤달콤하게 양념해서 먹는 꽃게무침도 참 좋아해요. 간장게장처럼 오래 숙성해서 먹는 방식이 아니라 싱싱한 꽃게를 손질한 뒤 매콤한 양념에 버무려 먹는 메뉴인데요. 살이 꽉 찬 꽃게에 양념이 착 달라붙어 한입 먹고 나면 밥부터 찾게 되는 맛이에요.",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 20,
+          "source_url": "https://www.10000recipe.com/recipe/7082959",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "꽃게무침"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꽃게",
+          "role": "food",
+          "group": "재료",
+          "quantity": "500g",
+          "unit": null,
+          "preparation": "냉동 절단꽃게",
+          "detail": "손질한 뒤 무침에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 꽃게 500g\", \"냉동 절단꽃게를 사용했어요.\", \"손질한 꽃게와 양념이 골고루 묻도록 버무립니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꽃게",
+          "name_normalized": "꽃게"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "얇게 채 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"양파는 얇게 채 썰고\", \"양파와 대파, 고추를 넣고 한 번 더 가볍게 버무려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2대",
+          "unit": null,
+          "preparation": "어슷하게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1/2대\", \"대파와 청양고추는 어슷하게 썰어주세요.\", \"양파와 대파, 고추를 넣고 한 번 더 가볍게 버무려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "어슷하게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청양고추 1개\", \"대파와 청양고추는 어슷하게 썰어주세요.\", \"양파와 대파, 고추를 넣고 한 번 더 가볍게 버무려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "food",
+          "group": "재료",
+          "quantity": "양념장숟가락 기준 적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": "마무리용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 통깨 양념장숟가락 기준 적당량\", \"마지막으로 참기름 1큰술과 통깨 1큰술을 넣어 마무리해주세요.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_QUANTITY"
+          ],
+          "component_uid": "10000recipe_7082959:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소주",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "반컵이상",
+          "unit": null,
+          "preparation": null,
+          "detail": "냉동상태의 꽃게를 해동/손질할 때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"냉동상태 그대로 소주 반컵이상 부어주고 5분정도 기다려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소주",
+          "name_normalized": "소주"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "3큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"꽃게와 고춧가루 3큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "진간장",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"진간장 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "진간장",
+          "name_normalized": "진간장"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치액젓",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"멸치액젓 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치액젓",
+          "name_normalized": "멸치액젓"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실청",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"매실청 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실청",
+          "name_normalized": "매실청"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리고당",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"올리고당 2큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리고당",
+          "name_normalized": "올리고당"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"식초 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"다진 마늘 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"맛술 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념에 넣는 것과 마무리에 다시 넣는 언급이 있음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 1큰술\", \"마지막으로 참기름 1큰술과 통깨 1큰술을 넣어 마무리해주세요.\"]",
+          "quality_flags": [
+            "POSSIBLE_DUPLICATE_COMPONENT"
+          ],
+          "component_uid": "10000recipe_7082959:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:015:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082959",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7082959:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:014:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:015",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082959:component:015:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082959",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082959",
+          "title": "꽃게무침 만드는법 양념 레시피 꽃게 요리 손질법",
+          "description": "꽃게가 맛있는 계절에는 탕으로도 끓여 먹지만 저는 매콤달콤하게 양념해서 먹는 꽃게무침도 참 좋아해요. 간장게장처럼 오래 숙성해서 먹는 방식이 아니라 싱싱한 꽃게를 손질한 뒤 매콤한 양념에 버무려 먹는 메뉴인데요. 살이 꽉 찬 꽃게에 양념이 착 달라붙어 한입 먹고 나면 밥부터 찾게 되는 맛이에요.",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 20,
+          "source_url": "https://www.10000recipe.com/recipe/7082959",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:649c4ce964e7b8fc026c0b44c81816116e6a593453b3ccd8b75722647e1a5e3b",
+        "label": "Dish",
+        "properties": {
+          "name": "꽃게무침"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꽃게",
+          "role": "food",
+          "group": "재료",
+          "quantity": "500g",
+          "unit": null,
+          "preparation": "냉동 절단꽃게",
+          "detail": "손질한 뒤 무침에 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 꽃게 500g\", \"냉동 절단꽃게를 사용했어요.\", \"손질한 꽃게와 양념이 골고루 묻도록 버무립니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:b13a1fb25d7af2333b525bd1e0e001fcbb03333737bb33e47352f431742a3d1d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꽃게",
+          "name_normalized": "꽃게"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": "얇게 채 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"양파는 얇게 채 썰고\", \"양파와 대파, 고추를 넣고 한 번 더 가볍게 버무려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2대",
+          "unit": null,
+          "preparation": "어슷하게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1/2대\", \"대파와 청양고추는 어슷하게 썰어주세요.\", \"양파와 대파, 고추를 넣고 한 번 더 가볍게 버무려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "어슷하게 썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청양고추 1개\", \"대파와 청양고추는 어슷하게 썰어주세요.\", \"양파와 대파, 고추를 넣고 한 번 더 가볍게 버무려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "food",
+          "group": "재료",
+          "quantity": "양념장숟가락 기준 적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": "마무리용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 통깨 양념장숟가락 기준 적당량\", \"마지막으로 참기름 1큰술과 통깨 1큰술을 넣어 마무리해주세요.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_QUANTITY"
+          ],
+          "component_uid": "10000recipe_7082959:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소주",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "반컵이상",
+          "unit": null,
+          "preparation": null,
+          "detail": "냉동상태의 꽃게를 해동/손질할 때 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"냉동상태 그대로 소주 반컵이상 부어주고 5분정도 기다려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소주",
+          "name_normalized": "소주"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "3큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"꽃게와 고춧가루 3큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "진간장",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"진간장 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+        "label": "Ingredient",
+        "properties": {
+          "name": "진간장",
+          "name_normalized": "진간장"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치액젓",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"멸치액젓 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치액젓",
+          "name_normalized": "멸치액젓"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실청",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"매실청 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:f581a9abacd48573fe4dd3aeff8ade5e3f510a7faffc45524c78d075a564e794",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실청",
+          "name_normalized": "매실청"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리고당",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"올리고당 2큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리고당",
+          "name_normalized": "올리고당"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"식초 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"다진 마늘 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"맛술 1큰술\", \"꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082959:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_7082959:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념에 넣는 것과 마무리에 다시 넣는 언급이 있음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 1큰술\", \"마지막으로 참기름 1큰술과 통깨 1큰술을 넣어 마무리해주세요.\"]",
+          "quality_flags": [
+            "POSSIBLE_DUPLICATE_COMPONENT"
+          ],
+          "component_uid": "10000recipe_7082959:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082959",
+        "type": "VARIANT_OF",
+        "target": "dish:649c4ce964e7b8fc026c0b44c81816116e6a593453b3ccd8b75722647e1a5e3b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:b13a1fb25d7af2333b525bd1e0e001fcbb03333737bb33e47352f431742a3d1d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:f581a9abacd48573fe4dd3aeff8ade5e3f510a7faffc45524c78d075a564e794",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082959:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082959:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "꽃게무침",
+    "components": [
+      {
+        "raw_name": "꽃게",
+        "role": "food",
+        "group": "재료",
+        "quantity": "500g",
+        "unit": null,
+        "preparation": "냉동 절단꽃게",
+        "detail": "손질한 뒤 무침에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 꽃게 500g",
+          "냉동 절단꽃게를 사용했어요.",
+          "손질한 꽃게와 양념이 골고루 묻도록 버무립니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "꽃게",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "얇게 채 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/2개",
+          "양파는 얇게 채 썰고",
+          "양파와 대파, 고추를 넣고 한 번 더 가볍게 버무려줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2대",
+        "unit": null,
+        "preparation": "어슷하게 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1/2대",
+          "대파와 청양고추는 어슷하게 썰어주세요.",
+          "양파와 대파, 고추를 넣고 한 번 더 가볍게 버무려줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "어슷하게 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 청양고추 1개",
+          "대파와 청양고추는 어슷하게 썰어주세요.",
+          "양파와 대파, 고추를 넣고 한 번 더 가볍게 버무려줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "food",
+        "group": "재료",
+        "quantity": "양념장숟가락 기준 적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": "마무리용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 통깨 양념장숟가락 기준 적당량",
+          "마지막으로 참기름 1큰술과 통깨 1큰술을 넣어 마무리해주세요."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_QUANTITY"
+        ],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소주",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "반컵이상",
+        "unit": null,
+        "preparation": null,
+        "detail": "냉동상태의 꽃게를 해동/손질할 때 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "냉동상태 그대로 소주 반컵이상 부어주고 5분정도 기다려줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "3큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "꽃게와 고춧가루 3큰술",
+          "꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "진간장",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "진간장 1큰술",
+          "꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "진간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치액젓",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "멸치액젓 1큰술",
+          "꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치액젓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실청",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "매실청 1큰술",
+          "꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실청",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리고당",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "올리고당 2큰술",
+          "꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리고당",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "식초 1큰술",
+          "꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 마늘",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진 마늘 1큰술",
+          "꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛술",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "맛술 1큰술",
+          "꽃게와 고춧가루 3큰술 진간장 1큰술 멸치액젓 1큰술 매실청 1큰술 올리고당 2큰술 식초 1큰술 다진 마늘 1큰술 맛술 1큰술 참기름 1큰술을 넣고 골고루 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛술",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념에 넣는 것과 마무리에 다시 넣는 언급이 있음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름 1큰술",
+          "마지막으로 참기름 1큰술과 통깨 1큰술을 넣어 마무리해주세요."
+        ],
+        "quality_flags": [
+          "POSSIBLE_DUPLICATE_COMPONENT"
+        ],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "aa8385f564519b5c3292db4e6cd8bf5eae8b90d8e5437bcc5827496250372bea",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7082959:dish",
+      "canonical_id": "dish:649c4ce964e7b8fc026c0b44c81816116e6a593453b3ccd8b75722647e1a5e3b",
+      "original_name": "꽃게무침",
+      "canonical_name": "꽃게무침",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:001:candidate:0",
+      "canonical_id": "ingredient:b13a1fb25d7af2333b525bd1e0e001fcbb03333737bb33e47352f431742a3d1d",
+      "original_name": "꽃게",
+      "canonical_name": "꽃게",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:002:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:003:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:004:candidate:0",
+      "canonical_id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+      "original_name": "청양고추",
+      "canonical_name": "청양고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:005:candidate:0",
+      "canonical_id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+      "original_name": "통깨",
+      "canonical_name": "통깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:006:candidate:0",
+      "canonical_id": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+      "original_name": "소주",
+      "canonical_name": "소주",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:007:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:008:candidate:0",
+      "canonical_id": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+      "original_name": "진간장",
+      "canonical_name": "진간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:009:candidate:0",
+      "canonical_id": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+      "original_name": "멸치액젓",
+      "canonical_name": "멸치액젓",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:010:candidate:0",
+      "canonical_id": "ingredient:f581a9abacd48573fe4dd3aeff8ade5e3f510a7faffc45524c78d075a564e794",
+      "original_name": "매실청",
+      "canonical_name": "매실청",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:011:candidate:0",
+      "canonical_id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+      "original_name": "올리고당",
+      "canonical_name": "올리고당",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:012:candidate:0",
+      "canonical_id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+      "original_name": "식초",
+      "canonical_name": "식초",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:013:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:014:candidate:0",
+      "canonical_id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+      "original_name": "맛술",
+      "canonical_name": "맛술",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082959:component:015:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7082959",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "073589065dea2114941db0c2adcb93d0354b77a7056d51c89b4bbd4537fc63fa"
+}

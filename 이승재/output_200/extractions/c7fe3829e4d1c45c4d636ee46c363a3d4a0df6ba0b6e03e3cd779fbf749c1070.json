@@ -1,0 +1,177 @@
+{
+  "recipe_uid": "10000recipe_7082032",
+  "cache_key": "6f5b2368f8580972740b62fe97387faa83eb97e5dce80e047a9283885b74729f",
+  "model": "gpt-5.4-mini",
+  "input_hash": "57596224c332bd41fc0662cb070101bbb86c22695252e9d6e039ba862bb1bbef",
+  "source_record_hash": "3179b256c1667d0cc78e069604845565788ee24af66a83f74e56e3771c62bbca",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "그릭요거트 무화과 샌드위치",
+    "components": [
+      {
+        "raw_name": "통밀 식빵",
+        "role": "food",
+        "group": null,
+        "quantity": "2장",
+        "unit": "장",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "통밀 식빵 2장",
+          "통밀 식빵 2 장을 준비해 토스터기에 노릇하게 구워 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통밀 식빵",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무화과 잼",
+        "role": "food",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "무화과 잼 1큰술",
+          "무화과 잼 1 큰술을 준비해 식빵 2장에 반씩 고르게 발라 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무화과 잼",
+        "alternatives": []
+      },
+      {
+        "raw_name": "그릭요거트",
+        "role": "food",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "그릭요거트 1큰술",
+          "그리고 그릭요거트 1큰술을 무화과 잼 바른 식빵 한 장 위에 듬뿍 발라 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "그릭요거트",
+        "alternatives": []
+      },
+      {
+        "raw_name": "치커리",
+        "role": "food",
+        "group": null,
+        "quantity": "5장",
+        "unit": "장",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "치커리 5장",
+          "그리고 그릭요거트 바른 식빵 위에 치커리 5장을 수북하게 올려 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "치커리",
+        "alternatives": []
+      },
+      {
+        "raw_name": "샌드위치 햄",
+        "role": "food",
+        "group": null,
+        "quantity": "3장",
+        "unit": "장",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "샌드위치 햄 3장",
+          "그리고 샌드위치 햄 3장을 반 접어 올려 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "샌드위치 햄",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무화과",
+        "role": "food",
+        "group": null,
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": "흐르는 물에 씻어 물기를 닦은 후 꼭지를 잘라 내고 손으로 쪼갠",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "무화과 2개",
+          "무화과 2개를 흐르는 물에 씻어 물기를 닦은 후 꼭지를 잘라 내고 손으로 무화과를 쪼개 주었습니다.",
+          "손으로 쪼갠 무화과를 햄 위에 올려 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무화과",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 아몬드",
+        "role": "food",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": "볶은",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진 아몬드 1큰술",
+          "그리고 무화과 위에 다진 볶은 아몬드 1큰술을 고르게 올려 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "아몬드",
+        "alternatives": []
+      },
+      {
+        "raw_name": "발사믹 글레이즈",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "발사믹 글레이즈 약간",
+          "그리고 발사믹 글레이즈를 뿌려 주었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "발사믹 글레이즈",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 898,
+    "prompt_tokens": 3204,
+    "total_tokens": 4102,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

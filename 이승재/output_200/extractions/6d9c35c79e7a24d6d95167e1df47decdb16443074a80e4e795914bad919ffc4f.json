@@ -1,0 +1,106 @@
+{
+  "recipe_uid": "10000recipe_7080404",
+  "cache_key": "0dd3d0b1d3986c5d219eea221f46f00acc7a938d37ba388e60979114346aa2e5",
+  "model": "gpt-5.4-mini",
+  "input_hash": "4e5f2e0d5971316101a733826d1903e95da2e33fd7306483ff88706ece5f87c9",
+  "source_record_hash": "294716151122e20dab26a66e9ffc661194b395c3aa48324e76dd185388b80281",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "수박 에이드",
+    "components": [
+      {
+        "raw_name": "수박",
+        "role": "food",
+        "group": null,
+        "quantity": "1L",
+        "unit": null,
+        "preparation": "검은 씨를 제거한",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 수박 1L",
+          "수박의 검은 씨를 제거하고 믹서기에 넣어줍니다.",
+          "씨를 제거한 수박 1리터"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "수박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "레몬즙",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 레몬즙 2큰술",
+          "그리고 여기에 레몬즙 2 큰술을 넣어 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "레몬즙",
+        "alternatives": []
+      },
+      {
+        "raw_name": "꿀",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 꿀 1큰술",
+          "꿀 1 큰술을 넣고 믹서기로 갈아 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "꿀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "사이다",
+        "role": "food",
+        "group": null,
+        "quantity": "1컵",
+        "unit": null,
+        "preparation": null,
+        "detail": "탄산이 죽어서 마지막에 붓고 숟가락으로 저어 줌",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 사이다 1컵",
+          "그리고 사이다 1 컵을 붓고 고르게 한번 휘~ 저어 줍니다.",
+          "사이다를 붓고 믹서기를 돌려주면 탄산이 죽어서 사이다는 마지막에 붓고 숟가락으로 저어 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "사이다",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 464,
+    "prompt_tokens": 2973,
+    "total_tokens": 3437,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

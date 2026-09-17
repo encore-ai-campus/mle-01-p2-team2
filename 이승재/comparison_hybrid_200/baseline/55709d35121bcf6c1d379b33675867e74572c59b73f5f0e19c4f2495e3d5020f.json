@@ -1,0 +1,89 @@
+{
+  "recipe_uid": "10000recipe_6875078",
+  "cache_key": "38e172d331dca4b49415392bbc53c9f44ae71ea8381dd7e7c121c7a37f3b25b2",
+  "model": "gpt-5.4-mini",
+  "input_hash": "5235bc9ba3af0d5521a971d417dc910703d70d136847249e70e605b1c0cd4b1d",
+  "source_record_hash": "edc8586c244d70fb25d5de9d85a17a78f27c3c8718ca892a4589d5ace8c8d3ee",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": null,
+    "components": [
+      {
+        "raw_name": "고춧가루",
+        "role": "food",
+        "group": "재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 고춧가루",
+          "단기간 고춧가루를 밀폐용기에 담아 뚜껑을 닫는다.",
+          "장기간 지퍼백에 고춧가루를 넣는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밀폐용기",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "보관용기",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "단기간 고춧가루를 밀폐용기에 담아 뚜껑을 닫는다."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "밀폐용기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "지퍼백",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "보관용기",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "장기간 지퍼백에 고춧가루를 넣는다."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "지퍼백",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 318,
+    "prompt_tokens": 2729,
+    "total_tokens": 3047,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

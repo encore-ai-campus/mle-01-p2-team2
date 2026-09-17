@@ -1,0 +1,267 @@
+{
+  "recipe_uid": "10000recipe_6898328",
+  "payload": {
+    "title": "참치 비빔밥",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "밥 1공기",
+        "밥 1공기",
+        "밥 1공기",
+        "food",
+        "[밥재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "상추 3장",
+        "상추",
+        "상추",
+        "food",
+        "[밥재료]",
+        "3",
+        "장",
+        null,
+        null
+      ],
+      [
+        "김 1줌",
+        "김",
+        "김",
+        "food",
+        "[밥재료]",
+        "1",
+        "줌",
+        null,
+        null
+      ],
+      [
+        "계란 1개",
+        "계란",
+        "계란",
+        "food",
+        "[밥재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "참치캔 100g 1/2캔",
+        "참치캔",
+        "참치캔",
+        "seasoning",
+        "[양념재료]",
+        "1/2",
+        "캔",
+        null,
+        null
+      ],
+      [
+        "고추장 1.5스푼",
+        "고추장",
+        "고추장",
+        "seasoning",
+        "[양념재료]",
+        "1.5",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "고추가루 1큰술",
+        "고추가루",
+        "고춧가루",
+        "seasoning",
+        "[양념재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "간장 1큰술",
+        "간장",
+        "간장",
+        "seasoning",
+        "[양념재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "설탕 1큰술",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[양념재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "올리고당 1큰술",
+        "올리고당",
+        "올리고당",
+        "seasoning",
+        "[양념재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "참기름 1큰술",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "밥 1공기",
+      "raw_name": "밥 1공기",
+      "ingredient_candidate": "밥 1공기",
+      "role": "food",
+      "group": "[밥재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "상추 3장",
+      "raw_name": "상추",
+      "ingredient_candidate": "상추",
+      "role": "food",
+      "group": "[밥재료]",
+      "quantity": "3",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "김 1줌",
+      "raw_name": "김",
+      "ingredient_candidate": "김",
+      "role": "food",
+      "group": "[밥재료]",
+      "quantity": "1",
+      "unit": "줌",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란 1개",
+      "raw_name": "계란",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[밥재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참치캔 100g 1/2캔",
+      "raw_name": "참치캔",
+      "ingredient_candidate": "참치캔",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1/2",
+      "unit": "캔",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추장 1.5스푼",
+      "raw_name": "고추장",
+      "ingredient_candidate": "고추장",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1.5",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추가루 1큰술",
+      "raw_name": "고추가루",
+      "ingredient_candidate": "고춧가루",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 1큰술",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 1큰술",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리고당 1큰술",
+      "raw_name": "올리고당",
+      "ingredient_candidate": "올리고당",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1큰술",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "참치 비빔밥\n밥 1공기\n상추 3장\n김 1줌\n계란 1개\n참치캔 100g 1/2캔\n고추장 1.5스푼\n고추가루 1큰술\n간장 1큰술\n설탕 1큰술\n올리고당 1큰술\n참기름 1큰술"
+}

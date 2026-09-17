@@ -1,0 +1,1100 @@
+{
+  "recipe_uid": "10000recipe_4784948",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_4784948",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_4784948",
+          "title": "샌드위치 만드는법",
+          "description": "오랫만에 샌드위치 식빵 사다가 아이들 간식으로 넉넉하게 만들어 놓았더니 마음이 든든합니다. 공부하는 아이들.. 학업에 지쳐있지만 제가 대신해 줄 수도 없고, 엄마인 제가 할수 있는건 맛있는 간식 대령하는 것 밖에 없는것 같아요. 그럼 간단하면서 맛있는 샌드위치 만드는법 시작해봐요~",
+          "servings": "2인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 210000,
+          "source_url": "https://www.10000recipe.com/recipe/4784948",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "샌드위치"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식빵",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "샌드위치용 빵",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"샌드위치 식빵 사다가\", \"샌드위치 빵을 토스터기에 노릇하게 구워주세요.\", \"준비한 샌드위치 식빵에 이제 재료들을 하나씩 올려줍니다.\", \"그리고, 남은 샌드위치용 식빵 한개로 마무리해주면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양상추",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "흐르는 물에 깨끗히 씻어 물기를 제거한",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양상추\", \"양상추를 흐르는 물에 깨끗히 씻어 음식 탈수기에 넣고 물기를 제거해요.\", \"먼저 양상추와 햄, 구워진 베이컨을 올렸어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양상추",
+          "name_normalized": "양상추"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": null,
+          "quantity": "0.5~1cm 두께",
+          "unit": null,
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 토마토\", \"토마토를 약 0.5~1cm 두께로 썰어주세요.\", \"치즈, 파프리카, 토마토를 올려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파프리카",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "얇게 썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 파프리카\", \"그리고 파프리카도 얇게 썰어주세요.\", \"치즈, 파프리카, 토마토를 올려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파프리카",
+          "name_normalized": "파프리카"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베이컨",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "팬에 앞뒤로 살짝 구운",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 베이컨\", \"베이컨은 팬에 앞뒤로 살짝 구워주시고,\", \"먼저 양상추와 햄, 구워진 베이컨을 올렸어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이컨",
+          "name_normalized": "베이컨"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "치즈",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 치즈\", \"치즈, 파프리카, 토마토를 올려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "치즈",
+          "name_normalized": "치즈"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "샌드위치용햄",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "생식용으로 구입해서 그대로 사용",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 샌드위치용햄\", \"햄은 샌드위치에 넣는 생식용으로 구입해서 그대로 사용할 거에요.\", \"먼저 양상추와 햄, 구워진 베이컨을 올렸어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "딸기쨈",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "빵 한면에 넓게 펴바름",
+          "is_required": true,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[재료] 딸기쨈\", \"구워진 샌드위치 빵 한면에는 딸기쨈이나 포도쨈을 넓게 펴바르고,\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "딸기잼",
+          "name_normalized": "딸기잼"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:008:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "포도잼",
+          "name_normalized": "포도잼"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홀그레인머스타드",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "빵 한면에 넓게 펴바름",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 홀그레인머스타드\", \"또 다른 빵 한면에는 홀그레인 머스타드 소스를 넓게 펴발라 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홀그레인머스타드",
+          "name_normalized": "홀그레인머스타드"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_4784948",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_4784948:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4784948:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4784948:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4784948:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4784948:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4784948:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4784948:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4784948:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4784948:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:008",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_4784948:component:008:candidate:1",
+        "properties": {
+          "raw_name": "포도쨈",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"구워진 샌드위치 빵 한면에는 딸기쨈이나 포도쨈을 넓게 펴바르고,\"]"
+        }
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4784948:component:009:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_4784948",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_4784948",
+          "title": "샌드위치 만드는법",
+          "description": "오랫만에 샌드위치 식빵 사다가 아이들 간식으로 넉넉하게 만들어 놓았더니 마음이 든든합니다. 공부하는 아이들.. 학업에 지쳐있지만 제가 대신해 줄 수도 없고, 엄마인 제가 할수 있는건 맛있는 간식 대령하는 것 밖에 없는것 같아요. 그럼 간단하면서 맛있는 샌드위치 만드는법 시작해봐요~",
+          "servings": "2인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 210000,
+          "source_url": "https://www.10000recipe.com/recipe/4784948",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+        "label": "Dish",
+        "properties": {
+          "name": "샌드위치"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식빵",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "샌드위치용 빵",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"샌드위치 식빵 사다가\", \"샌드위치 빵을 토스터기에 노릇하게 구워주세요.\", \"준비한 샌드위치 식빵에 이제 재료들을 하나씩 올려줍니다.\", \"그리고, 남은 샌드위치용 식빵 한개로 마무리해주면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양상추",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "흐르는 물에 깨끗히 씻어 물기를 제거한",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양상추\", \"양상추를 흐르는 물에 깨끗히 씻어 음식 탈수기에 넣고 물기를 제거해요.\", \"먼저 양상추와 햄, 구워진 베이컨을 올렸어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:789e70a866653b5b8415c75d9eeb30e5dd7eb1bc04cc0602fb3d8139fa9c15be",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양상추",
+          "name_normalized": "양상추"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": null,
+          "quantity": "0.5~1cm 두께",
+          "unit": null,
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 토마토\", \"토마토를 약 0.5~1cm 두께로 썰어주세요.\", \"치즈, 파프리카, 토마토를 올려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파프리카",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "얇게 썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 파프리카\", \"그리고 파프리카도 얇게 썰어주세요.\", \"치즈, 파프리카, 토마토를 올려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:0254cfc12cbb0cb7cf4f5777edc166cea1dca266ff5cdcdba30634e76d5b1358",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파프리카",
+          "name_normalized": "파프리카"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베이컨",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "팬에 앞뒤로 살짝 구운",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 베이컨\", \"베이컨은 팬에 앞뒤로 살짝 구워주시고,\", \"먼저 양상추와 햄, 구워진 베이컨을 올렸어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이컨",
+          "name_normalized": "베이컨"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "치즈",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 치즈\", \"치즈, 파프리카, 토마토를 올려줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "치즈",
+          "name_normalized": "치즈"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "샌드위치용햄",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "생식용으로 구입해서 그대로 사용",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 샌드위치용햄\", \"햄은 샌드위치에 넣는 생식용으로 구입해서 그대로 사용할 거에요.\", \"먼저 양상추와 햄, 구워진 베이컨을 올렸어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "딸기쨈",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "빵 한면에 넓게 펴바름",
+          "is_required": true,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[재료] 딸기쨈\", \"구워진 샌드위치 빵 한면에는 딸기쨈이나 포도쨈을 넓게 펴바르고,\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:8a9fd7d6df10357b4c6496642b13d2e962c9ab2a5919ff79056bbf5256cd0cf1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "딸기잼",
+          "name_normalized": "딸기잼"
+        }
+      },
+      {
+        "id": "ingredient:ae14152f8e81b306625bbbe7386b4bbba80323f9efa7b8b91f1d3db2f8abef51",
+        "label": "Ingredient",
+        "properties": {
+          "name": "포도잼",
+          "name_normalized": "포도잼"
+        }
+      },
+      {
+        "id": "10000recipe_4784948:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홀그레인머스타드",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "빵 한면에 넓게 펴바름",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 홀그레인머스타드\", \"또 다른 빵 한면에는 홀그레인 머스타드 소스를 넓게 펴발라 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4784948:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:4f6c2434e0eb61296d06950d55e20e5970235a25af2419dbf8bcbabd284c644e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홀그레인머스타드",
+          "name_normalized": "홀그레인머스타드"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_4784948",
+        "type": "VARIANT_OF",
+        "target": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:789e70a866653b5b8415c75d9eeb30e5dd7eb1bc04cc0602fb3d8139fa9c15be",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:0254cfc12cbb0cb7cf4f5777edc166cea1dca266ff5cdcdba30634e76d5b1358",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:8a9fd7d6df10357b4c6496642b13d2e962c9ab2a5919ff79056bbf5256cd0cf1",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:008",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:ae14152f8e81b306625bbbe7386b4bbba80323f9efa7b8b91f1d3db2f8abef51",
+        "properties": {
+          "raw_name": "포도쨈",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"구워진 샌드위치 빵 한면에는 딸기쨈이나 포도쨈을 넓게 펴바르고,\"]"
+        }
+      },
+      {
+        "source": "10000recipe_4784948",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4784948:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4784948:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:4f6c2434e0eb61296d06950d55e20e5970235a25af2419dbf8bcbabd284c644e",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "샌드위치",
+    "components": [
+      {
+        "raw_name": "식빵",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "샌드위치용 빵",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "샌드위치 식빵 사다가",
+          "샌드위치 빵을 토스터기에 노릇하게 구워주세요.",
+          "준비한 샌드위치 식빵에 이제 재료들을 하나씩 올려줍니다.",
+          "그리고, 남은 샌드위치용 식빵 한개로 마무리해주면 완성입니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식빵",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양상추",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "흐르는 물에 깨끗히 씻어 물기를 제거한",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양상추",
+          "양상추를 흐르는 물에 깨끗히 씻어 음식 탈수기에 넣고 물기를 제거해요.",
+          "먼저 양상추와 햄, 구워진 베이컨을 올렸어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양상추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "토마토",
+        "role": "food",
+        "group": null,
+        "quantity": "0.5~1cm 두께",
+        "unit": null,
+        "preparation": "썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 토마토",
+          "토마토를 약 0.5~1cm 두께로 썰어주세요.",
+          "치즈, 파프리카, 토마토를 올려줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파프리카",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "얇게 썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 파프리카",
+          "그리고 파프리카도 얇게 썰어주세요.",
+          "치즈, 파프리카, 토마토를 올려줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파프리카",
+        "alternatives": []
+      },
+      {
+        "raw_name": "베이컨",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "팬에 앞뒤로 살짝 구운",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 베이컨",
+          "베이컨은 팬에 앞뒤로 살짝 구워주시고,",
+          "먼저 양상추와 햄, 구워진 베이컨을 올렸어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "베이컨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "치즈",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 치즈",
+          "치즈, 파프리카, 토마토를 올려줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "샌드위치용햄",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "생식용으로 구입해서 그대로 사용",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 샌드위치용햄",
+          "햄은 샌드위치에 넣는 생식용으로 구입해서 그대로 사용할 거에요.",
+          "먼저 양상추와 햄, 구워진 베이컨을 올렸어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "햄",
+        "alternatives": []
+      },
+      {
+        "raw_name": "딸기쨈",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "빵 한면에 넓게 펴바름",
+        "is_required": true,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "[재료] 딸기쨈",
+          "구워진 샌드위치 빵 한면에는 딸기쨈이나 포도쨈을 넓게 펴바르고,"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "딸기잼",
+        "alternatives": [
+          {
+            "raw_name": "포도쨈",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "구워진 샌드위치 빵 한면에는 딸기쨈이나 포도쨈을 넓게 펴바르고,"
+            ],
+            "ingredient_candidate": "포도잼"
+          }
+        ]
+      },
+      {
+        "raw_name": "홀그레인머스타드",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "빵 한면에 넓게 펴바름",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 홀그레인머스타드",
+          "또 다른 빵 한면에는 홀그레인 머스타드 소스를 넓게 펴발라 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홀그레인머스타드",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "04f52b3cd36b67f10df27959fea52d9fbc18bba456ae041ed7adaa7af5286297",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_4784948:dish",
+      "canonical_id": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+      "original_name": "샌드위치",
+      "canonical_name": "샌드위치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4784948:component:001:candidate:0",
+      "canonical_id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+      "original_name": "식빵",
+      "canonical_name": "식빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4784948:component:002:candidate:0",
+      "canonical_id": "ingredient:789e70a866653b5b8415c75d9eeb30e5dd7eb1bc04cc0602fb3d8139fa9c15be",
+      "original_name": "양상추",
+      "canonical_name": "양상추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4784948:component:003:candidate:0",
+      "canonical_id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+      "original_name": "토마토",
+      "canonical_name": "토마토",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4784948:component:004:candidate:0",
+      "canonical_id": "ingredient:0254cfc12cbb0cb7cf4f5777edc166cea1dca266ff5cdcdba30634e76d5b1358",
+      "original_name": "파프리카",
+      "canonical_name": "파프리카",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4784948:component:005:candidate:0",
+      "canonical_id": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+      "original_name": "베이컨",
+      "canonical_name": "베이컨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4784948:component:006:candidate:0",
+      "canonical_id": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+      "original_name": "치즈",
+      "canonical_name": "치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4784948:component:007:candidate:0",
+      "canonical_id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+      "original_name": "햄",
+      "canonical_name": "햄",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4784948:component:008:candidate:0",
+      "canonical_id": "ingredient:8a9fd7d6df10357b4c6496642b13d2e962c9ab2a5919ff79056bbf5256cd0cf1",
+      "original_name": "딸기잼",
+      "canonical_name": "딸기잼",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4784948:component:008:candidate:1",
+      "canonical_id": "ingredient:ae14152f8e81b306625bbbe7386b4bbba80323f9efa7b8b91f1d3db2f8abef51",
+      "original_name": "포도잼",
+      "canonical_name": "포도잼",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4784948:component:009:candidate:0",
+      "canonical_id": "ingredient:4f6c2434e0eb61296d06950d55e20e5970235a25af2419dbf8bcbabd284c644e",
+      "original_name": "홀그레인머스타드",
+      "canonical_name": "홀그레인머스타드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_4784948",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "a7c939c4526f7d3cc99bc85dc5e31de53380e9cb447076275b3e34623cd88de7"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1CN6XVKmWnx0IHVimd1Siwl87U",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"중화풍 가지 덮밥\",\"components\":[{\"raw_name\":\"밥\",\"role\":\"food\",\"group\":\"가지 덮밥 재료\",\"quantity\":\"1공기\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[가지 덮밥 재료] 밥 1공기\",\"밥위에 볶은가지와 달걀 올려 마무리합니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"밥\",\"alternatives\":[]},{\"raw_name\":\"가지\",\"role\":\"food\",\"group\":\"가지 덮밥 재료\",\"quantity\":\"1개\",\"unit\":null,\"preparation\":\"깍뚝썰기\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[가지 덮밥 재료] 가지 1개\",\"가지는 작은 크기로 깍뚝썰기를 해주었어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"가지\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"가지 덮밥 재료\",\"quantity\":\"1/2개\",\"unit\":null,\"preparation\":\"송송 썰기\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[가지 덮밥 재료] 양파 1/2개\",\"양파 청,홍고추 대파는 송송 썰어줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":\"가지 덮밥 재료\",\"quantity\":\"1토막\",\"unit\":null,\"preparation\":\"송송 썰기\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[가지 덮밥 재료] 대파 1토막\",\"양파 청,홍고추 대파는 송송 썰어줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"매운고추\",\"role\":\"food\",\"group\":\"가지 덮밥 재료\",\"quantity\":\"1개\",\"unit\":null,\"preparation\":\"송송 썰기\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[가지 덮밥 재료] 매운고추 1개\",\"양파 청,홍고추 대파는 송송 썰어줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추\",\"alternatives\":[]},{\"raw_name\":\"홍고추\",\"role\":\"food\",\"group\":\"가지 덮밥 재료\",\"quantity\":\"1/2개\",\"unit\":null,\"preparation\":\"송송 썰기\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[가지 덮밥 재료] 홍고추 1/2개\",\"양파 청,홍고추 대파는 송송 썰어줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추\",\"alternatives\":[]},{\"raw_name\":\"달걀\",\"role\":\"food\",\"group\":\"가지 덮밥 재료\",\"quantity\":\"1개\",\"unit\":null,\"preparation\":\"스크램블\",\"detail\":\"달걀 프라이 올려도 좋아요\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[가지 덮밥 재료] 달걀 1개\",\"달걀 스크램블 만들어 주어요\",\"달걀 프라이 올려도 좋아요\"],\"quality_flags\":[],\"ingredient_candidate\":\"달걀\",\"alternatives\":[]},{\"raw_name\":\"식용유\",\"role\":\"food\",\"group\":\"가지 덮밥 재료\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":\"기름 조금 두르고\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[가지 덮밥 재료] 식용유 약간\",\"달군 팬에 기름 조금 두르고\"],\"quality_flags\":[],\"ingredient_candidate\":\"식용유\",\"alternatives\":[]},{\"raw_name\":\"굴 소스\",\"role\":\"seasoning\",\"group\":\"양념 재료\",\"quantity\":\"1/2T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 재료] 굴 소스 1/2T\",\"물 4,굴 소스 반, 설탕 약간, 간장 1 넣고 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"굴 소스\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"양념 재료\",\"quantity\":\"1/4T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 재료] 설탕 1/4T\",\"물 4,굴 소스 반, 설탕 약간, 간장 1 넣고 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"간장\",\"role\":\"seasoning\",\"group\":\"양념 재료\",\"quantity\":\"1T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 재료] 간장 1T\",\"물 4,굴 소스 반, 설탕 약간, 간장 1 넣고 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"간장\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"양념 재료\",\"quantity\":\"4T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 재료] 물 4T\",\"물 4,굴 소스 반, 설탕 약간, 간장 1 넣고 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"들기름\",\"role\":\"seasoning\",\"group\":\"양념 재료\",\"quantity\":\"1t\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 재료] 들기름 1t\",\"불 끄고 들기름 1t 과 후춧가루 넣어주어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"들기름\",\"alternatives\":[]},{\"raw_name\":\"후춧가루\",\"role\":\"seasoning\",\"group\":\"양념 재료\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 재료] 후춧가루 약간\",\"불 끄고 들기름 1t 과 후춧가루 넣어주어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"후춧가루\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530878,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1491,
+    "prompt_tokens": 3014,
+    "total_tokens": 4505,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

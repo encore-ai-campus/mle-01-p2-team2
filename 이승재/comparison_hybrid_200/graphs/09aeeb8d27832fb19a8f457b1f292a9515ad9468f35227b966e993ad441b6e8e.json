@@ -1,0 +1,761 @@
+{
+  "recipe_uid": "10000recipe_6858197",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6858197",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6858197",
+          "title": "무말랭이 고춧잎무침 황금레시피",
+          "description": "오독오독 씹히는 식감도 맛있는 무말랭이 고춧잎무침은 최고의 밑반찬이기도 하지요 작년가을 볕 좋은날 바싹 말려 두었던 무말랭이와 고춧잎은 갖은양념에 조물조물 무쳐 냉장고에 두고 숙성을 시킨 후 먹으면 더 맛있게 드실 수있어요 우리집 든든한 밑반찬 무말랭이 고춧잎무침 황금레시피를 소개해 드려요~",
+          "servings": "6인분 이상",
+          "cooking_time": "90분 이내",
+          "difficulty": "중급",
+          "views": 117000,
+          "source_url": "https://www.10000recipe.com/recipe/6858197",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:4577d42098f385a586ccc922acc242e5c7eb1855a99938b5dfbc2455a1e0741b",
+        "label": "Dish",
+        "properties": {
+          "name": "무말랭이 고춧잎무침"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무말랭이 말린것",
+          "role": "food",
+          "group": "[무말랭이 무침 재료]",
+          "quantity": "150",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"무말랭이 말린것 150g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:d024809959872de3c7c503be84e31b60a477cfe69f1d776888a19a4265540d8b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무말랭이 말린것",
+          "name_normalized": "무말랭이 말린것"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "건 고춧잎",
+          "role": "food",
+          "group": "[무말랭이 무침 재료]",
+          "quantity": "10",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"건 고춧잎 10g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:f73b702b87a2efe44ff9d898dbe56cc5db446038bfd678817ac3acccb6731774",
+        "label": "Ingredient",
+        "properties": {
+          "name": "건 고춧잎",
+          "name_normalized": "건 고춧잎"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "[무말랭이 무침 재료]",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "food",
+          "group": "[무말랭이 무침 재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"홍고추 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쪽파",
+          "role": "food",
+          "group": "[무말랭이 무침 재료]",
+          "quantity": "7",
+          "unit": "뿌리",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"쪽파 7뿌리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쪽파",
+          "name_normalized": "쪽파"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛간장 시판",
+          "role": "food",
+          "group": "[무말랭이 밑간 재료]",
+          "quantity": "3",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"맛간장 시판 3T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:809ad64a46609f3e4f6cb1d0ac289e92ca54dfa9a5537b4f8fb4cbab96456858",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛간장 시판",
+          "name_normalized": "맛간장 시판"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀풀",
+          "role": "food",
+          "group": "[찹쌀풀 재료]",
+          "quantity": "1",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"찹쌀풀 1T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀풀",
+          "name_normalized": "찹쌀풀"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "[찹쌀풀 재료]",
+          "quantity": "1",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"물 1컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치액젓",
+          "role": "seasoning",
+          "group": "[무말랭이 밑간 재료]",
+          "quantity": "4",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"멸치액젓 4T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치액젓",
+          "name_normalized": "멸치액젓"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀풀국",
+          "role": "seasoning",
+          "group": "[양념재료]",
+          "quantity": "1/2",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"찹쌀풀국 1/2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:b52819b2492009f9a1ffd5fb526b6ec5ac968e954819c9601fdf6cd160ef526e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀풀국",
+          "name_normalized": "찹쌀풀국"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "[양념재료]",
+          "quantity": "2",
+          "unit": "T",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다진마늘 2T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진생강",
+          "role": "seasoning",
+          "group": "[양념재료]",
+          "quantity": "1",
+          "unit": "t",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다진생강 1t\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "[양념재료]",
+          "quantity": "1",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"설탕 1T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "[양념재료]",
+          "quantity": "7",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"고춧가루 7T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물엿",
+          "role": "seasoning",
+          "group": "[양념재료]",
+          "quantity": "5",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"물엿 5T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물엿",
+          "name_normalized": "물엿"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6858197",
+        "type": "VARIANT_OF",
+        "target": "dish:4577d42098f385a586ccc922acc242e5c7eb1855a99938b5dfbc2455a1e0741b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:d024809959872de3c7c503be84e31b60a477cfe69f1d776888a19a4265540d8b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:f73b702b87a2efe44ff9d898dbe56cc5db446038bfd678817ac3acccb6731774",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:809ad64a46609f3e4f6cb1d0ac289e92ca54dfa9a5537b4f8fb4cbab96456858",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:b52819b2492009f9a1ffd5fb526b6ec5ac968e954819c9601fdf6cd160ef526e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6858197:dish",
+      "canonical_id": "dish:4577d42098f385a586ccc922acc242e5c7eb1855a99938b5dfbc2455a1e0741b",
+      "original_name": "무말랭이 고춧잎무침",
+      "canonical_name": "무말랭이 고춧잎무침",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:001:candidate:0",
+      "canonical_id": "ingredient:d024809959872de3c7c503be84e31b60a477cfe69f1d776888a19a4265540d8b",
+      "original_name": "무말랭이 말린것",
+      "canonical_name": "무말랭이 말린것",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:002:candidate:0",
+      "canonical_id": "ingredient:f73b702b87a2efe44ff9d898dbe56cc5db446038bfd678817ac3acccb6731774",
+      "original_name": "건 고춧잎",
+      "canonical_name": "건 고춧잎",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:003:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:004:candidate:0",
+      "canonical_id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+      "original_name": "홍고추",
+      "canonical_name": "홍고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:005:candidate:0",
+      "canonical_id": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+      "original_name": "쪽파",
+      "canonical_name": "쪽파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:006:candidate:0",
+      "canonical_id": "ingredient:809ad64a46609f3e4f6cb1d0ac289e92ca54dfa9a5537b4f8fb4cbab96456858",
+      "original_name": "맛간장 시판",
+      "canonical_name": "맛간장 시판",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:007:candidate:0",
+      "canonical_id": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+      "original_name": "찹쌀풀",
+      "canonical_name": "찹쌀풀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:008:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:009:candidate:0",
+      "canonical_id": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+      "original_name": "멸치액젓",
+      "canonical_name": "멸치액젓",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:010:candidate:0",
+      "canonical_id": "ingredient:b52819b2492009f9a1ffd5fb526b6ec5ac968e954819c9601fdf6cd160ef526e",
+      "original_name": "찹쌀풀국",
+      "canonical_name": "찹쌀풀국",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:011:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:012:candidate:0",
+      "canonical_id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+      "original_name": "생강",
+      "canonical_name": "생강",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:013:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:014:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:015:candidate:0",
+      "canonical_id": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+      "original_name": "물엿",
+      "canonical_name": "물엿",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 15,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 31,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

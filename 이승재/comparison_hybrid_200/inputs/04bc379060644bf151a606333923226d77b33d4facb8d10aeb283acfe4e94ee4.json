@@ -1,0 +1,157 @@
+{
+  "recipe_uid": "10000recipe_6847466",
+  "payload": {
+    "title": "야채, 오리고기 듬뿍 오리고기무쌈말이 보양식",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "훈제오리",
+        "훈제오리",
+        "훈제오리",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "무쌈",
+        "무쌈",
+        "무쌈",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "주황파프리카",
+        "주황파프리카",
+        "주황파프리카",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "노랑",
+        "노랑",
+        "노랑",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "부추",
+        "부추",
+        "부추",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "머스타드소스",
+        "머스타드소스",
+        "머스타드소스",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "훈제오리",
+      "raw_name": "훈제오리",
+      "ingredient_candidate": "훈제오리",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "무쌈",
+      "raw_name": "무쌈",
+      "ingredient_candidate": "무쌈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "주황파프리카",
+      "raw_name": "주황파프리카",
+      "ingredient_candidate": "주황파프리카",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "노랑",
+      "raw_name": "노랑",
+      "ingredient_candidate": "노랑",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "부추",
+      "raw_name": "부추",
+      "ingredient_candidate": "부추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "머스타드소스",
+      "raw_name": "머스타드소스",
+      "ingredient_candidate": "머스타드소스",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 6,
+  "sent_steps": 0,
+  "evidence_text": "야채, 오리고기 듬뿍 오리고기무쌈말이 보양식\n훈제오리\n무쌈\n주황파프리카\n노랑\n부추\n머스타드소스"
+}

@@ -1,0 +1,223 @@
+{
+  "recipe_uid": "10000recipe_7082087",
+  "payload": {
+    "title": "진미채무침으로 만든 진미채 계란말이 김밥 레시피",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "진미채 취향껏",
+        "진미채",
+        "진미채",
+        "food",
+        "[재료]",
+        "취향껏",
+        null,
+        null,
+        null
+      ],
+      [
+        "김밥김 2장",
+        "김밥김",
+        "김밥김",
+        "food",
+        "[재료]",
+        "2",
+        "장",
+        null,
+        null
+      ],
+      [
+        "단무지 2줄",
+        "단무지 2줄",
+        "단무지 2줄",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "현미유 1큰술",
+        "현미유",
+        "현미유",
+        "food",
+        "[재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "계란 2개",
+        "계란",
+        "계란",
+        "food",
+        "[계란말이]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "소금 2꼬집",
+        "소금",
+        "소금",
+        "seasoning",
+        "[계란말이]",
+        "2",
+        "꼬집",
+        null,
+        null
+      ],
+      [
+        "밥 1공기",
+        "밥 1공기",
+        "밥 1공기",
+        "seasoning",
+        "[밥 양념]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "참기름 1.5큰술",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[밥 양념]",
+        "1.5",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "통깨 1큰술",
+        "통깨",
+        "통깨",
+        "seasoning",
+        "[밥 양념]",
+        "1",
+        "큰술",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "진미채 취향껏",
+      "raw_name": "진미채",
+      "ingredient_candidate": "진미채",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "취향껏",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "김밥김 2장",
+      "raw_name": "김밥김",
+      "ingredient_candidate": "김밥김",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "단무지 2줄",
+      "raw_name": "단무지 2줄",
+      "ingredient_candidate": "단무지 2줄",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "현미유 1큰술",
+      "raw_name": "현미유",
+      "ingredient_candidate": "현미유",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란 2개",
+      "raw_name": "계란",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[계란말이]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 2꼬집",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[계란말이]",
+      "quantity": "2",
+      "unit": "꼬집",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "밥 1공기",
+      "raw_name": "밥 1공기",
+      "ingredient_candidate": "밥 1공기",
+      "role": "seasoning",
+      "group": "[밥 양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1.5큰술",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[밥 양념]",
+      "quantity": "1.5",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "통깨 1큰술",
+      "raw_name": "통깨",
+      "ingredient_candidate": "통깨",
+      "role": "seasoning",
+      "group": "[밥 양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "진미채무침으로 만든 진미채 계란말이 김밥 레시피\n진미채 취향껏\n김밥김 2장\n단무지 2줄\n현미유 1큰술\n계란 2개\n소금 2꼬집\n밥 1공기\n참기름 1.5큰술\n통깨 1큰술"
+}

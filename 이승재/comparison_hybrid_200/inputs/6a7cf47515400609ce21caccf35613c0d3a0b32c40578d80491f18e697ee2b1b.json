@@ -1,0 +1,267 @@
+{
+  "recipe_uid": "10000recipe_6689884",
+  "payload": {
+    "title": "돼지 등갈비조림 이렇게 만드세요",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "돼지 등갈비 1060g",
+        "돼지 등갈비",
+        "돼지 등갈비",
+        "food",
+        "[재료]",
+        "1060",
+        "g",
+        null,
+        null
+      ],
+      [
+        "청주 약간",
+        "청주",
+        "청주",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "배 1/2개",
+        "배",
+        "배",
+        "seasoning",
+        "[양념]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "양파 1개",
+        "양파",
+        "양파",
+        "seasoning",
+        "[양념]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "고춧가루 2/3큰술",
+        "고춧가루",
+        "고춧가루",
+        "seasoning",
+        "[양념]",
+        "2/3",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "다진마늘 1큰술",
+        "다진마늘",
+        "마늘",
+        "seasoning",
+        "[양념]",
+        "1",
+        "큰술",
+        "다진",
+        null
+      ],
+      [
+        "매실액 3큰술",
+        "매실액",
+        "매실액",
+        "seasoning",
+        "[양념]",
+        "3",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[양념]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "간장 10큰술",
+        "간장",
+        "간장",
+        "seasoning",
+        "[양념]",
+        "10",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "참기름 1큰술",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "물 약간",
+        "물",
+        "물",
+        "seasoning",
+        "[양념]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "돼지 등갈비 1060g",
+      "raw_name": "돼지 등갈비",
+      "ingredient_candidate": "돼지 등갈비",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1060",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "청주 약간",
+      "raw_name": "청주",
+      "ingredient_candidate": "청주",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "배 1/2개",
+      "raw_name": "배",
+      "ingredient_candidate": "배",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고춧가루 2/3큰술",
+      "raw_name": "고춧가루",
+      "ingredient_candidate": "고춧가루",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2/3",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1큰술",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "매실액 3큰술",
+      "raw_name": "매실액",
+      "ingredient_candidate": "매실액",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "3",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 10큰술",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "10",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1큰술",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 약간",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 8,
+  "sent_steps": 0,
+  "evidence_text": "돼지 등갈비조림 이렇게 만드세요\n돼지 등갈비 1060g\n청주 약간\n배 1/2개\n양파 1개\n고춧가루 2/3큰술\n다진마늘 1큰술\n매실액 3큰술\n후추 약간\n간장 10큰술\n참기름 1큰술\n물 약간"
+}

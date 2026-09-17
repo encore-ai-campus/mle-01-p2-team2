@@ -1,0 +1,285 @@
+{
+  "recipe_uid": "10000recipe_7081747",
+  "cache_key": "1dbd60a4c202e0708b04c5407858c11814707101e93888cb02417a1de242956d",
+  "model": "gpt-5.4-mini",
+  "input_hash": "57e09ceeee648b570ffb86ab668eb83f0cfe52f21b4b099d8ba4009684ceeacd",
+  "source_record_hash": "c34ba25f1b13dbeedaaaa7f87adb18e7d64a0122acef38d759168dff67b64d12",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "오므라이스",
+    "components": [
+      {
+        "raw_name": "밥",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1공기",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 밥 1공기",
+          "양파가 이렇게 투명하게 변할 때쯤에 밥 한 공기를 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밥",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 계란 3개",
+          "이제 오므라이스에서 가장 중요한 계란은 3개를 톡톡 깨서 소금으로 약간 간을 해준 뒤 잘 풀어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "잘게 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/2개",
+          "양파 반 개는 잘게 썰어서 프라이팬에 담아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "스팸",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "작게 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 스팸 1/2개",
+          "오므라이스에서 빠질 수 없는 스팸도 작게 썰어서 프라이팬에 같이 담아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "스팸",
+        "alternatives": []
+      },
+      {
+        "raw_name": "케챱",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 케챱 2T",
+          "오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요",
+          "[소스 재료] 케챱 2T",
+          "버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "케첩",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굴소스",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 굴소스 2T",
+          "오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굴소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추 약간",
+          "오므라이스를 위해서 밥 위에 케첩 2스푼과 굴소스 2스푼을 넣고 후추를 약간 뿌려주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "food",
+        "group": "소스 재료",
+        "quantity": "10g",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 버터 10g",
+          "버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "돈가스소스",
+        "role": "seasoning",
+        "group": "소스 재료",
+        "quantity": "3T",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 돈가스소스 3T",
+          "버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돈가스소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "케챱",
+        "role": "seasoning",
+        "group": "소스 재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 케챱 2T",
+          "버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요"
+        ],
+        "quality_flags": [
+          "POSSIBLE_DUPLICATE_COMPONENT"
+        ],
+        "ingredient_candidate": "케첩",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "소스 재료",
+        "quantity": "3T",
+        "unit": null,
+        "preparation": null,
+        "detail": "소스에 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[소스 재료] 물 3T",
+          "버터 1조각과 돈가스 소스 3스푼 케첩 2스푼과 물 3스푼을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": "계란 간 맞추기",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금으로 약간 간을 해준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "기름",
+        "role": "food",
+        "group": null,
+        "quantity": "한 바퀴",
+        "unit": null,
+        "preparation": null,
+        "detail": "볶을 때 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "기름을 한 바퀴 둘러준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식용유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파슬리",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "솔솔",
+        "unit": null,
+        "preparation": null,
+        "detail": "마무리 고명",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "마지막으로 파슬리까지 솔솔 뿌려만 주면"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파슬리",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1580,
+    "prompt_tokens": 3300,
+    "total_tokens": 4880,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

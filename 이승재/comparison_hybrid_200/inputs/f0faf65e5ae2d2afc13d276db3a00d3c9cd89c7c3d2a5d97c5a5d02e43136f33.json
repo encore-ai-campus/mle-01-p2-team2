@@ -1,0 +1,201 @@
+{
+  "recipe_uid": "10000recipe_6870882",
+  "payload": {
+    "title": "오이크래미연겨자샐러드! 여름철 먹기 딱~좋아요",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "오이 1.5개",
+        "오이",
+        "오이",
+        "food",
+        "[재료]",
+        "1.5",
+        "개",
+        null,
+        null
+      ],
+      [
+        "크래미 맛살은 2개 3개",
+        "크래미 맛살은",
+        "크래미 맛살은",
+        "food",
+        "[재료]",
+        "3",
+        "개",
+        null,
+        null
+      ],
+      [
+        "다진마늘 0.5T",
+        "다진마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "0.5",
+        "T",
+        "다진",
+        null
+      ],
+      [
+        "연겨자 0.5-1T",
+        "연겨자",
+        "연겨자",
+        "food",
+        "[재료]",
+        "0.5-1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "오이 절일 소금 약간",
+        "오이 절일 소금",
+        "오이 절일 소금",
+        "food",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "마요네즈 1.5T",
+        "마요네즈",
+        "마요네즈",
+        "seasoning",
+        "[재료]",
+        "1.5",
+        "T",
+        null,
+        null
+      ],
+      [
+        "설탕 0.5T",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[재료]",
+        "0.5",
+        "T",
+        null,
+        null
+      ],
+      [
+        "참깨 약간",
+        "참깨",
+        "참깨",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "오이 1.5개",
+      "raw_name": "오이",
+      "ingredient_candidate": "오이",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1.5",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "크래미 맛살은 2개 3개",
+      "raw_name": "크래미 맛살은",
+      "ingredient_candidate": "크래미 맛살은",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 0.5T",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "0.5",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "연겨자 0.5-1T",
+      "raw_name": "연겨자",
+      "ingredient_candidate": "연겨자",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "0.5-1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "오이 절일 소금 약간",
+      "raw_name": "오이 절일 소금",
+      "ingredient_candidate": "오이 절일 소금",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마요네즈 1.5T",
+      "raw_name": "마요네즈",
+      "ingredient_candidate": "마요네즈",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1.5",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 0.5T",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "0.5",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참깨 약간",
+      "raw_name": "참깨",
+      "ingredient_candidate": "참깨",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 12,
+  "sent_steps": 0,
+  "evidence_text": "오이크래미연겨자샐러드! 여름철 먹기 딱~좋아요\n오이 1.5개\n크래미 맛살은 2개 3개\n다진마늘 0.5T\n연겨자 0.5-1T\n오이 절일 소금 약간\n마요네즈 1.5T\n설탕 0.5T\n참깨 약간"
+}

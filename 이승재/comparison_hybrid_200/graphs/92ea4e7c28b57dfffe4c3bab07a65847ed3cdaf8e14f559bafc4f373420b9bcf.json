@@ -1,0 +1,338 @@
+{
+  "recipe_uid": "10000recipe_7082505",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082505",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082505",
+          "title": "폭탄계란찜 뚝배기로 계란찜 만드는 레시피",
+          "description": "식탁에 빠질 수 없는 반찬 특히 저희 집은 하루라도 빠지지 않는 게 바로 계란 반찬인데요 계란을 두 판이나 쟁여두었었는데 어느새 또 바닥이 보입니다ㅎㅎ ​ ​ 계란찜은 부드럽고 촉촉해서 아이들이 특히 좋아하는 메뉴라서 자주 만들어 먹고 있는데요 빠르게 조리할 수 있어서 아침에 만들어 먹기에도 좋죠! ​ ​ 물 비율을 잘 맞추어서 뚝배기에 계란찜을 만들면 폭탄처럼 부풀어 오르는 모양으로 폭탄계란찜을 만들 수 있답니다. ​ ​ 새우젓을 넣어서 간을 맞추니 고소하고 감칠맛 나는 계란찜! 15분이면 완성되는 뚝배기로 폭탄계란찜 만드는 레시피를 남겨보도록 할게요 :)",
+          "servings": "4인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 41,
+          "source_url": "https://www.10000recipe.com/recipe/7082505",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:dbf5837034c3f2446bebd5b815e97b8e8187effeb4b0f8ced6369117ad63fc05",
+        "label": "Dish",
+        "properties": {
+          "name": "계란찜"
+        }
+      },
+      {
+        "id": "10000recipe_7082505:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "6",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"계란 6개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082505:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_7082505:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "180",
+          "unit": "ml",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"물 180ml\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082505:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7082505:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "새우젓 국물",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"새우젓 국물 1T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082505:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:b0ffb2023e1063a4e3c1a47072be7df1fc851ac941ff9ad806967cb2adf51a2a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "새우젓 국물",
+          "name_normalized": "새우젓 국물"
+        }
+      },
+      {
+        "id": "10000recipe_7082505:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "20",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"당근 20g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082505:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_7082505:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쪽파",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"쪽파 2T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082505:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쪽파",
+          "name_normalized": "쪽파"
+        }
+      },
+      {
+        "id": "10000recipe_7082505:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "t",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"맛술 1t\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082505:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082505",
+        "type": "VARIANT_OF",
+        "target": "dish:dbf5837034c3f2446bebd5b815e97b8e8187effeb4b0f8ced6369117ad63fc05",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082505:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082505:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082505:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:b0ffb2023e1063a4e3c1a47072be7df1fc851ac941ff9ad806967cb2adf51a2a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082505:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082505:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082505:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082505:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7082505:dish",
+      "canonical_id": "dish:dbf5837034c3f2446bebd5b815e97b8e8187effeb4b0f8ced6369117ad63fc05",
+      "original_name": "계란찜",
+      "canonical_name": "계란찜",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082505:component:001:candidate:0",
+      "canonical_id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+      "original_name": "계란",
+      "canonical_name": "계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082505:component:002:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082505:component:003:candidate:0",
+      "canonical_id": "ingredient:b0ffb2023e1063a4e3c1a47072be7df1fc851ac941ff9ad806967cb2adf51a2a",
+      "original_name": "새우젓 국물",
+      "canonical_name": "새우젓 국물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082505:component:004:candidate:0",
+      "canonical_id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+      "original_name": "당근",
+      "canonical_name": "당근",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082505:component:005:candidate:0",
+      "canonical_id": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+      "original_name": "쪽파",
+      "canonical_name": "쪽파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082505:component:006:candidate:0",
+      "canonical_id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+      "original_name": "맛술",
+      "canonical_name": "맛술",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 6,
+    "alternatives": 0,
+    "required_known": 6,
+    "dish": true,
+    "relations": 13,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

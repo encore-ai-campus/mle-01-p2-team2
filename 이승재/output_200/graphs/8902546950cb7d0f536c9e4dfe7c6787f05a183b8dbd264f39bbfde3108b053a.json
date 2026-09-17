@@ -1,0 +1,1238 @@
+{
+  "recipe_uid": "10000recipe_6864716",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6864716",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6864716",
+          "title": "전자렌지 계란빵 만들기",
+          "description": "쌀쌀한 날씨에 더욱 생각나는 간식 계란빵! 집에서 전자렌지로 쉽게 만들어 보세요♥",
+          "servings": "3인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "초급",
+          "views": 202000,
+          "source_url": "https://www.10000recipe.com/recipe/6864716",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "계란빵"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "핫케이크가루",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료(컵=종이컵)] 핫케이크가루 2컵\", \"반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "핫케이크가루",
+          "name_normalized": "핫케이크가루"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "우유",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료(컵=종이컵)] 우유 1컵\", \"반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "우유",
+          "name_normalized": "우유"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "달걀",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료(컵=종이컵)] 달걀 1개\", \"반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번\", \"계란을 하나씩 깨서 넣어주시면 되는데 노른자는 꼭! 이쑤시개나 포크로 구멍을 내서 터뜨려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀",
+          "name_normalized": "달걀"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "허브솔트",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2~3회",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료(컵=종이컵)] 허브솔트 2~3회\", \"반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "허브솔트",
+          "name_normalized": "허브솔트"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "슬라이스 치즈",
+          "role": "food",
+          "group": "토핑",
+          "quantity": "3장",
+          "unit": "장",
+          "preparation": "슬라이스",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[토핑] 슬라이스 치즈 3장\", \"입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "슬라이스 치즈",
+          "name_normalized": "슬라이스 치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "옥수수콘",
+          "role": "food",
+          "group": "토핑",
+          "quantity": "6스푼",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[토핑] 옥수수콘 6스푼\", \"입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "옥수수콘",
+          "name_normalized": "옥수수콘"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베이컨",
+          "role": "food",
+          "group": "토핑",
+          "quantity": "조금",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[토핑] 베이컨 조금\", \"입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이컨",
+          "name_normalized": "베이컨"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파슬리",
+          "role": "food",
+          "group": "토핑",
+          "quantity": "1꼬집",
+          "unit": "꼬집",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[토핑] 파슬리 1꼬집\", \"입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파슬리",
+          "name_normalized": "파슬리"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식용유",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "컵 안쪽에 얇게 바르고 키친타올로 가볍게 한번 닦아줌",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"컵 안쪽은 식용유를 전체적으로 얇게 바르고 키친타올로 가볍게 한번 닦아주세요.\", \"그래야 빵이 컵에 달라붙지않아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식용유",
+          "name_normalized": "식용유"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "이쑤시개",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "노른자에 구멍을 내는 도구",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"노른자는 꼭! 이쑤시개나 포크로 구멍을 내서 터뜨려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "이쑤시개",
+          "name_normalized": "이쑤시개"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "포크",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "노른자에 구멍을 내는 도구",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"노른자는 꼭! 이쑤시개나 포크로 구멍을 내서 터뜨려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "포크",
+          "name_normalized": "포크"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6864716",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6864716:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864716:component:011:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6864716",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6864716",
+          "title": "전자렌지 계란빵 만들기",
+          "description": "쌀쌀한 날씨에 더욱 생각나는 간식 계란빵! 집에서 전자렌지로 쉽게 만들어 보세요♥",
+          "servings": "3인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "초급",
+          "views": 202000,
+          "source_url": "https://www.10000recipe.com/recipe/6864716",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:f5a3786b97c730c0f4726ea7fb2aa97910d13264f401093964536def719ecdc7",
+        "label": "Dish",
+        "properties": {
+          "name": "계란빵"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "핫케이크가루",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료(컵=종이컵)] 핫케이크가루 2컵\", \"반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:9ef7e7fb04035997571353a90bc0a2724e77f9456c6d612140a59f6add0d66e0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "핫케이크가루",
+          "name_normalized": "핫케이크가루"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "우유",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료(컵=종이컵)] 우유 1컵\", \"반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "우유",
+          "name_normalized": "우유"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "달걀",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료(컵=종이컵)] 달걀 1개\", \"반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번\", \"계란을 하나씩 깨서 넣어주시면 되는데 노른자는 꼭! 이쑤시개나 포크로 구멍을 내서 터뜨려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀",
+          "name_normalized": "달걀"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "허브솔트",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2~3회",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료(컵=종이컵)] 허브솔트 2~3회\", \"반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:13272cc800de3a57e60e0f1afc8faea1ce41883e99e1cf3d549634c0bd5eb017",
+        "label": "Ingredient",
+        "properties": {
+          "name": "허브솔트",
+          "name_normalized": "허브솔트"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "슬라이스 치즈",
+          "role": "food",
+          "group": "토핑",
+          "quantity": "3장",
+          "unit": "장",
+          "preparation": "슬라이스",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[토핑] 슬라이스 치즈 3장\", \"입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:ea772fce201ff52210f545398a8d8502fbf87bd4d9b7c3c226c68a91f79f50c9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "슬라이스 치즈",
+          "name_normalized": "슬라이스 치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "옥수수콘",
+          "role": "food",
+          "group": "토핑",
+          "quantity": "6스푼",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[토핑] 옥수수콘 6스푼\", \"입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:677d254023f6e25500c2d819b0c583457cd53c49ac01c7301e19c2325560fe10",
+        "label": "Ingredient",
+        "properties": {
+          "name": "옥수수콘",
+          "name_normalized": "옥수수콘"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베이컨",
+          "role": "food",
+          "group": "토핑",
+          "quantity": "조금",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[토핑] 베이컨 조금\", \"입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이컨",
+          "name_normalized": "베이컨"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파슬리",
+          "role": "food",
+          "group": "토핑",
+          "quantity": "1꼬집",
+          "unit": "꼬집",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[토핑] 파슬리 1꼬집\", \"입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:60dcf82073e99673c739ad44bce0dce81a9e099bd3a39264a49762a08b28a0fc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파슬리",
+          "name_normalized": "파슬리"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식용유",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "컵 안쪽에 얇게 바르고 키친타올로 가볍게 한번 닦아줌",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"컵 안쪽은 식용유를 전체적으로 얇게 바르고 키친타올로 가볍게 한번 닦아주세요.\", \"그래야 빵이 컵에 달라붙지않아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식용유",
+          "name_normalized": "식용유"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "이쑤시개",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "노른자에 구멍을 내는 도구",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"노른자는 꼭! 이쑤시개나 포크로 구멍을 내서 터뜨려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:98b15d6b69f669d8f14ae6740035b8fb271df2e4776a76a88b8393a2a02b57d7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "이쑤시개",
+          "name_normalized": "이쑤시개"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "포크",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "노른자에 구멍을 내는 도구",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"노른자는 꼭! 이쑤시개나 포크로 구멍을 내서 터뜨려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:d391549f732056195a1387e7604348c9e0998d735c8772daa82e3e7a8b64b455",
+        "label": "Ingredient",
+        "properties": {
+          "name": "포크",
+          "name_normalized": "포크"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6864716",
+        "type": "VARIANT_OF",
+        "target": "dish:f5a3786b97c730c0f4726ea7fb2aa97910d13264f401093964536def719ecdc7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:9ef7e7fb04035997571353a90bc0a2724e77f9456c6d612140a59f6add0d66e0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:13272cc800de3a57e60e0f1afc8faea1ce41883e99e1cf3d549634c0bd5eb017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:ea772fce201ff52210f545398a8d8502fbf87bd4d9b7c3c226c68a91f79f50c9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:677d254023f6e25500c2d819b0c583457cd53c49ac01c7301e19c2325560fe10",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:60dcf82073e99673c739ad44bce0dce81a9e099bd3a39264a49762a08b28a0fc",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:98b15d6b69f669d8f14ae6740035b8fb271df2e4776a76a88b8393a2a02b57d7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:d391549f732056195a1387e7604348c9e0998d735c8772daa82e3e7a8b64b455",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "계란빵",
+    "components": [
+      {
+        "raw_name": "핫케이크가루",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2컵",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료(컵=종이컵)] 핫케이크가루 2컵",
+          "반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "핫케이크가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "우유",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1컵",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료(컵=종이컵)] 우유 1컵",
+          "반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "우유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "달걀",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료(컵=종이컵)] 달걀 1개",
+          "반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번",
+          "계란을 하나씩 깨서 넣어주시면 되는데 노른자는 꼭! 이쑤시개나 포크로 구멍을 내서 터뜨려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "달걀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "허브솔트",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2~3회",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료(컵=종이컵)] 허브솔트 2~3회",
+          "반죽 재료를 보울에 담아주세요. 핫케이크가루2컵, 우유1컵, 달걀1개, 허브솔트2~3번"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "허브솔트",
+        "alternatives": []
+      },
+      {
+        "raw_name": "슬라이스 치즈",
+        "role": "food",
+        "group": "토핑",
+        "quantity": "3장",
+        "unit": "장",
+        "preparation": "슬라이스",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토핑] 슬라이스 치즈 3장",
+          "입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "슬라이스 치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "옥수수콘",
+        "role": "food",
+        "group": "토핑",
+        "quantity": "6스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토핑] 옥수수콘 6스푼",
+          "입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "옥수수콘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "베이컨",
+        "role": "food",
+        "group": "토핑",
+        "quantity": "조금",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토핑] 베이컨 조금",
+          "입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "베이컨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파슬리",
+        "role": "food",
+        "group": "토핑",
+        "quantity": "1꼬집",
+        "unit": "꼬집",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토핑] 파슬리 1꼬집",
+          "입맛에 맞게 토핑을 넣어주세요. 슬라이스 치즈, 옥수수콘, 베이컨, 파슬리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파슬리",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식용유",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "컵 안쪽에 얇게 바르고 키친타올로 가볍게 한번 닦아줌",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "컵 안쪽은 식용유를 전체적으로 얇게 바르고 키친타올로 가볍게 한번 닦아주세요.",
+          "그래야 빵이 컵에 달라붙지않아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식용유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "이쑤시개",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "노른자에 구멍을 내는 도구",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "노른자는 꼭! 이쑤시개나 포크로 구멍을 내서 터뜨려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "이쑤시개",
+        "alternatives": []
+      },
+      {
+        "raw_name": "포크",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "노른자에 구멍을 내는 도구",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "노른자는 꼭! 이쑤시개나 포크로 구멍을 내서 터뜨려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "포크",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "7ad27e0b909306a0195e8c34024f9a131516930964e828774c028e86800750b3",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6864716:dish",
+      "canonical_id": "dish:f5a3786b97c730c0f4726ea7fb2aa97910d13264f401093964536def719ecdc7",
+      "original_name": "계란빵",
+      "canonical_name": "계란빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:001:candidate:0",
+      "canonical_id": "ingredient:9ef7e7fb04035997571353a90bc0a2724e77f9456c6d612140a59f6add0d66e0",
+      "original_name": "핫케이크가루",
+      "canonical_name": "핫케이크가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:002:candidate:0",
+      "canonical_id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+      "original_name": "우유",
+      "canonical_name": "우유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:003:candidate:0",
+      "canonical_id": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+      "original_name": "달걀",
+      "canonical_name": "달걀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:004:candidate:0",
+      "canonical_id": "ingredient:13272cc800de3a57e60e0f1afc8faea1ce41883e99e1cf3d549634c0bd5eb017",
+      "original_name": "허브솔트",
+      "canonical_name": "허브솔트",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:005:candidate:0",
+      "canonical_id": "ingredient:ea772fce201ff52210f545398a8d8502fbf87bd4d9b7c3c226c68a91f79f50c9",
+      "original_name": "슬라이스 치즈",
+      "canonical_name": "슬라이스 치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:006:candidate:0",
+      "canonical_id": "ingredient:677d254023f6e25500c2d819b0c583457cd53c49ac01c7301e19c2325560fe10",
+      "original_name": "옥수수콘",
+      "canonical_name": "옥수수콘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:007:candidate:0",
+      "canonical_id": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+      "original_name": "베이컨",
+      "canonical_name": "베이컨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:008:candidate:0",
+      "canonical_id": "ingredient:60dcf82073e99673c739ad44bce0dce81a9e099bd3a39264a49762a08b28a0fc",
+      "original_name": "파슬리",
+      "canonical_name": "파슬리",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:009:candidate:0",
+      "canonical_id": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+      "original_name": "식용유",
+      "canonical_name": "식용유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:010:candidate:0",
+      "canonical_id": "ingredient:98b15d6b69f669d8f14ae6740035b8fb271df2e4776a76a88b8393a2a02b57d7",
+      "original_name": "이쑤시개",
+      "canonical_name": "이쑤시개",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:011:candidate:0",
+      "canonical_id": "ingredient:d391549f732056195a1387e7604348c9e0998d735c8772daa82e3e7a8b64b455",
+      "original_name": "포크",
+      "canonical_name": "포크",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6864716",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "64e915da0ebb11e71d7b430f1990f1db48891b39fcb4370e9a69aa65c0221562"
+}

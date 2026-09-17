@@ -1,0 +1,116 @@
+{
+  "recipe_uid": "10000recipe_7082959",
+  "cache_key": "b6d267202686d67de58bee969d0ac0af2cb5f6a61542833b13a769043386c1c4",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 401,
+    "prompt_tokens": 2804,
+    "total_tokens": 3205,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "꽃게무침",
+    "components": [
+      {
+        "raw_name": "꽃게",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "500",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "꽃게 500g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "꽃게",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/2",
+        "unit": "대",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "대파 1/2대"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "청양고추 1개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨 양념장숟가락 기준",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "통깨 양념장숟가락 기준 적당량"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨 양념장숟가락 기준",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 2.031
+}

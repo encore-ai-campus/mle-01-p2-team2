@@ -1,0 +1,69 @@
+{
+  "recipe_uid": "10000recipe_7081283",
+  "payload": {
+    "title": "밤삶기 잘까지는 찐밤 만들기 밤찌기 밤효능 밤 칼집내기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "밤 적당량",
+        "밤",
+        "밤",
+        "food",
+        "[재료]",
+        "적당량",
+        null,
+        null,
+        null
+      ],
+      [
+        "물 적당량",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "적당량",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "밤 적당량",
+      "raw_name": "밤",
+      "ingredient_candidate": "밤",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "적당량",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 적당량",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "적당량",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 12,
+  "sent_steps": 0,
+  "evidence_text": "밤삶기 잘까지는 찐밤 만들기 밤찌기 밤효능 밤 칼집내기\n밤 적당량\n물 적당량"
+}

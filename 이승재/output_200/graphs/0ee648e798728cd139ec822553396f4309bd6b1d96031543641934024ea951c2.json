@@ -1,0 +1,1557 @@
+{
+  "recipe_uid": "10000recipe_6907926",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6907926",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6907926",
+          "title": "콩나물잡채♡매콤하고 아삭한 간편 찜요리",
+          "description": "오늘 준비할 콩나물 요리는 무침이나 국에서 벗어나 보세요. 한꺼번에 넣어 만든 간편 찜요리! 콩나물잡채로 우아하게 입맛을 살려보아용~^^",
+          "servings": "5인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 178000,
+          "source_url": "https://www.10000recipe.com/recipe/6907926",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "콩나물잡채"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "콩나물",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2봉지",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 콩나물 2봉지\", \"웍에 양파 깔고 콩나물을 수북하게 놓고 어묵을 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "콩나물",
+          "name_normalized": "콩나물"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "채썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1개\", \"양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.\", \"웍에 양파 깔고 콩나물을 수북하게 놓고 어묵을 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청피망",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "채썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청피망 1개\", \"양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.\", \"청피망, 홍파프리카를 넣고 1~2분 뒤섞은 후 불을 꺼주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청피망",
+          "name_normalized": "청피망"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍파프리카",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "채썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 홍파프리카 1개\", \"양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.\", \"청피망, 홍파프리카를 넣고 1~2분 뒤섞은 후 불을 꺼주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍파프리카",
+          "name_normalized": "홍파프리카"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "어묵",
+          "role": "food",
+          "group": "재료",
+          "quantity": "4장",
+          "unit": null,
+          "preparation": "채썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 어묵 4장\", \"양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.\", \"웍에 양파 깔고 콩나물을 수북하게 놓고 어묵을 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "어묵",
+          "name_normalized": "어묵"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청량고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "4개",
+          "unit": null,
+          "preparation": "반으로 어슷썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청량고추 4개\", \"청량고추는 반으로 어슷썰구요.\", \"그 위에 당면 올리고 청량고추 올리고 소스를 끼얹어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청량고추",
+          "name_normalized": "청량고추"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "불린당면",
+          "role": "food",
+          "group": "재료",
+          "quantity": "200g",
+          "unit": null,
+          "preparation": "불린",
+          "detail": "찬물에 2시간 담궈 소분해서 냉동 보관해 둔 걸 꺼냈어요.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 불린당면 200g\", \"※당면은 찬물에 2시간 담궈 소분해서 냉동 보관해 둔 걸 꺼냈어요.\", \"그 위에 당면 올리고 청량고추 올리고 소스를 끼얹어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당면",
+          "name_normalized": "당면"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "100cc",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 물 100cc\", \"물을 넣고 뚜껑을 덮어 15분 가열합니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 고춧가루 2T\", \"제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 설탕 2T\", \"제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "7T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 간장 7T\", \"제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "포도씨유",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "4T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 포도씨유 4T\", \"제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "포도씨유",
+          "name_normalized": "포도씨유"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": "마무리",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 통깨 마무리 2T\", \"참기름, 통깨를 뿌려주면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": "마무리",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 참기름 마무리 2T\", \"참기름, 통깨를 뿌려주면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6907926",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6907926:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6907926:component:014:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6907926",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6907926",
+          "title": "콩나물잡채♡매콤하고 아삭한 간편 찜요리",
+          "description": "오늘 준비할 콩나물 요리는 무침이나 국에서 벗어나 보세요. 한꺼번에 넣어 만든 간편 찜요리! 콩나물잡채로 우아하게 입맛을 살려보아용~^^",
+          "servings": "5인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 178000,
+          "source_url": "https://www.10000recipe.com/recipe/6907926",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:f8816934c6cdac79698dcb9c2a73a3e8c542eb699812176707df063af4b6e9b5",
+        "label": "Dish",
+        "properties": {
+          "name": "콩나물잡채"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "콩나물",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2봉지",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 콩나물 2봉지\", \"웍에 양파 깔고 콩나물을 수북하게 놓고 어묵을 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:5ff9c2b20765dea90cc5c14868466e60588deb51b0414a019fb9eb2737b39233",
+        "label": "Ingredient",
+        "properties": {
+          "name": "콩나물",
+          "name_normalized": "콩나물"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "채썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1개\", \"양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.\", \"웍에 양파 깔고 콩나물을 수북하게 놓고 어묵을 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청피망",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "채썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청피망 1개\", \"양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.\", \"청피망, 홍파프리카를 넣고 1~2분 뒤섞은 후 불을 꺼주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:5dbe2840d75f900d2fdaf453157b533d2016806eff7b035094be1976e8a44625",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청피망",
+          "name_normalized": "청피망"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍파프리카",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "채썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 홍파프리카 1개\", \"양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.\", \"청피망, 홍파프리카를 넣고 1~2분 뒤섞은 후 불을 꺼주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:c594f77880fab274752f5d46d748710f0481e37286613108b2dd31d912c3a890",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍파프리카",
+          "name_normalized": "홍파프리카"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "어묵",
+          "role": "food",
+          "group": "재료",
+          "quantity": "4장",
+          "unit": null,
+          "preparation": "채썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 어묵 4장\", \"양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.\", \"웍에 양파 깔고 콩나물을 수북하게 놓고 어묵을 올려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:75b6105a11ce330c8b75d917d8ba35483629d06d8ebdfd15dc984be4e41c7da4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "어묵",
+          "name_normalized": "어묵"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청량고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "4개",
+          "unit": null,
+          "preparation": "반으로 어슷썬",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청량고추 4개\", \"청량고추는 반으로 어슷썰구요.\", \"그 위에 당면 올리고 청량고추 올리고 소스를 끼얹어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:1c5ffe0c16e4f3d6fd150b82dd20cf4f7ba8069d29e383c00fcebbada3ca6436",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청량고추",
+          "name_normalized": "청량고추"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "불린당면",
+          "role": "food",
+          "group": "재료",
+          "quantity": "200g",
+          "unit": null,
+          "preparation": "불린",
+          "detail": "찬물에 2시간 담궈 소분해서 냉동 보관해 둔 걸 꺼냈어요.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 불린당면 200g\", \"※당면은 찬물에 2시간 담궈 소분해서 냉동 보관해 둔 걸 꺼냈어요.\", \"그 위에 당면 올리고 청량고추 올리고 소스를 끼얹어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:bc164b10e9b431956ec68c9a546131ca370670b6834f2354cb6eb5da84fe4805",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당면",
+          "name_normalized": "당면"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "100cc",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 물 100cc\", \"물을 넣고 뚜껑을 덮어 15분 가열합니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 고춧가루 2T\", \"제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 설탕 2T\", \"제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "7T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 간장 7T\", \"제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "포도씨유",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "4T",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 포도씨유 4T\", \"제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:96564eb85dd88ca6cb2844ca19744fee38761b2f20b4dbc0ed203cbdc1b5f4d2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "포도씨유",
+          "name_normalized": "포도씨유"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": "마무리",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 통깨 마무리 2T\", \"참기름, 통깨를 뿌려주면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_6907926:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": "2T",
+          "unit": null,
+          "preparation": null,
+          "detail": "마무리",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 참기름 마무리 2T\", \"참기름, 통깨를 뿌려주면 완성입니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6907926:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6907926",
+        "type": "VARIANT_OF",
+        "target": "dish:f8816934c6cdac79698dcb9c2a73a3e8c542eb699812176707df063af4b6e9b5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:5ff9c2b20765dea90cc5c14868466e60588deb51b0414a019fb9eb2737b39233",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:5dbe2840d75f900d2fdaf453157b533d2016806eff7b035094be1976e8a44625",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:c594f77880fab274752f5d46d748710f0481e37286613108b2dd31d912c3a890",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:75b6105a11ce330c8b75d917d8ba35483629d06d8ebdfd15dc984be4e41c7da4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:1c5ffe0c16e4f3d6fd150b82dd20cf4f7ba8069d29e383c00fcebbada3ca6436",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:bc164b10e9b431956ec68c9a546131ca370670b6834f2354cb6eb5da84fe4805",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:96564eb85dd88ca6cb2844ca19744fee38761b2f20b4dbc0ed203cbdc1b5f4d2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6907926:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6907926:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "콩나물잡채",
+    "components": [
+      {
+        "raw_name": "콩나물",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2봉지",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 콩나물 2봉지",
+          "웍에 양파 깔고 콩나물을 수북하게 놓고 어묵을 올려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "콩나물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "채썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1개",
+          "양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.",
+          "웍에 양파 깔고 콩나물을 수북하게 놓고 어묵을 올려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청피망",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "채썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 청피망 1개",
+          "양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.",
+          "청피망, 홍파프리카를 넣고 1~2분 뒤섞은 후 불을 꺼주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청피망",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍파프리카",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "채썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 홍파프리카 1개",
+          "양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.",
+          "청피망, 홍파프리카를 넣고 1~2분 뒤섞은 후 불을 꺼주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍파프리카",
+        "alternatives": []
+      },
+      {
+        "raw_name": "어묵",
+        "role": "food",
+        "group": "재료",
+        "quantity": "4장",
+        "unit": null,
+        "preparation": "채썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 어묵 4장",
+          "양파, 어묵, 청피망, 홍파프리카를 채썰어주세요.",
+          "웍에 양파 깔고 콩나물을 수북하게 놓고 어묵을 올려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "어묵",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청량고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "4개",
+        "unit": null,
+        "preparation": "반으로 어슷썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 청량고추 4개",
+          "청량고추는 반으로 어슷썰구요.",
+          "그 위에 당면 올리고 청량고추 올리고 소스를 끼얹어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청량고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "불린당면",
+        "role": "food",
+        "group": "재료",
+        "quantity": "200g",
+        "unit": null,
+        "preparation": "불린",
+        "detail": "찬물에 2시간 담궈 소분해서 냉동 보관해 둔 걸 꺼냈어요.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 불린당면 200g",
+          "※당면은 찬물에 2시간 담궈 소분해서 냉동 보관해 둔 걸 꺼냈어요.",
+          "그 위에 당면 올리고 청량고추 올리고 소스를 끼얹어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "100cc",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 물 100cc",
+          "물을 넣고 뚜껑을 덮어 15분 가열합니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 고춧가루 2T",
+          "제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 설탕 2T",
+          "제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "7T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 간장 7T",
+          "제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "포도씨유",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "4T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 포도씨유 4T",
+          "제일 먼저 양념장을 만들고 재료를 잘 씻어 준비해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "포도씨유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": "마무리",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 통깨 마무리 2T",
+          "참기름, 통깨를 뿌려주면 완성입니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": "마무리",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 참기름 마무리 2T",
+          "참기름, 통깨를 뿌려주면 완성입니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "cac166fd1352feb9e75bb12ff2b6d1dc43f127838f8404c12b69a807ec6c7f21",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6907926:dish",
+      "canonical_id": "dish:f8816934c6cdac79698dcb9c2a73a3e8c542eb699812176707df063af4b6e9b5",
+      "original_name": "콩나물잡채",
+      "canonical_name": "콩나물잡채",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:001:candidate:0",
+      "canonical_id": "ingredient:5ff9c2b20765dea90cc5c14868466e60588deb51b0414a019fb9eb2737b39233",
+      "original_name": "콩나물",
+      "canonical_name": "콩나물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:002:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:003:candidate:0",
+      "canonical_id": "ingredient:5dbe2840d75f900d2fdaf453157b533d2016806eff7b035094be1976e8a44625",
+      "original_name": "청피망",
+      "canonical_name": "청피망",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:004:candidate:0",
+      "canonical_id": "ingredient:c594f77880fab274752f5d46d748710f0481e37286613108b2dd31d912c3a890",
+      "original_name": "홍파프리카",
+      "canonical_name": "홍파프리카",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:005:candidate:0",
+      "canonical_id": "ingredient:75b6105a11ce330c8b75d917d8ba35483629d06d8ebdfd15dc984be4e41c7da4",
+      "original_name": "어묵",
+      "canonical_name": "어묵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:006:candidate:0",
+      "canonical_id": "ingredient:1c5ffe0c16e4f3d6fd150b82dd20cf4f7ba8069d29e383c00fcebbada3ca6436",
+      "original_name": "청량고추",
+      "canonical_name": "청량고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:007:candidate:0",
+      "canonical_id": "ingredient:bc164b10e9b431956ec68c9a546131ca370670b6834f2354cb6eb5da84fe4805",
+      "original_name": "당면",
+      "canonical_name": "당면",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:008:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:009:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:010:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:011:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:012:candidate:0",
+      "canonical_id": "ingredient:96564eb85dd88ca6cb2844ca19744fee38761b2f20b4dbc0ed203cbdc1b5f4d2",
+      "original_name": "포도씨유",
+      "canonical_name": "포도씨유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:013:candidate:0",
+      "canonical_id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+      "original_name": "통깨",
+      "canonical_name": "통깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6907926:component:014:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6907926",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "3eb36268a5f448b24841a2b0722d69ce65b81ad204a23417f8608a4a466863f1"
+}

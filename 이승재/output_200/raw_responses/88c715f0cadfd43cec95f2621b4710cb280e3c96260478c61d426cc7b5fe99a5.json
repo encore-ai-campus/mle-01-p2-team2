@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0DTkYdpBkPqKuVw2FMIN6HyZNp",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"깍두기\",\"components\":[{\"raw_name\":\"무\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1.5kg\",\"unit\":null,\"preparation\":\"손질 후\",\"detail\":\"사방 2cm 정도 굵기로 썰어 사용함\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 무 손질 후 1.5kg\",\"무는 들어보았을 때 단단하고 묵직한 것을 고르고 흐르는 물에 표면의 흙과 이물질을 씻어낸 뒤 필러로 껍질을 벗겨 줍니다\",\"무를 필러로 껍질을 벗긴 후 2cm 정도 굵기로 동글동글 썰어줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"무\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"3큰술\",\"unit\":null,\"preparation\":\"다짐\",\"detail\":\"썰어 넣어 버무림\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 대파 다짐 3큰술\",\"양념 넣어 버무려놓고 썰어놓은 대파를 넣어 버무려주면\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"굵은소금\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":\"무를 절일 때 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 굵은소금 1큰술\",\"볼에 썰어놓은 무를 담고 굵은소금 1큰술과 뉴 슈거 1작은술을 넣고 뒤적여 잘 섞어서 30분~40분 정도 절여줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"굵은소금\",\"alternatives\":[]},{\"raw_name\":\"뉴슈거\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"1작은술\",\"unit\":null,\"preparation\":null,\"detail\":\"무를 절일 때 사용\",\"is_required\":true,\"alternative_mode\":\"replacement\",\"evidence\":[\"[재료] 뉴슈거 1작은술\",\"볼에 썰어놓은 무를 담고 굵은소금 1큰술과 뉴 슈거 1작은술을 넣고 뒤적여 잘 섞어서 30분~40분 정도 절여줍니다\",\"뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"뉴슈거\",\"alternatives\":[{\"raw_name\":\"설탕\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다\"],\"ingredient_candidate\":\"설탕\"},{\"raw_name\":\"물엿\",\"quantity\":\"2큰술\",\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"뉴 슈거 대신 설탕 1큰술이나 물엿 2큰술 정도로 대체 가능합니다\"],\"ingredient_candidate\":\"물엿\"}]},{\"raw_name\":\"고춧가루\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"6큰술\",\"unit\":null,\"preparation\":null,\"detail\":\"일부는 무에 먼저 버무리고 나머지는 양념장에 섞음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 고춧가루 6큰술\",\"갈아놓은 재료에 고춧가루 6큰술 중 4큰술을 넣고 섞어줍니다\",\"절여서 물기 뺀 무에 고춧가루 2큰술을 넣고 뒤섞어 버무려주면\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"멸치액젓\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"2큰술\",\"unit\":null,\"preparation\":null,\"detail\":\"양념장에 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 멸치액젓 2큰술\",\"볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"멸치액젓\",\"alternatives\":[]},{\"raw_name\":\"까나리액젓\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"2큰술\",\"unit\":null,\"preparation\":null,\"detail\":\"양념장에 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 까나리액젓 2큰술\",\"까나리액젓 2큰술과 생강가루 밥 수북하게 1큰술을 넣어줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"까나리액젓\",\"alternatives\":[]},{\"raw_name\":\"새우젓\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":\"양념장에 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 새우젓 1큰술\",\"볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"새우젓\",\"alternatives\":[]},{\"raw_name\":\"생강가루\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"0.2작은술\",\"unit\":null,\"preparation\":null,\"detail\":\"원문에서 수량 표현이 혼재됨\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 생강가루 0.2작은술\",\"까나리액젓 2큰술과 생강가루 밥 수북하게 1큰술을 넣어줍니다\"],\"quality_flags\":[\"QUANTITY_CONFLICT\"],\"ingredient_candidate\":\"생강가루\",\"alternatives\":[]},{\"raw_name\":\"밥\",\"role\":\"food\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":\"믹서기로 살짝 갈아 양념장에 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 밥 1큰술\",\"밥이 있어서 믹서기로 살짝 갈아줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"밥\",\"alternatives\":[]},{\"raw_name\":\"다진 마늘\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":\"다진\",\"detail\":\"양념장에 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 다진 마늘 1큰술\",\"볼에 멸치 액젓 2큰술 새우젓 1큰술, 다진 마늘 1큰술을 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530817,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1606,
+    "prompt_tokens": 3855,
+    "total_tokens": 5461,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

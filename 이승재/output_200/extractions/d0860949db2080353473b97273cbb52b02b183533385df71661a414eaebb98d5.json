@@ -1,0 +1,315 @@
+{
+  "recipe_uid": "10000recipe_2660290",
+  "cache_key": "7f6aba3904eab3524c6d79e936c7df73d83971cc40b99d04123f160960cb7a32",
+  "model": "gpt-5.4-mini",
+  "input_hash": "15f3a0961019e5f81ded28785de200586f5eb576ad596c21a7b3426bc80b4486",
+  "source_record_hash": "424be5a19a1784424ebe69ee07e73a3af8952f72ee556d812f4b98f2e19ee11c",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "매운 소갈비찜",
+    "components": [
+      {
+        "raw_name": "쇠갈비",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1.5kg",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 쇠갈비 1.5kg",
+          "핏물을 뺀 갈비에 물 10컵 정도를 붓고 소주와 월계수잎을 넣고 1시간 정도 삶아 주세요.",
+          "냄비에 삶은 갈비와 감자, 양념장, 기름을 제거한 갈비삶은 국물을 넣고 뭉근히 조려 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쇠갈비",
+        "alternatives": []
+      },
+      {
+        "raw_name": "감자",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3개",
+        "unit": null,
+        "preparation": null,
+        "detail": "껍질을 벗긴 후 삶아 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 감자 3개",
+          "감자는 껍질을 벗긴 후 냄비에 감자가 잠길 정도의 물을 붓고 약 10분 정도 삶아 건져 주세요.",
+          "냄비에 삶은 갈비와 감자, 양념장, 기름을 제거한 갈비삶은 국물을 넣고 뭉근히 조려 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "감자",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소주",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1/2컵",
+        "unit": null,
+        "preparation": null,
+        "detail": "갈비를 삶을 때 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소주 1/2컵",
+          "핏물을 뺀 갈비에 물 10컵 정도를 붓고 소주와 월계수잎을 넣고 1시간 정도 삶아 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "월계수잎",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3장",
+        "unit": null,
+        "preparation": null,
+        "detail": "갈비를 삶을 때 사용",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 월계수잎 3장",
+          "핏물을 뺀 갈비에 물 10컵 정도를 붓고 소주와 월계수잎을 넣고 1시간 정도 삶아 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "월계수잎",
+        "alternatives": []
+      },
+      {
+        "raw_name": "은행",
+        "role": "food",
+        "group": "재료",
+        "quantity": "15알",
+        "unit": null,
+        "preparation": null,
+        "detail": "고명",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 은행 고명 15알"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "은행",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/3대",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1/3대"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "5큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 간장 5큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 국간장 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "강력한 매운맛을 원하시면2-3큰술 5큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 고춧가루 강력한 매운맛을 원하시면2-3큰술 5큰술"
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_QUANTITY"
+        ],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": "양념장",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 다진마늘 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물엿",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "3큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 물엿 3큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물엿",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2작은술",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 통깨 2작은술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후춧가루",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1작은술",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 후춧가루 1작은술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "배",
+        "role": "food",
+        "group": "양념",
+        "quantity": "1/4쪽",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장에 갈아 넣음",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 배 1/4쪽",
+          "전 집에 바나나와 배, 토마토가 있어서 갈아 넣었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "배",
+        "alternatives": []
+      },
+      {
+        "raw_name": "바나나",
+        "role": "food",
+        "group": "양념",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장에 갈아 넣음",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 바나나 1개",
+          "전 집에 바나나와 배, 토마토가 있어서 갈아 넣었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "바나나",
+        "alternatives": []
+      },
+      {
+        "raw_name": "토마토",
+        "role": "food",
+        "group": "양념",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장에 갈아 넣음",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 토마토 1개",
+          "전 집에 바나나와 배, 토마토가 있어서 갈아 넣었습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1625,
+    "prompt_tokens": 3150,
+    "total_tokens": 4775,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

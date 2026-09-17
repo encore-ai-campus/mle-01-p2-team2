@@ -1,0 +1,319 @@
+{
+  "recipe_uid": "10000recipe_4584564",
+  "cache_key": "e3ac83173c24054efe12a0d2e12916676650925a9a40575ea96fda7ed0a1578f",
+  "model": "gpt-5.4-mini",
+  "input_hash": "6e331b18707b0d8b4c633c77f330400bf9937acceb8825c7d64c7602ee4306c5",
+  "source_record_hash": "0e48e0c2c4b862141cf9c38b9a9cc400dd527db40f31372b548f9b63ceacabfb",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "돼지등갈비 양념구이",
+    "components": [
+      {
+        "raw_name": "돼지 등갈비",
+        "role": "food",
+        "group": "재료",
+        "quantity": "500g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 돼지 등갈비 500g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돼지등갈비",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "삶기 재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[삶기 재료] 양파 1개",
+          "등갈비는 양파나 대파 후추 마늘 된장 맛술등의 재료를 넣고 푹 삶아 주시는데요.."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파흰부분",
+        "role": "food",
+        "group": "삶기 재료",
+        "quantity": "2개",
+        "unit": null,
+        "preparation": "흰부분",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[삶기 재료] 대파흰부분 2개",
+          "등갈비는 양파나 대파 후추 마늘 된장 맛술등의 재료를 넣고 푹 삶아 주시는데요.."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통마늘",
+        "role": "food",
+        "group": "삶기 재료",
+        "quantity": "5톨",
+        "unit": null,
+        "preparation": "통",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[삶기 재료] 통마늘 5톨",
+          "등갈비는 양파나 대파 후추 마늘 된장 맛술등의 재료를 넣고 푹 삶아 주시는데요.."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통후추",
+        "role": "seasoning",
+        "group": "삶기 재료",
+        "quantity": "5알",
+        "unit": null,
+        "preparation": "통",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[삶기 재료] 통후추 5알",
+          "등갈비는 양파나 대파 후추 마늘 된장 맛술등의 재료를 넣고 푹 삶아 주시는데요.."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "된장",
+        "role": "seasoning",
+        "group": "삶기 재료",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[삶기 재료] 된장 1큰술",
+          "등갈비는 양파나 대파 후추 마늘 된장 맛술등의 재료를 넣고 푹 삶아 주시는데요.."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "된장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛술",
+        "role": "seasoning",
+        "group": "삶기 재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[삶기 재료] 맛술 약간",
+          "등갈비는 양파나 대파 후추 마늘 된장 맛술등의 재료를 넣고 푹 삶아 주시는데요.."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛술",
+        "alternatives": []
+      },
+      {
+        "raw_name": "스테이크소스",
+        "role": "seasoning",
+        "group": "양념소스",
+        "quantity": "4큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념소스] 스테이크소스 4큰술",
+          "양념장을 분량대로 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "스테이크소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": "양념소스",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념소스] 고추장 1큰술",
+          "양념장을 분량대로 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "머스타드소스",
+        "role": "seasoning",
+        "group": "양념소스",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념소스] 머스타드소스 1큰술",
+          "양념장을 분량대로 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "머스타드소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "케찹",
+        "role": "seasoning",
+        "group": "양념소스",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념소스] 케찹 1큰술",
+          "양념장을 분량대로 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "케찹",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "양념소스",
+        "quantity": "1작은술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념소스] 참기름 1작은술",
+          "양념장을 분량대로 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "양념소스",
+        "quantity": "1작은술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념소스] 다진마늘 1작은술",
+          "양념장을 분량대로 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리고당",
+        "role": "seasoning",
+        "group": "양념소스",
+        "quantity": "1.5큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념소스] 올리고당 1.5큰술",
+          "양념장을 분량대로 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리고당",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "seasoning",
+        "group": "양념소스",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념소스] 물 1큰술",
+          "양념장을 분량대로 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후춧가루",
+        "role": "seasoning",
+        "group": "양념소스",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념소스] 후춧가루 약간",
+          "양념장을 분량대로 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1642,
+    "prompt_tokens": 3057,
+    "total_tokens": 4699,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

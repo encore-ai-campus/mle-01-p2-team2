@@ -1,0 +1,179 @@
+{
+  "recipe_uid": "10000recipe_4116039",
+  "payload": {
+    "title": "불리지 않고 손쉽게 만드는 검은콩자반",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "검은콩 2컵",
+        "검은콩",
+        "검은콩",
+        "food",
+        "[재료]",
+        "2",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "물 3컵",
+        "물",
+        "물",
+        "seasoning",
+        "[양념]",
+        "3",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "식용유 1T",
+        "식용유",
+        "식용유",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "간장 8T",
+        "간장",
+        "간장",
+        "seasoning",
+        "[양념]",
+        "8",
+        "T",
+        null,
+        null
+      ],
+      [
+        "올리고당 6T",
+        "올리고당",
+        "올리고당",
+        "seasoning",
+        "[양념]",
+        "6",
+        "T",
+        null,
+        null
+      ],
+      [
+        "맛술 2T",
+        "맛술",
+        "맛술",
+        "seasoning",
+        "[양념]",
+        "2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "설탕 2T",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[양념]",
+        "2",
+        "T",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "검은콩 2컵",
+      "raw_name": "검은콩",
+      "ingredient_candidate": "검은콩",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 3컵",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "3",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "식용유 1T",
+      "raw_name": "식용유",
+      "ingredient_candidate": "식용유",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 8T",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "8",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리고당 6T",
+      "raw_name": "올리고당",
+      "ingredient_candidate": "올리고당",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "6",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "맛술 2T",
+      "raw_name": "맛술",
+      "ingredient_candidate": "맛술",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 2T",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "불리지 않고 손쉽게 만드는 검은콩자반\n검은콩 2컵\n물 3컵\n식용유 1T\n간장 8T\n올리고당 6T\n맛술 2T\n설탕 2T"
+}

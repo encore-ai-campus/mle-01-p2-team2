@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZV1dvJeJrrUZ5ZQoYT9nWQ9O1x",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"돼지등갈비 양념구이\",\"components\":[{\"raw_name\":\"돼지 등갈비\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"500\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"돼지 등갈비 500g\"],\"quality_flags\":[],\"ingredient_candidate\":\"돼지 등갈비\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"[삶기 재료]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"양파 1개\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"대파흰부분\",\"role\":\"food\",\"group\":\"[삶기 재료]\",\"quantity\":\"2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"대파흰부분 2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파흰부분\",\"alternatives\":[]},{\"raw_name\":\"통마늘\",\"role\":\"food\",\"group\":\"[삶기 재료]\",\"quantity\":\"5\",\"unit\":\"톨\",\"preparation\":\"통\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"통마늘 5톨\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"통후추\",\"role\":\"food\",\"group\":\"[삶기 재료]\",\"quantity\":\"5\",\"unit\":\"알\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"통후추 5알\"],\"quality_flags\":[],\"ingredient_candidate\":\"통후추\",\"alternatives\":[]},{\"raw_name\":\"된장\",\"role\":\"seasoning\",\"group\":\"[삶기 재료]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"된장 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"된장\",\"alternatives\":[]},{\"raw_name\":\"맛술\",\"role\":\"seasoning\",\"group\":\"[삶기 재료]\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"맛술 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛술\",\"alternatives\":[]},{\"raw_name\":\"스테이크소스\",\"role\":\"seasoning\",\"group\":\"[양념소스]\",\"quantity\":\"4\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"스테이크소스 4큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"스테이크소스\",\"alternatives\":[]},{\"raw_name\":\"고추장\",\"role\":\"seasoning\",\"group\":\"[양념소스]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"고추장 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추장\",\"alternatives\":[]},{\"raw_name\":\"머스타드소스\",\"role\":\"seasoning\",\"group\":\"[양념소스]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"머스타드소스 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"머스타드소스\",\"alternatives\":[]},{\"raw_name\":\"케찹\",\"role\":\"seasoning\",\"group\":\"[양념소스]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"케찹 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"케찹\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"[양념소스]\",\"quantity\":\"1\",\"unit\":\"작은술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"참기름 1작은술\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"[양념소스]\",\"quantity\":\"1\",\"unit\":\"작은술\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다진마늘 1작은술\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"올리고당\",\"role\":\"seasoning\",\"group\":\"[양념소스]\",\"quantity\":\"1.5\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"올리고당 1.5큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리고당\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"seasoning\",\"group\":\"[양념소스]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"물 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"후춧가루\",\"role\":\"seasoning\",\"group\":\"[양념소스]\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"후춧가루 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544537,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1250,
+    "prompt_tokens": 3189,
+    "total_tokens": 4439,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

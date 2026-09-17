@@ -1,0 +1,166 @@
+{
+  "recipe_uid": "10000recipe_7082328",
+  "cache_key": "b1399e63d52029d9abc16a3a0f8950696277ae74efee55512e8df7cacee9bb86",
+  "model": "gpt-5.4-mini",
+  "input_hash": "5adf320816d60009a681d2468349dc72a305ef01c452e12d5f26bfb0d0582552",
+  "source_record_hash": "11f63df292b89df47767d248f1711d07bf7e2e9d761ce9ca83a58d918b5bba64",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "더블치즈햄토스트",
+    "components": [
+      {
+        "raw_name": "통밀식빵",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": null,
+        "detail": "일반 우유 식빵 등으로 변경가능",
+        "is_required": null,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장",
+          "저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식빵",
+        "alternatives": [
+          {
+            "raw_name": "일반 식빵",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장",
+              "저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다."
+            ],
+            "ingredient_candidate": "식빵"
+          },
+          {
+            "raw_name": "우유 식빵",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "[재료] 통밀식빵 일반 우유 식빵 등으로 변경가능 2장",
+              "저는 통밀식빵을 썼지만 일반, 우유 식빵 등으로 변경가능합니다."
+            ],
+            "ingredient_candidate": "식빵"
+          }
+        ]
+      },
+      {
+        "raw_name": "사각모짜렐라치즈",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 사각모짜렐라치즈 2장",
+          "마요네즈를 바른 빵 위에 사각모짜렐라치즈를 올려주시고요.",
+          "그리고 다시 사각모짜렐라치즈 1장을 올리고 마지막으로 허니 머스터드를 바른 빵을 덮어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "모짜렐라치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "체다치즈",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 체다치즈 1장",
+          "샌드위치햄도 1장, 체다치즈도 1장 올리고 다시 샌드위치햄을 1장 덮어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "체다치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "샌드위치햄",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 샌드위치햄 2장",
+          "샌드위치햄도 1장, 체다치즈도 1장 올리고 다시 샌드위치햄을 1장 덮어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "햄",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마요네즈",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1/2숟갈",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 마요네즈 1/2숟갈",
+          "먼저 통밀식빵 한장에는 마요네즈 1/2숟갈을 또 다른 장에는 허니머스터드 1/2숟갈을 골고루 발라주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마요네즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "허니머스터드",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1/2숟갈",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 허니머스터드 1/2숟갈",
+          "먼저 통밀식빵 한장에는 마요네즈 1/2숟갈을 또 다른 장에는 허니머스터드 1/2숟갈을 골고루 발라주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "허니머스터드",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 975,
+    "prompt_tokens": 3119,
+    "total_tokens": 4094,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

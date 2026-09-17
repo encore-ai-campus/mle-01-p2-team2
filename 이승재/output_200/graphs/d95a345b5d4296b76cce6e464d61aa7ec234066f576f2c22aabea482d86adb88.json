@@ -1,0 +1,2548 @@
+{
+  "recipe_uid": "10000recipe_6887568",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6887568",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6887568",
+          "title": "모든 양념 마스-타♡간장베이스양념",
+          "description": "간장이 베이스가 되는 양념들의 황금비율을 알려드릴께요 : ) 세상의 모든 레시피 만개의레시피",
+          "servings": null,
+          "cooking_time": null,
+          "difficulty": null,
+          "views": 87000,
+          "source_url": "https://www.10000recipe.com/recipe/6887568",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "진간장",
+          "role": "seasoning",
+          "group": "조림양념장 필수재료",
+          "quantity": "4숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[조림양념장 필수재료] 진간장 4숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "조림양념장 필수재료",
+          "quantity": "1/2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[조림양념장 필수재료] 설탕 1/2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "조림양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[조림양념장 필수재료] 물 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물엿",
+          "role": "seasoning",
+          "group": "조림양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[조림양념장 필수재료] 물엿 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물엿",
+          "name_normalized": "물엿"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양조간장",
+          "role": "seasoning",
+          "group": "맑은간장양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[맑은간장양념장 필수재료] 양조간장 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진파",
+          "role": "food",
+          "group": "맑은간장양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[맑은간장양념장 필수재료] 다진파 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파",
+          "name_normalized": "파"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "food",
+          "group": "맑은간장양념장 필수재료",
+          "quantity": "1/2숟가락",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[맑은간장양념장 필수재료] 다진마늘 1/2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "맑은간장양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[맑은간장양념장 필수재료] 참기름 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "데리야끼양념장 필수재료",
+          "quantity": "3숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[데리야끼양념장 필수재료] 간장 3숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "데리야끼양념장 필수재료",
+          "quantity": "3숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[데리야끼양념장 필수재료] 설탕 3숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다시마육수",
+          "role": "food",
+          "group": "데리야끼양념장 필수재료",
+          "quantity": "4숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[데리야끼양념장 필수재료] 다시마육수 4숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다시마육수",
+          "name_normalized": "다시마육수"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청주",
+          "role": "seasoning",
+          "group": "데리야끼양념장 필수재료",
+          "quantity": "3숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[데리야끼양념장 필수재료] 청주 3숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청주",
+          "name_normalized": "청주"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강즙",
+          "role": "food",
+          "group": "데리야끼양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[데리야끼양념장 필수재료] 생강즙 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "초간장양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초간장양념장 필수재료] 간장 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "초간장양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초간장양념장 필수재료] 물 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:015:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": "초간장양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초간장양념장 필수재료] 식초 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:016:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "초간장양념장 필수재료",
+          "quantity": "1/2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초간장양념장 필수재료] 설탕 1/2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:017:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "불고기양념장 필수재료",
+          "quantity": "5숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 간장 5숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:018:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:019",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "불고기양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 설탕 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:019",
+          "index": 19
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:019:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:020",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청주",
+          "role": "seasoning",
+          "group": "불고기양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 청주 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:020",
+          "index": 20
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:020:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청주",
+          "name_normalized": "청주"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:021",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "food",
+          "group": "불고기양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 다진마늘 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:021",
+          "index": 21
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:021:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:022",
+        "label": "Component",
+        "properties": {
+          "raw_name": "배즙",
+          "role": "food",
+          "group": "불고기양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 배즙 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:022",
+          "index": 22
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:022:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배",
+          "name_normalized": "배"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:023",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파즙",
+          "role": "food",
+          "group": "불고기양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 양파즙 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:023",
+          "index": 23
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:023:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:024",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "불고기양념장 필수재료",
+          "quantity": "1/3숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 후추 1/3숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:024",
+          "index": 24
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:024:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:025",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "불고기양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 참기름 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:025",
+          "index": 25
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:025:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:014:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:015",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:015:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:016",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:016:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:017",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:017:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:018",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:018:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:019",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:019",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:019:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:020",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:020",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:020:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:021",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:021",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:021:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:022",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:022",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:022:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:023",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:023",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:023:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:024",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:024",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:024:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:025",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:025",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6887568:component:025:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6887568",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6887568",
+          "title": "모든 양념 마스-타♡간장베이스양념",
+          "description": "간장이 베이스가 되는 양념들의 황금비율을 알려드릴께요 : ) 세상의 모든 레시피 만개의레시피",
+          "servings": null,
+          "cooking_time": null,
+          "difficulty": null,
+          "views": 87000,
+          "source_url": "https://www.10000recipe.com/recipe/6887568",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "진간장",
+          "role": "seasoning",
+          "group": "조림양념장 필수재료",
+          "quantity": "4숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[조림양념장 필수재료] 진간장 4숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "조림양념장 필수재료",
+          "quantity": "1/2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[조림양념장 필수재료] 설탕 1/2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "조림양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[조림양념장 필수재료] 물 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물엿",
+          "role": "seasoning",
+          "group": "조림양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[조림양념장 필수재료] 물엿 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물엿",
+          "name_normalized": "물엿"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양조간장",
+          "role": "seasoning",
+          "group": "맑은간장양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[맑은간장양념장 필수재료] 양조간장 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진파",
+          "role": "food",
+          "group": "맑은간장양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[맑은간장양념장 필수재료] 다진파 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:a15c2560ff0b688f3f6f7d97d419928328fcc8c5a56d4beb51d2e5c264a4af78",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파",
+          "name_normalized": "파"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "food",
+          "group": "맑은간장양념장 필수재료",
+          "quantity": "1/2숟가락",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[맑은간장양념장 필수재료] 다진마늘 1/2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "맑은간장양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[맑은간장양념장 필수재료] 참기름 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "데리야끼양념장 필수재료",
+          "quantity": "3숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[데리야끼양념장 필수재료] 간장 3숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "데리야끼양념장 필수재료",
+          "quantity": "3숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[데리야끼양념장 필수재료] 설탕 3숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다시마육수",
+          "role": "food",
+          "group": "데리야끼양념장 필수재료",
+          "quantity": "4숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[데리야끼양념장 필수재료] 다시마육수 4숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:603866cf40b2cfb806a5f09e974f2d7ca5531cc2ded2417237152c03ab9026ab",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다시마육수",
+          "name_normalized": "다시마육수"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청주",
+          "role": "seasoning",
+          "group": "데리야끼양념장 필수재료",
+          "quantity": "3숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[데리야끼양념장 필수재료] 청주 3숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청주",
+          "name_normalized": "청주"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강즙",
+          "role": "food",
+          "group": "데리야끼양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[데리야끼양념장 필수재료] 생강즙 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "초간장양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초간장양념장 필수재료] 간장 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "초간장양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초간장양념장 필수재료] 물 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": "초간장양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초간장양념장 필수재료] 식초 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "초간장양념장 필수재료",
+          "quantity": "1/2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초간장양념장 필수재료] 설탕 1/2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "불고기양념장 필수재료",
+          "quantity": "5숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 간장 5숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:019",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "불고기양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 설탕 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:019",
+          "index": 19
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:020",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청주",
+          "role": "seasoning",
+          "group": "불고기양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 청주 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:020",
+          "index": 20
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:021",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "food",
+          "group": "불고기양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 다진마늘 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:021",
+          "index": 21
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:022",
+        "label": "Component",
+        "properties": {
+          "raw_name": "배즙",
+          "role": "food",
+          "group": "불고기양념장 필수재료",
+          "quantity": "2숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 배즙 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:022",
+          "index": 22
+        }
+      },
+      {
+        "id": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배",
+          "name_normalized": "배"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:023",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파즙",
+          "role": "food",
+          "group": "불고기양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 양파즙 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:023",
+          "index": 23
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:024",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "불고기양념장 필수재료",
+          "quantity": "1/3숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 후추 1/3숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:024",
+          "index": 24
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_6887568:component:025",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "불고기양념장 필수재료",
+          "quantity": "1숟가락",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[불고기양념장 필수재료] 참기름 1숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6887568:component:025",
+          "index": 25
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:a15c2560ff0b688f3f6f7d97d419928328fcc8c5a56d4beb51d2e5c264a4af78",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:603866cf40b2cfb806a5f09e974f2d7ca5531cc2ded2417237152c03ab9026ab",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:016",
+        "type": "INGREDIENT",
+        "target": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:017",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:018",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:019",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:019",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:020",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:020",
+        "type": "INGREDIENT",
+        "target": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:021",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:021",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:022",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:022",
+        "type": "INGREDIENT",
+        "target": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:023",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:023",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:024",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:024",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6887568:component:025",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6887568:component:025",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": null,
+    "components": [
+      {
+        "raw_name": "진간장",
+        "role": "seasoning",
+        "group": "조림양념장 필수재료",
+        "quantity": "4숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[조림양념장 필수재료] 진간장 4숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "조림양념장 필수재료",
+        "quantity": "1/2숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[조림양념장 필수재료] 설탕 1/2숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "조림양념장 필수재료",
+        "quantity": "2숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[조림양념장 필수재료] 물 2숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물엿",
+        "role": "seasoning",
+        "group": "조림양념장 필수재료",
+        "quantity": "1숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[조림양념장 필수재료] 물엿 1숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물엿",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양조간장",
+        "role": "seasoning",
+        "group": "맑은간장양념장 필수재료",
+        "quantity": "2숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[맑은간장양념장 필수재료] 양조간장 2숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진파",
+        "role": "food",
+        "group": "맑은간장양념장 필수재료",
+        "quantity": "1숟가락",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[맑은간장양념장 필수재료] 다진파 1숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "food",
+        "group": "맑은간장양념장 필수재료",
+        "quantity": "1/2숟가락",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[맑은간장양념장 필수재료] 다진마늘 1/2숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "맑은간장양념장 필수재료",
+        "quantity": "1숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[맑은간장양념장 필수재료] 참기름 1숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "데리야끼양념장 필수재료",
+        "quantity": "3숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[데리야끼양념장 필수재료] 간장 3숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "데리야끼양념장 필수재료",
+        "quantity": "3숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[데리야끼양념장 필수재료] 설탕 3숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다시마육수",
+        "role": "food",
+        "group": "데리야끼양념장 필수재료",
+        "quantity": "4숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[데리야끼양념장 필수재료] 다시마육수 4숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다시마육수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청주",
+        "role": "seasoning",
+        "group": "데리야끼양념장 필수재료",
+        "quantity": "3숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[데리야끼양념장 필수재료] 청주 3숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강즙",
+        "role": "food",
+        "group": "데리야끼양념장 필수재료",
+        "quantity": "1숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[데리야끼양념장 필수재료] 생강즙 1숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "초간장양념장 필수재료",
+        "quantity": "2숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초간장양념장 필수재료] 간장 2숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "초간장양념장 필수재료",
+        "quantity": "2숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초간장양념장 필수재료] 물 2숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": "초간장양념장 필수재료",
+        "quantity": "1숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초간장양념장 필수재료] 식초 1숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "초간장양념장 필수재료",
+        "quantity": "1/2숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초간장양념장 필수재료] 설탕 1/2숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "불고기양념장 필수재료",
+        "quantity": "5숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[불고기양념장 필수재료] 간장 5숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "불고기양념장 필수재료",
+        "quantity": "2숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[불고기양념장 필수재료] 설탕 2숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청주",
+        "role": "seasoning",
+        "group": "불고기양념장 필수재료",
+        "quantity": "2숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[불고기양념장 필수재료] 청주 2숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "food",
+        "group": "불고기양념장 필수재료",
+        "quantity": "1숟가락",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[불고기양념장 필수재료] 다진마늘 1숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "배즙",
+        "role": "food",
+        "group": "불고기양념장 필수재료",
+        "quantity": "2숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[불고기양념장 필수재료] 배즙 2숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "배",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파즙",
+        "role": "food",
+        "group": "불고기양념장 필수재료",
+        "quantity": "1숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[불고기양념장 필수재료] 양파즙 1숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "불고기양념장 필수재료",
+        "quantity": "1/3숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[불고기양념장 필수재료] 후추 1/3숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "불고기양념장 필수재료",
+        "quantity": "1숟가락",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[불고기양념장 필수재료] 참기름 1숟가락"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "12d40d8c3db766c873c95b3be9d7e3bdfc53137a0b411e0369e39c51203ad04e",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6887568:component:001:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:002:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:003:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:004:candidate:0",
+      "canonical_id": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+      "original_name": "물엿",
+      "canonical_name": "물엿",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:005:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:006:candidate:0",
+      "canonical_id": "ingredient:a15c2560ff0b688f3f6f7d97d419928328fcc8c5a56d4beb51d2e5c264a4af78",
+      "original_name": "파",
+      "canonical_name": "파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:007:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:008:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:009:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:010:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:011:candidate:0",
+      "canonical_id": "ingredient:603866cf40b2cfb806a5f09e974f2d7ca5531cc2ded2417237152c03ab9026ab",
+      "original_name": "다시마육수",
+      "canonical_name": "다시마육수",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:012:candidate:0",
+      "canonical_id": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+      "original_name": "청주",
+      "canonical_name": "청주",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:013:candidate:0",
+      "canonical_id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+      "original_name": "생강",
+      "canonical_name": "생강",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:014:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:015:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:016:candidate:0",
+      "canonical_id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+      "original_name": "식초",
+      "canonical_name": "식초",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:017:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:018:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:019:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:020:candidate:0",
+      "canonical_id": "ingredient:f472dfd2dc0214a8f46af178d138b4d793ee41cd6fbb5c2c8f1888bf93f1f484",
+      "original_name": "청주",
+      "canonical_name": "청주",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:021:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:022:candidate:0",
+      "canonical_id": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+      "original_name": "배",
+      "canonical_name": "배",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:023:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:024:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6887568:component:025:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6887568",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "80556c233e0d25d8a81ffd9b8e0e5232ce5d0ddff02be0093bb5870ceae3c01c"
+}

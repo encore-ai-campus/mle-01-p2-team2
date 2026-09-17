@@ -1,0 +1,150 @@
+{
+  "recipe_uid": "10000recipe_6707909",
+  "cache_key": "6fc8333c5e630a592614bfe5338c4ddcb7aa8cb3ca965ef86631eb386b6fd443",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 498,
+    "prompt_tokens": 2784,
+    "total_tokens": 3282,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "샌드위치",
+    "components": [
+      {
+        "raw_name": "빵",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "빵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "빵",
+        "alternatives": []
+      },
+      {
+        "raw_name": "치즈",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "치즈"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "햄",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "햄"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "햄",
+        "alternatives": []
+      },
+      {
+        "raw_name": "각종야채",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "각종야채"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "각종야채",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "토마토",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "토마토"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란 삶은것",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": "삶은것",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "계란 삶은것"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란 삶은것",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 2.531
+}

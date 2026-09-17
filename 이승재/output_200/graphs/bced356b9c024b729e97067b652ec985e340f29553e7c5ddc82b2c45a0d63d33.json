@@ -1,0 +1,1140 @@
+{
+  "recipe_uid": "10000recipe_6879731",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6879731",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6879731",
+          "title": "초간단 동치미 담그는 법~시원시원 톡!",
+          "description": "지난번 담근 동치미가 아주 잘 익어서 션한 맛을 내네요. 김장철이면 꼭 담는 동치미인데 올해는 조금 일찍 담근 것이 있네요. 10월 말경 담근 건데 잘 익어서 맛이 꽤 시원하더라고요. 시원한 동치미 맛을 못 잊어서 이번에 담근 것 다 먹고 이번 김장엔 더 넉넉하게 담가보려고해요. 속이 더부룩하거나 체했을때 요고 한 사발이면 속이 뻥 뚫리겠지요?",
+          "servings": "6인분 이상",
+          "cooking_time": "30분 이내",
+          "difficulty": "아무나",
+          "views": 243000,
+          "source_url": "https://www.10000recipe.com/recipe/6879731",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "동치미"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "동치미재료",
+          "quantity": "3개",
+          "unit": null,
+          "preparation": null,
+          "detail": "배추김치 담고 남은 무도 같이 넣었어요.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 무 3개\", \"김치 담고 남은 무가 있었어요.\", \"배추김치 담고 남은 무도같이 넣었어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍갓",
+          "role": "food",
+          "group": "동치미재료",
+          "quantity": "3줄기",
+          "unit": null,
+          "preparation": null,
+          "detail": "잎은 조금 잘라냈어요.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 홍갓 3줄기\", \"홍갓도 준비했어요.\", \"홍갓은 붉은 물이 나와서 잎은 조금 잘라냈어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍갓",
+          "name_normalized": "홍갓"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "동치미재료",
+          "quantity": "2대",
+          "unit": null,
+          "preparation": null,
+          "detail": "동치미 무보다 짧게 자름.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 대파 2대\", \"대파는 동치미 무보다 짧게 ~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "동치미재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "두툼하게 자름",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 양파 1개\", \"양파와 홍갓도 준비했어요.\", \"양파도 두툼하게 자르고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "동치미재료",
+          "quantity": "5큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "종이팩에 담아서 같이 동치미에 넣고 익힘.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 마늘 5큰술\", \"생강과 마늘은 종이팩에 담아서 같이 동치미에 넣고 익힐 거예요.\", \"마늘 팩은 동치미 국물 속으로 퐁당!!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강",
+          "role": "seasoning",
+          "group": "동치미재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "종이팩에 담아서 같이 동치미에 넣고 익힘.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 생강 1큰술\", \"생강과 마늘은 종이팩에 담아서 같이 동치미에 넣고 익힐 거예요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "동치미재료",
+          "quantity": "8큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "무를 조금 절이고 간을 더함.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 소금 8큰술\", \"소금 3 큰 술을 넣어 무를 조금 절였어요.\", \"소금 5 큰 술 더 넣어 간을 더했어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀풀",
+          "role": "food",
+          "group": "동치미재료",
+          "quantity": "6큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "물에 풀어 넣음.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 찹쌀풀 6큰술\", \"찹쌀 풀 6 큰 술도 넣어 풀어줬고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀풀",
+          "name_normalized": "찹쌀풀"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "뉴슈가",
+          "role": "seasoning",
+          "group": "동치미재료",
+          "quantity": "0.8작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": "단맛을 줌.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 뉴슈가 0.8작은술\", \"뉴슈거도 0.8 작은 술 넣어 단맛을 줬어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "뉴슈가",
+          "name_normalized": "뉴슈가"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "동치미재료",
+          "quantity": "4L",
+          "unit": null,
+          "preparation": null,
+          "detail": "무가 잠기도록 붓는 물.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 물 4L\", \"물은 4L 부어서 동치미 무가 잠기도록 만들고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6879731",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6879731:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879731:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879731:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879731:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879731:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879731:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879731:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879731:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879731:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879731:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879731:component:010:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6879731",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6879731",
+          "title": "초간단 동치미 담그는 법~시원시원 톡!",
+          "description": "지난번 담근 동치미가 아주 잘 익어서 션한 맛을 내네요. 김장철이면 꼭 담는 동치미인데 올해는 조금 일찍 담근 것이 있네요. 10월 말경 담근 건데 잘 익어서 맛이 꽤 시원하더라고요. 시원한 동치미 맛을 못 잊어서 이번에 담근 것 다 먹고 이번 김장엔 더 넉넉하게 담가보려고해요. 속이 더부룩하거나 체했을때 요고 한 사발이면 속이 뻥 뚫리겠지요?",
+          "servings": "6인분 이상",
+          "cooking_time": "30분 이내",
+          "difficulty": "아무나",
+          "views": 243000,
+          "source_url": "https://www.10000recipe.com/recipe/6879731",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:4678796edcbafec95588199604ee624bcd407a990286ab1cd4c81fd570185934",
+        "label": "Dish",
+        "properties": {
+          "name": "동치미"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "동치미재료",
+          "quantity": "3개",
+          "unit": null,
+          "preparation": null,
+          "detail": "배추김치 담고 남은 무도 같이 넣었어요.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 무 3개\", \"김치 담고 남은 무가 있었어요.\", \"배추김치 담고 남은 무도같이 넣었어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍갓",
+          "role": "food",
+          "group": "동치미재료",
+          "quantity": "3줄기",
+          "unit": null,
+          "preparation": null,
+          "detail": "잎은 조금 잘라냈어요.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 홍갓 3줄기\", \"홍갓도 준비했어요.\", \"홍갓은 붉은 물이 나와서 잎은 조금 잘라냈어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:193f8cebb7a2aac2fd8c4375bedf9c33ee45febcd9462ad7f1830f9fa2962495",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍갓",
+          "name_normalized": "홍갓"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "동치미재료",
+          "quantity": "2대",
+          "unit": null,
+          "preparation": null,
+          "detail": "동치미 무보다 짧게 자름.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 대파 2대\", \"대파는 동치미 무보다 짧게 ~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "동치미재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "두툼하게 자름",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 양파 1개\", \"양파와 홍갓도 준비했어요.\", \"양파도 두툼하게 자르고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "동치미재료",
+          "quantity": "5큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "종이팩에 담아서 같이 동치미에 넣고 익힘.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 마늘 5큰술\", \"생강과 마늘은 종이팩에 담아서 같이 동치미에 넣고 익힐 거예요.\", \"마늘 팩은 동치미 국물 속으로 퐁당!!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강",
+          "role": "seasoning",
+          "group": "동치미재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "종이팩에 담아서 같이 동치미에 넣고 익힘.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 생강 1큰술\", \"생강과 마늘은 종이팩에 담아서 같이 동치미에 넣고 익힐 거예요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "동치미재료",
+          "quantity": "8큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "무를 조금 절이고 간을 더함.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 소금 8큰술\", \"소금 3 큰 술을 넣어 무를 조금 절였어요.\", \"소금 5 큰 술 더 넣어 간을 더했어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀풀",
+          "role": "food",
+          "group": "동치미재료",
+          "quantity": "6큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": "물에 풀어 넣음.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 찹쌀풀 6큰술\", \"찹쌀 풀 6 큰 술도 넣어 풀어줬고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀풀",
+          "name_normalized": "찹쌀풀"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "뉴슈가",
+          "role": "seasoning",
+          "group": "동치미재료",
+          "quantity": "0.8작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": "단맛을 줌.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 뉴슈가 0.8작은술\", \"뉴슈거도 0.8 작은 술 넣어 단맛을 줬어요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:0bd5c8d9bcc0be67d406fe85e991c430f616163680fcacd6668c335d4d3cde6f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "뉴슈가",
+          "name_normalized": "뉴슈가"
+        }
+      },
+      {
+        "id": "10000recipe_6879731:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "동치미재료",
+          "quantity": "4L",
+          "unit": null,
+          "preparation": null,
+          "detail": "무가 잠기도록 붓는 물.",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[동치미재료] 물 4L\", \"물은 4L 부어서 동치미 무가 잠기도록 만들고요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879731:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6879731",
+        "type": "VARIANT_OF",
+        "target": "dish:4678796edcbafec95588199604ee624bcd407a990286ab1cd4c81fd570185934",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:193f8cebb7a2aac2fd8c4375bedf9c33ee45febcd9462ad7f1830f9fa2962495",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:0bd5c8d9bcc0be67d406fe85e991c430f616163680fcacd6668c335d4d3cde6f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879731:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879731:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "동치미",
+    "components": [
+      {
+        "raw_name": "무",
+        "role": "food",
+        "group": "동치미재료",
+        "quantity": "3개",
+        "unit": null,
+        "preparation": null,
+        "detail": "배추김치 담고 남은 무도 같이 넣었어요.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[동치미재료] 무 3개",
+          "김치 담고 남은 무가 있었어요.",
+          "배추김치 담고 남은 무도같이 넣었어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍갓",
+        "role": "food",
+        "group": "동치미재료",
+        "quantity": "3줄기",
+        "unit": null,
+        "preparation": null,
+        "detail": "잎은 조금 잘라냈어요.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[동치미재료] 홍갓 3줄기",
+          "홍갓도 준비했어요.",
+          "홍갓은 붉은 물이 나와서 잎은 조금 잘라냈어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍갓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "동치미재료",
+        "quantity": "2대",
+        "unit": null,
+        "preparation": null,
+        "detail": "동치미 무보다 짧게 자름.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[동치미재료] 대파 2대",
+          "대파는 동치미 무보다 짧게 ~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "동치미재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "두툼하게 자름",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[동치미재료] 양파 1개",
+          "양파와 홍갓도 준비했어요.",
+          "양파도 두툼하게 자르고요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "seasoning",
+        "group": "동치미재료",
+        "quantity": "5큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "종이팩에 담아서 같이 동치미에 넣고 익힘.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[동치미재료] 마늘 5큰술",
+          "생강과 마늘은 종이팩에 담아서 같이 동치미에 넣고 익힐 거예요.",
+          "마늘 팩은 동치미 국물 속으로 퐁당!!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강",
+        "role": "seasoning",
+        "group": "동치미재료",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "종이팩에 담아서 같이 동치미에 넣고 익힘.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[동치미재료] 생강 1큰술",
+          "생강과 마늘은 종이팩에 담아서 같이 동치미에 넣고 익힐 거예요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "동치미재료",
+        "quantity": "8큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "무를 조금 절이고 간을 더함.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[동치미재료] 소금 8큰술",
+          "소금 3 큰 술을 넣어 무를 조금 절였어요.",
+          "소금 5 큰 술 더 넣어 간을 더했어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "찹쌀풀",
+        "role": "food",
+        "group": "동치미재료",
+        "quantity": "6큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": "물에 풀어 넣음.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[동치미재료] 찹쌀풀 6큰술",
+          "찹쌀 풀 6 큰 술도 넣어 풀어줬고요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "찹쌀풀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "뉴슈가",
+        "role": "seasoning",
+        "group": "동치미재료",
+        "quantity": "0.8작은술",
+        "unit": null,
+        "preparation": null,
+        "detail": "단맛을 줌.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[동치미재료] 뉴슈가 0.8작은술",
+          "뉴슈거도 0.8 작은 술 넣어 단맛을 줬어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "뉴슈가",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "동치미재료",
+        "quantity": "4L",
+        "unit": null,
+        "preparation": null,
+        "detail": "무가 잠기도록 붓는 물.",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[동치미재료] 물 4L",
+          "물은 4L 부어서 동치미 무가 잠기도록 만들고요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "f6d8d63116c42bbd592a6b782083d098ffc62fb2c069cd7d4b24f940f4b3faca",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6879731:dish",
+      "canonical_id": "dish:4678796edcbafec95588199604ee624bcd407a990286ab1cd4c81fd570185934",
+      "original_name": "동치미",
+      "canonical_name": "동치미",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879731:component:001:candidate:0",
+      "canonical_id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+      "original_name": "무",
+      "canonical_name": "무",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879731:component:002:candidate:0",
+      "canonical_id": "ingredient:193f8cebb7a2aac2fd8c4375bedf9c33ee45febcd9462ad7f1830f9fa2962495",
+      "original_name": "홍갓",
+      "canonical_name": "홍갓",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879731:component:003:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879731:component:004:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879731:component:005:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879731:component:006:candidate:0",
+      "canonical_id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+      "original_name": "생강",
+      "canonical_name": "생강",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879731:component:007:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879731:component:008:candidate:0",
+      "canonical_id": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+      "original_name": "찹쌀풀",
+      "canonical_name": "찹쌀풀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879731:component:009:candidate:0",
+      "canonical_id": "ingredient:0bd5c8d9bcc0be67d406fe85e991c430f616163680fcacd6668c335d4d3cde6f",
+      "original_name": "뉴슈가",
+      "canonical_name": "뉴슈가",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879731:component:010:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6879731",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "46ecce0ca6e0228b9bd70ab3cb497b771f68817941cdda433e6185218086f00e"
+}

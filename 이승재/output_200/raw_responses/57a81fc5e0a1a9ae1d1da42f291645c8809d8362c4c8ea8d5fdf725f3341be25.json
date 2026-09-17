@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb13M7efdawVXLupz0Y0sv2S0s4n",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"찐밤\",\"components\":[{\"raw_name\":\"밤\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 밤 적당량\",\"밤은 깨끗한 물에 씻어 주시고\",\"한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요.\",\"칼집을 낸 밤은 찜기에 넣고 쪄줄 건데요~\"],\"quality_flags\":[],\"ingredient_candidate\":\"밤\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":\"씻는 물, 불리는 물, 찜기용 물, 식히는 찬물/얼음 물로 사용됨\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 물 적당량\",\"밤은 깨끗한 물에 씻어 주시고\",\"물이 잠길 만큼 받아서 1시간 정도 불려주세요.\",\"찜기에 물을 적당히 받아 준 뒤\",\"차가운 얼음 물에 바로 담가 식혀 주세요~\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"빵 칼\",\"role\":\"unknown\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":\"톱니가 달린\",\"detail\":\"밤에 칼집을 내는 도구로 사용됨\",\"is_required\":true,\"alternative_mode\":\"either_or\",\"evidence\":[\"한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"빵 칼\",\"alternatives\":[{\"raw_name\":\"과도\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요.\"],\"ingredient_candidate\":\"과도\"}]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530869,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 482,
+    "prompt_tokens": 3444,
+    "total_tokens": 3926,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

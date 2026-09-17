@@ -1,0 +1,573 @@
+{
+  "recipe_uid": "10000recipe_7083094",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7083094",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7083094",
+          "title": "모닝빵 샌드위치 레시피 오이 옥수수 계란 샐러드 에그마요빵 만들기 오이 절이기",
+          "description": "모닝빵은 부드럽고 아이들도 좋아하는 빵 종류인데요. 특히, 에그마요샐러드 재료 채워 넣은 조합은 아침식사로도 딱이죠. 삶은 계란 으깨고, 마요네즈, 올리고당 등을 넣어 만드는데요, 여기에 오독오독 씹히는 식감이 좋은 오이, 옥수수를 더해 봤어요. 오독오독 오이와 톡톡 터지는 옥수수콘, 담백한 삶은계란의 조합이 참 잘 어울려요. 기본에 충실한 계란오이 샐러드 모닝빵! 차근차근 남겨볼게요 :)",
+          "servings": "4인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 28,
+          "source_url": "https://www.10000recipe.com/recipe/7083094",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+        "label": "Dish",
+        "properties": {
+          "name": "샌드위치"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삶은계란",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"삶은계란 2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:dc8a537648070f8c995bc0e0859cf41b173296128d7a1560903862109c336d33",
+        "label": "Ingredient",
+        "properties": {
+          "name": "삶은계란",
+          "name_normalized": "삶은계란"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "옥수수콘",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "5",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"옥수수콘 5T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:677d254023f6e25500c2d819b0c583457cd53c49ac01c7301e19c2325560fe10",
+        "label": "Ingredient",
+        "properties": {
+          "name": "옥수수콘",
+          "name_normalized": "옥수수콘"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "모닝빵",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "4~5",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"모닝빵 4~5개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:4e7a06209af2fb9e63c9bd115287eebb1f2745c3bf0e2a65efeb0179081d7ba6",
+        "label": "Ingredient",
+        "properties": {
+          "name": "모닝빵",
+          "name_normalized": "모닝빵"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오이",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"오이 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오이",
+          "name_normalized": "오이"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금 절일때",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1/3",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 절일때 1/3T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:2d1b5ffaddd05f9ac68f1d282d8d337ef430ad87e3ca5b2eca151191d9cc06b3",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금 절일때",
+          "name_normalized": "소금 절일때"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕 절일때",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1/3",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"설탕 절일때 1/3T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:f138c2ae2b12e7f4f1c051d430ccdd9acc81c27e43494d072448b8e2a5393da4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕 절일때",
+          "name_normalized": "설탕 절일때"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마요네즈",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "3",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"마요네즈 3T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마요네즈",
+          "name_normalized": "마요네즈"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홀그레인머스터드",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "1/2",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"홀그레인머스터드 1/2T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:6392e8a20641765cbc3565d6052bd7298e8a511aa926dac1502f27856c3753b6",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홀그레인머스터드",
+          "name_normalized": "홀그레인머스터드"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리고당",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "1.5",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"올리고당 1.5T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리고당",
+          "name_normalized": "올리고당"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "1",
+          "unit": "꼬집",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 1꼬집\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7083094:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후춧가루",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "톡톡",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"후춧가루 톡톡\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7083094:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7083094",
+        "type": "VARIANT_OF",
+        "target": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:dc8a537648070f8c995bc0e0859cf41b173296128d7a1560903862109c336d33",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:677d254023f6e25500c2d819b0c583457cd53c49ac01c7301e19c2325560fe10",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:4e7a06209af2fb9e63c9bd115287eebb1f2745c3bf0e2a65efeb0179081d7ba6",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:2d1b5ffaddd05f9ac68f1d282d8d337ef430ad87e3ca5b2eca151191d9cc06b3",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:f138c2ae2b12e7f4f1c051d430ccdd9acc81c27e43494d072448b8e2a5393da4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:6392e8a20641765cbc3565d6052bd7298e8a511aa926dac1502f27856c3753b6",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7083094:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7083094:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7083094:dish",
+      "canonical_id": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+      "original_name": "샌드위치",
+      "canonical_name": "샌드위치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:001:candidate:0",
+      "canonical_id": "ingredient:dc8a537648070f8c995bc0e0859cf41b173296128d7a1560903862109c336d33",
+      "original_name": "삶은계란",
+      "canonical_name": "삶은계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:002:candidate:0",
+      "canonical_id": "ingredient:677d254023f6e25500c2d819b0c583457cd53c49ac01c7301e19c2325560fe10",
+      "original_name": "옥수수콘",
+      "canonical_name": "옥수수콘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:003:candidate:0",
+      "canonical_id": "ingredient:4e7a06209af2fb9e63c9bd115287eebb1f2745c3bf0e2a65efeb0179081d7ba6",
+      "original_name": "모닝빵",
+      "canonical_name": "모닝빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:004:candidate:0",
+      "canonical_id": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+      "original_name": "오이",
+      "canonical_name": "오이",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:005:candidate:0",
+      "canonical_id": "ingredient:2d1b5ffaddd05f9ac68f1d282d8d337ef430ad87e3ca5b2eca151191d9cc06b3",
+      "original_name": "소금 절일때",
+      "canonical_name": "소금 절일때",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:006:candidate:0",
+      "canonical_id": "ingredient:f138c2ae2b12e7f4f1c051d430ccdd9acc81c27e43494d072448b8e2a5393da4",
+      "original_name": "설탕 절일때",
+      "canonical_name": "설탕 절일때",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:007:candidate:0",
+      "canonical_id": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+      "original_name": "마요네즈",
+      "canonical_name": "마요네즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:008:candidate:0",
+      "canonical_id": "ingredient:6392e8a20641765cbc3565d6052bd7298e8a511aa926dac1502f27856c3753b6",
+      "original_name": "홀그레인머스터드",
+      "canonical_name": "홀그레인머스터드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:009:candidate:0",
+      "canonical_id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+      "original_name": "올리고당",
+      "canonical_name": "올리고당",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:010:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7083094:component:011:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 11,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 23,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeaZNTJrgo9jxMQj8rTcJB4Dd2fF",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"쌈밥\",\"components\":[{\"raw_name\":\"두부\",\"role\":\"food\",\"group\":\"[저염쌈장재료]\",\"quantity\":\"1/3\",\"unit\":\"모\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"두부 1/3모\"],\"quality_flags\":[],\"ingredient_candidate\":\"두부\",\"alternatives\":[]},{\"raw_name\":\"양파 작은크기\",\"role\":\"food\",\"group\":\"[저염쌈장재료]\",\"quantity\":\"1/2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"양파 작은크기 1/2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파 작은크기\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"food\",\"group\":\"[저염쌈장재료]\",\"quantity\":\"0.5\",\"unit\":\"큰술\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다진마늘 0.5큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"풋고추\",\"role\":\"food\",\"group\":\"[저염쌈장재료]\",\"quantity\":\"2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"풋고추 2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"풋고추\",\"alternatives\":[]},{\"raw_name\":\"매실청 다른청가능\",\"role\":\"food\",\"group\":\"[저염쌈장재료]\",\"quantity\":\"2\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"다른청가능\",\"is_required\":null,\"alternative_mode\":\"unresolved\",\"evidence\":[\"매실청 다른청가능 2큰술\"],\"quality_flags\":[\"AMBIGUOUS_INGREDIENT\"],\"ingredient_candidate\":\"매실청 다른청가능\",\"alternatives\":[]},{\"raw_name\":\"통깨\",\"role\":\"food\",\"group\":\"[저염쌈장재료]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"통깨 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"통깨\",\"alternatives\":[]},{\"raw_name\":\"양배추\",\"role\":\"food\",\"group\":\"[양배추쌈재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"양배추\"],\"quality_flags\":[],\"ingredient_candidate\":\"양배추\",\"alternatives\":[]},{\"raw_name\":\"된장\",\"role\":\"seasoning\",\"group\":\"[저염쌈장재료]\",\"quantity\":\"2.5\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"된장 2.5큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"된장\",\"alternatives\":[]},{\"raw_name\":\"고추장\",\"role\":\"seasoning\",\"group\":\"[저염쌈장재료]\",\"quantity\":\"1.5\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"고추장 1.5큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추장\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"[저염쌈장재료]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"참기름 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544603,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 847,
+    "prompt_tokens": 3042,
+    "total_tokens": 3889,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

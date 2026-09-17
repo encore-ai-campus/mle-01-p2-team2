@@ -1,0 +1,825 @@
+{
+  "recipe_uid": "10000recipe_6879745",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6879745",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6879745",
+          "title": "옥수수콘치즈 만드는 법, 옥수수콘 요리",
+          "description": "옥수수의 톡톡 터지는 식감이 좋은 간식~ 오늘은 간단하면서도 맛있는 옥수수콘치즈를 만들어봤어요. 옥수수콘치즈는 그냥 먹어도 맛있지만 모닝빵이나 식빵이랑 같이 먹어도 맛있더라고요. 콘치즈는 식어도 맛있고, 따뜻할 때 드시면 치즈가 늘어나서 더욱 맛있지요. 제가 좋아하는 맥주가 있는데 옥수수콘치즈랑 먹으니 잘 어울리네요. 맥주 안주로도 딱이겠죠? 오늘은 옥수수콘치즈 만들어봅시다~~ 다양한 레시피 보기 ☞ http://blog.naver.com/jinni615",
+          "servings": "2인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 547000,
+          "source_url": "https://www.10000recipe.com/recipe/6879745",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "옥수수콘치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "콘옥수수",
+          "role": "food",
+          "group": null,
+          "quantity": "300g",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 콘옥수수 300g\", \"콘옥수수는 체에 받쳐 물기를 빼주세요.\", \"옥수수를 넣고 살짝 볶아준 후\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "옥수수",
+          "name_normalized": "옥수수"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "버터",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1T",
+          "unit": "T",
+          "preparation": "녹인",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 버터 1T\", \"달군 팬에 버터 1T를 넣고 녹여주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마요네즈",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "2T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 마요네즈 2T\", \"마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마요네즈",
+          "name_normalized": "마요네즈"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 설탕 1T\", \"마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요.\", \"단맛을 싫어하신다면 설탕양을 줄여주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 후추 약간\", \"마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파슬리가루",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 파슬리가루\", \"치즈를 녹여서 파슬리가루까지 뿌려서 완성해주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파슬리 가루",
+          "name_normalized": "파슬리 가루"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "모짜렐라치즈",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "본문에서는 피자치즈라고도 표현됨",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 모짜렐라치즈\", \"피자치즈를 듬뿍 올려서 뚜껑으로 닫고 치즈를 녹여주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "모짜렐라 치즈",
+          "name_normalized": "모짜렐라 치즈"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6879745",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6879745:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879745:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879745:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879745:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879745:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879745:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879745:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6879745:component:007:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6879745",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6879745",
+          "title": "옥수수콘치즈 만드는 법, 옥수수콘 요리",
+          "description": "옥수수의 톡톡 터지는 식감이 좋은 간식~ 오늘은 간단하면서도 맛있는 옥수수콘치즈를 만들어봤어요. 옥수수콘치즈는 그냥 먹어도 맛있지만 모닝빵이나 식빵이랑 같이 먹어도 맛있더라고요. 콘치즈는 식어도 맛있고, 따뜻할 때 드시면 치즈가 늘어나서 더욱 맛있지요. 제가 좋아하는 맥주가 있는데 옥수수콘치즈랑 먹으니 잘 어울리네요. 맥주 안주로도 딱이겠죠? 오늘은 옥수수콘치즈 만들어봅시다~~ 다양한 레시피 보기 ☞ http://blog.naver.com/jinni615",
+          "servings": "2인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 547000,
+          "source_url": "https://www.10000recipe.com/recipe/6879745",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:e064f40e8765000642f4174ffef6a90daeeff93427b22ba24e818f8c5fc52857",
+        "label": "Dish",
+        "properties": {
+          "name": "옥수수콘치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "콘옥수수",
+          "role": "food",
+          "group": null,
+          "quantity": "300g",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 콘옥수수 300g\", \"콘옥수수는 체에 받쳐 물기를 빼주세요.\", \"옥수수를 넣고 살짝 볶아준 후\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:946ac280bb36935de9cbef1aa32a4e85bb77c5e22c20a6fdfed49315e0d033ae",
+        "label": "Ingredient",
+        "properties": {
+          "name": "옥수수",
+          "name_normalized": "옥수수"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "버터",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1T",
+          "unit": "T",
+          "preparation": "녹인",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 버터 1T\", \"달군 팬에 버터 1T를 넣고 녹여주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마요네즈",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "2T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 마요네즈 2T\", \"마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마요네즈",
+          "name_normalized": "마요네즈"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 설탕 1T\", \"마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요.\", \"단맛을 싫어하신다면 설탕양을 줄여주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 후추 약간\", \"마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파슬리가루",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 파슬리가루\", \"치즈를 녹여서 파슬리가루까지 뿌려서 완성해주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:54031b07b3e37da3140a914849c1b2675ef5641142e413e97407dcd193a168e2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파슬리 가루",
+          "name_normalized": "파슬리 가루"
+        }
+      },
+      {
+        "id": "10000recipe_6879745:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "모짜렐라치즈",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "본문에서는 피자치즈라고도 표현됨",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 모짜렐라치즈\", \"피자치즈를 듬뿍 올려서 뚜껑으로 닫고 치즈를 녹여주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6879745:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:68998fba62c1a9eb76a127c3f311a9eda6afe93ed9c916e5b10ceac361559a2e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "모짜렐라 치즈",
+          "name_normalized": "모짜렐라 치즈"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6879745",
+        "type": "VARIANT_OF",
+        "target": "dish:e064f40e8765000642f4174ffef6a90daeeff93427b22ba24e818f8c5fc52857",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:946ac280bb36935de9cbef1aa32a4e85bb77c5e22c20a6fdfed49315e0d033ae",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:54031b07b3e37da3140a914849c1b2675ef5641142e413e97407dcd193a168e2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6879745:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6879745:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:68998fba62c1a9eb76a127c3f311a9eda6afe93ed9c916e5b10ceac361559a2e",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "옥수수콘치즈",
+    "components": [
+      {
+        "raw_name": "콘옥수수",
+        "role": "food",
+        "group": null,
+        "quantity": "300g",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 콘옥수수 300g",
+          "콘옥수수는 체에 받쳐 물기를 빼주세요.",
+          "옥수수를 넣고 살짝 볶아준 후"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "옥수수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": "녹인",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 버터 1T",
+          "달군 팬에 버터 1T를 넣고 녹여주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마요네즈",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2T",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 마요네즈 2T",
+          "마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마요네즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 설탕 1T",
+          "마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요.",
+          "단맛을 싫어하신다면 설탕양을 줄여주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추 약간",
+          "마요네즈 2T, 설탕 1T, 후추 약간 넣고 골고루 섞으면서 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파슬리가루",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 파슬리가루",
+          "치즈를 녹여서 파슬리가루까지 뿌려서 완성해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파슬리 가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "모짜렐라치즈",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "본문에서는 피자치즈라고도 표현됨",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 모짜렐라치즈",
+          "피자치즈를 듬뿍 올려서 뚜껑으로 닫고 치즈를 녹여주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "모짜렐라 치즈",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "062cbd701246e6dda72027cb23daa9a4239217e747e652d816b2e62507397bd9",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6879745:dish",
+      "canonical_id": "dish:e064f40e8765000642f4174ffef6a90daeeff93427b22ba24e818f8c5fc52857",
+      "original_name": "옥수수콘치즈",
+      "canonical_name": "옥수수콘치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879745:component:001:candidate:0",
+      "canonical_id": "ingredient:946ac280bb36935de9cbef1aa32a4e85bb77c5e22c20a6fdfed49315e0d033ae",
+      "original_name": "옥수수",
+      "canonical_name": "옥수수",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879745:component:002:candidate:0",
+      "canonical_id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+      "original_name": "버터",
+      "canonical_name": "버터",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879745:component:003:candidate:0",
+      "canonical_id": "ingredient:69c9c504e85b71909ba5dc5edd5d44664226798118a164342197ab76425ca6fd",
+      "original_name": "마요네즈",
+      "canonical_name": "마요네즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879745:component:004:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879745:component:005:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879745:component:006:candidate:0",
+      "canonical_id": "ingredient:54031b07b3e37da3140a914849c1b2675ef5641142e413e97407dcd193a168e2",
+      "original_name": "파슬리 가루",
+      "canonical_name": "파슬리 가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6879745:component:007:candidate:0",
+      "canonical_id": "ingredient:68998fba62c1a9eb76a127c3f311a9eda6afe93ed9c916e5b10ceac361559a2e",
+      "original_name": "모짜렐라 치즈",
+      "canonical_name": "모짜렐라 치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6879745",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "fd35423f6069a333d305adcd9ea3ea03a20b32765d20618c61bd133dc5e7cc86"
+}

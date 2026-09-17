@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0wfUKFwj5FaIG1xP0ctgF8ipDC",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"진국수\",\"components\":[{\"raw_name\":\"소면\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 소면\",\"소면을 체반에 걸러 주세요.\",\"소면을 찬물로 씻어 꼬들꼬들하게 만들어주세요.\",\"소면에 냉면육수를 붓고 언 육수를 숟가락으로 긁어 올려주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"소면\",\"alternatives\":[]},{\"raw_name\":\"냉면육수\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 냉면육수\",\"소면에 냉면육수를 붓고 언 육수를 숟가락으로 긁어 올려주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"냉면육수\",\"alternatives\":[]},{\"raw_name\":\"총각김치\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":\"무청부분만 잘라\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 총각김치\",\"총각김치의 무청부분만 잘라주세요.\",\"그 위에 버무린 무청과 총각김치를 올려주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"총각김치\",\"alternatives\":[]},{\"raw_name\":\"초고추장\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1ts\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"초고추장1ts\",\"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"초고추장\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1ts\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"설탕 1ts\",\"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1ts\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"참기름1ts\",\"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"통깨\",\"role\":\"seasoning\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"통깨를 넣어주세요.\",\"초고추장1ts, 설탕 1ts, 참기름1ts, 통깨를 넣어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"통깨\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1ts\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"소금 1ts을 넣은 팔팔끓는 물에 소면을 부채처럼 펴서 넣어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"찬물\",\"role\":\"unknown\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"찬물을 조금 부어 거품을 없애주세요.\",\"소면을 찬물로 씻어 꼬들꼬들하게 만들어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"찬물\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530862,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 909,
+    "prompt_tokens": 2881,
+    "total_tokens": 3790,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "recipe_uid": "10000recipe_7081277",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081277",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081277",
+          "title": "사먹지말고 집에서 여러번 드세요! 쪽파 크림치즈 베이글 초간단 레시피!",
+          "description": "요즘 크림치즈베이글 하나 사먹으면 물가가 심각하다보니 너무 비싸지 않나요?! 그런데 베이글 대량으로 사놓고 크림치즈와 쪽파와 꿀만 있으면 집에서도 손쉽게 만들 수 있다는거!! 알고 계셨나요?! 제 생각엔 가게에서 먹던맛이랑 크게 차이도 없는거같아요!! 같이 만들어볼까요?!",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 1174,
+          "source_url": "https://www.10000recipe.com/recipe/7081277",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "쪽파 크림치즈 베이글"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베이글",
+          "role": "food",
+          "group": null,
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": "절반 갈라",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"베이글 2개\", \"베이글도 절반 갈라주세요!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이글",
+          "name_normalized": "베이글"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쪽파",
+          "role": "food",
+          "group": null,
+          "quantity": "8~10줄기",
+          "unit": "줄기",
+          "preparation": "잘게 썰어",
+          "detail": "아린맛을 제거하기 위해 살짝 데침",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"쪽파 8~10줄기\", \"쪽파는 깨끗이 씻어 잘게 썰어줍니다!\", \"쪽파는 아린맛을 제거 하기 위해 살짝만 데쳐주시면 됩니다!\", \"데쳐둔 쪽파는 따로 그릇에 담아줍니다.\", \"데쳐둔 쪽파를 넣고 잘 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쪽파",
+          "name_normalized": "쪽파"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "크림치즈",
+          "role": "food",
+          "group": null,
+          "quantity": "100g",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"크림치즈 100g\", \"크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "크림치즈",
+          "name_normalized": "크림치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꿀",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1스푼",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"꿀 1스푼\", \"크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꿀",
+          "name_normalized": "꿀"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 약간\", \"크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"후추 약간\", \"크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081277",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7081277:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081277:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081277:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081277:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081277:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081277:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081277:component:006:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081277",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081277",
+          "title": "사먹지말고 집에서 여러번 드세요! 쪽파 크림치즈 베이글 초간단 레시피!",
+          "description": "요즘 크림치즈베이글 하나 사먹으면 물가가 심각하다보니 너무 비싸지 않나요?! 그런데 베이글 대량으로 사놓고 크림치즈와 쪽파와 꿀만 있으면 집에서도 손쉽게 만들 수 있다는거!! 알고 계셨나요?! 제 생각엔 가게에서 먹던맛이랑 크게 차이도 없는거같아요!! 같이 만들어볼까요?!",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 1174,
+          "source_url": "https://www.10000recipe.com/recipe/7081277",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:a50127120f24330792b0a1e2e19922a47459e0d70133ccc85251e1453188fc51",
+        "label": "Dish",
+        "properties": {
+          "name": "쪽파 크림치즈 베이글"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베이글",
+          "role": "food",
+          "group": null,
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": "절반 갈라",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"베이글 2개\", \"베이글도 절반 갈라주세요!\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:fc99c065dfdacea236f931b6ff58cfcea394107321eeac9c8de8bc7a28739308",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이글",
+          "name_normalized": "베이글"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쪽파",
+          "role": "food",
+          "group": null,
+          "quantity": "8~10줄기",
+          "unit": "줄기",
+          "preparation": "잘게 썰어",
+          "detail": "아린맛을 제거하기 위해 살짝 데침",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"쪽파 8~10줄기\", \"쪽파는 깨끗이 씻어 잘게 썰어줍니다!\", \"쪽파는 아린맛을 제거 하기 위해 살짝만 데쳐주시면 됩니다!\", \"데쳐둔 쪽파는 따로 그릇에 담아줍니다.\", \"데쳐둔 쪽파를 넣고 잘 섞어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쪽파",
+          "name_normalized": "쪽파"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "크림치즈",
+          "role": "food",
+          "group": null,
+          "quantity": "100g",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"크림치즈 100g\", \"크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:9c751f45e7e6256a066cb73e3a8110557ee4fe7be7c0e96b8418646606453561",
+        "label": "Ingredient",
+        "properties": {
+          "name": "크림치즈",
+          "name_normalized": "크림치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꿀",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1스푼",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"꿀 1스푼\", \"크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꿀",
+          "name_normalized": "꿀"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 약간\", \"크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081277:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"후추 약간\", \"크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081277:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081277",
+        "type": "VARIANT_OF",
+        "target": "dish:a50127120f24330792b0a1e2e19922a47459e0d70133ccc85251e1453188fc51",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:fc99c065dfdacea236f931b6ff58cfcea394107321eeac9c8de8bc7a28739308",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:9c751f45e7e6256a066cb73e3a8110557ee4fe7be7c0e96b8418646606453561",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081277:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081277:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "쪽파 크림치즈 베이글",
+    "components": [
+      {
+        "raw_name": "베이글",
+        "role": "food",
+        "group": null,
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": "절반 갈라",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "베이글 2개",
+          "베이글도 절반 갈라주세요!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "베이글",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쪽파",
+        "role": "food",
+        "group": null,
+        "quantity": "8~10줄기",
+        "unit": "줄기",
+        "preparation": "잘게 썰어",
+        "detail": "아린맛을 제거하기 위해 살짝 데침",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "쪽파 8~10줄기",
+          "쪽파는 깨끗이 씻어 잘게 썰어줍니다!",
+          "쪽파는 아린맛을 제거 하기 위해 살짝만 데쳐주시면 됩니다!",
+          "데쳐둔 쪽파는 따로 그릇에 담아줍니다.",
+          "데쳐둔 쪽파를 넣고 잘 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쪽파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "크림치즈",
+        "role": "food",
+        "group": null,
+        "quantity": "100g",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "크림치즈 100g",
+          "크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "크림치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "꿀",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "꿀 1스푼",
+          "크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "꿀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 약간",
+          "크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "후추 약간",
+          "크림치즈 100g, 꿀 1스푼, 소금 약간, 후추 약간 넣어준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "a769b228126cc17a292f94e90bfff190d1ccdbccd8c06fc35cd4338310b1709d",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081277:dish",
+      "canonical_id": "dish:a50127120f24330792b0a1e2e19922a47459e0d70133ccc85251e1453188fc51",
+      "original_name": "쪽파 크림치즈 베이글",
+      "canonical_name": "쪽파 크림치즈 베이글",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081277:component:001:candidate:0",
+      "canonical_id": "ingredient:fc99c065dfdacea236f931b6ff58cfcea394107321eeac9c8de8bc7a28739308",
+      "original_name": "베이글",
+      "canonical_name": "베이글",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081277:component:002:candidate:0",
+      "canonical_id": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+      "original_name": "쪽파",
+      "canonical_name": "쪽파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081277:component:003:candidate:0",
+      "canonical_id": "ingredient:9c751f45e7e6256a066cb73e3a8110557ee4fe7be7c0e96b8418646606453561",
+      "original_name": "크림치즈",
+      "canonical_name": "크림치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081277:component:004:candidate:0",
+      "canonical_id": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+      "original_name": "꿀",
+      "canonical_name": "꿀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081277:component:005:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081277:component:006:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7081277",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "7bde6339782da1e6e6177d9faa67680116a7fce273f8691e5f6c2c6368e68ec0"
+}

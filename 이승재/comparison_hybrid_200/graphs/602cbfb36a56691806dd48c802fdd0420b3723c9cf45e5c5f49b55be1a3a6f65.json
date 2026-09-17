@@ -1,0 +1,385 @@
+{
+  "recipe_uid": "10000recipe_6707909",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6707909",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6707909",
+          "title": "샌드위치 만들기",
+          "description": "샌드위치 만들기. 종이호일로 하는 포장법도 있어요.",
+          "servings": "3인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 362000,
+          "source_url": "https://www.10000recipe.com/recipe/6707909",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+        "label": "Dish",
+        "properties": {
+          "name": "샌드위치"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "빵",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"빵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:04f2a20a3504065bd73f454dd22b3c8aa3d2bd2714897d40971c59e5893e06d3",
+        "label": "Ingredient",
+        "properties": {
+          "name": "빵",
+          "name_normalized": "빵"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "치즈",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"치즈\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "치즈",
+          "name_normalized": "치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "햄",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"햄\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "label": "Ingredient",
+        "properties": {
+          "name": "햄",
+          "name_normalized": "햄"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "각종야채",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"각종야채\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:0ed4231ade0bfe060e4c1775f568b7b3a09e1f3bc5c6052a93200f3f8dd4c9e0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "각종야채",
+          "name_normalized": "각종야채"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양파\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"토마토\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_6707909:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란 삶은것",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": "삶은것",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"계란 삶은것\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6707909:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:b1aca47c36d3aa8ab67bada05225b3dbaf30eeec16734f9a9c99c2abee984ddb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란 삶은것",
+          "name_normalized": "계란 삶은것"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6707909",
+        "type": "VARIANT_OF",
+        "target": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:04f2a20a3504065bd73f454dd22b3c8aa3d2bd2714897d40971c59e5893e06d3",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:0ed4231ade0bfe060e4c1775f568b7b3a09e1f3bc5c6052a93200f3f8dd4c9e0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6707909:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6707909:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:b1aca47c36d3aa8ab67bada05225b3dbaf30eeec16734f9a9c99c2abee984ddb",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6707909:dish",
+      "canonical_id": "dish:b75a413d90879dc72598658db33f319669415ce3f707ea1ef6777f7edc6f1fc2",
+      "original_name": "샌드위치",
+      "canonical_name": "샌드위치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:001:candidate:0",
+      "canonical_id": "ingredient:04f2a20a3504065bd73f454dd22b3c8aa3d2bd2714897d40971c59e5893e06d3",
+      "original_name": "빵",
+      "canonical_name": "빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:002:candidate:0",
+      "canonical_id": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+      "original_name": "치즈",
+      "canonical_name": "치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:003:candidate:0",
+      "canonical_id": "ingredient:83d4ad400ea0eab9d23c58a510278c4792b21fa143f727e8cda76b9c1e1ae658",
+      "original_name": "햄",
+      "canonical_name": "햄",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:004:candidate:0",
+      "canonical_id": "ingredient:0ed4231ade0bfe060e4c1775f568b7b3a09e1f3bc5c6052a93200f3f8dd4c9e0",
+      "original_name": "각종야채",
+      "canonical_name": "각종야채",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:005:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:006:candidate:0",
+      "canonical_id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+      "original_name": "토마토",
+      "canonical_name": "토마토",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6707909:component:007:candidate:0",
+      "canonical_id": "ingredient:b1aca47c36d3aa8ab67bada05225b3dbaf30eeec16734f9a9c99c2abee984ddb",
+      "original_name": "계란 삶은것",
+      "canonical_name": "계란 삶은것",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 7,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 15,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

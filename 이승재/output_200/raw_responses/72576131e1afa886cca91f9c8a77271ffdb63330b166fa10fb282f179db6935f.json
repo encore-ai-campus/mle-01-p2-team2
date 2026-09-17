@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1iQlJeQl41zhlPPUJ5GP7TRte6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"비빔당면\",\"components\":[{\"raw_name\":\"당면\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"삶은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 당면\",\"당면을 삶아 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"당면\",\"alternatives\":[]},{\"raw_name\":\"사각오뎅\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":\"반을 가른후 얇게 채썬후 뜨거운 물을 끼얹어 물기를 뺀\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 사각오뎅 1개\",\"사각오뎅 1개는 반을 가른후 얇게 채썬후에 뜨거운 물을 끼얹어 혹시모를 기름기와 불순물을 제거해 준후 물기를 쏘옥~ 빼줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"사각오뎅\",\"alternatives\":[]},{\"raw_name\":\"햄(리챔)\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"구운후 키친타올로 기름기를 살짝 눌러준\",\"detail\":\"기름기를 살짝 제거해 주지 않으면 겉도는 맛이 날 수 있음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 햄(리챔)\",\"햄은 기름을 두르지 않은채 후라이팬을 달군뒤 중불에서 노릇노릇 구워 주세요!\",\"구워낸후 키친타올로 기름기를 살짝 눌러줘도 좋아요~\"],\"quality_flags\":[],\"ingredient_candidate\":\"햄\",\"alternatives\":[]},{\"raw_name\":\"오이\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"채썬\",\"detail\":\"고명으로 올림\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 오이\",\"접시에 당면을 담고 그위에 준비한 고명을 가지런히 올려줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"오이\",\"alternatives\":[]},{\"raw_name\":\"당근\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"채썬\",\"detail\":\"고명으로 올림\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 당근\",\"접시에 당면을 담고 그위에 준비한 고명을 가지런히 올려줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"당근\",\"alternatives\":[]},{\"raw_name\":\"진간장\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"4\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 진간장 4큰술\",\"간장 양념장- 진간장 4큰술.\"],\"quality_flags\":[],\"ingredient_candidate\":\"진간장\",\"alternatives\":[]},{\"raw_name\":\"매실청\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 매실청 1큰술\",\"간장 양념장- 매실청 1큰술.\"],\"quality_flags\":[],\"ingredient_candidate\":\"매실청\",\"alternatives\":[]},{\"raw_name\":\"들기름\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 들기름 1큰술\",\"간장 양념장- 들기름 1큰술.\"],\"quality_flags\":[],\"ingredient_candidate\":\"들기름\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"작은술\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 다진마늘 1작은술\",\"간장 양념장- 다진마늘 1작은술.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"올리고당\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 올리고당 1큰술\",\"간장 양념장- 올리고당 1큰술.\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리고당\",\"alternatives\":[]},{\"raw_name\":\"고춧가루\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 고춧가루 1큰술\",\"간장 양념장- 고춧가루 1큰술.\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"깨\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"작은술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 깨 1작은술\",\"간장 양념장- 깨 1작은술.\"],\"quality_flags\":[],\"ingredient_candidate\":\"깨\",\"alternatives\":[]},{\"raw_name\":\"다진 대파\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 다진 대파 1큰술\",\"간장 양념장- 다진 대파 1큰술.\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"청양고추\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 청양고추 1개\",\"간장 양념장- 청양고추 1개\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양고추\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530910,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1451,
+    "prompt_tokens": 3211,
+    "total_tokens": 4662,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

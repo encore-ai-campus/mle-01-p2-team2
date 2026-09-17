@@ -1,0 +1,164 @@
+{
+  "recipe_uid": "10000recipe_6839435",
+  "cache_key": "7ae5dfbf9a03ac94a8dccaa8b20281cb3b24748b5198237b0a615c11b3c785fd",
+  "model": "gpt-5.4-mini",
+  "input_hash": "e1753750e71d482da2486a2f88e108165b8c83b90fa5e98e679100c5038312cd",
+  "source_record_hash": "3962ff46e5b827c3307314691141b349e9bfc288773f4e7bdefbf190405dd78c",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "베이컨볶음밥",
+    "components": [
+      {
+        "raw_name": "베이컨",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3장",
+        "unit": "장",
+        "preparation": "적당히 잘게 썬",
+        "detail": "메뉴명에 맞게 주재료임을 확인시켜주기 위하여 세장 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 베이컨 3장",
+          "베이컨을 적당히 잘게 썰어주세요.",
+          "메뉴명에 맞게 주재료임을 확인시켜주기 위하여 세장 사용했어요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "베이컨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": "스크램블로 만들어 따로 덜어둔",
+        "detail": "표면이 보이는 데까지만 익힘",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 계란 2개",
+          "계란 스크램블을 만들어 따로 덜어주세요.",
+          "딱 표면들이 보이는 데까지만 익혀주었어요.",
+          "계란 볶음밥에는 넣으시길래"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/5개",
+        "unit": "개",
+        "preparation": "잘게 다지듯 썬",
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 당근 1/5개",
+          "당근은 잘게 다지듯 썰어주세요.",
+          "영상 속에서는 당근은 넣지 않았었는데요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1대",
+        "unit": "대",
+        "preparation": "얇게 송송 썬",
+        "detail": "기름에 파향이 스며들도록 파기름을 내기 위해 먼저 볶음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1대",
+          "대파는 얇게 송송송 썰고",
+          "기름에 파향이 스며들도록! 파기름을!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밥",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1공기",
+        "unit": "공기",
+        "preparation": null,
+        "detail": "볶음밥용으로 투하하여 골고루 볶음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 밥 1공기",
+          "그리고 바로 밥 한 공기를 투하하여 골고루 볶아주면 완성이에요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밥",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굴소스",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": "간 맞추는 양념",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 굴소스 1스푼",
+          "계란을 넣어 굴 소스 1스푼과 간장 1스푼으로 간을 해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굴소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1스푼",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": "간 맞추는 양념",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 간장 1스푼",
+          "계란을 넣어 굴 소스 1스푼과 간장 1스푼으로 간을 해주세요.",
+          "간장이 많이 들어가면 죽이 된데요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 893,
+    "prompt_tokens": 3148,
+    "total_tokens": 4041,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

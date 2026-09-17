@@ -1,0 +1,2556 @@
+{
+  "recipe_uid": "10000recipe_7082783",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082783",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082783",
+          "title": "돼지갈비찜/쉽게 맛있게/명절 메뉴/맛있는 레시피",
+          "description": "곧 명절이에요. 온 가족이 즐길수 있는 갈비찜! 이번 명절에 맛있는 돼지갈비찜 어떠세요. 입에서 살살 녹아요.",
+          "servings": "5인분",
+          "cooking_time": "2시간 이상",
+          "difficulty": "아무나",
+          "views": 1057,
+          "source_url": "https://www.10000recipe.com/recipe/7082783",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "돼지갈비찜"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "돼지갈비",
+          "role": "food",
+          "group": "재료",
+          "quantity": "4kg",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 돼지갈비 4kg\", \"돼지갈비를 물에 잠길정도로 담가 3시간정도 핏물 빼주세요.\", \"돼지갈비에 양념장을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "돼지갈비",
+          "name_normalized": "돼지갈비"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무우",
+          "role": "food",
+          "group": "재료",
+          "quantity": "작은거 1개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 무우 작은거 1개\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "감자",
+          "role": "food",
+          "group": "재료",
+          "quantity": "4~5개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 감자 4~5개\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "감자",
+          "name_normalized": "감자"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2~3개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 당근 2~3개\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2대",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 2대\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매운고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "6~7개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 매운고추 6~7개\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "5~6개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 홍고추 5~6개\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "돼지갈비",
+          "role": "food",
+          "group": "돼지갈비 삶는 재료",
+          "quantity": "4kg",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[돼지갈비 삶는 재료] 돼지갈비 4kg\", \"돼지갈비를 물에 잠길정도로 담가 3시간정도 핏물 빼주세요.\", \"깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요.\"]",
+          "quality_flags": [
+            "POSSIBLE_DUPLICATE_COMPONENT"
+          ],
+          "component_uid": "10000recipe_7082783:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "돼지갈비",
+          "name_normalized": "돼지갈비"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소주",
+          "role": "seasoning",
+          "group": "돼지갈비 삶는 재료",
+          "quantity": "300ml",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[돼지갈비 삶는 재료] 소주 300ml\", \"깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소주",
+          "name_normalized": "소주"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "월계수잎",
+          "role": "seasoning",
+          "group": "돼지갈비 삶는 재료",
+          "quantity": "10장",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[돼지갈비 삶는 재료] 월계수잎 10장\", \"깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "월계수잎",
+          "name_normalized": "월계수잎"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강",
+          "role": "seasoning",
+          "group": "돼지갈비 삶는 재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[돼지갈비 삶는 재료] 생강 1개\", \"깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통후추",
+          "role": "seasoning",
+          "group": "돼지갈비 삶는 재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[돼지갈비 삶는 재료] 통후추 1큰술\", \"깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통후추",
+          "name_normalized": "통후추"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "사과 배",
+          "role": "food",
+          "group": "양념재료",
+          "quantity": "2개",
+          "unit": null,
+          "preparation": "갈아",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[양념재료] 사과 배 2개\", \"사과나 배 그리고 양파를 갈아주세요.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_INGREDIENT"
+          ],
+          "component_uid": "10000recipe_7082783:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "사과",
+          "name_normalized": "사과"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:013:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배",
+          "name_normalized": "배"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "양념재료",
+          "quantity": "2개",
+          "unit": null,
+          "preparation": "갈아",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 양파 2개\", \"사과나 배 그리고 양파를 갈아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "5국자",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 간장 5국자\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:015:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 맛술 4큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:016:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실액",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 매실액 4큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:017:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실액",
+          "name_normalized": "매실액"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 다진마늘 2큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:018:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:019",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물엿",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 물엿 4큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:019",
+          "index": 19
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:019:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물엿",
+          "name_normalized": "물엿"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:020",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 설탕 4큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:020",
+          "index": 20
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:020:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:021",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굴소스",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 굴소스 2큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:021",
+          "index": 21
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:021:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굴소스",
+          "name_normalized": "굴소스"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:022",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "넉넉하게",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 후추 넉넉하게\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:022",
+          "index": 22
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:022:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:023",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2바퀴",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 참기름 2바퀴\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:023",
+          "index": 23
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:023:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082783",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7082783:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:013",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7082783:component:013:candidate:1",
+        "properties": {
+          "raw_name": "배",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[양념재료] 사과 배 2개\", \"사과나 배 그리고 양파를 갈아주세요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:014:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:015",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:015:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:016",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:016:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:017",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:017:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:018",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:018:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:019",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:019",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:019:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:020",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:020",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:020:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:021",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:021",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:021:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:022",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:022",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:022:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:023",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:023",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082783:component:023:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082783",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082783",
+          "title": "돼지갈비찜/쉽게 맛있게/명절 메뉴/맛있는 레시피",
+          "description": "곧 명절이에요. 온 가족이 즐길수 있는 갈비찜! 이번 명절에 맛있는 돼지갈비찜 어떠세요. 입에서 살살 녹아요.",
+          "servings": "5인분",
+          "cooking_time": "2시간 이상",
+          "difficulty": "아무나",
+          "views": 1057,
+          "source_url": "https://www.10000recipe.com/recipe/7082783",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:ee6f7aa5d0e0557150585d0e8e52c2a3c7aa2c78b3e8d08e476a39bf6d96e424",
+        "label": "Dish",
+        "properties": {
+          "name": "돼지갈비찜"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "돼지갈비",
+          "role": "food",
+          "group": "재료",
+          "quantity": "4kg",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 돼지갈비 4kg\", \"돼지갈비를 물에 잠길정도로 담가 3시간정도 핏물 빼주세요.\", \"돼지갈비에 양념장을 넣고 골고루 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:c6c187937463b1074bf51ed0ac9ce8b72f1cc1555a2605704d5480502a67a03c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "돼지갈비",
+          "name_normalized": "돼지갈비"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무우",
+          "role": "food",
+          "group": "재료",
+          "quantity": "작은거 1개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 무우 작은거 1개\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "감자",
+          "role": "food",
+          "group": "재료",
+          "quantity": "4~5개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 감자 4~5개\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:a67f473a4258941db3abce12710bc1e0f52543cb7e6552a968f09ce8388b2ee2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "감자",
+          "name_normalized": "감자"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2~3개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 당근 2~3개\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2대",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 2대\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매운고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "6~7개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 매운고추 6~7개\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "5~6개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 홍고추 5~6개\", \"재료들을 다 넣어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "돼지갈비",
+          "role": "food",
+          "group": "돼지갈비 삶는 재료",
+          "quantity": "4kg",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[돼지갈비 삶는 재료] 돼지갈비 4kg\", \"돼지갈비를 물에 잠길정도로 담가 3시간정도 핏물 빼주세요.\", \"깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요.\"]",
+          "quality_flags": [
+            "POSSIBLE_DUPLICATE_COMPONENT"
+          ],
+          "component_uid": "10000recipe_7082783:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소주",
+          "role": "seasoning",
+          "group": "돼지갈비 삶는 재료",
+          "quantity": "300ml",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[돼지갈비 삶는 재료] 소주 300ml\", \"깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소주",
+          "name_normalized": "소주"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "월계수잎",
+          "role": "seasoning",
+          "group": "돼지갈비 삶는 재료",
+          "quantity": "10장",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[돼지갈비 삶는 재료] 월계수잎 10장\", \"깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:9d4629eb2c9280759774fbbd080ce2abdbcbf8242c1211ec3a5f32da44d3f934",
+        "label": "Ingredient",
+        "properties": {
+          "name": "월계수잎",
+          "name_normalized": "월계수잎"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강",
+          "role": "seasoning",
+          "group": "돼지갈비 삶는 재료",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[돼지갈비 삶는 재료] 생강 1개\", \"깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통후추",
+          "role": "seasoning",
+          "group": "돼지갈비 삶는 재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[돼지갈비 삶는 재료] 통후추 1큰술\", \"깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:84c90df680ef75900909ba81ac2a6d5c964b63133bf41ccc309bc95dac5aee3c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통후추",
+          "name_normalized": "통후추"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "사과 배",
+          "role": "food",
+          "group": "양념재료",
+          "quantity": "2개",
+          "unit": null,
+          "preparation": "갈아",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[양념재료] 사과 배 2개\", \"사과나 배 그리고 양파를 갈아주세요.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_INGREDIENT"
+          ],
+          "component_uid": "10000recipe_7082783:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:d8b3d5c681dbd41009fafbe54995076288c2ecb590c29803d5ff4b1205b19fab",
+        "label": "Ingredient",
+        "properties": {
+          "name": "사과",
+          "name_normalized": "사과"
+        }
+      },
+      {
+        "id": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배",
+          "name_normalized": "배"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "양념재료",
+          "quantity": "2개",
+          "unit": null,
+          "preparation": "갈아",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 양파 2개\", \"사과나 배 그리고 양파를 갈아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "5국자",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 간장 5국자\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 맛술 4큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실액",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 매실액 4큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실액",
+          "name_normalized": "매실액"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 다진마늘 2큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:019",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물엿",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 물엿 4큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:019",
+          "index": 19
+        }
+      },
+      {
+        "id": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물엿",
+          "name_normalized": "물엿"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:020",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 설탕 4큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:020",
+          "index": 20
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:021",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굴소스",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 굴소스 2큰술\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:021",
+          "index": 21
+        }
+      },
+      {
+        "id": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굴소스",
+          "name_normalized": "굴소스"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:022",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "넉넉하게",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 후추 넉넉하게\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:022",
+          "index": 22
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_7082783:component:023",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2바퀴",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 참기름 2바퀴\", \"양념재료를 넣고 섞어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082783:component:023",
+          "index": 23
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082783",
+        "type": "VARIANT_OF",
+        "target": "dish:ee6f7aa5d0e0557150585d0e8e52c2a3c7aa2c78b3e8d08e476a39bf6d96e424",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:c6c187937463b1074bf51ed0ac9ce8b72f1cc1555a2605704d5480502a67a03c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:a67f473a4258941db3abce12710bc1e0f52543cb7e6552a968f09ce8388b2ee2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:c6c187937463b1074bf51ed0ac9ce8b72f1cc1555a2605704d5480502a67a03c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:9d4629eb2c9280759774fbbd080ce2abdbcbf8242c1211ec3a5f32da44d3f934",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:84c90df680ef75900909ba81ac2a6d5c964b63133bf41ccc309bc95dac5aee3c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:d8b3d5c681dbd41009fafbe54995076288c2ecb590c29803d5ff4b1205b19fab",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:013",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+        "properties": {
+          "raw_name": "배",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"[양념재료] 사과 배 2개\", \"사과나 배 그리고 양파를 갈아주세요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:016",
+        "type": "INGREDIENT",
+        "target": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:017",
+        "type": "INGREDIENT",
+        "target": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:018",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:019",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:019",
+        "type": "INGREDIENT",
+        "target": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:020",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:020",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:021",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:021",
+        "type": "INGREDIENT",
+        "target": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:022",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:022",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082783:component:023",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082783:component:023",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "돼지갈비찜",
+    "components": [
+      {
+        "raw_name": "돼지갈비",
+        "role": "food",
+        "group": "재료",
+        "quantity": "4kg",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 돼지갈비 4kg",
+          "돼지갈비를 물에 잠길정도로 담가 3시간정도 핏물 빼주세요.",
+          "돼지갈비에 양념장을 넣고 골고루 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돼지갈비",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무우",
+        "role": "food",
+        "group": "재료",
+        "quantity": "작은거 1개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 무우 작은거 1개",
+          "재료들을 다 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무",
+        "alternatives": []
+      },
+      {
+        "raw_name": "감자",
+        "role": "food",
+        "group": "재료",
+        "quantity": "4~5개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 감자 4~5개",
+          "재료들을 다 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "감자",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2~3개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 당근 2~3개",
+          "재료들을 다 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2대",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 2대",
+          "재료들을 다 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매운고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "6~7개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 매운고추 6~7개",
+          "재료들을 다 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "5~6개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 홍고추 5~6개",
+          "재료들을 다 넣어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "돼지갈비",
+        "role": "food",
+        "group": "돼지갈비 삶는 재료",
+        "quantity": "4kg",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돼지갈비 삶는 재료] 돼지갈비 4kg",
+          "돼지갈비를 물에 잠길정도로 담가 3시간정도 핏물 빼주세요.",
+          "깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요."
+        ],
+        "quality_flags": [
+          "POSSIBLE_DUPLICATE_COMPONENT"
+        ],
+        "ingredient_candidate": "돼지갈비",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소주",
+        "role": "seasoning",
+        "group": "돼지갈비 삶는 재료",
+        "quantity": "300ml",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돼지갈비 삶는 재료] 소주 300ml",
+          "깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "월계수잎",
+        "role": "seasoning",
+        "group": "돼지갈비 삶는 재료",
+        "quantity": "10장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돼지갈비 삶는 재료] 월계수잎 10장",
+          "깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "월계수잎",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강",
+        "role": "seasoning",
+        "group": "돼지갈비 삶는 재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돼지갈비 삶는 재료] 생강 1개",
+          "깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통후추",
+        "role": "seasoning",
+        "group": "돼지갈비 삶는 재료",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[돼지갈비 삶는 재료] 통후추 1큰술",
+          "깨끗이 씻어 재료를 넣고 한번 삶아 냄비에 담아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "사과 배",
+        "role": "food",
+        "group": "양념재료",
+        "quantity": "2개",
+        "unit": null,
+        "preparation": "갈아",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "[양념재료] 사과 배 2개",
+          "사과나 배 그리고 양파를 갈아주세요."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "사과",
+        "alternatives": [
+          {
+            "raw_name": "배",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "[양념재료] 사과 배 2개",
+              "사과나 배 그리고 양파를 갈아주세요."
+            ],
+            "ingredient_candidate": "배"
+          }
+        ]
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "양념재료",
+        "quantity": "2개",
+        "unit": null,
+        "preparation": "갈아",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 양파 2개",
+          "사과나 배 그리고 양파를 갈아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "5국자",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 간장 5국자",
+          "양념재료를 넣고 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛술",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "4큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 맛술 4큰술",
+          "양념재료를 넣고 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛술",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실액",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "4큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 매실액 4큰술",
+          "양념재료를 넣고 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 다진마늘 2큰술",
+          "양념재료를 넣고 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물엿",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "4큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 물엿 4큰술",
+          "양념재료를 넣고 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물엿",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "4큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 설탕 4큰술",
+          "양념재료를 넣고 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굴소스",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 굴소스 2큰술",
+          "양념재료를 넣고 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굴소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "넉넉하게",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 후추 넉넉하게",
+          "양념재료를 넣고 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2바퀴",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 참기름 2바퀴",
+          "양념재료를 넣고 섞어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "3382fa013b3afca9dbc8ed094a6956c07f9b3f8543b20bfd02d67e48de7514d9",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7082783:dish",
+      "canonical_id": "dish:ee6f7aa5d0e0557150585d0e8e52c2a3c7aa2c78b3e8d08e476a39bf6d96e424",
+      "original_name": "돼지갈비찜",
+      "canonical_name": "돼지갈비찜",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:001:candidate:0",
+      "canonical_id": "ingredient:c6c187937463b1074bf51ed0ac9ce8b72f1cc1555a2605704d5480502a67a03c",
+      "original_name": "돼지갈비",
+      "canonical_name": "돼지갈비",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:002:candidate:0",
+      "canonical_id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+      "original_name": "무",
+      "canonical_name": "무",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:003:candidate:0",
+      "canonical_id": "ingredient:a67f473a4258941db3abce12710bc1e0f52543cb7e6552a968f09ce8388b2ee2",
+      "original_name": "감자",
+      "canonical_name": "감자",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:004:candidate:0",
+      "canonical_id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+      "original_name": "당근",
+      "canonical_name": "당근",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:005:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:006:candidate:0",
+      "canonical_id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+      "original_name": "청양고추",
+      "canonical_name": "청양고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:007:candidate:0",
+      "canonical_id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+      "original_name": "홍고추",
+      "canonical_name": "홍고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:008:candidate:0",
+      "canonical_id": "ingredient:c6c187937463b1074bf51ed0ac9ce8b72f1cc1555a2605704d5480502a67a03c",
+      "original_name": "돼지갈비",
+      "canonical_name": "돼지갈비",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:009:candidate:0",
+      "canonical_id": "ingredient:b545130234908869db15d7b407c6bacb26ab01044d277a5f61b118d1b08c2669",
+      "original_name": "소주",
+      "canonical_name": "소주",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:010:candidate:0",
+      "canonical_id": "ingredient:9d4629eb2c9280759774fbbd080ce2abdbcbf8242c1211ec3a5f32da44d3f934",
+      "original_name": "월계수잎",
+      "canonical_name": "월계수잎",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:011:candidate:0",
+      "canonical_id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+      "original_name": "생강",
+      "canonical_name": "생강",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:012:candidate:0",
+      "canonical_id": "ingredient:84c90df680ef75900909ba81ac2a6d5c964b63133bf41ccc309bc95dac5aee3c",
+      "original_name": "통후추",
+      "canonical_name": "통후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:013:candidate:0",
+      "canonical_id": "ingredient:d8b3d5c681dbd41009fafbe54995076288c2ecb590c29803d5ff4b1205b19fab",
+      "original_name": "사과",
+      "canonical_name": "사과",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:013:candidate:1",
+      "canonical_id": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+      "original_name": "배",
+      "canonical_name": "배",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:014:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:015:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:016:candidate:0",
+      "canonical_id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+      "original_name": "맛술",
+      "canonical_name": "맛술",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:017:candidate:0",
+      "canonical_id": "ingredient:ba0deee09640138553c2cde807118e2b995d2a694533a05b08595f80d94a3887",
+      "original_name": "매실액",
+      "canonical_name": "매실액",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:018:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:019:candidate:0",
+      "canonical_id": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+      "original_name": "물엿",
+      "canonical_name": "물엿",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:020:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:021:candidate:0",
+      "canonical_id": "ingredient:794ce31a2c5279cd79b182f9244c038fb268859235b23397f9e4514df75e6a70",
+      "original_name": "굴소스",
+      "canonical_name": "굴소스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:022:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082783:component:023:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7082783",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "bf9939f8ac4456c4dd8b1ee6c044d55e757ea046fce641d1ac2ac111b7b208c8"
+}

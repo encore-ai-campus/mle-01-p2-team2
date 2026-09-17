@@ -1,0 +1,178 @@
+{
+  "recipe_uid": "10000recipe_7081569",
+  "cache_key": "0dc7a83a102b6c2c3251651c89fed6e58ffc53fc7e8b09ab113706e321d74052",
+  "model": "gpt-5.4-mini",
+  "input_hash": "43d2d7065c57aa9229b425e2967dbfd1be9cd3d981dca0dc3d73a1ecce93e27c",
+  "source_record_hash": "8b92dd8539d0ee063a084521f0c54c8cca3751b78bbf13b1b99acf79e6504e69",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "토마토 모짜렐라 샐러드",
+    "components": [
+      {
+        "raw_name": "토마토",
+        "role": "food",
+        "group": "토마토 모짜렐라 샐러드 재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "밑 부분을 잘라주고 윗 부분은 일정한 사이즈로 칼집",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토마토 모짜렐라 샐러드 재료] 토마토 1개",
+          "밑 부분을 잘라주고 윗 부분은 일정한 사이즈로 칼집을 내주세요",
+          "토마토 사이사이에 모짜렐라 치즈를 끼워 주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토",
+        "alternatives": []
+      },
+      {
+        "raw_name": "모짜렐라",
+        "role": "food",
+        "group": "토마토 모짜렐라 샐러드 재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "슬라이스",
+        "detail": "모짜렐라 치즈를 끼워 넣음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토마토 모짜렐라 샐러드 재료] 모짜렐라 1/2개",
+          "모짜렐라 1/2개 슬라이스해 주세요",
+          "토마토 사이사이에 모짜렐라 치즈를 끼워 주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "모짜렐라 치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브 오일",
+        "role": "seasoning",
+        "group": "토마토 모짜렐라 샐러드 재료",
+        "quantity": "넉넉히",
+        "unit": null,
+        "preparation": null,
+        "detail": "좋아하는 소스 중 하나로 뿌림",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토마토 모짜렐라 샐러드 재료] 올리브 오일 넉넉히",
+          "토마토 샐러드 위에 올리브 오일 넉넉히"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브 오일",
+        "alternatives": []
+      },
+      {
+        "raw_name": "화이트 발사믹",
+        "role": "seasoning",
+        "group": "토마토 모짜렐라 샐러드 재료",
+        "quantity": "적당히",
+        "unit": null,
+        "preparation": null,
+        "detail": "좋아하는 소스 중 하나로 뿌림",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토마토 모짜렐라 샐러드 재료] 화이트 발사믹 적당히",
+          "토마토 샐러드 위에 올리브 오일 넉넉히 화이트 발사믹 적당히 꿀 적당히"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "화이트 발사믹",
+        "alternatives": []
+      },
+      {
+        "raw_name": "꿀",
+        "role": "seasoning",
+        "group": "토마토 모짜렐라 샐러드 재료",
+        "quantity": "적당히",
+        "unit": null,
+        "preparation": null,
+        "detail": "좋아하는 소스 중 하나로 뿌림",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토마토 모짜렐라 샐러드 재료] 꿀 적당히",
+          "토마토 샐러드 위에 올리브 오일 넉넉히 화이트 발사믹 적당히 꿀 적당히"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "꿀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "말돈소금",
+        "role": "seasoning",
+        "group": "토마토 모짜렐라 샐러드 재료",
+        "quantity": "조금",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토마토 모짜렐라 샐러드 재료] 말돈소금 조금",
+          "말돈소금 조금 후추 조금"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "말돈소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "토마토 모짜렐라 샐러드 재료",
+        "quantity": "조금",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토마토 모짜렐라 샐러드 재료] 후추 조금",
+          "말돈소금 조금 후추 조금"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파슬리 가루",
+        "role": "seasoning",
+        "group": "토마토 모짜렐라 샐러드 재료",
+        "quantity": "적당히",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[토마토 모짜렐라 샐러드 재료] 파슬리 가루 적당히",
+          "파슬리 가루 적당히"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파슬리 가루",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1110,
+    "prompt_tokens": 3022,
+    "total_tokens": 4132,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

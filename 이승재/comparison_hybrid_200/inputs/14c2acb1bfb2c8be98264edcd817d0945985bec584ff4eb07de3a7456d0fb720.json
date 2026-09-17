@@ -1,0 +1,245 @@
+{
+  "recipe_uid": "10000recipe_7081696",
+  "payload": {
+    "title": "팬 하나로 만든 간단한 아침. 김치햄치즈 계란밥",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "계란 3개",
+        "계란",
+        "계란",
+        "food",
+        "[재료]",
+        "3",
+        "개",
+        null,
+        null
+      ],
+      [
+        "얇은 햄 4~8장",
+        "얇은 햄",
+        "얇은 햄",
+        "food",
+        "[재료]",
+        "4~8",
+        "장",
+        null,
+        null
+      ],
+      [
+        "도시락김 3장",
+        "도시락김",
+        "도시락김",
+        "food",
+        "[재료]",
+        "3",
+        "장",
+        null,
+        null
+      ],
+      [
+        "피자치즈 듬뿍",
+        "피자치즈",
+        "피자치즈",
+        "food",
+        "[재료]",
+        "듬뿍",
+        null,
+        null,
+        null
+      ],
+      [
+        "다진파 1큰술",
+        "다진파",
+        "파",
+        "food",
+        "[재료]",
+        "1",
+        "큰술",
+        "다진",
+        null
+      ],
+      [
+        "밥 6큰술",
+        "밥",
+        "밥",
+        "food",
+        "[재료]",
+        "6",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "김치 1줌",
+        "김치",
+        "김치",
+        "food",
+        "[재료]",
+        "1",
+        "줌",
+        null,
+        null
+      ],
+      [
+        "참기름 1큰술",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "설탕 1작은술",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[재료]",
+        "1",
+        "작은술",
+        null,
+        null
+      ],
+      [
+        "깨",
+        "깨",
+        "깨",
+        "seasoning",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "계란 3개",
+      "raw_name": "계란",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "얇은 햄 4~8장",
+      "raw_name": "얇은 햄",
+      "ingredient_candidate": "얇은 햄",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "4~8",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "도시락김 3장",
+      "raw_name": "도시락김",
+      "ingredient_candidate": "도시락김",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "피자치즈 듬뿍",
+      "raw_name": "피자치즈",
+      "ingredient_candidate": "피자치즈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "듬뿍",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진파 1큰술",
+      "raw_name": "다진파",
+      "ingredient_candidate": "파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "밥 6큰술",
+      "raw_name": "밥",
+      "ingredient_candidate": "밥",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "6",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "김치 1줌",
+      "raw_name": "김치",
+      "ingredient_candidate": "김치",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "줌",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1큰술",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 1작은술",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "작은술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "깨",
+      "raw_name": "깨",
+      "ingredient_candidate": "깨",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 0,
+  "sent_steps": 0,
+  "evidence_text": "팬 하나로 만든 간단한 아침. 김치햄치즈 계란밥\n계란 3개\n얇은 햄 4~8장\n도시락김 3장\n피자치즈 듬뿍\n다진파 1큰술\n밥 6큰술\n김치 1줌\n참기름 1큰술\n설탕 1작은술\n깨"
+}

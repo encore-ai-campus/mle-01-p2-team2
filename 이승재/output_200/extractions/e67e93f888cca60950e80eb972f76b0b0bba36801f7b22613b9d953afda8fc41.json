@@ -1,0 +1,343 @@
+{
+  "recipe_uid": "10000recipe_6889620",
+  "cache_key": "2343b222eb8883fd9e9c230aa7f20c8e29cde5fae023fe4afabbb37c5613cd42",
+  "model": "gpt-5.4-mini",
+  "input_hash": "4f20e382c47d4a25f56fa172efe30ea54c19bc4026b98c60b214cae8888c58cc",
+  "source_record_hash": "1fe759253dc082944d48c221367d38ba7b6febdd38d8b952dcf258abc4e87612",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "치킨누들수프",
+    "components": [
+      {
+        "raw_name": "닭가슴살",
+        "role": "food",
+        "group": "재료",
+        "quantity": "약 260g",
+        "unit": null,
+        "preparation": "한입크기로 썰어",
+        "detail": "2덩이",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 닭가슴살 약 260g 2덩이",
+          "닭가슴살은 한입크기로 썰어"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "닭가슴살",
+        "alternatives": []
+      },
+      {
+        "raw_name": "샐러리",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3줄기",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 샐러리 3줄기",
+          "샐러리, 당근, 버섯, 양파, 마늘은 다 먹기 좋은 크기로 잘게 썰어두기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "샐러리",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1줌",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 당근 1줌",
+          "샐러리, 당근, 버섯, 양파, 마늘은 다 먹기 좋은 크기로 잘게 썰어두기",
+          "잠시 당근, 마늘 볶다가 닭고기 살짝 볶기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "표고버섯",
+        "role": "food",
+        "group": "재료",
+        "quantity": "큰 것 2개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 표고버섯 큰 것 2개",
+          "샐러리, 당근, 버섯, 양파, 마늘은 다 먹기 좋은 크기로 잘게 썰어두기",
+          "마저 샐러리, 버섯, 양파 넣고 조금만 더 볶아주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "표고버섯",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1개",
+          "샐러리, 당근, 버섯, 양파, 마늘은 다 먹기 좋은 크기로 잘게 썰어두기",
+          "마저 샐러리, 버섯, 양파 넣고 조금만 더 볶아주고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "food",
+        "group": "재료",
+        "quantity": "6~7알",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 마늘 6~7알",
+          "샐러리, 당근, 버섯, 양파, 마늘은 다 먹기 좋은 크기로 잘게 썰어두기",
+          "잠시 당근, 마늘 볶다가 닭고기 살짝 볶기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소금 약간",
+          "부족한 간은 소금, 후추로"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추 약간",
+          "부족한 간은 소금, 후추로",
+          "후추나 파슬리 톡톡 해서 내기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "치킨스톡",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2~3T",
+        "unit": null,
+        "preparation": null,
+        "detail": "끓이다가 간 보면서 필요시 더 넣기",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 치킨스톡 2~3T",
+          "치킨스톡 넣고",
+          "끓이다가 간 보면서 치킨스톡은 필요시 더 넣기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "치킨스톡",
+        "alternatives": []
+      },
+      {
+        "raw_name": "월계수잎",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "4장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 월계수잎 4장",
+          "월계수잎, 화이트와인 약 1~2t정도 넣어"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "월계수잎",
+        "alternatives": []
+      },
+      {
+        "raw_name": "레몬",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "짜서",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 레몬 1/2개",
+          "레몬 반개 짜서"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "레몬",
+        "alternatives": []
+      },
+      {
+        "raw_name": "펜네",
+        "role": "food",
+        "group": "재료",
+        "quantity": "100g",
+        "unit": null,
+        "preparation": "삶아두기",
+        "detail": "1인분",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 펜네 100g 1인분",
+          "펜네면 삶아두기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "펜네",
+        "alternatives": []
+      },
+      {
+        "raw_name": "화이트와인",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 화이트와인 약간",
+          "와인약간, 소금, 허브, 후추 해서 잠시 둔다",
+          "월계수잎, 화이트와인 약 1~2t정도 넣어"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "화이트와인",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브유",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "넉넉히 두름",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "다른 큰 냄비에 올리브유 넉넉히 두르고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "허브",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "와인약간, 소금, 허브, 후추 해서 잠시 둔다"
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "허브",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": null,
+        "quantity": "약 1L",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "바로 물 약 1L붓기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "파슬리",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "마무리용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "후추나 파슬리 톡톡 해서 내기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "파슬리",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1784,
+    "prompt_tokens": 3243,
+    "total_tokens": 5027,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

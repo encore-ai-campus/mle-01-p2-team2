@@ -1,0 +1,245 @@
+{
+  "recipe_uid": "10000recipe_7081664",
+  "payload": {
+    "title": "상큼하게 맛있는 토마토국수 한그릇요리 추천",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "얼린 토마토 2개",
+        "얼린 토마토",
+        "얼린 토마토",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "자색양파 1/4개",
+        "자색양파",
+        "자색양파",
+        "food",
+        "[재료]",
+        "1/4",
+        "개",
+        null,
+        null
+      ],
+      [
+        "깻잎 5장",
+        "깻잎",
+        "깻잎",
+        "food",
+        "[재료]",
+        "5",
+        "장",
+        null,
+        null
+      ],
+      [
+        "잔치국수주면 2인분",
+        "잔치국수주면",
+        "잔치국수주면",
+        "food",
+        "[재료]",
+        "2",
+        "인분",
+        null,
+        null
+      ],
+      [
+        "쯔유 4T",
+        "쯔유",
+        "쯔유",
+        "seasoning",
+        "[소스]",
+        "4",
+        "T",
+        null,
+        null
+      ],
+      [
+        "물 4T",
+        "물",
+        "물",
+        "seasoning",
+        "[소스]",
+        "4",
+        "T",
+        null,
+        null
+      ],
+      [
+        "알룰로스 1T",
+        "알룰로스",
+        "알룰로스",
+        "seasoning",
+        "[소스]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "화이트발사믹 1T",
+        "화이트발사믹",
+        "화이트발사믹",
+        "seasoning",
+        "[소스]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "올리브오일 2바퀴",
+        "올리브오일 2바퀴",
+        "올리브오일 2바퀴",
+        "seasoning",
+        "[소스]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[소스]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "얼린 토마토 2개",
+      "raw_name": "얼린 토마토",
+      "ingredient_candidate": "얼린 토마토",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "자색양파 1/4개",
+      "raw_name": "자색양파",
+      "ingredient_candidate": "자색양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/4",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "깻잎 5장",
+      "raw_name": "깻잎",
+      "ingredient_candidate": "깻잎",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "5",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "잔치국수주면 2인분",
+      "raw_name": "잔치국수주면",
+      "ingredient_candidate": "잔치국수주면",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "인분",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "쯔유 4T",
+      "raw_name": "쯔유",
+      "ingredient_candidate": "쯔유",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "4",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 4T",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "4",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "알룰로스 1T",
+      "raw_name": "알룰로스",
+      "ingredient_candidate": "알룰로스",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "화이트발사믹 1T",
+      "raw_name": "화이트발사믹",
+      "ingredient_candidate": "화이트발사믹",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리브오일 2바퀴",
+      "raw_name": "올리브오일 2바퀴",
+      "ingredient_candidate": "올리브오일 2바퀴",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[소스]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "상큼하게 맛있는 토마토국수 한그릇요리 추천\n얼린 토마토 2개\n자색양파 1/4개\n깻잎 5장\n잔치국수주면 2인분\n쯔유 4T\n물 4T\n알룰로스 1T\n화이트발사믹 1T\n올리브오일 2바퀴\n후추 약간"
+}
