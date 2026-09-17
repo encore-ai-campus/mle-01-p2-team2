@@ -1,0 +1,311 @@
+{
+  "recipe_uid": "10000recipe_6889620",
+  "payload": {
+    "title": "치킨수프 (치킨누들수프)",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "닭가슴살 약 260g 2덩이",
+        "닭가슴살 약",
+        "닭가슴살 약",
+        "food",
+        "[재료]",
+        "260",
+        "g",
+        null,
+        "2덩이"
+      ],
+      [
+        "샐러리 3줄기",
+        "샐러리 3줄기",
+        "샐러리 3줄기",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "당근 1줌",
+        "당근",
+        "당근",
+        "food",
+        "[재료]",
+        "1",
+        "줌",
+        null,
+        null
+      ],
+      [
+        "표고버섯 큰 것 2개",
+        "표고버섯 큰 것",
+        "표고버섯 큰 것",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "양파 1개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "마늘 6~7알",
+        "마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "6~7",
+        "알",
+        null,
+        null
+      ],
+      [
+        "치킨스톡 2~3T",
+        "치킨스톡",
+        "치킨스톡",
+        "food",
+        "[재료]",
+        "2~3",
+        "T",
+        null,
+        null
+      ],
+      [
+        "월계수잎 4장",
+        "월계수잎",
+        "월계수잎",
+        "food",
+        "[재료]",
+        "4",
+        "장",
+        null,
+        null
+      ],
+      [
+        "레몬 1/2개",
+        "레몬",
+        "레몬",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "펜네 100g 1인분",
+        "펜네",
+        "펜네",
+        "food",
+        "[재료]",
+        "1",
+        "인분",
+        null,
+        null
+      ],
+      [
+        "화이트와인 약간",
+        "화이트와인",
+        "화이트와인",
+        "food",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "닭가슴살 약 260g 2덩이",
+      "raw_name": "닭가슴살 약",
+      "ingredient_candidate": "닭가슴살 약",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "260",
+      "unit": "g",
+      "preparation": null,
+      "detail": "2덩이"
+    },
+    {
+      "raw": "샐러리 3줄기",
+      "raw_name": "샐러리 3줄기",
+      "ingredient_candidate": "샐러리 3줄기",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "당근 1줌",
+      "raw_name": "당근",
+      "ingredient_candidate": "당근",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "줌",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "표고버섯 큰 것 2개",
+      "raw_name": "표고버섯 큰 것",
+      "ingredient_candidate": "표고버섯 큰 것",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마늘 6~7알",
+      "raw_name": "마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "6~7",
+      "unit": "알",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "치킨스톡 2~3T",
+      "raw_name": "치킨스톡",
+      "ingredient_candidate": "치킨스톡",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2~3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "월계수잎 4장",
+      "raw_name": "월계수잎",
+      "ingredient_candidate": "월계수잎",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "4",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "레몬 1/2개",
+      "raw_name": "레몬",
+      "ingredient_candidate": "레몬",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "펜네 100g 1인분",
+      "raw_name": "펜네",
+      "ingredient_candidate": "펜네",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "인분",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "화이트와인 약간",
+      "raw_name": "화이트와인",
+      "ingredient_candidate": "화이트와인",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 4,
+  "sent_steps": 0,
+  "evidence_text": "치킨수프 (치킨누들수프)\n닭가슴살 약 260g 2덩이\n샐러리 3줄기\n당근 1줌\n표고버섯 큰 것 2개\n양파 1개\n마늘 6~7알\n치킨스톡 2~3T\n월계수잎 4장\n레몬 1/2개\n펜네 100g 1인분\n화이트와인 약간\n소금 약간\n후추 약간"
+}

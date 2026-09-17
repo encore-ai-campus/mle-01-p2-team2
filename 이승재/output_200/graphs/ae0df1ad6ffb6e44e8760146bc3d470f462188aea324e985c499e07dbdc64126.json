@@ -1,0 +1,1652 @@
+{
+  "recipe_uid": "10000recipe_6864003",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6864003",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6864003",
+          "title": "[김치찜 레시피]돼지고기 김치찜 만드는 법",
+          "description": "집에 있는 묵은지를 이용해서 돼지고기 김치찜을 만들어보았어요 다른반찬없이도 요 돼지고기 김치찜 하나만 있으면 밥한그릇 뚝딱이죠 ㅎㅎㅎㅎ",
+          "servings": "3인분",
+          "cooking_time": "90분 이내",
+          "difficulty": "아무나",
+          "views": 98000,
+          "source_url": "https://www.10000recipe.com/recipe/6864003",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "돼지고기 김치찜"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "김치",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2",
+          "unit": "포기",
+          "preparation": "묵은지",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"집에 있는 묵은지를 이용해서 돼지고기 김치찜을 만들어보았어요\", \"[재료] 김치 1/2포기\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "김치",
+          "name_normalized": "김치"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삼겹살",
+          "role": "food",
+          "group": "재료",
+          "quantity": "400",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 삼겹살 400g\", \"재료:김치1/2포기,삼겹살400g,대파1/2대,청양고추3개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "삼겹살",
+          "name_normalized": "삼겹살"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2",
+          "unit": "대",
+          "preparation": "먹기 좋게 자른",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1/2대\", \"대파1/2대와 청양고추를 준비해서 먹기 좋게 잘라줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3",
+          "unit": "개",
+          "preparation": "먹기 좋게 자른",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청양고추 3개\", \"대파1/2대와 청양고추를 준비해서 먹기 좋게 잘라줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 고추장 1스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 설탕 1스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "미림",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 미림 2스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "미림",
+          "name_normalized": "미림"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1/2",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 소금 1/2티스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강가루",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1/2",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 생강가루 1/2티스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강가루",
+          "name_normalized": "생강가루"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추가루",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 고추가루 1스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추가루",
+          "name_normalized": "고추가루"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "국간장",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 국간장 2스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "국간장",
+          "name_normalized": "국간장"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 마늘 1스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다시마",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다시마,멸치,대파,무 등등 육수를 만들어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다시마",
+          "name_normalized": "다시마"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다시마,멸치,대파,무 등등 육수를 만들어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치",
+          "name_normalized": "멸치"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다시마,멸치,대파,무 등등 육수를 만들어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:015:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6864003",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6864003:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:014:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:015",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6864003:component:015:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6864003",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6864003",
+          "title": "[김치찜 레시피]돼지고기 김치찜 만드는 법",
+          "description": "집에 있는 묵은지를 이용해서 돼지고기 김치찜을 만들어보았어요 다른반찬없이도 요 돼지고기 김치찜 하나만 있으면 밥한그릇 뚝딱이죠 ㅎㅎㅎㅎ",
+          "servings": "3인분",
+          "cooking_time": "90분 이내",
+          "difficulty": "아무나",
+          "views": 98000,
+          "source_url": "https://www.10000recipe.com/recipe/6864003",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:fcc98d1c9c732f58c4201c62fc16d83e3ce13ca0bc8acbe9e23839ff7940072a",
+        "label": "Dish",
+        "properties": {
+          "name": "돼지고기 김치찜"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "김치",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2",
+          "unit": "포기",
+          "preparation": "묵은지",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"집에 있는 묵은지를 이용해서 돼지고기 김치찜을 만들어보았어요\", \"[재료] 김치 1/2포기\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:48037bb1b561210563bb066d17990a96aa127eecb029f75dac45bc18ee49f3e1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "김치",
+          "name_normalized": "김치"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삼겹살",
+          "role": "food",
+          "group": "재료",
+          "quantity": "400",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 삼겹살 400g\", \"재료:김치1/2포기,삼겹살400g,대파1/2대,청양고추3개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:0e2731871c968f3d157aa4653b9b68f45e42c8cde6b7fe28c9f245e654d435ed",
+        "label": "Ingredient",
+        "properties": {
+          "name": "삼겹살",
+          "name_normalized": "삼겹살"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2",
+          "unit": "대",
+          "preparation": "먹기 좋게 자른",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1/2대\", \"대파1/2대와 청양고추를 준비해서 먹기 좋게 잘라줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3",
+          "unit": "개",
+          "preparation": "먹기 좋게 자른",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 청양고추 3개\", \"대파1/2대와 청양고추를 준비해서 먹기 좋게 잘라줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 고추장 1스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 설탕 1스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "미림",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 미림 2스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:761bc7afc52f5d261ae2318425f8671716e6f8955aa94c81ab61a972bfe732cc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "미림",
+          "name_normalized": "미림"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1/2",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 소금 1/2티스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강가루",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1/2",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 생강가루 1/2티스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:1eccdf22fba1cf12fd4a67d9ad2c11555c33306467301a9a80f9cda9888698c8",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강가루",
+          "name_normalized": "생강가루"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추가루",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 고추가루 1스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:a05f7a8dda571368661cf27786f4011c7449c745125fa79e70ef17d0a9792ca0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추가루",
+          "name_normalized": "고추가루"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "국간장",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 국간장 2스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "국간장",
+          "name_normalized": "국간장"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 마늘 1스푼\", \"김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다시마",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다시마,멸치,대파,무 등등 육수를 만들어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:d0c385195df7238708a0225ac09a6fa03275a8de4e47c1550242f3472b417e56",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다시마",
+          "name_normalized": "다시마"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다시마,멸치,대파,무 등등 육수를 만들어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:1928aefe1f901503e52d14873cdf0239c5b4d86fd937730962baaf32be446e63",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치",
+          "name_normalized": "멸치"
+        }
+      },
+      {
+        "id": "10000recipe_6864003:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다시마,멸치,대파,무 등등 육수를 만들어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864003:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6864003",
+        "type": "VARIANT_OF",
+        "target": "dish:fcc98d1c9c732f58c4201c62fc16d83e3ce13ca0bc8acbe9e23839ff7940072a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:48037bb1b561210563bb066d17990a96aa127eecb029f75dac45bc18ee49f3e1",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:0e2731871c968f3d157aa4653b9b68f45e42c8cde6b7fe28c9f245e654d435ed",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:761bc7afc52f5d261ae2318425f8671716e6f8955aa94c81ab61a972bfe732cc",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:1eccdf22fba1cf12fd4a67d9ad2c11555c33306467301a9a80f9cda9888698c8",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:a05f7a8dda571368661cf27786f4011c7449c745125fa79e70ef17d0a9792ca0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:d0c385195df7238708a0225ac09a6fa03275a8de4e47c1550242f3472b417e56",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:1928aefe1f901503e52d14873cdf0239c5b4d86fd937730962baaf32be446e63",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864003:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864003:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "돼지고기 김치찜",
+    "components": [
+      {
+        "raw_name": "김치",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2",
+        "unit": "포기",
+        "preparation": "묵은지",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "집에 있는 묵은지를 이용해서 돼지고기 김치찜을 만들어보았어요",
+          "[재료] 김치 1/2포기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "삼겹살",
+        "role": "food",
+        "group": "재료",
+        "quantity": "400",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 삼겹살 400g",
+          "재료:김치1/2포기,삼겹살400g,대파1/2대,청양고추3개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "삼겹살",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2",
+        "unit": "대",
+        "preparation": "먹기 좋게 자른",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1/2대",
+          "대파1/2대와 청양고추를 준비해서 먹기 좋게 잘라줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3",
+        "unit": "개",
+        "preparation": "먹기 좋게 자른",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 청양고추 3개",
+          "대파1/2대와 청양고추를 준비해서 먹기 좋게 잘라줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 고추장 1스푼",
+          "김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 설탕 1스푼",
+          "김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "미림",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 미림 2스푼",
+          "김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "미림",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1/2",
+        "unit": "티스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 소금 1/2티스푼",
+          "김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강가루",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1/2",
+        "unit": "티스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 생강가루 1/2티스푼",
+          "김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추가루",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 고추가루 1스푼",
+          "김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 국간장 2스푼",
+          "김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 마늘 1스푼",
+          "김치를 끓이는 동안 양념장을 만들께요 고추장1스푼,설탕1스푼,미림2스푼,소금1/2티스푼,생강가루1/2티스푼,고추가루1스푼,국간장2스푼,마늘1스푼"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다시마",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다시마,멸치,대파,무 등등 육수를 만들어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다시마",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다시마,멸치,대파,무 등등 육수를 만들어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다시마,멸치,대파,무 등등 육수를 만들어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "af9b831bcfbc8860278558064a6f2cee4a596bfbe4bf12fe3d69740210a7dc27",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6864003:dish",
+      "canonical_id": "dish:fcc98d1c9c732f58c4201c62fc16d83e3ce13ca0bc8acbe9e23839ff7940072a",
+      "original_name": "돼지고기 김치찜",
+      "canonical_name": "돼지고기 김치찜",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:001:candidate:0",
+      "canonical_id": "ingredient:48037bb1b561210563bb066d17990a96aa127eecb029f75dac45bc18ee49f3e1",
+      "original_name": "김치",
+      "canonical_name": "김치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:002:candidate:0",
+      "canonical_id": "ingredient:0e2731871c968f3d157aa4653b9b68f45e42c8cde6b7fe28c9f245e654d435ed",
+      "original_name": "삼겹살",
+      "canonical_name": "삼겹살",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:003:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:004:candidate:0",
+      "canonical_id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+      "original_name": "청양고추",
+      "canonical_name": "청양고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:005:candidate:0",
+      "canonical_id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+      "original_name": "고추장",
+      "canonical_name": "고추장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:006:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:007:candidate:0",
+      "canonical_id": "ingredient:761bc7afc52f5d261ae2318425f8671716e6f8955aa94c81ab61a972bfe732cc",
+      "original_name": "미림",
+      "canonical_name": "미림",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:008:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:009:candidate:0",
+      "canonical_id": "ingredient:1eccdf22fba1cf12fd4a67d9ad2c11555c33306467301a9a80f9cda9888698c8",
+      "original_name": "생강가루",
+      "canonical_name": "생강가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:010:candidate:0",
+      "canonical_id": "ingredient:a05f7a8dda571368661cf27786f4011c7449c745125fa79e70ef17d0a9792ca0",
+      "original_name": "고추가루",
+      "canonical_name": "고추가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:011:candidate:0",
+      "canonical_id": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+      "original_name": "국간장",
+      "canonical_name": "국간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:012:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:013:candidate:0",
+      "canonical_id": "ingredient:d0c385195df7238708a0225ac09a6fa03275a8de4e47c1550242f3472b417e56",
+      "original_name": "다시마",
+      "canonical_name": "다시마",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:014:candidate:0",
+      "canonical_id": "ingredient:1928aefe1f901503e52d14873cdf0239c5b4d86fd937730962baaf32be446e63",
+      "original_name": "멸치",
+      "canonical_name": "멸치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864003:component:015:candidate:0",
+      "canonical_id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+      "original_name": "무",
+      "canonical_name": "무",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6864003",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "b8819e5d956e4ff0526a60c386608a75994bf1ac976cd7b0b891b16c5287a927"
+}

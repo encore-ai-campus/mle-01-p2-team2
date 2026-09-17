@@ -1,0 +1,157 @@
+{
+  "recipe_uid": "10000recipe_6865809",
+  "payload": {
+    "title": "초초초초초간단 주먹밥이 왔어요! 단무지주먹밥",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "밥 1공기",
+        "밥 1공기",
+        "밥 1공기",
+        "food",
+        "[필수재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "단무지 30g",
+        "단무지",
+        "단무지",
+        "food",
+        "[필수재료]",
+        "30",
+        "g",
+        null,
+        null
+      ],
+      [
+        "체다치즈 1장",
+        "체다치즈",
+        "체다치즈",
+        "food",
+        "[필수재료]",
+        "1",
+        "장",
+        null,
+        null
+      ],
+      [
+        "조미김 1봉",
+        "조미김 1봉",
+        "조미김 1봉",
+        "food",
+        "[필수재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "참기름 1T",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념재료]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "참깨 1T",
+        "참깨",
+        "참깨",
+        "seasoning",
+        "[양념재료]",
+        "1",
+        "T",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "밥 1공기",
+      "raw_name": "밥 1공기",
+      "ingredient_candidate": "밥 1공기",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "단무지 30g",
+      "raw_name": "단무지",
+      "ingredient_candidate": "단무지",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": "30",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "체다치즈 1장",
+      "raw_name": "체다치즈",
+      "ingredient_candidate": "체다치즈",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": "1",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "조미김 1봉",
+      "raw_name": "조미김 1봉",
+      "ingredient_candidate": "조미김 1봉",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1T",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참깨 1T",
+      "raw_name": "참깨",
+      "ingredient_candidate": "참깨",
+      "role": "seasoning",
+      "group": "[양념재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 3,
+  "sent_steps": 0,
+  "evidence_text": "초초초초초간단 주먹밥이 왔어요! 단무지주먹밥\n밥 1공기\n단무지 30g\n체다치즈 1장\n조미김 1봉\n참기름 1T\n참깨 1T"
+}

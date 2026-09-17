@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0iIRgp16pGblhpKRY4VfbQChI0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"유린기\",\"components\":[{\"raw_name\":\"닭다리살\",\"role\":\"food\",\"group\":\"닭재료\",\"quantity\":\"200g\",\"unit\":null,\"preparation\":\"반으로 포를 떠서 넓게 펴고 칼집을 낸\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭재료] 닭다리살 200g\",\"닭다리살은 반으로 포를 떠서 넓게 펴주고 칼집을 야무지게 내어주세요\",\"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"닭다리살\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"닭재료\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭재료] 소금 약간\",\"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"닭재료\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭재료] 후추 약간\",\"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]},{\"raw_name\":\"청주\",\"role\":\"seasoning\",\"group\":\"닭재료\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭재료] 청주 약간\",\"칼집 낸 닭다리살에 소금, 후추, 청주 살짝 뿌려 앞 뒤로 밑간 해주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"청주\",\"alternatives\":[]},{\"raw_name\":\"튀김가루\",\"role\":\"food\",\"group\":\"닭재료\",\"quantity\":\"1/2컵\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭재료] 튀김가루 1/2컵\",\"튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고\"],\"quality_flags\":[],\"ingredient_candidate\":\"튀김가루\",\"alternatives\":[]},{\"raw_name\":\"감자전분\",\"role\":\"food\",\"group\":\"닭재료\",\"quantity\":\"1/2컵\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭재료] 감자전분 1/2컵\",\"튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고\"],\"quality_flags\":[],\"ingredient_candidate\":\"감자전분\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"닭재료\",\"quantity\":\"1/2컵\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭재료] 물 1/2컵\",\"튀김가루 + 감자전분 + 물 넣고 덩어리 안보일 정도까지 섞어주고\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"기름\",\"role\":\"food\",\"group\":\"닭재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"튀김용\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭재료] 기름 튀김용\",\"170도 달군 기름에 닭을 넣고\",\"식용유 1큰술 더 넣으면 튀김옷 식감이 더 부드러워집니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"기름\",\"alternatives\":[{\"raw_name\":\"식용유\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"condition\":\"튀김반죽에 더 넣는 경우\",\"evidence\":[\"식용유 1큰술 더 넣으면 튀김옷 식감이 더 부드러워집니다\"],\"ingredient_candidate\":\"식용유\"}]},{\"raw_name\":\"양상추\",\"role\":\"food\",\"group\":\"닭재료\",\"quantity\":\"1/4통\",\"unit\":\"통\",\"preparation\":\"손으로 찢어 찬물에 담가 아삭해지면 채에 받쳐 준비한\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭재료] 양상추 1/4통\",\"양상추는 먹기 좋은 크기로 손으로 찢어서 찬물에 담가 두셨다가 아삭해지면 채에 받쳐 건져내어 준비해주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"양상추\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":\"3Ts\",\"unit\":\"Ts\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[소스] 설탕 3Ts\",\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"간장\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":\"2Ts\",\"unit\":\"Ts\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[소스] 간장 2Ts\",\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"간장\",\"alternatives\":[]},{\"raw_name\":\"식초\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":\"2.5Ts\",\"unit\":\"Ts\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[소스] 식초 2.5Ts\",\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"식초\",\"alternatives\":[]},{\"raw_name\":\"굴소스\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":\"0.5Ts\",\"unit\":\"Ts\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[소스] 굴소스 0.5Ts\",\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"굴소스\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"소스\",\"quantity\":\"100ml\",\"unit\":\"ml\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[소스] 물 100ml\",\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"베트남고추\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":\"5개\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[소스] 베트남고추 5개\"],\"quality_flags\":[],\"ingredient_candidate\":\"베트남고추\",\"alternatives\":[]},{\"raw_name\":\"마늘\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":\"1톨\",\"unit\":\"톨\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[소스] 마늘 1톨\",\"마늘과 대파는 곱게 다져 준비해주세요\",\"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"청양고추\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":\"1개\",\"unit\":\"개\",\"preparation\":\"씨를 살짝 떼어내고 잘게 썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[소스] 청양고추 1개\",\"청양고추, 홍고추는 티스푼으로 고추씨를 살짝 떼어내고 잘게 썰어주세요\",\"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양고추\",\"alternatives\":[]},{\"raw_name\":\"홍고추\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":\"1개\",\"unit\":\"개\",\"preparation\":\"씨를 살짝 떼어내고 잘게 썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[소스] 홍고추 1개\",\"청양고추, 홍고추는 티스푼으로 고추씨를 살짝 떼어내고 잘게 썰어주세요\",\"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"홍고추\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":\"1/2뿌리\",\"unit\":\"뿌리\",\"preparation\":\"곱게 다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[소스] 대파 1/2뿌리\",\"마늘과 대파는 곱게 다져 준비해주세요\",\"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"생강\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\",\"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"],\"quality_flags\":[\"EVIDENCE_NOT_FOUND\"],\"ingredient_candidate\":\"생강\",\"alternatives\":[]},{\"raw_name\":\"건고추\",\"role\":\"seasoning\",\"group\":\"소스\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"유린기 소스 만드는법 불 올리기 전에 냄비에 생강, 건고추, 설탕, 굴소스, 간장, 식초, 물을 먼저 넣고 강불로 끓여주세요\",\"차갑게 식힌 소스에 건고추와 생강은 건져내고, 다진 마늘, 고추, 대파를 모두 넣고 섞으면 완성입니다.\"],\"quality_flags\":[\"EVIDENCE_NOT_FOUND\"],\"ingredient_candidate\":\"건고추\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530848,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 2789,
+    "prompt_tokens": 3603,
+    "total_tokens": 6392,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

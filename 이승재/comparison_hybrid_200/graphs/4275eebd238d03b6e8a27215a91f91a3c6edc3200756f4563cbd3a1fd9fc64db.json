@@ -1,0 +1,808 @@
+{
+  "recipe_uid": "10000recipe_7081635",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081635",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081635",
+          "title": "쫄면 황금 레시피 콩나물 넣어 아삭한 쫄면 양념장 만들기",
+          "description": "아삭한 콩나물과 양배추, 오이까지 듬뿍 넣고 입맛에 맞게 양념장을 넣어 비벼주면 집에서도 간단하게 맛있는 쫄면을 만들 수 있답니다. 오늘은 제가 자주 만들어 먹는 쫄면 황금 레시피 소개해 드릴게요!",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 59,
+          "source_url": "https://www.10000recipe.com/recipe/7081635",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:c81f608f998c143721ab48acd2ccc762728c8467bb1c03735b9becead71c0611",
+        "label": "Dish",
+        "properties": {
+          "name": "쫄면"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쫄면 사리 약",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "인분",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"쫄면 사리 약 300~400g 2인분\", \"끓는 물에 쫄면 사리를 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:5a774cb79fed7f32659c64b418e3a16e6eb6000eb9b3dfcdac81ec97f7d2c583",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쫄면 사리",
+          "name_normalized": "쫄면 사리"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "콩나물",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "100",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"콩나물 100g\", \"콩나물을 건져낸 물은 버리지 않고 그대로 쫄면을 삶는 데 사용해 주세요.\", \"아삭하게 삶아둔 콩나물\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:5ff9c2b20765dea90cc5c14868466e60588deb51b0414a019fb9eb2737b39233",
+        "label": "Ingredient",
+        "properties": {
+          "name": "콩나물",
+          "name_normalized": "콩나물"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양배추",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "장",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양배추 2장\", \"채 썰어둔 양배추\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양배추",
+          "name_normalized": "양배추"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1/4",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"당근 1/4개\", \"당근\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오이",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"오이 1/2개\", \"오이\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오이",
+          "name_normalized": "오이"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삶은 계란",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"삶은 계란 1개\", \"반으로 자른 삶은 계란도 하나씩 올려주면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:8c00145215b49198a6b4386042f02133eb11d5d6163ece7371162889e7f74977",
+        "label": "Ingredient",
+        "properties": {
+          "name": "삶은 계란",
+          "name_normalized": "삶은 계란"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"통깨\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 1큰술\", \"참기름을 먼저 넣어 면을 코팅해 주면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "​ 고추장",
+          "role": "seasoning",
+          "group": "[쫄면 양념장]",
+          "quantity": "3",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"​ 고추장 3큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "[쫄면 양념장]",
+          "quantity": "1.5",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"고춧가루 1.5큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "진간장",
+          "role": "seasoning",
+          "group": "[쫄면 양념장]",
+          "quantity": "1.5",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"진간장 1.5큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+        "label": "Ingredient",
+        "properties": {
+          "name": "진간장",
+          "name_normalized": "진간장"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": "[쫄면 양념장]",
+          "quantity": "4~4.5",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"식초 4~4.5큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "[쫄면 양념장]",
+          "quantity": "2.5",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"설탕 2.5큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리고당",
+          "role": "seasoning",
+          "group": "[쫄면 양념장]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"올리고당 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리고당",
+          "name_normalized": "올리고당"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": "[쫄면 양념장]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"다진 마늘 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_7081635:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "사이다 선택",
+          "role": "seasoning",
+          "group": "[쫄면 양념장]",
+          "quantity": "1~2",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"사이다 선택 1~2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081635:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "ingredient:b8cd7ee473f73c82a473ce7071217abc4e1203c49c7fd349e79fd90550e53beb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "사이다 선택",
+          "name_normalized": "사이다 선택"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081635",
+        "type": "VARIANT_OF",
+        "target": "dish:c81f608f998c143721ab48acd2ccc762728c8467bb1c03735b9becead71c0611",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:5a774cb79fed7f32659c64b418e3a16e6eb6000eb9b3dfcdac81ec97f7d2c583",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:5ff9c2b20765dea90cc5c14868466e60588deb51b0414a019fb9eb2737b39233",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:8c00145215b49198a6b4386042f02133eb11d5d6163ece7371162889e7f74977",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081635:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081635:component:016",
+        "type": "INGREDIENT",
+        "target": "ingredient:b8cd7ee473f73c82a473ce7071217abc4e1203c49c7fd349e79fd90550e53beb",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081635:dish",
+      "canonical_id": "dish:c81f608f998c143721ab48acd2ccc762728c8467bb1c03735b9becead71c0611",
+      "original_name": "쫄면",
+      "canonical_name": "쫄면",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:001:candidate:0",
+      "canonical_id": "ingredient:5a774cb79fed7f32659c64b418e3a16e6eb6000eb9b3dfcdac81ec97f7d2c583",
+      "original_name": "쫄면 사리",
+      "canonical_name": "쫄면 사리",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:002:candidate:0",
+      "canonical_id": "ingredient:5ff9c2b20765dea90cc5c14868466e60588deb51b0414a019fb9eb2737b39233",
+      "original_name": "콩나물",
+      "canonical_name": "콩나물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:003:candidate:0",
+      "canonical_id": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+      "original_name": "양배추",
+      "canonical_name": "양배추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:004:candidate:0",
+      "canonical_id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+      "original_name": "당근",
+      "canonical_name": "당근",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:005:candidate:0",
+      "canonical_id": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+      "original_name": "오이",
+      "canonical_name": "오이",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:006:candidate:0",
+      "canonical_id": "ingredient:8c00145215b49198a6b4386042f02133eb11d5d6163ece7371162889e7f74977",
+      "original_name": "삶은 계란",
+      "canonical_name": "삶은 계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:007:candidate:0",
+      "canonical_id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+      "original_name": "통깨",
+      "canonical_name": "통깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:008:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:009:candidate:0",
+      "canonical_id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+      "original_name": "고추장",
+      "canonical_name": "고추장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:010:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:011:candidate:0",
+      "canonical_id": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+      "original_name": "진간장",
+      "canonical_name": "진간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:012:candidate:0",
+      "canonical_id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+      "original_name": "식초",
+      "canonical_name": "식초",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:013:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:014:candidate:0",
+      "canonical_id": "ingredient:ebef8747ad76270d41f6751290d5c0dd686323bc4689c74566afb6c0fb10e645",
+      "original_name": "올리고당",
+      "canonical_name": "올리고당",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:015:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081635:component:016:candidate:0",
+      "canonical_id": "ingredient:b8cd7ee473f73c82a473ce7071217abc4e1203c49c7fd349e79fd90550e53beb",
+      "original_name": "사이다 선택",
+      "canonical_name": "사이다 선택",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 16,
+    "alternatives": 0,
+    "required_known": 15,
+    "dish": true,
+    "relations": 33,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

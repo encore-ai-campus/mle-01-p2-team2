@@ -1,0 +1,201 @@
+{
+  "recipe_uid": "10000recipe_3979404",
+  "payload": {
+    "title": "달걀감자 그라탕",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "감자(소) 1개",
+        "감자(소)",
+        "감자(소)",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "삶은 달걀 2개",
+        "삶은 달걀",
+        "삶은 달걀",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "양파 1/2개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "모짜렐라치즈 원하는만큼",
+        "모짜렐라치즈 원하는만큼",
+        "모짜렐라치즈 원하는만큼",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "밀가루 약간",
+        "밀가루",
+        "밀가루",
+        "food",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "우유 1000ml",
+        "우유",
+        "우유",
+        "food",
+        "[재료]",
+        "1000",
+        "ml",
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[양념]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[양념]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "감자(소) 1개",
+      "raw_name": "감자(소)",
+      "ingredient_candidate": "감자(소)",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "삶은 달걀 2개",
+      "raw_name": "삶은 달걀",
+      "ingredient_candidate": "삶은 달걀",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1/2개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "모짜렐라치즈 원하는만큼",
+      "raw_name": "모짜렐라치즈 원하는만큼",
+      "ingredient_candidate": "모짜렐라치즈 원하는만큼",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "밀가루 약간",
+      "raw_name": "밀가루",
+      "ingredient_candidate": "밀가루",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "우유 1000ml",
+      "raw_name": "우유",
+      "ingredient_candidate": "우유",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1000",
+      "unit": "ml",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 8,
+  "sent_steps": 0,
+  "evidence_text": "달걀감자 그라탕\n감자(소) 1개\n삶은 달걀 2개\n양파 1/2개\n모짜렐라치즈 원하는만큼\n밀가루 약간\n우유 1000ml\n소금 약간\n후추 약간"
+}

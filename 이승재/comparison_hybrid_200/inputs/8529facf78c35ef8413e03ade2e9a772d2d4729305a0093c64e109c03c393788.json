@@ -1,0 +1,170 @@
+{
+  "recipe_uid": "10000recipe_590786",
+  "payload": {
+    "title": "스폰지케이크 시트 만들기(제누아즈 - 공립법)",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "달걀 200g 4개",
+        "달걀",
+        "계란",
+        "food",
+        "[재료]",
+        "4",
+        "개",
+        null,
+        null
+      ],
+      [
+        "박력분 120g",
+        "박력분",
+        "박력분",
+        "food",
+        "[재료]",
+        "120",
+        "g",
+        null,
+        null
+      ],
+      [
+        "식용유(포도씨유) 20g",
+        "식용유(포도씨유)",
+        "식용유(포도씨유)",
+        "food",
+        "[재료]",
+        "20",
+        "g",
+        null,
+        null
+      ],
+      [
+        "바닐라 오일 1t",
+        "바닐라 오일",
+        "바닐라 오일",
+        "food",
+        "[재료]",
+        "1",
+        "t",
+        null,
+        null
+      ],
+      [
+        "설탕 100g",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[재료]",
+        "100",
+        "g",
+        null,
+        null
+      ],
+      [
+        "물엿 40g",
+        "물엿",
+        "물엿",
+        "seasoning",
+        "[재료]",
+        "40",
+        "g",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 4,
+        "text": "그리고 체친 박력분(120g)을 조금씩 넣어가며 살살 주걱으로 섞어주고, 밑에서 위로 올려가면서 거품이 죽지 않도록 살살 섞어주세요. 이 과정에서 거품이 다 죽어버리면 빵이 낮고 맛도 별로랍니당. 꼭 살살 다뤄주세요. 단,밀가루 알맹이가 없도록 확인 후 충분히 섞어주시길."
+      },
+      {
+        "step": 5,
+        "text": "다른볼에 포도씨유(20g), 바닐라 오일(1t)을 넣은 후 반죽을 조금 덜어내어 섞고~ 포도씨유 대신 식용유나 버터로 하셔도 되요."
+      },
+      {
+        "step": 6,
+        "text": "그리고 본박죽에 부어 살살 섞어주고, 포도씨유를 본반죽에 그냥 부어서 섞게되면 기름류라서 잘 안섞이고 거품이 다 죽게되요. 그래서 따로 반죽을 조금 덜어서 섞어준 후 본반죽에 부어서 섞어주는거랍니당."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "달걀 200g 4개",
+      "raw_name": "달걀",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "4",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "박력분 120g",
+      "raw_name": "박력분",
+      "ingredient_candidate": "박력분",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "120",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "식용유(포도씨유) 20g",
+      "raw_name": "식용유(포도씨유)",
+      "ingredient_candidate": "식용유(포도씨유)",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "20",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "바닐라 오일 1t",
+      "raw_name": "바닐라 오일",
+      "ingredient_candidate": "바닐라 오일",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "t",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 100g",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "100",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물엿 40g",
+      "raw_name": "물엿",
+      "ingredient_candidate": "물엿",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "40",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 8,
+  "sent_steps": 3,
+  "evidence_text": "스폰지케이크 시트 만들기(제누아즈 - 공립법)\n달걀 200g 4개\n박력분 120g\n식용유(포도씨유) 20g\n바닐라 오일 1t\n설탕 100g\n물엿 40g\n그리고 체친 박력분(120g)을 조금씩 넣어가며 살살 주걱으로 섞어주고, 밑에서 위로 올려가면서 거품이 죽지 않도록 살살 섞어주세요. 이 과정에서 거품이 다 죽어버리면 빵이 낮고 맛도 별로랍니당. 꼭 살살 다뤄주세요. 단,밀가루 알맹이가 없도록 확인 후 충분히 섞어주시길.\n다른볼에 포도씨유(20g), 바닐라 오일(1t)을 넣은 후 반죽을 조금 덜어내어 섞고~ 포도씨유 대신 식용유나 버터로 하셔도 되요.\n그리고 본박죽에 부어 살살 섞어주고, 포도씨유를 본반죽에 그냥 부어서 섞게되면 기름류라서 잘 안섞이고 거품이 다 죽게되요. 그래서 따로 반죽을 조금 덜어서 섞어준 후 본반죽에 부어서 섞어주는거랍니당."
+}

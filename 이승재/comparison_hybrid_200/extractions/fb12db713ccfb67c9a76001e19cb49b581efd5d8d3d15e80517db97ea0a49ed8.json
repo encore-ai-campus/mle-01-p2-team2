@@ -1,0 +1,243 @@
+{
+  "recipe_uid": "10000recipe_5228712",
+  "cache_key": "ee809187cd9e3fb0f6d36f60d034b8a5b06875fb2fb26a0dae4162787f297151",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 1272,
+    "prompt_tokens": 3256,
+    "total_tokens": 4528,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "소불고기",
+    "components": [
+      {
+        "raw_name": "소불고기",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "650",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소불고기 650g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소불고기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 1/2개",
+          "양파는 채 썰어서 넣어 주려고 즙은 내지 않았습니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "뿌리",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "대파 1뿌리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "팽이버섯",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "봉지",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "팽이버섯 1봉지"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "팽이버섯",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통깨",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "통깨 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "통깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양조간장",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "3",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양조간장 3큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양조간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실액",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "매실액 1큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "설탕 1큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛술",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1.5",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "맛술 1.5큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛술",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 마늘",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진 마늘 1큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후춧가루",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "후춧가루 약간",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "[양념]",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름 1큰술",
+          "분량의 양념 재료 양조간장, 매실액, 설탕, 다진 마늘, 맛술, 후춧가루, 참기름을 넣어 골고루 섞어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 5.75
+}

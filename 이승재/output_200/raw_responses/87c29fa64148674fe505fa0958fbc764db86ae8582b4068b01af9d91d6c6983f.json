@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb15S4D4WlwF6KbGmu7Ke7d0Daf6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"우렁쌈장\",\"components\":[{\"raw_name\":\"우렁이\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1그릇\",\"unit\":null,\"preparation\":\"깨끗하게 씻은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"우렁이 1그릇\",\"깨끗하게 씻은 우렁이를 넣고 1분정도 삶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"우렁이\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/2개\",\"unit\":\"개\",\"preparation\":\"채썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"양파 1/2개\",\"양파,호박,버섯 채썰어두었던것을 넣고 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"호박\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/3개\",\"unit\":\"개\",\"preparation\":\"채썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"호박 1/3개\",\"양파,호박,버섯 채썰어두었던것을 넣고 볶아주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"호박\",\"alternatives\":[]},{\"raw_name\":\"표고버섯\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"3개\",\"unit\":\"개\",\"preparation\":\"밑기둥을 제거한 후 채썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"표고버섯 3개\",\"표고버섯은 밑기둥을 제거해주신후에 채썰어줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"표고버섯\",\"alternatives\":[]},{\"raw_name\":\"두부\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/2모\",\"unit\":\"모\",\"preparation\":\"으깬\",\"detail\":\"물기를 따로 제거 안하셔도 상관없어요\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"두부 1/2모\",\"두부1/2모를 준비해서 손으로 마구 으깨주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"두부\",\"alternatives\":[]},{\"raw_name\":\"청양고추\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"3개\",\"unit\":\"개\",\"preparation\":\"채썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"청양고추 3개\",\"청양고추3개를 채썰어주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양고추\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1개\",\"unit\":\"개\",\"preparation\":\"채썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"대파 1개\",\"대파1개를 채썰어주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"된장\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"4T\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"된장 4T\",\"된장4스푼,고추가루2스푼을 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"된장\",\"alternatives\":[]},{\"raw_name\":\"고추가루\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"2T\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"고추가루 2T\",\"된장4스푼,고추가루2스푼을 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"unknown\",\"group\":\"양념\",\"quantity\":\"1공기\",\"unit\":\"공기\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"물 1공기\",\"물을 밥한공기 준비하셔서 넣어서 된장과 고추가루가 잘풀어지도록 섞어줍니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"2T\",\"unit\":\"T\",\"preparation\":null,\"detail\":\"들기름이 있으시면 들기름을 넣어주면 좀더 고소하게 드실수 있어요\",\"is_required\":true,\"alternative_mode\":\"replacement\",\"evidence\":[\"참기름 2T\",\"후라이팬에 참기름2스푼을 넣어줍니다\",\"들기름이 있으시면 들기름을 넣어주면 좀더 고소하게 드실수 있어요\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[{\"raw_name\":\"들기름\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":\"들기름이 있으시면\",\"evidence\":[\"들기름이 있으시면 들기름을 넣어주면 좀더 고소하게 드실수 있어요\"],\"ingredient_candidate\":\"들기름\"}]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530871,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1195,
+    "prompt_tokens": 3220,
+    "total_tokens": 4415,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

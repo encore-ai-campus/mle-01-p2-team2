@@ -1,0 +1,252 @@
+{
+  "recipe_uid": "10000recipe_6889620",
+  "cache_key": "c3c38237a6a5624e51cac8d20c1258a6085f1ec592967560f9141da58f19935b",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 998,
+    "prompt_tokens": 3062,
+    "total_tokens": 4060,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "치킨수프",
+    "components": [
+      {
+        "raw_name": "닭가슴살 약",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "260",
+        "unit": "g",
+        "preparation": null,
+        "detail": "2덩이",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "닭가슴살 약 260g 2덩이"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "닭가슴살 약",
+        "alternatives": []
+      },
+      {
+        "raw_name": "샐러리 3줄기",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "샐러리 3줄기"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "샐러리 3줄기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "줌",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "당근 1줌"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "표고버섯 큰 것",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "표고버섯 큰 것 2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "표고버섯 큰 것",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 1개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "6~7",
+        "unit": "알",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "마늘 6~7알"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "치킨스톡",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2~3",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "치킨스톡 2~3T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "치킨스톡",
+        "alternatives": []
+      },
+      {
+        "raw_name": "월계수잎",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "4",
+        "unit": "장",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "월계수잎 4장"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "월계수잎",
+        "alternatives": []
+      },
+      {
+        "raw_name": "레몬",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "레몬 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "레몬",
+        "alternatives": []
+      },
+      {
+        "raw_name": "펜네",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": null,
+        "detail": "1인분",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "펜네 100g 1인분"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "펜네",
+        "alternatives": []
+      },
+      {
+        "raw_name": "화이트와인",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "화이트와인 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "화이트와인",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "후추 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 3.922
+}

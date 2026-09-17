@@ -1,0 +1,1402 @@
+{
+  "recipe_uid": "10000recipe_6861653",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6861653",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6861653",
+          "title": "간식타임은 이걸로 체크메이트!! 네모네모 체크쿠키♥",
+          "description": "초코반죽+기본반죽만으로 예쁜 쿠키 만들기 세번째! 슥슥 자르고 붙여서 쉽게 만드는 체크무늬 쿠키▦ 세상의 모든 레시피 만개의레시피",
+          "servings": "4인분",
+          "cooking_time": "120분 이내",
+          "difficulty": "아무나",
+          "views": 92000,
+          "source_url": "https://www.10000recipe.com/recipe/6861653",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "체크쿠키"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무염버터",
+          "role": "food",
+          "group": "기본반죽",
+          "quantity": "65g",
+          "unit": null,
+          "preparation": "실온에 둔",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 무염버터 65g\", \"실온에 둔 버터를 크림화한다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "박력분",
+          "role": "food",
+          "group": "기본반죽",
+          "quantity": "135g",
+          "unit": null,
+          "preparation": "체쳐",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 박력분 135g\", \"박력분, 코코아파우더는 미리 체쳐주기.\", \"기본반죽 : 박력분, 초코반죽 : 박력분, 코코아파우더\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "박력분",
+          "name_normalized": "박력분"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "슈가파우더",
+          "role": "seasoning",
+          "group": "기본반죽",
+          "quantity": "60g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 슈가파우더 60g\", \"크림화한 버터에 슈가파우더와 소금을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "슈가파우더",
+          "name_normalized": "슈가파우더"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "기본반죽",
+          "quantity": "1g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 소금 1g\", \"크림화한 버터에 슈가파우더와 소금을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란노른자",
+          "role": "food",
+          "group": "기본반죽",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "실온에 둔",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 계란노른자 1개\", \"4에 계란노른자와 바닐라익스트랙을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀 노른자",
+          "name_normalized": "달걀 노른자"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "바닐라익스트랙",
+          "role": "seasoning",
+          "group": "기본반죽",
+          "quantity": "2~3방울",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 바닐라익스트랙 2~3방울\", \"4에 계란노른자와 바닐라익스트랙을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "바닐라 익스트랙",
+          "name_normalized": "바닐라 익스트랙"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무염버터",
+          "role": "food",
+          "group": "초코반죽",
+          "quantity": "65g",
+          "unit": null,
+          "preparation": "실온에 둔",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 무염버터 65g\", \"실온에 둔 버터를 크림화한다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "박력분",
+          "role": "food",
+          "group": "초코반죽",
+          "quantity": "125g",
+          "unit": null,
+          "preparation": "체쳐",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 박력분 125g\", \"박력분, 코코아파우더는 미리 체쳐주기.\", \"기본반죽 : 박력분, 초코반죽 : 박력분, 코코아파우더\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "박력분",
+          "name_normalized": "박력분"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "코코아파우더",
+          "role": "seasoning",
+          "group": "초코반죽",
+          "quantity": "10g",
+          "unit": null,
+          "preparation": "체쳐",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 코코아파우더 10g\", \"박력분, 코코아파우더는 미리 체쳐주기.\", \"기본반죽 : 박력분, 초코반죽 : 박력분, 코코아파우더\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "코코아 파우더",
+          "name_normalized": "코코아 파우더"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "슈가파우더",
+          "role": "seasoning",
+          "group": "초코반죽",
+          "quantity": "60g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 슈가파우더 60g\", \"크림화한 버터에 슈가파우더와 소금을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "슈가파우더",
+          "name_normalized": "슈가파우더"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "초코반죽",
+          "quantity": "1g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 소금 1g\", \"크림화한 버터에 슈가파우더와 소금을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란노른자",
+          "role": "food",
+          "group": "초코반죽",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "실온에 둔",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 계란노른자 1개\", \"4에 계란노른자와 바닐라익스트랙을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀 노른자",
+          "name_normalized": "달걀 노른자"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "바닐라익스트랙",
+          "role": "seasoning",
+          "group": "초코반죽",
+          "quantity": "2~3방울",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 바닐라익스트랙 2~3방울\", \"4에 계란노른자와 바닐라익스트랙을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "바닐라 익스트랙",
+          "name_normalized": "바닐라 익스트랙"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6861653",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6861653:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6861653:component:013:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6861653",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6861653",
+          "title": "간식타임은 이걸로 체크메이트!! 네모네모 체크쿠키♥",
+          "description": "초코반죽+기본반죽만으로 예쁜 쿠키 만들기 세번째! 슥슥 자르고 붙여서 쉽게 만드는 체크무늬 쿠키▦ 세상의 모든 레시피 만개의레시피",
+          "servings": "4인분",
+          "cooking_time": "120분 이내",
+          "difficulty": "아무나",
+          "views": 92000,
+          "source_url": "https://www.10000recipe.com/recipe/6861653",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:fed8614f7b3b484ef27cdab5410c2efa2a5a463d7cdaf06a3190a3856aa8a47d",
+        "label": "Dish",
+        "properties": {
+          "name": "체크쿠키"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무염버터",
+          "role": "food",
+          "group": "기본반죽",
+          "quantity": "65g",
+          "unit": null,
+          "preparation": "실온에 둔",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 무염버터 65g\", \"실온에 둔 버터를 크림화한다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "박력분",
+          "role": "food",
+          "group": "기본반죽",
+          "quantity": "135g",
+          "unit": null,
+          "preparation": "체쳐",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 박력분 135g\", \"박력분, 코코아파우더는 미리 체쳐주기.\", \"기본반죽 : 박력분, 초코반죽 : 박력분, 코코아파우더\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:c3fa541fa31b53aeb1c49783b15d7f705dfb791ed9f26e9de4165a5b823adf37",
+        "label": "Ingredient",
+        "properties": {
+          "name": "박력분",
+          "name_normalized": "박력분"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "슈가파우더",
+          "role": "seasoning",
+          "group": "기본반죽",
+          "quantity": "60g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 슈가파우더 60g\", \"크림화한 버터에 슈가파우더와 소금을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:28f97ffa077a0a80384ef758b59420f598d3356a30c4e296f95280ab841cb475",
+        "label": "Ingredient",
+        "properties": {
+          "name": "슈가파우더",
+          "name_normalized": "슈가파우더"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "기본반죽",
+          "quantity": "1g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 소금 1g\", \"크림화한 버터에 슈가파우더와 소금을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란노른자",
+          "role": "food",
+          "group": "기본반죽",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "실온에 둔",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 계란노른자 1개\", \"4에 계란노른자와 바닐라익스트랙을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:262e120712f47b3cfe0baedbbb67ee746c89967627834e5bcc2b7560f1c68c85",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀 노른자",
+          "name_normalized": "달걀 노른자"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "바닐라익스트랙",
+          "role": "seasoning",
+          "group": "기본반죽",
+          "quantity": "2~3방울",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[기본반죽] 바닐라익스트랙 2~3방울\", \"4에 계란노른자와 바닐라익스트랙을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:c1e02323b80ef79666256241f50883afba47b43426baf6a541c7c6a0dc7fb3bd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "바닐라 익스트랙",
+          "name_normalized": "바닐라 익스트랙"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무염버터",
+          "role": "food",
+          "group": "초코반죽",
+          "quantity": "65g",
+          "unit": null,
+          "preparation": "실온에 둔",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 무염버터 65g\", \"실온에 둔 버터를 크림화한다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "박력분",
+          "role": "food",
+          "group": "초코반죽",
+          "quantity": "125g",
+          "unit": null,
+          "preparation": "체쳐",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 박력분 125g\", \"박력분, 코코아파우더는 미리 체쳐주기.\", \"기본반죽 : 박력분, 초코반죽 : 박력분, 코코아파우더\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "코코아파우더",
+          "role": "seasoning",
+          "group": "초코반죽",
+          "quantity": "10g",
+          "unit": null,
+          "preparation": "체쳐",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 코코아파우더 10g\", \"박력분, 코코아파우더는 미리 체쳐주기.\", \"기본반죽 : 박력분, 초코반죽 : 박력분, 코코아파우더\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:6a1ee0ac4537d355814a9d9aabd179976a6a26d5d2ac2bfacd38ae7778113f94",
+        "label": "Ingredient",
+        "properties": {
+          "name": "코코아 파우더",
+          "name_normalized": "코코아 파우더"
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "슈가파우더",
+          "role": "seasoning",
+          "group": "초코반죽",
+          "quantity": "60g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 슈가파우더 60g\", \"크림화한 버터에 슈가파우더와 소금을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "초코반죽",
+          "quantity": "1g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 소금 1g\", \"크림화한 버터에 슈가파우더와 소금을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란노른자",
+          "role": "food",
+          "group": "초코반죽",
+          "quantity": "1개",
+          "unit": null,
+          "preparation": "실온에 둔",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 계란노른자 1개\", \"4에 계란노른자와 바닐라익스트랙을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_6861653:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "바닐라익스트랙",
+          "role": "seasoning",
+          "group": "초코반죽",
+          "quantity": "2~3방울",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[초코반죽] 바닐라익스트랙 2~3방울\", \"4에 계란노른자와 바닐라익스트랙을 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6861653:component:013",
+          "index": 13
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6861653",
+        "type": "VARIANT_OF",
+        "target": "dish:fed8614f7b3b484ef27cdab5410c2efa2a5a463d7cdaf06a3190a3856aa8a47d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:c3fa541fa31b53aeb1c49783b15d7f705dfb791ed9f26e9de4165a5b823adf37",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:28f97ffa077a0a80384ef758b59420f598d3356a30c4e296f95280ab841cb475",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:262e120712f47b3cfe0baedbbb67ee746c89967627834e5bcc2b7560f1c68c85",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:c1e02323b80ef79666256241f50883afba47b43426baf6a541c7c6a0dc7fb3bd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:c3fa541fa31b53aeb1c49783b15d7f705dfb791ed9f26e9de4165a5b823adf37",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:6a1ee0ac4537d355814a9d9aabd179976a6a26d5d2ac2bfacd38ae7778113f94",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:28f97ffa077a0a80384ef758b59420f598d3356a30c4e296f95280ab841cb475",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:262e120712f47b3cfe0baedbbb67ee746c89967627834e5bcc2b7560f1c68c85",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6861653:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6861653:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:c1e02323b80ef79666256241f50883afba47b43426baf6a541c7c6a0dc7fb3bd",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "체크쿠키",
+    "components": [
+      {
+        "raw_name": "무염버터",
+        "role": "food",
+        "group": "기본반죽",
+        "quantity": "65g",
+        "unit": null,
+        "preparation": "실온에 둔",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[기본반죽] 무염버터 65g",
+          "실온에 둔 버터를 크림화한다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "박력분",
+        "role": "food",
+        "group": "기본반죽",
+        "quantity": "135g",
+        "unit": null,
+        "preparation": "체쳐",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[기본반죽] 박력분 135g",
+          "박력분, 코코아파우더는 미리 체쳐주기.",
+          "기본반죽 : 박력분, 초코반죽 : 박력분, 코코아파우더"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "박력분",
+        "alternatives": []
+      },
+      {
+        "raw_name": "슈가파우더",
+        "role": "seasoning",
+        "group": "기본반죽",
+        "quantity": "60g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[기본반죽] 슈가파우더 60g",
+          "크림화한 버터에 슈가파우더와 소금을 넣는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "슈가파우더",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "기본반죽",
+        "quantity": "1g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[기본반죽] 소금 1g",
+          "크림화한 버터에 슈가파우더와 소금을 넣는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란노른자",
+        "role": "food",
+        "group": "기본반죽",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "실온에 둔",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[기본반죽] 계란노른자 1개",
+          "4에 계란노른자와 바닐라익스트랙을 넣는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "달걀 노른자",
+        "alternatives": []
+      },
+      {
+        "raw_name": "바닐라익스트랙",
+        "role": "seasoning",
+        "group": "기본반죽",
+        "quantity": "2~3방울",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[기본반죽] 바닐라익스트랙 2~3방울",
+          "4에 계란노른자와 바닐라익스트랙을 넣는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "바닐라 익스트랙",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무염버터",
+        "role": "food",
+        "group": "초코반죽",
+        "quantity": "65g",
+        "unit": null,
+        "preparation": "실온에 둔",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초코반죽] 무염버터 65g",
+          "실온에 둔 버터를 크림화한다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "박력분",
+        "role": "food",
+        "group": "초코반죽",
+        "quantity": "125g",
+        "unit": null,
+        "preparation": "체쳐",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초코반죽] 박력분 125g",
+          "박력분, 코코아파우더는 미리 체쳐주기.",
+          "기본반죽 : 박력분, 초코반죽 : 박력분, 코코아파우더"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "박력분",
+        "alternatives": []
+      },
+      {
+        "raw_name": "코코아파우더",
+        "role": "seasoning",
+        "group": "초코반죽",
+        "quantity": "10g",
+        "unit": null,
+        "preparation": "체쳐",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초코반죽] 코코아파우더 10g",
+          "박력분, 코코아파우더는 미리 체쳐주기.",
+          "기본반죽 : 박력분, 초코반죽 : 박력분, 코코아파우더"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "코코아 파우더",
+        "alternatives": []
+      },
+      {
+        "raw_name": "슈가파우더",
+        "role": "seasoning",
+        "group": "초코반죽",
+        "quantity": "60g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초코반죽] 슈가파우더 60g",
+          "크림화한 버터에 슈가파우더와 소금을 넣는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "슈가파우더",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "초코반죽",
+        "quantity": "1g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초코반죽] 소금 1g",
+          "크림화한 버터에 슈가파우더와 소금을 넣는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란노른자",
+        "role": "food",
+        "group": "초코반죽",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "실온에 둔",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초코반죽] 계란노른자 1개",
+          "4에 계란노른자와 바닐라익스트랙을 넣는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "달걀 노른자",
+        "alternatives": []
+      },
+      {
+        "raw_name": "바닐라익스트랙",
+        "role": "seasoning",
+        "group": "초코반죽",
+        "quantity": "2~3방울",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[초코반죽] 바닐라익스트랙 2~3방울",
+          "4에 계란노른자와 바닐라익스트랙을 넣는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "바닐라 익스트랙",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "2fd8947449a9293d04ba4ee9fb8efd92b9b86c907c2f8575d70e1a4ce01b3ed2",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6861653:dish",
+      "canonical_id": "dish:fed8614f7b3b484ef27cdab5410c2efa2a5a463d7cdaf06a3190a3856aa8a47d",
+      "original_name": "체크쿠키",
+      "canonical_name": "체크쿠키",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:001:candidate:0",
+      "canonical_id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+      "original_name": "버터",
+      "canonical_name": "버터",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:002:candidate:0",
+      "canonical_id": "ingredient:c3fa541fa31b53aeb1c49783b15d7f705dfb791ed9f26e9de4165a5b823adf37",
+      "original_name": "박력분",
+      "canonical_name": "박력분",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:003:candidate:0",
+      "canonical_id": "ingredient:28f97ffa077a0a80384ef758b59420f598d3356a30c4e296f95280ab841cb475",
+      "original_name": "슈가파우더",
+      "canonical_name": "슈가파우더",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:004:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:005:candidate:0",
+      "canonical_id": "ingredient:262e120712f47b3cfe0baedbbb67ee746c89967627834e5bcc2b7560f1c68c85",
+      "original_name": "달걀 노른자",
+      "canonical_name": "달걀 노른자",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:006:candidate:0",
+      "canonical_id": "ingredient:c1e02323b80ef79666256241f50883afba47b43426baf6a541c7c6a0dc7fb3bd",
+      "original_name": "바닐라 익스트랙",
+      "canonical_name": "바닐라 익스트랙",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:007:candidate:0",
+      "canonical_id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+      "original_name": "버터",
+      "canonical_name": "버터",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:008:candidate:0",
+      "canonical_id": "ingredient:c3fa541fa31b53aeb1c49783b15d7f705dfb791ed9f26e9de4165a5b823adf37",
+      "original_name": "박력분",
+      "canonical_name": "박력분",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:009:candidate:0",
+      "canonical_id": "ingredient:6a1ee0ac4537d355814a9d9aabd179976a6a26d5d2ac2bfacd38ae7778113f94",
+      "original_name": "코코아 파우더",
+      "canonical_name": "코코아 파우더",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:010:candidate:0",
+      "canonical_id": "ingredient:28f97ffa077a0a80384ef758b59420f598d3356a30c4e296f95280ab841cb475",
+      "original_name": "슈가파우더",
+      "canonical_name": "슈가파우더",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:011:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:012:candidate:0",
+      "canonical_id": "ingredient:262e120712f47b3cfe0baedbbb67ee746c89967627834e5bcc2b7560f1c68c85",
+      "original_name": "달걀 노른자",
+      "canonical_name": "달걀 노른자",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6861653:component:013:candidate:0",
+      "canonical_id": "ingredient:c1e02323b80ef79666256241f50883afba47b43426baf6a541c7c6a0dc7fb3bd",
+      "original_name": "바닐라 익스트랙",
+      "canonical_name": "바닐라 익스트랙",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6861653",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "15afadb9ceeb3e35917b0f014a5693382db1d3a9cdffb5875ba74fdd95c34bf5"
+}

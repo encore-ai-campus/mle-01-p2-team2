@@ -1,0 +1,714 @@
+{
+  "recipe_uid": "10000recipe_6894530",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6894530",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6894530",
+          "title": "인기가요샌드위치 !! 요즘 이게 대세☆",
+          "description": "아이돌의 역조공으로 급 유명해진 인기가요샌드위치! 갈수없다면 만들어먹자☆ 세상의 모든 레시피 만개의레시피",
+          "servings": "1인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "아무나",
+          "views": 93000,
+          "source_url": "https://www.10000recipe.com/recipe/6894530",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:ba495cdbb5a2a8ff98789a7afbb4888607dc1d390cf033f835cf325d5eb85862",
+        "label": "Dish",
+        "properties": {
+          "name": "인기가요샌드위치"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식빵",
+          "role": "food",
+          "group": "[필수재료]",
+          "quantity": "4",
+          "unit": "장",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"식빵 4장\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식빵",
+          "name_normalized": "식빵"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "딸기잼 2숟가락",
+          "role": "food",
+          "group": "[필수재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"딸기잼 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:f7a810b53deea2f8dae9d4f598d686553e01590cb80a905c2bdbc808a7022316",
+        "label": "Ingredient",
+        "properties": {
+          "name": "딸기잼 2숟가락",
+          "name_normalized": "딸기잼 2숟가락"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양배추",
+          "role": "food",
+          "group": "[양배추샐러드재료]",
+          "quantity": "100",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양배추 100g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양배추",
+          "name_normalized": "양배추"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진피클 2숟가락",
+          "role": "food",
+          "group": "[양배추샐러드재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"다진피클 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:e9937bad535d71a160f4d6788dbc2855a36a4363313c2a06fdcaeb8b98ec497c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다진피클 2숟가락",
+          "name_normalized": "다진피클 2숟가락"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "옥수수통조림 2숟가락",
+          "role": "food",
+          "group": "[양배추샐러드재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"옥수수통조림 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:8554a6b25d7caf2944ae99cb4a2cc911cd3107ff8b3bb72a33df19e277e92700",
+        "label": "Ingredient",
+        "properties": {
+          "name": "옥수수통조림 2숟가락",
+          "name_normalized": "옥수수통조림 2숟가락"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛살 3줄",
+          "role": "food",
+          "group": "[양배추샐러드재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"맛살 3줄\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:00d28cc87b1eb663dd1ddb2c6b2dd731f2df63bedbf8a568ab8c5b7b6c6e6143",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛살 3줄",
+          "name_normalized": "맛살 3줄"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마요네즈 2숟가락",
+          "role": "food",
+          "group": "[양배추샐러드재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"마요네즈 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:c53bf9afebc9f9f71f631e169292b448d31203396b2cfa2a9a4896e4391dffde",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마요네즈 2숟가락",
+          "name_normalized": "마요네즈 2숟가락"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "케첩 2숟가락",
+          "role": "food",
+          "group": "[양배추샐러드재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"케첩 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:eb7e6fe3d674fbe0fb1ea2a5396cf79f295f4a62f2f3565b01c05c4abe48fc1e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "케첩 2숟가락",
+          "name_normalized": "케첩 2숟가락"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삶은감자",
+          "role": "food",
+          "group": "[감자달걀샐러드재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"삶은감자 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:025b267e9fc7d25b4d7826261d97da3d8fcd57cbbbda8688471e14d9fbb78a85",
+        "label": "Ingredient",
+        "properties": {
+          "name": "삶은감자",
+          "name_normalized": "삶은감자"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삶은달걀",
+          "role": "food",
+          "group": "[감자달걀샐러드재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"삶은달걀 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:17fc5ec0597b0fe4ba91fc9108098eb8e97bd91febeec4ffb6cf3d42659810e6",
+        "label": "Ingredient",
+        "properties": {
+          "name": "삶은달걀",
+          "name_normalized": "삶은달걀"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕 2숟가락",
+          "role": "food",
+          "group": "[감자달걀샐러드재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"설탕 2숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:00c388930720d40183e7b9c90fb1efb0eeb313e4e1d5e9917420d87a3a0fd947",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕 2숟가락",
+          "name_normalized": "설탕 2숟가락"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마요네즈 3숟가락",
+          "role": "food",
+          "group": "[감자달걀샐러드재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"마요네즈 3숟가락\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:c54b98e3d9f9ce40690688b302517fd0d779ec2c818a1a5c4062890e1b273d12",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마요네즈 3숟가락",
+          "name_normalized": "마요네즈 3숟가락"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "[감자달걀샐러드재료]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6894530:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "[감자달걀샐러드재료]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"후추 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6894530:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6894530",
+        "type": "VARIANT_OF",
+        "target": "dish:ba495cdbb5a2a8ff98789a7afbb4888607dc1d390cf033f835cf325d5eb85862",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:f7a810b53deea2f8dae9d4f598d686553e01590cb80a905c2bdbc808a7022316",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:e9937bad535d71a160f4d6788dbc2855a36a4363313c2a06fdcaeb8b98ec497c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:8554a6b25d7caf2944ae99cb4a2cc911cd3107ff8b3bb72a33df19e277e92700",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:00d28cc87b1eb663dd1ddb2c6b2dd731f2df63bedbf8a568ab8c5b7b6c6e6143",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:c53bf9afebc9f9f71f631e169292b448d31203396b2cfa2a9a4896e4391dffde",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:eb7e6fe3d674fbe0fb1ea2a5396cf79f295f4a62f2f3565b01c05c4abe48fc1e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:025b267e9fc7d25b4d7826261d97da3d8fcd57cbbbda8688471e14d9fbb78a85",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:17fc5ec0597b0fe4ba91fc9108098eb8e97bd91febeec4ffb6cf3d42659810e6",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:00c388930720d40183e7b9c90fb1efb0eeb313e4e1d5e9917420d87a3a0fd947",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:c54b98e3d9f9ce40690688b302517fd0d779ec2c818a1a5c4062890e1b273d12",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6894530:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6894530:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6894530:dish",
+      "canonical_id": "dish:ba495cdbb5a2a8ff98789a7afbb4888607dc1d390cf033f835cf325d5eb85862",
+      "original_name": "인기가요샌드위치",
+      "canonical_name": "인기가요샌드위치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:001:candidate:0",
+      "canonical_id": "ingredient:d50f1564703ac89eb075d71726db777977a4ed4eb2e5b1da690e89f05f43677e",
+      "original_name": "식빵",
+      "canonical_name": "식빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:002:candidate:0",
+      "canonical_id": "ingredient:f7a810b53deea2f8dae9d4f598d686553e01590cb80a905c2bdbc808a7022316",
+      "original_name": "딸기잼 2숟가락",
+      "canonical_name": "딸기잼 2숟가락",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:003:candidate:0",
+      "canonical_id": "ingredient:e12500e601d8aa803910c73ea83af1b6849e7e9c25ff21ae725ee7e563ea85ba",
+      "original_name": "양배추",
+      "canonical_name": "양배추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:004:candidate:0",
+      "canonical_id": "ingredient:e9937bad535d71a160f4d6788dbc2855a36a4363313c2a06fdcaeb8b98ec497c",
+      "original_name": "다진피클 2숟가락",
+      "canonical_name": "다진피클 2숟가락",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:005:candidate:0",
+      "canonical_id": "ingredient:8554a6b25d7caf2944ae99cb4a2cc911cd3107ff8b3bb72a33df19e277e92700",
+      "original_name": "옥수수통조림 2숟가락",
+      "canonical_name": "옥수수통조림 2숟가락",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:006:candidate:0",
+      "canonical_id": "ingredient:00d28cc87b1eb663dd1ddb2c6b2dd731f2df63bedbf8a568ab8c5b7b6c6e6143",
+      "original_name": "맛살 3줄",
+      "canonical_name": "맛살 3줄",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:007:candidate:0",
+      "canonical_id": "ingredient:c53bf9afebc9f9f71f631e169292b448d31203396b2cfa2a9a4896e4391dffde",
+      "original_name": "마요네즈 2숟가락",
+      "canonical_name": "마요네즈 2숟가락",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:008:candidate:0",
+      "canonical_id": "ingredient:eb7e6fe3d674fbe0fb1ea2a5396cf79f295f4a62f2f3565b01c05c4abe48fc1e",
+      "original_name": "케첩 2숟가락",
+      "canonical_name": "케첩 2숟가락",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:009:candidate:0",
+      "canonical_id": "ingredient:025b267e9fc7d25b4d7826261d97da3d8fcd57cbbbda8688471e14d9fbb78a85",
+      "original_name": "삶은감자",
+      "canonical_name": "삶은감자",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:010:candidate:0",
+      "canonical_id": "ingredient:17fc5ec0597b0fe4ba91fc9108098eb8e97bd91febeec4ffb6cf3d42659810e6",
+      "original_name": "삶은달걀",
+      "canonical_name": "삶은달걀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:011:candidate:0",
+      "canonical_id": "ingredient:00c388930720d40183e7b9c90fb1efb0eeb313e4e1d5e9917420d87a3a0fd947",
+      "original_name": "설탕 2숟가락",
+      "canonical_name": "설탕 2숟가락",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:012:candidate:0",
+      "canonical_id": "ingredient:c54b98e3d9f9ce40690688b302517fd0d779ec2c818a1a5c4062890e1b273d12",
+      "original_name": "마요네즈 3숟가락",
+      "canonical_name": "마요네즈 3숟가락",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:013:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6894530:component:014:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 14,
+    "alternatives": 0,
+    "required_known": 2,
+    "dish": true,
+    "relations": 29,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

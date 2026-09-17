@@ -1,0 +1,821 @@
+{
+  "recipe_uid": "10000recipe_6833247",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6833247",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6833247",
+          "title": "LA갈비찜양념 갈비찜만들기",
+          "description": "LA갈비를 이용해서 갈비찜을 만들어 봅니다. 갈비양념이 어렵게 느껴지지만 만들면 쉽고 간단하고 기성제품보다 훨씬 맛있는 갈비찜을 만들 수 있어요!!!",
+          "servings": "4인분",
+          "cooking_time": "90분 이내",
+          "difficulty": "중급",
+          "views": 166000,
+          "source_url": "https://www.10000recipe.com/recipe/6833247",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:b4934cfc6a91098d06f5ba923f31b0cfabdcf2fba6515209244f69ab780b3cad",
+        "label": "Dish",
+        "properties": {
+          "name": "LA갈비찜"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "LA갈비",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "12",
+          "unit": "대",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"LA갈비 12대\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:9409e777a79760449463b0b56307ed224421ab2870e2175ed7af6d4f84e0f262",
+        "label": "Ingredient",
+        "properties": {
+          "name": "LA갈비",
+          "name_normalized": "LA갈비"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"당근 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"청양고추 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"홍고추 2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고구마",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"고구마 2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:2c05dbfd07932c83e2b42b78ec6a50a7bad077e27becfcfb3dd02b15572ad588",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고구마",
+          "name_normalized": "고구마"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양송이버섯",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "3",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양송이버섯 3개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:4c8403b25de69d3307a45cabed359afd5c2e3acff3f287d3e673e9a9697e8f63",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양송이버섯",
+          "name_normalized": "양송이버섯"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "4",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"마늘 4개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"파 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:a15c2560ff0b688f3f6f7d97d419928328fcc8c5a56d4beb51d2e5c264a4af78",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파",
+          "name_normalized": "파"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "배",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"배 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배",
+          "name_normalized": "배"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "흑초",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "2",
+          "unit": "t",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "replacement",
+          "evidence": "[\"흑초 2t\", \"흑초가 없다면 매실액기스나 설탕으로 대체할 수 있습니다.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_ALTERNATIVE"
+          ],
+          "component_uid": "10000recipe_6833247:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:e1b519111000f61f34b2850c2543906923b1dc2464f64ffc21891ae50f1cdb54",
+        "label": "Ingredient",
+        "properties": {
+          "name": "흑초",
+          "name_normalized": "흑초"
+        }
+      },
+      {
+        "id": "ingredient:4ea24e012304a86725921a9a87ef78669e5a3761aab31238b34cdf6ecdade28d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실액기스",
+          "name_normalized": "매실액기스"
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "1",
+          "unit": "t",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 1t\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "간장",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "3",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"간장 3큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "label": "Ingredient",
+        "properties": {
+          "name": "간장",
+          "name_normalized": "간장"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참치액",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참치액 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:5fcc7ea8a0af0a2bc3dcf84673c51363d92331367fc3d729b1727828f61c3df8",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참치액",
+          "name_normalized": "참치액"
+        }
+      },
+      {
+        "id": "10000recipe_6833247:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "조금",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"통깨 조금\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6833247:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6833247",
+        "type": "VARIANT_OF",
+        "target": "dish:b4934cfc6a91098d06f5ba923f31b0cfabdcf2fba6515209244f69ab780b3cad",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:9409e777a79760449463b0b56307ed224421ab2870e2175ed7af6d4f84e0f262",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:2c05dbfd07932c83e2b42b78ec6a50a7bad077e27becfcfb3dd02b15572ad588",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:4c8403b25de69d3307a45cabed359afd5c2e3acff3f287d3e673e9a9697e8f63",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:a15c2560ff0b688f3f6f7d97d419928328fcc8c5a56d4beb51d2e5c264a4af78",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:e1b519111000f61f34b2850c2543906923b1dc2464f64ffc21891ae50f1cdb54",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:011",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:4ea24e012304a86725921a9a87ef78669e5a3761aab31238b34cdf6ecdade28d",
+        "properties": {
+          "raw_name": "매실액기스",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "흑초가 없다면",
+          "evidence": "[\"흑초가 없다면 매실액기스나 설탕으로 대체할 수 있습니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6833247:component:011",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {
+          "raw_name": "설탕",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "흑초가 없다면",
+          "evidence": "[\"흑초가 없다면 매실액기스나 설탕으로 대체할 수 있습니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:5fcc7ea8a0af0a2bc3dcf84673c51363d92331367fc3d729b1727828f61c3df8",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6833247:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6833247:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6833247:dish",
+      "canonical_id": "dish:b4934cfc6a91098d06f5ba923f31b0cfabdcf2fba6515209244f69ab780b3cad",
+      "original_name": "LA갈비찜",
+      "canonical_name": "LA갈비찜",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:001:candidate:0",
+      "canonical_id": "ingredient:9409e777a79760449463b0b56307ed224421ab2870e2175ed7af6d4f84e0f262",
+      "original_name": "LA갈비",
+      "canonical_name": "LA갈비",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:002:candidate:0",
+      "canonical_id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+      "original_name": "당근",
+      "canonical_name": "당근",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:003:candidate:0",
+      "canonical_id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+      "original_name": "청양고추",
+      "canonical_name": "청양고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:004:candidate:0",
+      "canonical_id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+      "original_name": "홍고추",
+      "canonical_name": "홍고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:005:candidate:0",
+      "canonical_id": "ingredient:2c05dbfd07932c83e2b42b78ec6a50a7bad077e27becfcfb3dd02b15572ad588",
+      "original_name": "고구마",
+      "canonical_name": "고구마",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:006:candidate:0",
+      "canonical_id": "ingredient:4c8403b25de69d3307a45cabed359afd5c2e3acff3f287d3e673e9a9697e8f63",
+      "original_name": "양송이버섯",
+      "canonical_name": "양송이버섯",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:007:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:008:candidate:0",
+      "canonical_id": "ingredient:a15c2560ff0b688f3f6f7d97d419928328fcc8c5a56d4beb51d2e5c264a4af78",
+      "original_name": "파",
+      "canonical_name": "파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:009:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:010:candidate:0",
+      "canonical_id": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+      "original_name": "배",
+      "canonical_name": "배",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:011:candidate:0",
+      "canonical_id": "ingredient:e1b519111000f61f34b2850c2543906923b1dc2464f64ffc21891ae50f1cdb54",
+      "original_name": "흑초",
+      "canonical_name": "흑초",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:011:candidate:1",
+      "canonical_id": "ingredient:4ea24e012304a86725921a9a87ef78669e5a3761aab31238b34cdf6ecdade28d",
+      "original_name": "매실액기스",
+      "canonical_name": "매실액기스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:011:candidate:2",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:012:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:013:candidate:0",
+      "canonical_id": "ingredient:3ac64882bc39fd07c00d479d9092a6e2c073bbf91933d15f16ab2f214855a081",
+      "original_name": "간장",
+      "canonical_name": "간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:014:candidate:0",
+      "canonical_id": "ingredient:5fcc7ea8a0af0a2bc3dcf84673c51363d92331367fc3d729b1727828f61c3df8",
+      "original_name": "참치액",
+      "canonical_name": "참치액",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6833247:component:015:candidate:0",
+      "canonical_id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+      "original_name": "통깨",
+      "canonical_name": "통깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 15,
+    "alternatives": 2,
+    "required_known": 15,
+    "dish": true,
+    "relations": 33,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb07qsgi1E4ejMvLQp203FYjZKlw",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"터키쉬에그\",\"components\":[{\"raw_name\":\"계란\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"2개\",\"unit\":null,\"preparation\":\"반숙\",\"detail\":\"수란으로 삶아 반으로 잘라 올림\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 계란 2개\",\"먼저 반숙 계란을 삶아 주세요.\",\"계란 반숙은 반으로 잘라 요거트 위에 올려 준 뒤\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란\",\"alternatives\":[]},{\"raw_name\":\"식초\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"계란 삶는 물에 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 식초\",\"물에 소금, 식초를 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"식초\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"계란 삶는 물과 마무리 간에 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 소금\",\"물에 소금, 식초를 넣고\",\"계란 반숙은 반으로 잘라 요거트 위에 올려 준 뒤 소금, 후추, 파슬리가루를 뿌려 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"그릭요거트\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1컵\",\"unit\":null,\"preparation\":null,\"detail\":\"접시에 바닥으로 펼침\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 그릭요거트 1컵\",\"접시에 그릭 요거트를 고르게 펼쳐 준 뒤\"],\"quality_flags\":[],\"ingredient_candidate\":\"그릭요거트\",\"alternatives\":[]},{\"raw_name\":\"간마늘\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/2tsp\",\"unit\":null,\"preparation\":\"간\",\"detail\":\"요거트 위에 조금씩 올림\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 간마늘 1/2tsp\",\"접시에 그릭 요거트를 고르게 펼쳐 준 뒤 간마늘을 조금씩 올리고\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"파프리카파우더\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"요거트 위에 뿌림\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 파프리카파우더\",\"접시에 그릭 요거트를 고르게 펼쳐 준 뒤 간마늘을 조금씩 올리고 파프리카파우더를 뿌려 줍니다.\",\"(버터 20g+파프리카파우더1tsp)\"],\"quality_flags\":[],\"ingredient_candidate\":\"파프리카파우더\",\"alternatives\":[{\"raw_name\":\"버터\",\"quantity\":\"20g\",\"unit\":null,\"preparation\":null,\"condition\":\"없으신 분들은\",\"evidence\":[\"버터 20g\",\"없으신 분들은 (버터 20g+파프리카파우더1tsp) 을 팬에 한 번 끓여 불을 꺼주세요.\"],\"ingredient_candidate\":\"버터\"}]},{\"raw_name\":\"레몬껍질\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"얇게 벗긴\",\"detail\":\"요거트 위에 뿌림\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 레몬껍질\",\"레몬은 깨끗이 씻어 껍질만 얇게 벗겨내 뿌려주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"레몬껍질\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"마무리로 뿌림\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 후추\",\"계란 반숙은 반으로 잘라 요거트 위에 올려 준 뒤 소금, 후추, 파슬리가루를 뿌려 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]},{\"raw_name\":\"파슬리\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"가루\",\"detail\":\"마무리로 뿌림\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 파슬리\",\"계란 반숙은 반으로 잘라 요거트 위에 올려 준 뒤 소금, 후추, 파슬리가루를 뿌려 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"파슬리\",\"alternatives\":[]},{\"raw_name\":\"칠리페이스트\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"버터소스 대신 올림\",\"is_required\":false,\"alternative_mode\":\"replacement\",\"evidence\":[\"칠리페이스를 조금씩 올려 줬어요.\",\"저는 오늘 버터소스 대신 칠리페이스를 조금씩 올려 줬어요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"칠리페이스트\",\"alternatives\":[]},{\"raw_name\":\"올리브오일\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"1T\",\"unit\":null,\"preparation\":null,\"detail\":\"접시 위로 뿌리며 바게트 구울 때 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 올리브오일 1T\",\"칠리 페이스트와 올리브오일을 접시 위로 뿌려 준 뒤 마무리해 주세요.\",\"올리브오일에 바삭하게 구워 낸 바게트를 곁들여 먹어요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리브오일\",\"alternatives\":[]},{\"raw_name\":\"바게트\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"바삭하게 구운\",\"detail\":\"곁들임\",\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"올리브오일에 바삭하게 구워 낸 바게트를 곁들여 먹어요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"바게트\",\"alternatives\":[]},{\"raw_name\":\"버터\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"20g\",\"unit\":null,\"preparation\":null,\"detail\":\"칠리페이스트 대체용 버터소스 재료\",\"is_required\":false,\"alternative_mode\":\"replacement\",\"evidence\":[\"(버터 20g+파프리카파우더1tsp)\",\"버터소스 대신\"],\"quality_flags\":[],\"ingredient_candidate\":\"버터\",\"alternatives\":[{\"raw_name\":\"칠리페이스트\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":\"버터소스 대신\",\"evidence\":[\"버터소스 대신 칠리페이스를 조금씩 올려 줬어요.\",\"버터소스 대신 칠리페이스를 조금씩 올려 줬어요.\"],\"ingredient_candidate\":\"칠리페이스트\"}]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530811,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1654,
+    "prompt_tokens": 3231,
+    "total_tokens": 4885,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

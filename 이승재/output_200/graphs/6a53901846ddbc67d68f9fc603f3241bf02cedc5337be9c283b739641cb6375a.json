@@ -1,0 +1,510 @@
+{
+  "recipe_uid": "10000recipe_6923187",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6923187",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6923187",
+          "title": "[아이반찬] 말캉 말캉 푸딩같은 계란찜",
+          "description": "부드럽고 탱글거리는 계란찜을 만들어보았습니다",
+          "servings": "2인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "중급",
+          "views": 226000,
+          "source_url": "https://www.10000recipe.com/recipe/6923187",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6923187:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "계란찜"
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "달걀",
+          "role": "food",
+          "group": null,
+          "quantity": "2개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"달걀 2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6923187:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀",
+          "name_normalized": "달걀"
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "200ml",
+          "unit": null,
+          "preparation": null,
+          "detail": "달걀물용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"물 200ml\", \"달걀:물=1:2\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6923187:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 1작은술\", \"물,소금, 맛술을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6923187:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"맛술 1작은술\", \"물,소금, 맛술을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6923187:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6923187",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6923187:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6923187:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6923187:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6923187:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6923187:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6923187:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6923187:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6923187:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6923187:component:004:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6923187",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6923187",
+          "title": "[아이반찬] 말캉 말캉 푸딩같은 계란찜",
+          "description": "부드럽고 탱글거리는 계란찜을 만들어보았습니다",
+          "servings": "2인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "중급",
+          "views": 226000,
+          "source_url": "https://www.10000recipe.com/recipe/6923187",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:dbf5837034c3f2446bebd5b815e97b8e8187effeb4b0f8ced6369117ad63fc05",
+        "label": "Dish",
+        "properties": {
+          "name": "계란찜"
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "달걀",
+          "role": "food",
+          "group": null,
+          "quantity": "2개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"달걀 2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6923187:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "달걀",
+          "name_normalized": "달걀"
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "200ml",
+          "unit": null,
+          "preparation": null,
+          "detail": "달걀물용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"물 200ml\", \"달걀:물=1:2\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6923187:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 1작은술\", \"물,소금, 맛술을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6923187:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6923187:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"맛술 1작은술\", \"물,소금, 맛술을 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6923187:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6923187",
+        "type": "VARIANT_OF",
+        "target": "dish:dbf5837034c3f2446bebd5b815e97b8e8187effeb4b0f8ced6369117ad63fc05",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6923187:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6923187:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6923187:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6923187:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6923187:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "계란찜",
+    "components": [
+      {
+        "raw_name": "달걀",
+        "role": "food",
+        "group": null,
+        "quantity": "2개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "달걀 2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "달걀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "200ml",
+        "unit": null,
+        "preparation": null,
+        "detail": "달걀물용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 200ml",
+          "달걀:물=1:2"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1작은술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 1작은술",
+          "물,소금, 맛술을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛술",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1작은술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "맛술 1작은술",
+          "물,소금, 맛술을 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛술",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "515e5c45f0cd2c75bbcf8006d49a79de3797024c6fb3d1ae284f33adaed3bc9b",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6923187:dish",
+      "canonical_id": "dish:dbf5837034c3f2446bebd5b815e97b8e8187effeb4b0f8ced6369117ad63fc05",
+      "original_name": "계란찜",
+      "canonical_name": "계란찜",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6923187:component:001:candidate:0",
+      "canonical_id": "ingredient:bebe0f1def95a1247992b1bb541f3437fe75e66dbcd9a4402c9e38adae57b43c",
+      "original_name": "달걀",
+      "canonical_name": "달걀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6923187:component:002:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6923187:component:003:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6923187:component:004:candidate:0",
+      "canonical_id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+      "original_name": "맛술",
+      "canonical_name": "맛술",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6923187",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "8dce00ae3f0f0792bcf8f8614490f0ceeba96b4dc88459bf4542d389f70402a4"
+}

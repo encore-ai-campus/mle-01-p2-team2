@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb12NSsA9w4Bqtq6vUHevwZNKOaP",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"명이나물 장아찌\",\"components\":[{\"raw_name\":\"명이나물\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"500g\",\"unit\":null,\"preparation\":\"줄기 끝만 살짝 자른\",\"detail\":\"식초를 넣은 물에 10분간 담갔다가 세번 정도 헹군 뒤 물기를 뺌\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 명이나물 500g\",\"식초를 넣은 물에 10분간 명이나물을 담궜다가 세번 정도 헹궈줍니다.\",\"물기를 잘 빼줍니다.\",\"줄기 끝만 살짝 잘라주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"명이나물\",\"alternatives\":[]},{\"raw_name\":\"간장\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"4컵\",\"unit\":\"컵\",\"preparation\":null,\"detail\":\"양념재료를 끓인 뒤 체에 걸러 간장물만 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 간장 4컵\",\"냄비에 양념재료를 모두 넣고 끓여줍니다.\",\"체에 걸러내서 간장물만 사용합니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"간장\",\"alternatives\":[]},{\"raw_name\":\"식초\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"4컵\",\"unit\":\"컵\",\"preparation\":null,\"detail\":\"명이나물을 담그는 물과 양념재료에 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 식초 4컵\",\"식초를 넣은 물에 10분간 명이나물을 담궜다가 세번 정도 헹궈줍니다.\",\"냄비에 양념재료를 모두 넣고 끓여줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"식초\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"2컵\",\"unit\":\"컵\",\"preparation\":null,\"detail\":\"끓여서 녹임\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 설탕 2컵\",\"설탕이 녹으면서 끓기 시작하면 불을 줄여서 15분 정도 끓여줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"맛술\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"2컵\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 맛술 2컵\",\"냄비에 양념재료를 모두 넣고 끓여줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛술\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"4컵\",\"unit\":\"컵\",\"preparation\":null,\"detail\":\"식초를 넣은 물로 명이나물을 담그는 데도 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 물 4컵\",\"식초를 넣은 물에 10분간 명이나물을 담궜다가 세번 정도 헹궈줍니다.\",\"냄비에 양념재료를 모두 넣고 끓여줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1개\",\"unit\":\"개\",\"preparation\":null,\"detail\":\"양념재료를 끓일 때 함께 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 양파 1개\",\"냄비에 양념재료를 모두 넣고 끓여줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"건표고버섯\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1/2컵\",\"unit\":\"컵\",\"preparation\":null,\"detail\":\"양념재료를 끓일 때 함께 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 건표고버섯 1/2컵\",\"냄비에 양념재료를 모두 넣고 끓여줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"건표고버섯\",\"alternatives\":[]},{\"raw_name\":\"건고추\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1개\",\"unit\":\"개\",\"preparation\":null,\"detail\":\"양념재료를 끓일 때 함께 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 건고추 1개\",\"냄비에 양념재료를 모두 넣고 끓여줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"건고추\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530868,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1089,
+    "prompt_tokens": 3067,
+    "total_tokens": 4156,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

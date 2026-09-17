@@ -1,0 +1,385 @@
+{
+  "recipe_uid": "10000recipe_6860248",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6860248",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6860248",
+          "title": "간단한국 끓이기 - 콩나물김치국 끓여보았어요~~~",
+          "description": "날씨도 으슬으슬 추워지고 ㅠㅠ 아침 저녁으론 식탁에 국을 올려야하고 ㅋㅋㅋㅋ 성준맘은 오늘 간단한 국 끓이기에 도전했답니다~~~~ 정말 간단한 콩나물김치국 끓이기!!!! 요리초보도 쉽게 끓일수있는 국이랍니다 ㅋㅋㅋ 정말 쉽고 간단한 국끓이기!!!! 콩나물김치국 끓여볼게요 ㅋㅋㅋ 뜨끈하고 시원한 콩나물김치국~~~ 우리 대감님도 우리 쥰이도 좋아하는 국 이랍니다 ㅋㅋㅋㅋ 요즘처럼 으슬으슬 할때~~ 아침 저녁으로 먹기좋은 국이죠!!!!",
+          "servings": "4인분",
+          "cooking_time": "60분 이내",
+          "difficulty": "아무나",
+          "views": 187000,
+          "source_url": "https://www.10000recipe.com/recipe/6860248",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:2b2f9ee776654f7cff3b659bcf3af89933cdaa19a60b5d522cabedcb07e93d06",
+        "label": "Dish",
+        "properties": {
+          "name": "콩나물김치국"
+        }
+      },
+      {
+        "id": "10000recipe_6860248:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "콩나물",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "줌",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"콩나물 1줌\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6860248:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:5ff9c2b20765dea90cc5c14868466e60588deb51b0414a019fb9eb2737b39233",
+        "label": "Ingredient",
+        "properties": {
+          "name": "콩나물",
+          "name_normalized": "콩나물"
+        }
+      },
+      {
+        "id": "10000recipe_6860248:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"대파 적당량\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6860248:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6860248:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "두부",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1/3",
+          "unit": "모",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"두부 1/3모\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6860248:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+        "label": "Ingredient",
+        "properties": {
+          "name": "두부",
+          "name_normalized": "두부"
+        }
+      },
+      {
+        "id": "10000recipe_6860248:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "신김치",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "줌",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"신김치 1줌\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6860248:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:64ebf879689709a37b4a552ffc9cf836d08d344c42589b3edf8f0f0546c27287",
+        "label": "Ingredient",
+        "properties": {
+          "name": "신김치",
+          "name_normalized": "신김치"
+        }
+      },
+      {
+        "id": "10000recipe_6860248:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "김치국물 1국자",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"김치국물 1국자\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6860248:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:3f64e4b73fdce105a2512eaf1247b1bbcc12190efcedf1d166cac4f4921507c3",
+        "label": "Ingredient",
+        "properties": {
+          "name": "김치국물 1국자",
+          "name_normalized": "김치국물 1국자"
+        }
+      },
+      {
+        "id": "10000recipe_6860248:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"고춧가루 1스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6860248:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6860248:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "[재료]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6860248:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6860248",
+        "type": "VARIANT_OF",
+        "target": "dish:2b2f9ee776654f7cff3b659bcf3af89933cdaa19a60b5d522cabedcb07e93d06",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6860248:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:5ff9c2b20765dea90cc5c14868466e60588deb51b0414a019fb9eb2737b39233",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6860248:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6860248:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6860248:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:64ebf879689709a37b4a552ffc9cf836d08d344c42589b3edf8f0f0546c27287",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6860248:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:3f64e4b73fdce105a2512eaf1247b1bbcc12190efcedf1d166cac4f4921507c3",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6860248:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6860248:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6860248:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6860248:dish",
+      "canonical_id": "dish:2b2f9ee776654f7cff3b659bcf3af89933cdaa19a60b5d522cabedcb07e93d06",
+      "original_name": "콩나물김치국",
+      "canonical_name": "콩나물김치국",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6860248:component:001:candidate:0",
+      "canonical_id": "ingredient:5ff9c2b20765dea90cc5c14868466e60588deb51b0414a019fb9eb2737b39233",
+      "original_name": "콩나물",
+      "canonical_name": "콩나물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6860248:component:002:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6860248:component:003:candidate:0",
+      "canonical_id": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+      "original_name": "두부",
+      "canonical_name": "두부",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6860248:component:004:candidate:0",
+      "canonical_id": "ingredient:64ebf879689709a37b4a552ffc9cf836d08d344c42589b3edf8f0f0546c27287",
+      "original_name": "신김치",
+      "canonical_name": "신김치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6860248:component:005:candidate:0",
+      "canonical_id": "ingredient:3f64e4b73fdce105a2512eaf1247b1bbcc12190efcedf1d166cac4f4921507c3",
+      "original_name": "김치국물 1국자",
+      "canonical_name": "김치국물 1국자",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6860248:component:006:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6860248:component:007:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 7,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 15,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZyVLrRyyZKSSl0ZomlCtWFSdV4",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"찐밤\",\"components\":[{\"raw_name\":\"밤\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"밤 적당량\"],\"quality_flags\":[],\"ingredient_candidate\":\"밤\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"물 적당량\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544566,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 154,
+    "prompt_tokens": 2686,
+    "total_tokens": 2840,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

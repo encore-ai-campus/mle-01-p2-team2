@@ -1,0 +1,1023 @@
+{
+  "recipe_uid": "10000recipe_7080425",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7080425",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7080425",
+          "title": "전복죽 끓이는법 전복버터구이 전복 손질법 전복 요리",
+          "description": "창밖에 내리는 비를 보며 커피한잔하는 여유를 즐기고 싶지만 저희 집 첫째가 또 열감기에 걸렸답니다ㅠㅠ 주말 일정이 있었는데 취소하고 집에서 쉬기로 했어요 내과에서 목이 많이 부었다고 하더라고요 다행히 입맛은 잃지 않아서 전복죽이 먹고 싶다고 주문하네요얼른 낫기를 바라는 엄마의 마음으로 전복죽을 만들었어요 전복 손질만 해두면 특별한 재료없이 만들 수 있는 전복죽과 전복 버터구이를 만들어 볼게요",
+          "servings": "5인분",
+          "cooking_time": "60분 이내",
+          "difficulty": "아무나",
+          "views": 51,
+          "source_url": "https://www.10000recipe.com/recipe/7080425",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "전복죽"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "전복",
+          "role": "food",
+          "group": null,
+          "quantity": "5마리",
+          "unit": "마리",
+          "preparation": null,
+          "detail": "전복죽용 2개, 전복버터구이용 3개로 나눠 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"전복 5마리\", \"전복 2개는 전복죽용으로 전복 3개는 전복버터구이용으로 준비해요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "전복",
+          "name_normalized": "전복"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "불린 쌀",
+          "role": "food",
+          "group": null,
+          "quantity": "500g",
+          "unit": "g",
+          "preparation": "불린",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"불린 쌀 500g\", \"전복살과 불린 쌀을 넣고 다시 볶아주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쌀",
+          "name_normalized": "쌀"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": null,
+          "quantity": "1.5L",
+          "unit": "L",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"물 1.5L\", \"이제 물을 조금씩 나누어 부어가면서 눋지 않게 정성껏 저어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "버터",
+          "role": "food",
+          "group": null,
+          "quantity": "30g",
+          "unit": "g",
+          "preparation": null,
+          "detail": "전복버터구이용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"버터 30g\", \"전복버터구이는 팬에 버터를 녹여준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "2t",
+          "unit": "t",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 2t\", \"냄비에 참기름을 1T 넣고 살살 볶아주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1t",
+          "unit": "t",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 1t\", \"소금으로 간을 맞추면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "전복 내장",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "곱게 간",
+          "detail": "전복죽용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"전복 내장을 믹서기에 곱게 갈아준 뒤\", \"전복내장의 고소한 맛이 느껴지는 전복내장죽이 완성됩니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "전복 내장",
+          "name_normalized": "전복 내장"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "전복살",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "썰어둔",
+          "detail": "전복죽용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"전복살과 껍질을 분리해 줍니다\", \"썰어둔 전복살과 불린 쌀을 넣고 다시 볶아주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "전복살",
+          "name_normalized": "전복살"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "전복",
+          "role": "food",
+          "group": null,
+          "quantity": "3개",
+          "unit": "개",
+          "preparation": null,
+          "detail": "전복버터구이용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"전복 2개는 전복죽용으로 전복 3개는 전복버터구이용으로 준비해요\", \"전복버터구이는 팬에 버터를 녹여준 뒤 전복을 앞뒤로 노릇노릇하게 구워주기만 하면 완성이에요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "전복",
+          "name_normalized": "전복"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7080425",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7080425:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7080425:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7080425:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7080425:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7080425:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7080425:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7080425:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7080425:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7080425:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7080425:component:009:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7080425",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7080425",
+          "title": "전복죽 끓이는법 전복버터구이 전복 손질법 전복 요리",
+          "description": "창밖에 내리는 비를 보며 커피한잔하는 여유를 즐기고 싶지만 저희 집 첫째가 또 열감기에 걸렸답니다ㅠㅠ 주말 일정이 있었는데 취소하고 집에서 쉬기로 했어요 내과에서 목이 많이 부었다고 하더라고요 다행히 입맛은 잃지 않아서 전복죽이 먹고 싶다고 주문하네요얼른 낫기를 바라는 엄마의 마음으로 전복죽을 만들었어요 전복 손질만 해두면 특별한 재료없이 만들 수 있는 전복죽과 전복 버터구이를 만들어 볼게요",
+          "servings": "5인분",
+          "cooking_time": "60분 이내",
+          "difficulty": "아무나",
+          "views": 51,
+          "source_url": "https://www.10000recipe.com/recipe/7080425",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:60ac57323031485f4524e4fc400b5bf125cdc7c16a74f898ab718800f4aa081b",
+        "label": "Dish",
+        "properties": {
+          "name": "전복죽"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "전복",
+          "role": "food",
+          "group": null,
+          "quantity": "5마리",
+          "unit": "마리",
+          "preparation": null,
+          "detail": "전복죽용 2개, 전복버터구이용 3개로 나눠 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"전복 5마리\", \"전복 2개는 전복죽용으로 전복 3개는 전복버터구이용으로 준비해요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:282b6a3523fea8800a988c52feacce6b2fbc8d69fbc3eac5009e474943ae8811",
+        "label": "Ingredient",
+        "properties": {
+          "name": "전복",
+          "name_normalized": "전복"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "불린 쌀",
+          "role": "food",
+          "group": null,
+          "quantity": "500g",
+          "unit": "g",
+          "preparation": "불린",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"불린 쌀 500g\", \"전복살과 불린 쌀을 넣고 다시 볶아주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:7c786e540f0e11b5bc0cdd03c65d5d977f813715ba5844c96a9da1bf76ef7669",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쌀",
+          "name_normalized": "쌀"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": null,
+          "quantity": "1.5L",
+          "unit": "L",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"물 1.5L\", \"이제 물을 조금씩 나누어 부어가면서 눋지 않게 정성껏 저어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "버터",
+          "role": "food",
+          "group": null,
+          "quantity": "30g",
+          "unit": "g",
+          "preparation": null,
+          "detail": "전복버터구이용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"버터 30g\", \"전복버터구이는 팬에 버터를 녹여준 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "버터",
+          "name_normalized": "버터"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "2t",
+          "unit": "t",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 2t\", \"냄비에 참기름을 1T 넣고 살살 볶아주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1t",
+          "unit": "t",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 1t\", \"소금으로 간을 맞추면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "전복 내장",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "곱게 간",
+          "detail": "전복죽용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"전복 내장을 믹서기에 곱게 갈아준 뒤\", \"전복내장의 고소한 맛이 느껴지는 전복내장죽이 완성됩니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:f202570eaf3f0c0ef9c5b65ce52aebd3b771859c10cee2294cba83b688f843c7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "전복 내장",
+          "name_normalized": "전복 내장"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "전복살",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "썰어둔",
+          "detail": "전복죽용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"전복살과 껍질을 분리해 줍니다\", \"썰어둔 전복살과 불린 쌀을 넣고 다시 볶아주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:6babede1f714af26914843a69809215ca958280d2e97bbfbd8f366d760d36013",
+        "label": "Ingredient",
+        "properties": {
+          "name": "전복살",
+          "name_normalized": "전복살"
+        }
+      },
+      {
+        "id": "10000recipe_7080425:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "전복",
+          "role": "food",
+          "group": null,
+          "quantity": "3개",
+          "unit": "개",
+          "preparation": null,
+          "detail": "전복버터구이용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"전복 2개는 전복죽용으로 전복 3개는 전복버터구이용으로 준비해요\", \"전복버터구이는 팬에 버터를 녹여준 뒤 전복을 앞뒤로 노릇노릇하게 구워주기만 하면 완성이에요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7080425:component:009",
+          "index": 9
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7080425",
+        "type": "VARIANT_OF",
+        "target": "dish:60ac57323031485f4524e4fc400b5bf125cdc7c16a74f898ab718800f4aa081b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:282b6a3523fea8800a988c52feacce6b2fbc8d69fbc3eac5009e474943ae8811",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:7c786e540f0e11b5bc0cdd03c65d5d977f813715ba5844c96a9da1bf76ef7669",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:f202570eaf3f0c0ef9c5b65ce52aebd3b771859c10cee2294cba83b688f843c7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:6babede1f714af26914843a69809215ca958280d2e97bbfbd8f366d760d36013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7080425:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7080425:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:282b6a3523fea8800a988c52feacce6b2fbc8d69fbc3eac5009e474943ae8811",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "전복죽",
+    "components": [
+      {
+        "raw_name": "전복",
+        "role": "food",
+        "group": null,
+        "quantity": "5마리",
+        "unit": "마리",
+        "preparation": null,
+        "detail": "전복죽용 2개, 전복버터구이용 3개로 나눠 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "전복 5마리",
+          "전복 2개는 전복죽용으로 전복 3개는 전복버터구이용으로 준비해요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "전복",
+        "alternatives": []
+      },
+      {
+        "raw_name": "불린 쌀",
+        "role": "food",
+        "group": null,
+        "quantity": "500g",
+        "unit": "g",
+        "preparation": "불린",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "불린 쌀 500g",
+          "전복살과 불린 쌀을 넣고 다시 볶아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쌀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": null,
+        "quantity": "1.5L",
+        "unit": "L",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 1.5L",
+          "이제 물을 조금씩 나누어 부어가면서 눋지 않게 정성껏 저어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "food",
+        "group": null,
+        "quantity": "30g",
+        "unit": "g",
+        "preparation": null,
+        "detail": "전복버터구이용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "버터 30g",
+          "전복버터구이는 팬에 버터를 녹여준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2t",
+        "unit": "t",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름 2t",
+          "냄비에 참기름을 1T 넣고 살살 볶아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1t",
+        "unit": "t",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 1t",
+          "소금으로 간을 맞추면"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "전복 내장",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "곱게 간",
+        "detail": "전복죽용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "전복 내장을 믹서기에 곱게 갈아준 뒤",
+          "전복내장의 고소한 맛이 느껴지는 전복내장죽이 완성됩니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "전복 내장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "전복살",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "썰어둔",
+        "detail": "전복죽용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "전복살과 껍질을 분리해 줍니다",
+          "썰어둔 전복살과 불린 쌀을 넣고 다시 볶아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "전복살",
+        "alternatives": []
+      },
+      {
+        "raw_name": "전복",
+        "role": "food",
+        "group": null,
+        "quantity": "3개",
+        "unit": "개",
+        "preparation": null,
+        "detail": "전복버터구이용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "전복 2개는 전복죽용으로 전복 3개는 전복버터구이용으로 준비해요",
+          "전복버터구이는 팬에 버터를 녹여준 뒤 전복을 앞뒤로 노릇노릇하게 구워주기만 하면 완성이에요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "전복",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "3823bede48d1038daf3c23f0b924830b177122456e59171a3d6f96846d20fedc",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7080425:dish",
+      "canonical_id": "dish:60ac57323031485f4524e4fc400b5bf125cdc7c16a74f898ab718800f4aa081b",
+      "original_name": "전복죽",
+      "canonical_name": "전복죽",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080425:component:001:candidate:0",
+      "canonical_id": "ingredient:282b6a3523fea8800a988c52feacce6b2fbc8d69fbc3eac5009e474943ae8811",
+      "original_name": "전복",
+      "canonical_name": "전복",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080425:component:002:candidate:0",
+      "canonical_id": "ingredient:7c786e540f0e11b5bc0cdd03c65d5d977f813715ba5844c96a9da1bf76ef7669",
+      "original_name": "쌀",
+      "canonical_name": "쌀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080425:component:003:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080425:component:004:candidate:0",
+      "canonical_id": "ingredient:ea12b3d96566ac826108a66208e277fe813331a14da02f8123681c58f61049d5",
+      "original_name": "버터",
+      "canonical_name": "버터",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080425:component:005:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080425:component:006:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080425:component:007:candidate:0",
+      "canonical_id": "ingredient:f202570eaf3f0c0ef9c5b65ce52aebd3b771859c10cee2294cba83b688f843c7",
+      "original_name": "전복 내장",
+      "canonical_name": "전복 내장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080425:component:008:candidate:0",
+      "canonical_id": "ingredient:6babede1f714af26914843a69809215ca958280d2e97bbfbd8f366d760d36013",
+      "original_name": "전복살",
+      "canonical_name": "전복살",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7080425:component:009:candidate:0",
+      "canonical_id": "ingredient:282b6a3523fea8800a988c52feacce6b2fbc8d69fbc3eac5009e474943ae8811",
+      "original_name": "전복",
+      "canonical_name": "전복",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7080425",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "f2b2120122207a22c1649cc3581d887b1257ca65a23e9574aa5f7969337d798d"
+}

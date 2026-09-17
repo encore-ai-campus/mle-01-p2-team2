@@ -1,0 +1,323 @@
+{
+  "recipe_uid": "10000recipe_6905178",
+  "cache_key": "5092a4f8e5c4eae5f877209e74bb4bd44c8881bc55fe826b2358f3afbbd3a8a6",
+  "model": "gpt-5.4-mini",
+  "input_hash": "6fece24ac5d4352a349aa0bc51a3926ff6bee2950969f58e1916f7b439d3074b",
+  "source_record_hash": "39ba797513c39a0b21a2f8d1ee56127d51227dafbc98315b27bbe555758ef8f4",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "돼지곱창 전골",
+    "components": [
+      {
+        "raw_name": "돼지 곱창",
+        "role": "food",
+        "group": "재료",
+        "quantity": "200g",
+        "unit": null,
+        "preparation": "삶은 뒤 먹기좋은 크기로 자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "돼지 곱창 200g",
+          "돼지곱창은 된장을 넣어 10분정도 삶은뒤 먹기좋은 크기로 잘라 준비해주세요~!!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돼지곱창",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2~1개",
+        "unit": null,
+        "preparation": "자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 1/2~1개",
+          "양파도 자유롭게 잘라주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3개",
+        "unit": null,
+        "preparation": "자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "청양고추 3개",
+          "청양고추,깻잎,파,양파도 자유롭게 잘라주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깻잎",
+        "role": "food",
+        "group": "재료",
+        "quantity": "5장",
+        "unit": null,
+        "preparation": "자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "깻잎 5장",
+          "청양고추,깻잎,파,양파도 자유롭게 잘라주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깻잎",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쪽파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "5줄",
+        "unit": null,
+        "preparation": "자른",
+        "detail": "본문에서는 파로도 표현됨",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "쪽파 5줄",
+          "청양고추,깻잎,파,양파도 자유롭게 잘라주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쪽파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버섯",
+        "role": "food",
+        "group": "재료",
+        "quantity": "취향껏",
+        "unit": null,
+        "preparation": "자른",
+        "detail": "원하는 크기로",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "버섯 취향껏",
+          "버섯을 원하는 크기로 잘라주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버섯",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "재료",
+        "quantity": "500ml",
+        "unit": null,
+        "preparation": null,
+        "detail": "쌀뜨물 또는 물",
+        "is_required": true,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "물 또는 쌀뜨물 500ml",
+          "쌀뜨물이나 물을 부어주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": [
+          {
+            "raw_name": "쌀뜨물",
+            "quantity": "500ml",
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "물 또는 쌀뜨물 500ml",
+              "쌀뜨물이나 물을 부어주세요~."
+            ],
+            "ingredient_candidate": "쌀뜨물"
+          }
+        ]
+      },
+      {
+        "raw_name": "불린당면",
+        "role": "food",
+        "group": "재료",
+        "quantity": "50g",
+        "unit": null,
+        "preparation": "불린",
+        "detail": "생략가능",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "불린당면 생략가능 50g",
+          "원하는 냄비나 뚝배기에 야채와 당면을 차곡차곡 담아주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "고추장 2큰술",
+          "양념장 재료를 모두 넣고 섞어주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "고춧가루 2큰술",
+          "양념장 재료를 모두 넣고 섞어주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "간장 1큰술",
+          "양념장 재료를 모두 넣고 섞어주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1/2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "설탕 또는 매실액 1/2큰술",
+          "양념장 재료를 모두 넣고 섞어주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": [
+          {
+            "raw_name": "매실액",
+            "quantity": "1/2큰술",
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "설탕 또는 매실액 1/2큰술",
+              "양념장 재료를 모두 넣고 섞어주세요~."
+            ],
+            "ingredient_candidate": "매실액"
+          }
+        ]
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진마늘 1큰술",
+          "양념장 재료를 모두 넣고 섞어주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "들깨가루",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "들깨가루 또는 카레가루 2큰술",
+          "양념장 재료를 모두 넣고 섞어주세요~."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "들깨가루",
+        "alternatives": [
+          {
+            "raw_name": "카레가루",
+            "quantity": "2큰술",
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "들깨가루 또는 카레가루 2큰술",
+              "양념장 재료를 모두 넣고 섞어주세요~."
+            ],
+            "ingredient_candidate": "카레가루"
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1543,
+    "prompt_tokens": 3143,
+    "total_tokens": 4686,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

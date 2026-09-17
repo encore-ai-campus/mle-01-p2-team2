@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeaLMtWBGYRBmmr66EZcTsPLBcHV",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"과일 샐러드\",\"components\":[{\"raw_name\":\"딱딱한 복숭아\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"딱딱한 복숭아 2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"딱딱한 복숭아\",\"alternatives\":[]},{\"raw_name\":\"아오리 사과\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"아오리 사과 1개\"],\"quality_flags\":[],\"ingredient_candidate\":\"아오리 사과\",\"alternatives\":[]},{\"raw_name\":\"무화과\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"6\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"무화과 6개\"],\"quality_flags\":[],\"ingredient_candidate\":\"무화과\",\"alternatives\":[]},{\"raw_name\":\"레몬즙\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"레몬즙 2큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"레몬즙\",\"alternatives\":[]},{\"raw_name\":\"올리브오일\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"올리브오일 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리브오일\",\"alternatives\":[]},{\"raw_name\":\"발사믹 글레이즈\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"발사믹 글레이즈 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"발사믹 글레이즈\",\"alternatives\":[]},{\"raw_name\":\"그릭요거트\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"4\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"그릭요거트 4큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"그릭요거트\",\"alternatives\":[]},{\"raw_name\":\"다진 볶은 아몬드\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":\"다진 볶은\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다진 볶은 아몬드 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"다진 볶은 아몬드\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"소금\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"후추 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544589,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 804,
+    "prompt_tokens": 3003,
+    "total_tokens": 3807,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

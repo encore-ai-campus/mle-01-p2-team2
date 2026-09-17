@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb14HGgcLJJ4939Vpx6pWdj2GAAo",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"고르곤졸라 토스트\",\"components\":[{\"raw_name\":\"식빵\",\"role\":\"food\",\"group\":null,\"quantity\":\"2장\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 식빵 2장\",\"식빵 2개를 겹쳐 덮은후 위에 소스를 바른다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"식빵\",\"alternatives\":[]},{\"raw_name\":\"꿀\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"3T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 꿀 3T\",\"꿀을 넣고 섞는다.\",\"꿀을 뿌려 완성한다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"꿀\",\"alternatives\":[]},{\"raw_name\":\"버터\",\"role\":\"food\",\"group\":null,\"quantity\":\"3T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 버터 3T\",\"버터와 다진마늘을 전자렌지에 20초간 돌린후 섞는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"버터\",\"alternatives\":[]},{\"raw_name\":\"다진 마늘\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"2T\",\"unit\":null,\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 다진 마늘 2T\",\"버터와 다진마늘을 전자렌지에 20초간 돌린후 섞는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"모짜렐라 치즈\",\"role\":\"food\",\"group\":null,\"quantity\":\"마음껏\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 모짜렐라 치즈 마음껏\",\"치즈를 뿌린다.\",\"치즈를 올려 전자렌지에 2~3분간 돌린다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"모짜렐라 치즈\",\"alternatives\":[]},{\"raw_name\":\"파슬리가루\",\"role\":\"seasoning\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"파슬리가루를 뿌린다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"파슬리가루\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530870,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 596,
+    "prompt_tokens": 2895,
+    "total_tokens": 3491,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

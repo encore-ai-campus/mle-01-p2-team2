@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0qX67ZA2R2CfV7rJrjcXht0mwu",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"수박 주스\",\"components\":[{\"raw_name\":\"수박\",\"role\":\"food\",\"group\":null,\"quantity\":\"적당량\",\"unit\":null,\"preparation\":\"먹기 좋은 크기로 썬\",\"detail\":\"눈에 보이는 씨는 제거\",\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 수박 적당량\",\"먹을 때 씨가 있으면 곤란하더라고요.\",\"먹기 좋은 크기로 썰면서 눈에 보이는 씨는 포크로 쏙 쏙 골라 주세요.\",\"귀찮긴 해도 덩어리 없이 매끈한 주스를 위해 씨를 제거하는 것을 추천합니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"수박\",\"alternatives\":[]},{\"raw_name\":\"생강\",\"role\":\"food\",\"group\":null,\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 생강 적당량\",\"소금이 아닌 생강 레몬즙과 소금을 살짝만 넣어 주세요.\",\"상큼함과 생강의 은은한 향 만나 정말 고급스러운 맛이 납니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"생강\",\"alternatives\":[]},{\"raw_name\":\"레몬즙\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 레몬즙 약간\",\"소금이 아닌 생강 레몬즙과 소금을 살짝만 넣어 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"레몬즙\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 소금 약간\",\"소금을 넣으면 단맛이 훨씬 강하게 느껴진다는 사실 다들 알고 계시죠?\",\"용기에 재료를 담고 생강 레몬즙과 소금을 살짝만 넣어 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530856,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 498,
+    "prompt_tokens": 3057,
+    "total_tokens": 3555,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

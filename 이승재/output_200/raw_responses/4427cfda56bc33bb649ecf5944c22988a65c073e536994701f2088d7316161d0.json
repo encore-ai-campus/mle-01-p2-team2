@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0ubFu8KnT8iLLJscUfuOz6ZQi1",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"소고기 버섯 샤브샤브\",\"components\":[{\"raw_name\":\"숙주\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 숙주\",\"여기에 채소와 소고기, 버섯등을 넣고 먹으면 되요\"],\"quality_flags\":[],\"ingredient_candidate\":\"숙주\",\"alternatives\":[]},{\"raw_name\":\"배추\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 배추\",\"여기에 채소와 소고기, 버섯등을 넣고 먹으면 되요\"],\"quality_flags\":[],\"ingredient_candidate\":\"배추\",\"alternatives\":[]},{\"raw_name\":\"쑥갓\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 쑥갓\",\"여기에 채소와 소고기, 버섯등을 넣고 먹으면 되요\"],\"quality_flags\":[],\"ingredient_candidate\":\"쑥갓\",\"alternatives\":[]},{\"raw_name\":\"청경채\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 청경채\",\"여기에 채소와 소고기, 버섯등을 넣고 먹으면 되요\"],\"quality_flags\":[],\"ingredient_candidate\":\"청경채\",\"alternatives\":[]},{\"raw_name\":\"느타리버섯\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 느타리버섯\",\"여기에 채소와 소고기, 버섯등을 넣고 먹으면 되요\"],\"quality_flags\":[],\"ingredient_candidate\":\"느타리버섯\",\"alternatives\":[]},{\"raw_name\":\"팽이버섯\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 팽이버섯\",\"여기에 채소와 소고기, 버섯등을 넣고 먹으면 되요\"],\"quality_flags\":[],\"ingredient_candidate\":\"팽이버섯\",\"alternatives\":[]},{\"raw_name\":\"표고버섯\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 표고버섯\",\"저는 나중에 표고버섯 밑둥도 함께 넣어서 우려내었네요\",\"여기에 채소와 소고기, 버섯등을 넣고 먹으면 되요\"],\"quality_flags\":[],\"ingredient_candidate\":\"표고버섯\",\"alternatives\":[]},{\"raw_name\":\"차돌박이\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"한우\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 차돌박이\",\"한우 차돌박이도 함께 준비~\",\"여기에 채소와 소고기, 버섯등을 넣고 먹으면 되요\"],\"quality_flags\":[],\"ingredient_candidate\":\"차돌박이\",\"alternatives\":[]},{\"raw_name\":\"칼국수면\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 칼국수면\",\"칼국수도 준비해 주세요.\",\"마무리로 드시는 칼국수도 별미입니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"칼국수면\",\"alternatives\":[]},{\"raw_name\":\"멸치다시마육수\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 멸치다시마육수\",\"브샤브육수 만들기!생각보다 너무 쉽거든요~ 지금부터 소개해드릴게요! 집에서도 채선당못지 않는 샤브샤브를 만들어 먹어보아요!\",\"여기에 채소와 소고기, 버섯등을 넣고 먹으면 되요\"],\"quality_flags\":[],\"ingredient_candidate\":\"멸치다시마육수\",\"alternatives\":[]},{\"raw_name\":\"국시장국 or 가쓰오장국 국간장\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":\"약 5수저정도\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"either_or\",\"evidence\":[\"[재료] 국시장국 or 가쓰오장국 국간장\",\"오늘 마트에서 데려온 '가쓰오장국' 요거 한 병 있으면 정말 요리 다양하게 해먹을 수 있어요!\",\"맛은 직접 가감하시면서 살짝 싱겁다 싶을 정도로 넣어주시는게 좋아요!\",\"저는 약 5수저정도 넣어주었어요~\"],\"quality_flags\":[\"AMBIGUOUS_ALTERNATIVE\"],\"ingredient_candidate\":\"국시장국\",\"alternatives\":[{\"raw_name\":\"가쓰오장국\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"국시장국 or 가쓰오장국\"] ,\"ingredient_candidate\":\"가쓰오장국\"},{\"raw_name\":\"국간장\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"가쓰오장국 국간장\"],\"ingredient_candidate\":\"국간장\"}]},{\"raw_name\":\"대파(흰부분)\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"흰부분\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 대파(흰부분)\",\"저는 멸치다시마육수를 낼 때 파도 함께 넣어서 내는데요, 파를 넣으면 확실히 육수 비린향이 사라져서 훨씬 좋답니다~\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"가쓰오부시\",\"role\":\"seasoning\",\"group\":\"재료\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 가쓰오부시\"],\"quality_flags\":[],\"ingredient_candidate\":\"가쓰오부시\",\"alternatives\":[]},{\"raw_name\":\"칠리소스\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"[양념] 칠리소스\"],\"quality_flags\":[],\"ingredient_candidate\":\"칠리소스\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530860,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1622,
+    "prompt_tokens": 3125,
+    "total_tokens": 4747,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

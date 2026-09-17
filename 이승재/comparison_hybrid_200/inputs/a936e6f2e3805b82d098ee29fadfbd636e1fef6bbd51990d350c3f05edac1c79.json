@@ -1,0 +1,311 @@
+{
+  "recipe_uid": "10000recipe_6861653",
+  "payload": {
+    "title": "간식타임은 이걸로 체크메이트!! 네모네모 체크쿠키♥",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "무염버터 65g",
+        "무염버터",
+        "무염버터",
+        "food",
+        "[기본반죽]",
+        "65",
+        "g",
+        null,
+        null
+      ],
+      [
+        "박력분 135g",
+        "박력분",
+        "박력분",
+        "food",
+        "[기본반죽]",
+        "135",
+        "g",
+        null,
+        null
+      ],
+      [
+        "슈가파우더 60g",
+        "슈가파우더",
+        "슈가파우더",
+        "food",
+        "[기본반죽]",
+        "60",
+        "g",
+        null,
+        null
+      ],
+      [
+        "계란노른자 1개",
+        "계란노른자",
+        "계란노른자",
+        "food",
+        "[기본반죽]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "바닐라익스트랙 2~3방울",
+        "바닐라익스트랙 2~3방울",
+        "바닐라익스트랙 2~3방울",
+        "food",
+        "[기본반죽]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "무염버터 65g",
+        "무염버터",
+        "무염버터",
+        "food",
+        "[초코반죽]",
+        "65",
+        "g",
+        null,
+        null
+      ],
+      [
+        "박력분 125g",
+        "박력분",
+        "박력분",
+        "food",
+        "[초코반죽]",
+        "125",
+        "g",
+        null,
+        null
+      ],
+      [
+        "코코아파우더 10g",
+        "코코아파우더",
+        "코코아파우더",
+        "food",
+        "[초코반죽]",
+        "10",
+        "g",
+        null,
+        null
+      ],
+      [
+        "슈가파우더 60g",
+        "슈가파우더",
+        "슈가파우더",
+        "food",
+        "[초코반죽]",
+        "60",
+        "g",
+        null,
+        null
+      ],
+      [
+        "계란노른자 1개",
+        "계란노른자",
+        "계란노른자",
+        "food",
+        "[초코반죽]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "바닐라익스트랙 2~3방울",
+        "바닐라익스트랙 2~3방울",
+        "바닐라익스트랙 2~3방울",
+        "food",
+        "[초코반죽]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 1g",
+        "소금",
+        "소금",
+        "seasoning",
+        "[기본반죽]",
+        "1",
+        "g",
+        null,
+        null
+      ],
+      [
+        "소금 1g",
+        "소금",
+        "소금",
+        "seasoning",
+        "[초코반죽]",
+        "1",
+        "g",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "무염버터 65g",
+      "raw_name": "무염버터",
+      "ingredient_candidate": "무염버터",
+      "role": "food",
+      "group": "[기본반죽]",
+      "quantity": "65",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "박력분 135g",
+      "raw_name": "박력분",
+      "ingredient_candidate": "박력분",
+      "role": "food",
+      "group": "[기본반죽]",
+      "quantity": "135",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "슈가파우더 60g",
+      "raw_name": "슈가파우더",
+      "ingredient_candidate": "슈가파우더",
+      "role": "food",
+      "group": "[기본반죽]",
+      "quantity": "60",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란노른자 1개",
+      "raw_name": "계란노른자",
+      "ingredient_candidate": "계란노른자",
+      "role": "food",
+      "group": "[기본반죽]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "바닐라익스트랙 2~3방울",
+      "raw_name": "바닐라익스트랙 2~3방울",
+      "ingredient_candidate": "바닐라익스트랙 2~3방울",
+      "role": "food",
+      "group": "[기본반죽]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "무염버터 65g",
+      "raw_name": "무염버터",
+      "ingredient_candidate": "무염버터",
+      "role": "food",
+      "group": "[초코반죽]",
+      "quantity": "65",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "박력분 125g",
+      "raw_name": "박력분",
+      "ingredient_candidate": "박력분",
+      "role": "food",
+      "group": "[초코반죽]",
+      "quantity": "125",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "코코아파우더 10g",
+      "raw_name": "코코아파우더",
+      "ingredient_candidate": "코코아파우더",
+      "role": "food",
+      "group": "[초코반죽]",
+      "quantity": "10",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "슈가파우더 60g",
+      "raw_name": "슈가파우더",
+      "ingredient_candidate": "슈가파우더",
+      "role": "food",
+      "group": "[초코반죽]",
+      "quantity": "60",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란노른자 1개",
+      "raw_name": "계란노른자",
+      "ingredient_candidate": "계란노른자",
+      "role": "food",
+      "group": "[초코반죽]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "바닐라익스트랙 2~3방울",
+      "raw_name": "바닐라익스트랙 2~3방울",
+      "ingredient_candidate": "바닐라익스트랙 2~3방울",
+      "role": "food",
+      "group": "[초코반죽]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 1g",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[기본반죽]",
+      "quantity": "1",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 1g",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[초코반죽]",
+      "quantity": "1",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 13,
+  "sent_steps": 0,
+  "evidence_text": "간식타임은 이걸로 체크메이트!! 네모네모 체크쿠키♥\n무염버터 65g\n박력분 135g\n슈가파우더 60g\n계란노른자 1개\n바닐라익스트랙 2~3방울\n무염버터 65g\n박력분 125g\n코코아파우더 10g\n슈가파우더 60g\n계란노른자 1개\n바닐라익스트랙 2~3방울\n소금 1g\n소금 1g"
+}

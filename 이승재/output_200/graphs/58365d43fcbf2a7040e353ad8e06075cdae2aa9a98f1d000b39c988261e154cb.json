@@ -1,0 +1,2348 @@
+{
+  "recipe_uid": "10000recipe_4529642",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_4529642",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_4529642",
+          "title": "대박난 막국수 비빔양념 만드는법",
+          "description": "비빔국수나 냉면과 달리 막국수 양념은 촉촉해야 더 맛있잖아요. 오늘은 윤이가 대박난 막국수 양념 만드는법 소개해 드릴게요.",
+          "servings": "4인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 164000,
+          "source_url": "https://www.10000recipe.com/recipe/4529642",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "막국수"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "막국수 비빔양념",
+          "quantity": "4cm길이 1토막",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 무 4cm길이 1토막\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "막국수 비빔양념",
+          "quantity": "1/3개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 양파 1/3개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "사과",
+          "role": "food",
+          "group": "막국수 비빔양념",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 사과 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "사과",
+          "name_normalized": "사과"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "배",
+          "role": "food",
+          "group": "막국수 비빔양념",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 배 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배",
+          "name_normalized": "배"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "1/2컵",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 설탕 1/2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 고춧가루 4큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 참기름 4큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치액젓",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "3큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 멸치액젓 3큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치액젓",
+          "name_normalized": "멸치액젓"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 다진마늘 2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깨",
+          "role": "food",
+          "group": "막국수 비빔양념",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 깨 2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "1/2컵",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 식초 1/2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "연겨자",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 연겨자 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "연겨자",
+          "name_normalized": "연겨자"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 고추장 2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강즙",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 생강즙 1작은술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강즙",
+          "name_normalized": "생강즙"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "닭가슴살",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "막국수 비벼먹을때 곁들이는 고명으로 언급됨. 삶거나 구워서 찢어 사용하거나 캔 제품을 이용할 수 있음.",
+          "is_required": false,
+          "alternative_mode": "either_or",
+          "evidence": "[\"막국수 비벼먹을때 닭가슴살을 곁들이면 쫄깃한 식감이 느껴져서 더욱 맛있어요.\", \"닭가슴살을 삶거나 구워서 찢어 고명으로 곁들이시면 되는데 간편하게 캔 제품을 이용해도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:015:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "닭가슴살",
+          "name_normalized": "닭가슴살"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:015:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "캔 제품",
+          "name_normalized": "캔 제품"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "땅콩",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "막국수의 마지막 장식으로 언급됨.",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"막국수의 마지막 장식은 고소한 땅콩이 제격인것 같아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:016:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "땅콩",
+          "name_normalized": "땅콩"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "곁들여도 좋다고 언급됨.",
+          "is_required": false,
+          "alternative_mode": "either_or",
+          "evidence": "[\"저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:017:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:017:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쑥갓",
+          "name_normalized": "쑥갓"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "메밀국수",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "삶은 후 찬물에서 재빨리 헹군",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"메밀국수를 삶은후 찬물에서 재빨리 헹구어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:018:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "메밀국수",
+          "name_normalized": "메밀국수"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:019",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오이",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "곁들여도 좋다고 언급됨.",
+          "is_required": false,
+          "alternative_mode": "either_or",
+          "evidence": "[\"저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:019",
+          "index": 19
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:019:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오이",
+          "name_normalized": "오이"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:019:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파프리카",
+          "name_normalized": "파프리카"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:020",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깻잎",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "곁들여도 좋다고 언급됨.",
+          "is_required": false,
+          "alternative_mode": "either_or",
+          "evidence": "[\"저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:020",
+          "index": 20
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:020:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깻잎",
+          "name_normalized": "깻잎"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_4529642",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_4529642:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:014:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:015",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:015:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:015",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_4529642:component:015:candidate:1",
+        "properties": {
+          "raw_name": "캔 제품",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "간편하게 사용할 시",
+          "evidence": "[\"간편하게 캔 제품을 이용해도 좋아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:016",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:016:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:017",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:017:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:017",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_4529642:component:017:candidate:1",
+        "properties": {
+          "raw_name": "쑥갓",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:018",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:018:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:019",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:019",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:019:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:019",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_4529642:component:019:candidate:1",
+        "properties": {
+          "raw_name": "파프리카",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:020",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:020",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4529642:component:020:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_4529642",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_4529642",
+          "title": "대박난 막국수 비빔양념 만드는법",
+          "description": "비빔국수나 냉면과 달리 막국수 양념은 촉촉해야 더 맛있잖아요. 오늘은 윤이가 대박난 막국수 양념 만드는법 소개해 드릴게요.",
+          "servings": "4인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 164000,
+          "source_url": "https://www.10000recipe.com/recipe/4529642",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:e5fce3d1ab32af9c7d7532406c3dc744a7f30013bc3ac522b2919d6bb9a8ae55",
+        "label": "Dish",
+        "properties": {
+          "name": "막국수"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무",
+          "role": "food",
+          "group": "막국수 비빔양념",
+          "quantity": "4cm길이 1토막",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 무 4cm길이 1토막\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무",
+          "name_normalized": "무"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "막국수 비빔양념",
+          "quantity": "1/3개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 양파 1/3개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "사과",
+          "role": "food",
+          "group": "막국수 비빔양념",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 사과 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:d8b3d5c681dbd41009fafbe54995076288c2ecb590c29803d5ff4b1205b19fab",
+        "label": "Ingredient",
+        "properties": {
+          "name": "사과",
+          "name_normalized": "사과"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "배",
+          "role": "food",
+          "group": "막국수 비빔양념",
+          "quantity": "1/2개",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 배 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+        "label": "Ingredient",
+        "properties": {
+          "name": "배",
+          "name_normalized": "배"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "1/2컵",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 설탕 1/2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 고춧가루 4큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "4큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 참기름 4큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치액젓",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "3큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 멸치액젓 3큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치액젓",
+          "name_normalized": "멸치액젓"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 다진마늘 2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깨",
+          "role": "food",
+          "group": "막국수 비빔양념",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 깨 2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "1/2컵",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 식초 1/2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "연겨자",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 연겨자 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:6915a00ef15ce8ed9805765e2d05e1824e2ba90b1f0648107af2ec93e9ada21e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "연겨자",
+          "name_normalized": "연겨자"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 고추장 2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생강즙",
+          "role": "seasoning",
+          "group": "막국수 비빔양념",
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[막국수 비빔양념] 생강즙 1작은술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:9ecd2cd6e3b99b8239afd5f7b78b60e2944f96f77ca71eb7ed669a6d23bb07b6",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강즙",
+          "name_normalized": "생강즙"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "닭가슴살",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "막국수 비벼먹을때 곁들이는 고명으로 언급됨. 삶거나 구워서 찢어 사용하거나 캔 제품을 이용할 수 있음.",
+          "is_required": false,
+          "alternative_mode": "either_or",
+          "evidence": "[\"막국수 비벼먹을때 닭가슴살을 곁들이면 쫄깃한 식감이 느껴져서 더욱 맛있어요.\", \"닭가슴살을 삶거나 구워서 찢어 고명으로 곁들이시면 되는데 간편하게 캔 제품을 이용해도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:8cc27807fe09522398497f01e6fd8a3224b95a20b357ee0d82490bcd3d52eae9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "닭가슴살",
+          "name_normalized": "닭가슴살"
+        }
+      },
+      {
+        "id": "ingredient:9131043748eff3c036ca645ee67a52f08a49bbe870a4a081495f9a20ca39d637",
+        "label": "Ingredient",
+        "properties": {
+          "name": "캔 제품",
+          "name_normalized": "캔 제품"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "땅콩",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "막국수의 마지막 장식으로 언급됨.",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"막국수의 마지막 장식은 고소한 땅콩이 제격인것 같아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "ingredient:9fccb3a53c12bdf06571ddabcc09cef7f9f5b8183fbd2820e2452dfe101ec2b7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "땅콩",
+          "name_normalized": "땅콩"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "토마토",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "곁들여도 좋다고 언급됨.",
+          "is_required": false,
+          "alternative_mode": "either_or",
+          "evidence": "[\"저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "토마토",
+          "name_normalized": "토마토"
+        }
+      },
+      {
+        "id": "ingredient:2c7e7bd77a916d59d571aab65c77ce223386b847c8ccd402a73247546edf2fda",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쑥갓",
+          "name_normalized": "쑥갓"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "메밀국수",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "삶은 후 찬물에서 재빨리 헹군",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"메밀국수를 삶은후 찬물에서 재빨리 헹구어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "ingredient:5ce9c76336cd5132f132b2d908e8b7072475c57674708359a8610edcb0ae7127",
+        "label": "Ingredient",
+        "properties": {
+          "name": "메밀국수",
+          "name_normalized": "메밀국수"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:019",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오이",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "곁들여도 좋다고 언급됨.",
+          "is_required": false,
+          "alternative_mode": "either_or",
+          "evidence": "[\"저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:019",
+          "index": 19
+        }
+      },
+      {
+        "id": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오이",
+          "name_normalized": "오이"
+        }
+      },
+      {
+        "id": "ingredient:0254cfc12cbb0cb7cf4f5777edc166cea1dca266ff5cdcdba30634e76d5b1358",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파프리카",
+          "name_normalized": "파프리카"
+        }
+      },
+      {
+        "id": "10000recipe_4529642:component:020",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깻잎",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "곁들여도 좋다고 언급됨.",
+          "is_required": false,
+          "alternative_mode": "either_or",
+          "evidence": "[\"저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4529642:component:020",
+          "index": 20
+        }
+      },
+      {
+        "id": "ingredient:0997323830e80618e15ea8cf65128689e71410895044edae60380351dd919005",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깻잎",
+          "name_normalized": "깻잎"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_4529642",
+        "type": "VARIANT_OF",
+        "target": "dish:e5fce3d1ab32af9c7d7532406c3dc744a7f30013bc3ac522b2919d6bb9a8ae55",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:d8b3d5c681dbd41009fafbe54995076288c2ecb590c29803d5ff4b1205b19fab",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:6915a00ef15ce8ed9805765e2d05e1824e2ba90b1f0648107af2ec93e9ada21e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:9ecd2cd6e3b99b8239afd5f7b78b60e2944f96f77ca71eb7ed669a6d23bb07b6",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:8cc27807fe09522398497f01e6fd8a3224b95a20b357ee0d82490bcd3d52eae9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:015",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:9131043748eff3c036ca645ee67a52f08a49bbe870a4a081495f9a20ca39d637",
+        "properties": {
+          "raw_name": "캔 제품",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "간편하게 사용할 시",
+          "evidence": "[\"간편하게 캔 제품을 이용해도 좋아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:016",
+        "type": "INGREDIENT",
+        "target": "ingredient:9fccb3a53c12bdf06571ddabcc09cef7f9f5b8183fbd2820e2452dfe101ec2b7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:017",
+        "type": "INGREDIENT",
+        "target": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:017",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:2c7e7bd77a916d59d571aab65c77ce223386b847c8ccd402a73247546edf2fda",
+        "properties": {
+          "raw_name": "쑥갓",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:018",
+        "type": "INGREDIENT",
+        "target": "ingredient:5ce9c76336cd5132f132b2d908e8b7072475c57674708359a8610edcb0ae7127",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:019",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:019",
+        "type": "INGREDIENT",
+        "target": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:019",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:0254cfc12cbb0cb7cf4f5777edc166cea1dca266ff5cdcdba30634e76d5b1358",
+        "properties": {
+          "raw_name": "파프리카",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_4529642",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4529642:component:020",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4529642:component:020",
+        "type": "INGREDIENT",
+        "target": "ingredient:0997323830e80618e15ea8cf65128689e71410895044edae60380351dd919005",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "막국수",
+    "components": [
+      {
+        "raw_name": "무",
+        "role": "food",
+        "group": "막국수 비빔양념",
+        "quantity": "4cm길이 1토막",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 무 4cm길이 1토막"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "막국수 비빔양념",
+        "quantity": "1/3개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 양파 1/3개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "사과",
+        "role": "food",
+        "group": "막국수 비빔양념",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 사과 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "사과",
+        "alternatives": []
+      },
+      {
+        "raw_name": "배",
+        "role": "food",
+        "group": "막국수 비빔양념",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 배 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "배",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "막국수 비빔양념",
+        "quantity": "1/2컵",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 설탕 1/2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "막국수 비빔양념",
+        "quantity": "4큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 고춧가루 4큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "막국수 비빔양념",
+        "quantity": "4큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 참기름 4큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치액젓",
+        "role": "seasoning",
+        "group": "막국수 비빔양념",
+        "quantity": "3큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 멸치액젓 3큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치액젓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "막국수 비빔양념",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 다진마늘 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨",
+        "role": "food",
+        "group": "막국수 비빔양념",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 깨 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": "막국수 비빔양념",
+        "quantity": "1/2컵",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 식초 1/2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "연겨자",
+        "role": "seasoning",
+        "group": "막국수 비빔양념",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 연겨자 1큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "연겨자",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": "막국수 비빔양념",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 고추장 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강즙",
+        "role": "seasoning",
+        "group": "막국수 비빔양념",
+        "quantity": "1작은술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[막국수 비빔양념] 생강즙 1작은술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강즙",
+        "alternatives": []
+      },
+      {
+        "raw_name": "닭가슴살",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "막국수 비벼먹을때 곁들이는 고명으로 언급됨. 삶거나 구워서 찢어 사용하거나 캔 제품을 이용할 수 있음.",
+        "is_required": false,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "막국수 비벼먹을때 닭가슴살을 곁들이면 쫄깃한 식감이 느껴져서 더욱 맛있어요.",
+          "닭가슴살을 삶거나 구워서 찢어 고명으로 곁들이시면 되는데 간편하게 캔 제품을 이용해도 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "닭가슴살",
+        "alternatives": [
+          {
+            "raw_name": "캔 제품",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": "간편하게 사용할 시",
+            "evidence": [
+              "간편하게 캔 제품을 이용해도 좋아요."
+            ],
+            "ingredient_candidate": "캔 제품"
+          }
+        ]
+      },
+      {
+        "raw_name": "땅콩",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "막국수의 마지막 장식으로 언급됨.",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "막국수의 마지막 장식은 고소한 땅콩이 제격인것 같아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "땅콩",
+        "alternatives": []
+      },
+      {
+        "raw_name": "토마토",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "곁들여도 좋다고 언급됨.",
+        "is_required": false,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "토마토",
+        "alternatives": [
+          {
+            "raw_name": "쑥갓",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요."
+            ],
+            "ingredient_candidate": "쑥갓"
+          }
+        ]
+      },
+      {
+        "raw_name": "메밀국수",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "삶은 후 찬물에서 재빨리 헹군",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "메밀국수를 삶은후 찬물에서 재빨리 헹구어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "메밀국수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "오이",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "곁들여도 좋다고 언급됨.",
+        "is_required": false,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "오이",
+        "alternatives": [
+          {
+            "raw_name": "파프리카",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요."
+            ],
+            "ingredient_candidate": "파프리카"
+          }
+        ]
+      },
+      {
+        "raw_name": "깻잎",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "곁들여도 좋다고 언급됨.",
+        "is_required": false,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "저는 토마토. 쑥갓만 준비했는데 오이. 파프리카. 깻잎 등을 곁들여도 좋아요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깻잎",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "262a66f06b7587dc7fe00f49c8485a7bbf3c75ab60a8ce75b8ed2cb69f045ba9",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_4529642:dish",
+      "canonical_id": "dish:e5fce3d1ab32af9c7d7532406c3dc744a7f30013bc3ac522b2919d6bb9a8ae55",
+      "original_name": "막국수",
+      "canonical_name": "막국수",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:001:candidate:0",
+      "canonical_id": "ingredient:7ba6292303e127a08cebbdbc552489364ff3b5fc9f30361bddda2a0083ed4d28",
+      "original_name": "무",
+      "canonical_name": "무",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:002:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:003:candidate:0",
+      "canonical_id": "ingredient:d8b3d5c681dbd41009fafbe54995076288c2ecb590c29803d5ff4b1205b19fab",
+      "original_name": "사과",
+      "canonical_name": "사과",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:004:candidate:0",
+      "canonical_id": "ingredient:e82deb2cbe46b81c03e6988f136cf78722cbb55e8aa4df69c77acf88f3af5a72",
+      "original_name": "배",
+      "canonical_name": "배",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:005:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:006:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:007:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:008:candidate:0",
+      "canonical_id": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+      "original_name": "멸치액젓",
+      "canonical_name": "멸치액젓",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:009:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:010:candidate:0",
+      "canonical_id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+      "original_name": "깨",
+      "canonical_name": "깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:011:candidate:0",
+      "canonical_id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+      "original_name": "식초",
+      "canonical_name": "식초",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:012:candidate:0",
+      "canonical_id": "ingredient:6915a00ef15ce8ed9805765e2d05e1824e2ba90b1f0648107af2ec93e9ada21e",
+      "original_name": "연겨자",
+      "canonical_name": "연겨자",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:013:candidate:0",
+      "canonical_id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+      "original_name": "고추장",
+      "canonical_name": "고추장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:014:candidate:0",
+      "canonical_id": "ingredient:9ecd2cd6e3b99b8239afd5f7b78b60e2944f96f77ca71eb7ed669a6d23bb07b6",
+      "original_name": "생강즙",
+      "canonical_name": "생강즙",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:015:candidate:0",
+      "canonical_id": "ingredient:8cc27807fe09522398497f01e6fd8a3224b95a20b357ee0d82490bcd3d52eae9",
+      "original_name": "닭가슴살",
+      "canonical_name": "닭가슴살",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:015:candidate:1",
+      "canonical_id": "ingredient:9131043748eff3c036ca645ee67a52f08a49bbe870a4a081495f9a20ca39d637",
+      "original_name": "캔 제품",
+      "canonical_name": "캔 제품",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:016:candidate:0",
+      "canonical_id": "ingredient:9fccb3a53c12bdf06571ddabcc09cef7f9f5b8183fbd2820e2452dfe101ec2b7",
+      "original_name": "땅콩",
+      "canonical_name": "땅콩",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:017:candidate:0",
+      "canonical_id": "ingredient:2c00194a90606d404cc376d0b09d485f3253dccaa29e2994dd9c4980c1a72be7",
+      "original_name": "토마토",
+      "canonical_name": "토마토",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:017:candidate:1",
+      "canonical_id": "ingredient:2c7e7bd77a916d59d571aab65c77ce223386b847c8ccd402a73247546edf2fda",
+      "original_name": "쑥갓",
+      "canonical_name": "쑥갓",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:018:candidate:0",
+      "canonical_id": "ingredient:5ce9c76336cd5132f132b2d908e8b7072475c57674708359a8610edcb0ae7127",
+      "original_name": "메밀국수",
+      "canonical_name": "메밀국수",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:019:candidate:0",
+      "canonical_id": "ingredient:36229f53abc5803eaf12c580204c343ab5c7f934e0198a97743eb82ab0879802",
+      "original_name": "오이",
+      "canonical_name": "오이",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:019:candidate:1",
+      "canonical_id": "ingredient:0254cfc12cbb0cb7cf4f5777edc166cea1dca266ff5cdcdba30634e76d5b1358",
+      "original_name": "파프리카",
+      "canonical_name": "파프리카",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4529642:component:020:candidate:0",
+      "canonical_id": "ingredient:0997323830e80618e15ea8cf65128689e71410895044edae60380351dd919005",
+      "original_name": "깻잎",
+      "canonical_name": "깻잎",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_4529642",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_4529642:component:020: ALTERNATIVE_MODE"
+    ],
+    "stage1_errors": [
+      "10000recipe_4529642:component:020: ALTERNATIVE_MODE"
+    ],
+    "stage2_errors": [
+      "10000recipe_4529642:component:020: ALTERNATIVE_MODE"
+    ]
+  },
+  "review_hash": "3e28161e3b3f5ce9359ba7666376ac9aff375a138b059202c1e784241e4b966e"
+}

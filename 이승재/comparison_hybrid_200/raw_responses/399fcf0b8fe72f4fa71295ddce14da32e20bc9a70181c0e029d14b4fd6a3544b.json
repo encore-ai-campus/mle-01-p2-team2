@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZFEQuyYEZ4aBJnFvQaOnDe8txP",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"스크램블 에그\",\"components\":[{\"raw_name\":\"팽이버섯\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"봉지\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"팽이버섯 1봉지\"],\"quality_flags\":[],\"ingredient_candidate\":\"팽이버섯\",\"alternatives\":[]},{\"raw_name\":\"계란\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"계란 2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란\",\"alternatives\":[]},{\"raw_name\":\"쪽파(선택)\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"쪽파(선택) 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"쪽파(선택)\",\"alternatives\":[]},{\"raw_name\":\"굴소스 선택\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1/2\",\"unit\":\"t\",\"preparation\":null,\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"굴소스 선택 1/2t\"],\"quality_flags\":[\"AMBIGUOUS_INGREDIENT\"],\"ingredient_candidate\":\"굴소스 선택\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"꼬집\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"소금 1꼬집\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"깨소금\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1/2\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"깨소금 1/2T\"],\"quality_flags\":[],\"ingredient_candidate\":\"깨\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1/2\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"참기름 1/2T\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"올리브유\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"올리브유\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리브유\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"후추\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544521,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 696,
+    "prompt_tokens": 2918,
+    "total_tokens": 3614,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

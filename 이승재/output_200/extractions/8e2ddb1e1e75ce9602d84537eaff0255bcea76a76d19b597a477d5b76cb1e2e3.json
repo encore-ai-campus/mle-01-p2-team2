@@ -1,0 +1,244 @@
+{
+  "recipe_uid": "10000recipe_6867165",
+  "cache_key": "52b56b8eb721f416d643b6986625ba333168761f5d98e01dca341d8f8ece6b9b",
+  "model": "gpt-5.4-mini",
+  "input_hash": "dc30235d4d32edf60607b7374bcad39c82eaa132009ceed0967a94721269c4e5",
+  "source_record_hash": "6a62411a14741f996758d2acf67375905bcd7e2d136214764a4fdf52209ae83e",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "냉이된장찌개",
+    "components": [
+      {
+        "raw_name": "냉이",
+        "role": "food",
+        "group": "필수재료",
+        "quantity": "100g",
+        "unit": "1줌",
+        "preparation": "손질하여 듬성듬성 썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[필수재료] 냉이 100g 1줌",
+          "냉이는 손질하여 듬성듬성 썰어 준비한다.",
+          "냉이 1줌(100g)"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "냉이",
+        "alternatives": []
+      },
+      {
+        "raw_name": "두부",
+        "role": "food",
+        "group": "필수재료",
+        "quantity": "300g",
+        "unit": "1모",
+        "preparation": "깍둑썰기",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[필수재료] 두부 300g 1모",
+          "두부를 넣은 후 한소끔 끓인 후 대파, 청양 고추를 넣어 완성한다.",
+          "두부 1모(300g), 양파 1/2개, 애호박 1/4개, 대파 10cm"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "두부",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "필수재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": "깍둑썰기",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[필수재료] 양파 1/2개",
+          "애호박은 반달 썰고 대파는 어슷 썰고 양파와 두부는 깍둑썰기하여 준비한다.",
+          "두부 1모(300g), 양파 1/2개, 애호박 1/4개, 대파 10cm",
+          "육수에 애호박, 양파를 넣고 한소끔 끓인다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "애호박",
+        "role": "food",
+        "group": "필수재료",
+        "quantity": "1/4개",
+        "unit": null,
+        "preparation": "반달 썰기",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[필수재료] 애호박 1/4개",
+          "애호박은 반달 썰고 대파는 어슷 썰고 양파와 두부는 깍둑썰기하여 준비한다.",
+          "두부 1모(300g), 양파 1/2개, 애호박 1/4개, 대파 10cm",
+          "육수에 애호박, 양파를 넣고 한소끔 끓인다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "애호박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "필수재료",
+        "quantity": "10cm",
+        "unit": null,
+        "preparation": "어슷 썰기",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[필수재료] 대파 10cm",
+          "애호박은 반달 썰고 대파는 어슷 썰고 양파와 두부는 깍둑썰기하여 준비한다.",
+          "두부 1모(300g), 양파 1/2개, 애호박 1/4개, 대파 10cm",
+          "두부를 넣은 후 한소끔 끓인 후 대파, 청양 고추를 넣어 완성한다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치다시마육수",
+        "role": "food",
+        "group": "필수재료",
+        "quantity": "600ml",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[필수재료] 멸치다시마육수 600ml",
+          "냄비에 육수를 넣고 된장을 풀어 넣는다.",
+          "멸치다시마육수 600ml, 된장 2T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치다시마육수",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "선택재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "[선택재료] 청양고추 1개",
+          "두부를 넣은 후 한소끔 끓인 후 대파, 청양 고추를 넣어 완성한다.",
+          "청양고추 1개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "된장",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 된장 2T",
+          "냄비에 육수를 넣고 된장을 풀어 넣는다.",
+          "멸치다시마육수 600ml, 된장 2T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "된장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 국간장 1T",
+          "국간장, 고춧가루, 다진 마늘을 넣고 간을 하고 손질한 냉이를 넣는다.",
+          "국간장 1T, 고춧가루 1T, 다진마늘 1T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 고춧가루 1T",
+          "국간장, 고춧가루, 다진 마늘을 넣고 간을 하고 손질한 냉이를 넣는다.",
+          "국간장 1T, 고춧가루 1T, 다진마늘 1T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 다진마늘 1T",
+          "국간장, 고춧가루, 다진 마늘을 넣고 간을 하고 손질한 냉이를 넣는다.",
+          "국간장 1T, 고춧가루 1T, 다진마늘 1T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1561,
+    "prompt_tokens": 3047,
+    "total_tokens": 4608,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

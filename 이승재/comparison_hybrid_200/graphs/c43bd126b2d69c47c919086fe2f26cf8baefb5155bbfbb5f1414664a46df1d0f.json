@@ -1,0 +1,432 @@
+{
+  "recipe_uid": "10000recipe_3979404",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_3979404",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_3979404",
+          "title": "달걀감자 그라탕",
+          "description": "감자와 달걀이 들어간 아이들 간식으로 좋은 달걀감자그라탕입니다.",
+          "servings": "1인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 100000,
+          "source_url": "https://www.10000recipe.com/recipe/3979404",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:8070c4ace244048a38c1935e89ec93f11f656e4dafc023a06f5651d07b939822",
+        "label": "Dish",
+        "properties": {
+          "name": "달걀감자 그라탕"
+        }
+      },
+      {
+        "id": "10000recipe_3979404:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "감자(소)",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"감자(소) 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3979404:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:d285fe415e7bcf505af0ac229855c8a8e99711cef253a318bdc2fe0db9fc05a5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "감자(소)",
+          "name_normalized": "감자(소)"
+        }
+      },
+      {
+        "id": "10000recipe_3979404:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삶은 달걀",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"삶은 달걀 2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3979404:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:7ac3c023b1fa7e1ed9c7c9750243192d2342b5e2652632ac28987439e9a7bf19",
+        "label": "Ingredient",
+        "properties": {
+          "name": "삶은 달걀",
+          "name_normalized": "삶은 달걀"
+        }
+      },
+      {
+        "id": "10000recipe_3979404:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1/2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 1/2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3979404:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_3979404:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "모짜렐라치즈 원하는만큼",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"모짜렐라치즈 원하는만큼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3979404:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:339e977bd1186af04d63ed2f7e523d55333dd07c3baea22a00b75eb36d2c7f0c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "모짜렐라치즈 원하는만큼",
+          "name_normalized": "모짜렐라치즈 원하는만큼"
+        }
+      },
+      {
+        "id": "10000recipe_3979404:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밀가루",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"밀가루 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3979404:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밀가루",
+          "name_normalized": "밀가루"
+        }
+      },
+      {
+        "id": "10000recipe_3979404:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "우유",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1000",
+          "unit": "ml",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"우유 1000ml\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3979404:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "우유",
+          "name_normalized": "우유"
+        }
+      },
+      {
+        "id": "10000recipe_3979404:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3979404:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_3979404:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "[양념]",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"후추 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_3979404:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_3979404",
+        "type": "VARIANT_OF",
+        "target": "dish:8070c4ace244048a38c1935e89ec93f11f656e4dafc023a06f5651d07b939822",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3979404:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:d285fe415e7bcf505af0ac229855c8a8e99711cef253a318bdc2fe0db9fc05a5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3979404:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:7ac3c023b1fa7e1ed9c7c9750243192d2342b5e2652632ac28987439e9a7bf19",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3979404:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3979404:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:339e977bd1186af04d63ed2f7e523d55333dd07c3baea22a00b75eb36d2c7f0c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3979404:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3979404:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3979404:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_3979404:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_3979404:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_3979404:dish",
+      "canonical_id": "dish:8070c4ace244048a38c1935e89ec93f11f656e4dafc023a06f5651d07b939822",
+      "original_name": "달걀감자 그라탕",
+      "canonical_name": "달걀감자 그라탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3979404:component:001:candidate:0",
+      "canonical_id": "ingredient:d285fe415e7bcf505af0ac229855c8a8e99711cef253a318bdc2fe0db9fc05a5",
+      "original_name": "감자(소)",
+      "canonical_name": "감자(소)",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3979404:component:002:candidate:0",
+      "canonical_id": "ingredient:7ac3c023b1fa7e1ed9c7c9750243192d2342b5e2652632ac28987439e9a7bf19",
+      "original_name": "삶은 달걀",
+      "canonical_name": "삶은 달걀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3979404:component:003:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3979404:component:004:candidate:0",
+      "canonical_id": "ingredient:339e977bd1186af04d63ed2f7e523d55333dd07c3baea22a00b75eb36d2c7f0c",
+      "original_name": "모짜렐라치즈 원하는만큼",
+      "canonical_name": "모짜렐라치즈 원하는만큼",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3979404:component:005:candidate:0",
+      "canonical_id": "ingredient:79a059e557ff99c5a8d21034f64e06828293dd2f7669bb6ab687e5d67d6300aa",
+      "original_name": "밀가루",
+      "canonical_name": "밀가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3979404:component:006:candidate:0",
+      "canonical_id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+      "original_name": "우유",
+      "canonical_name": "우유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3979404:component:007:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_3979404:component:008:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 8,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 17,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

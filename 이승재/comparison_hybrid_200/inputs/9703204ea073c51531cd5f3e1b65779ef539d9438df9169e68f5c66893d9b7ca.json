@@ -1,0 +1,148 @@
+{
+  "recipe_uid": "10000recipe_6095288",
+  "payload": {
+    "title": "단호박죽 만드는 법",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "단호박 1개",
+        "단호박",
+        "단호박",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "물 1.5ml",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "1.5",
+        "ml",
+        null,
+        null
+      ],
+      [
+        "우유 2컵",
+        "우유",
+        "우유",
+        "food",
+        "[재료]",
+        "2",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "찹쌀물",
+        "찹쌀물",
+        "찹쌀물",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[양념]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 3,
+        "text": "그리고 다시 2~3등분 정도 내준 후 짐기에 넣고 한 김 쪄 주세요."
+      },
+      {
+        "step": 4,
+        "text": "쪄 낸 단호박은 체에 받쳐 충분히 으깨 주거나 혹은 믹서에 넣고 곱게 갈아주세요."
+      },
+      {
+        "step": 5,
+        "text": "여기에 1.5L의 물과 2컵의 우유를 넣은 후 한소끔 끓여 주세요."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "단호박 1개",
+      "raw_name": "단호박",
+      "ingredient_candidate": "단호박",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 1.5ml",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1.5",
+      "unit": "ml",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "우유 2컵",
+      "raw_name": "우유",
+      "ingredient_candidate": "우유",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "찹쌀물",
+      "raw_name": "찹쌀물",
+      "ingredient_candidate": "찹쌀물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 10,
+  "sent_steps": 3,
+  "evidence_text": "단호박죽 만드는 법\n단호박 1개\n물 1.5ml\n우유 2컵\n찹쌀물\n소금 약간\n그리고 다시 2~3등분 정도 내준 후 짐기에 넣고 한 김 쪄 주세요.\n쪄 낸 단호박은 체에 받쳐 충분히 으깨 주거나 혹은 믹서에 넣고 곱게 갈아주세요.\n여기에 1.5L의 물과 2컵의 우유를 넣은 후 한소끔 끓여 주세요."
+}

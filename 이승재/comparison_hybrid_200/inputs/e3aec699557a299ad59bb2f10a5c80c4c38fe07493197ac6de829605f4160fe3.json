@@ -1,0 +1,135 @@
+{
+  "recipe_uid": "10000recipe_7082959",
+  "payload": {
+    "title": "꽃게무침 만드는법 양념 레시피 꽃게 요리 손질법",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "꽃게 500g",
+        "꽃게",
+        "꽃게",
+        "food",
+        "[재료]",
+        "500",
+        "g",
+        null,
+        null
+      ],
+      [
+        "양파 1/2개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "대파 1/2대",
+        "대파",
+        "대파",
+        "food",
+        "[재료]",
+        "1/2",
+        "대",
+        null,
+        null
+      ],
+      [
+        "청양고추 1개",
+        "청양고추",
+        "청양고추",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "통깨 양념장숟가락 기준 적당량",
+        "통깨 양념장숟가락 기준",
+        "통깨 양념장숟가락 기준",
+        "food",
+        "[재료]",
+        "적당량",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "꽃게 500g",
+      "raw_name": "꽃게",
+      "ingredient_candidate": "꽃게",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "500",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1/2개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 1/2대",
+      "raw_name": "대파",
+      "ingredient_candidate": "대파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "대",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "청양고추 1개",
+      "raw_name": "청양고추",
+      "ingredient_candidate": "청양고추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "통깨 양념장숟가락 기준 적당량",
+      "raw_name": "통깨 양념장숟가락 기준",
+      "ingredient_candidate": "통깨 양념장숟가락 기준",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "적당량",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 6,
+  "sent_steps": 0,
+  "evidence_text": "꽃게무침 만드는법 양념 레시피 꽃게 요리 손질법\n꽃게 500g\n양파 1/2개\n대파 1/2대\n청양고추 1개\n통깨 양념장숟가락 기준 적당량"
+}

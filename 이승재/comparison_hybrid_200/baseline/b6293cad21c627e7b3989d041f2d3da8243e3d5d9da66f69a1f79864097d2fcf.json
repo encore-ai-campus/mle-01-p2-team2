@@ -1,0 +1,173 @@
+{
+  "recipe_uid": "10000recipe_7082780",
+  "cache_key": "5ce5cd7544c4915ae3f1d77407439b6dc78523991be776fcc03fe7d41a4a328a",
+  "model": "gpt-5.4-mini",
+  "input_hash": "a57db581716e2fea3d5c0f8ec34219ad9efaab3bca9e25deee8c2200c2760770",
+  "source_record_hash": "cfb1748cca9b10995685ae99e087fc2e757425252a54ffde573002dd956dfc2a",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "대파 계란밥",
+    "components": [
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1대",
+        "unit": null,
+        "preparation": "반으로 가르고 한 입 크기로 잘 썬 뒤 최대한 얇게 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1대",
+          "대파는 반으로 갈라 한 입 크기로 잘 썰어주세요",
+          "잘라준 대파는 최대한 얇게 썰어서 잘 풀어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 계란 2개",
+          "계란 2개를 톡톡 깨서 대파 위로 올려주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 간장 1T",
+          "간장 1스푼을 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 참기름 1T",
+          "마지막으로 참기름 1바퀴 둘러 준 뒤에"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브유",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "프라이팬에 올리브유를 한 바퀴 둘러준 뒤에"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밥",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "그릇에 밥을 이쁘게 담아준 뒤에"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밥",
+        "alternatives": []
+      },
+      {
+        "raw_name": "김자반",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "있으면 추가로 넣어주면 더 맛있음",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "김자반이 있으면 추가로 넣어주면 더 맛있어요!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김자반",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참깨",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "마지막에 뿌림",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "고소한 참깨까지 솔솔 뿌려만 주면"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참깨",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 745,
+    "prompt_tokens": 2994,
+    "total_tokens": 3739,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

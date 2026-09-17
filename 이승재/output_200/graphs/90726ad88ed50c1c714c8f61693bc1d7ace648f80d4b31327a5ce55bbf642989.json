@@ -1,0 +1,726 @@
+{
+  "recipe_uid": "10000recipe_6902060",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6902060",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6902060",
+          "title": "아삭아삭 맛있는 숙주나물무침 만들기",
+          "description": "섬유소가 풍부하고 열량이 낮아 다이어트에 도움이 되는 숙주나물 ~ 오늘은 숙주나물을 이용해 맛있는 숙주나물 무침을 만들어보았어요 :)",
+          "servings": "4인분",
+          "cooking_time": "10분 이내",
+          "difficulty": "아무나",
+          "views": 96000,
+          "source_url": "https://www.10000recipe.com/recipe/6902060",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "숙주나물무침"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "숙주",
+          "role": "food",
+          "group": "재료",
+          "quantity": "약 270g",
+          "unit": "1봉지",
+          "preparation": "나물",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"숙주 약 270g 1봉지\", \"숙주나물을 이용해 맛있는 숙주나물 무침을 만들어보았어요 :)\", \"볼에 숙주나물을 담아주시고요.\", \"숙주나물을 조심스레 씻은 다음에는 체에 밭쳐 물기를 빼주세요.\", \"숙주나물을 넣고 약 1분 ~ 2분 정도로 가볍게 데쳐주세요.\", \"삶은 숙주나물을 재빨리 찬물에 담가 헹군 뒤 체에 밭쳐 물기를 빼주세요.\", \"물기 뺀 숙주나물에 소금 1 작은술과 다진 마늘 1 작은술을 먼저 넣고 조물조물 무친 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "숙주",
+          "name_normalized": "숙주"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "취향껏",
+          "unit": "1작은술",
+          "preparation": null,
+          "detail": "데칠 때 소금 약간 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 취향껏 1작은술\", \"물이 끓어오르면 소금을 약간 넣은 후 숙주나물을 넣고\", \"물기 뺀 숙주나물에 소금 1 작은술과 다진 마늘 1 작은술을 먼저 넣고\", \"소금의 양은 각자 입맛에 맞게 가감해주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"다진 마늘 1작은술\", \"물기 뺀 숙주나물에 소금 1 작은술과 다진 마늘 1 작은술을 먼저 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 1큰술\", \"이어서 참기름 1 큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깨소금",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"깨소금 1큰술\", \"깨소금 1 큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨소금",
+          "name_normalized": "깨소금"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 대파",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"다진 대파 2큰술\", \"다진 대파 2 큰술을 넣고 가볍게 무쳐 마무리해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6902060",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6902060:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6902060:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6902060:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6902060:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6902060:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6902060:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6902060:component:006:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6902060",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6902060",
+          "title": "아삭아삭 맛있는 숙주나물무침 만들기",
+          "description": "섬유소가 풍부하고 열량이 낮아 다이어트에 도움이 되는 숙주나물 ~ 오늘은 숙주나물을 이용해 맛있는 숙주나물 무침을 만들어보았어요 :)",
+          "servings": "4인분",
+          "cooking_time": "10분 이내",
+          "difficulty": "아무나",
+          "views": 96000,
+          "source_url": "https://www.10000recipe.com/recipe/6902060",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:6260c1e86d3ce60ef40f9ca65a72cf0f3b4db09177f280577ab0f339fa2b3213",
+        "label": "Dish",
+        "properties": {
+          "name": "숙주나물무침"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "숙주",
+          "role": "food",
+          "group": "재료",
+          "quantity": "약 270g",
+          "unit": "1봉지",
+          "preparation": "나물",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"숙주 약 270g 1봉지\", \"숙주나물을 이용해 맛있는 숙주나물 무침을 만들어보았어요 :)\", \"볼에 숙주나물을 담아주시고요.\", \"숙주나물을 조심스레 씻은 다음에는 체에 밭쳐 물기를 빼주세요.\", \"숙주나물을 넣고 약 1분 ~ 2분 정도로 가볍게 데쳐주세요.\", \"삶은 숙주나물을 재빨리 찬물에 담가 헹군 뒤 체에 밭쳐 물기를 빼주세요.\", \"물기 뺀 숙주나물에 소금 1 작은술과 다진 마늘 1 작은술을 먼저 넣고 조물조물 무친 뒤\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:dcb8cbf3408427efda0d1efce2ea0cbb457a7d4b9ebe2ce1f69114d6fe1371ce",
+        "label": "Ingredient",
+        "properties": {
+          "name": "숙주",
+          "name_normalized": "숙주"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "취향껏",
+          "unit": "1작은술",
+          "preparation": null,
+          "detail": "데칠 때 소금 약간 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 취향껏 1작은술\", \"물이 끓어오르면 소금을 약간 넣은 후 숙주나물을 넣고\", \"물기 뺀 숙주나물에 소금 1 작은술과 다진 마늘 1 작은술을 먼저 넣고\", \"소금의 양은 각자 입맛에 맞게 가감해주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 마늘",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1작은술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"다진 마늘 1작은술\", \"물기 뺀 숙주나물에 소금 1 작은술과 다진 마늘 1 작은술을 먼저 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 1큰술\", \"이어서 참기름 1 큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깨소금",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"깨소금 1큰술\", \"깨소금 1 큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:aa6896e0db534a891966063e6bb9ad67d8011298227ef3ee098daa3abca01459",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨소금",
+          "name_normalized": "깨소금"
+        }
+      },
+      {
+        "id": "10000recipe_6902060:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진 대파",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2큰술",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"다진 대파 2큰술\", \"다진 대파 2 큰술을 넣고 가볍게 무쳐 마무리해요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6902060:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6902060",
+        "type": "VARIANT_OF",
+        "target": "dish:6260c1e86d3ce60ef40f9ca65a72cf0f3b4db09177f280577ab0f339fa2b3213",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:dcb8cbf3408427efda0d1efce2ea0cbb457a7d4b9ebe2ce1f69114d6fe1371ce",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:aa6896e0db534a891966063e6bb9ad67d8011298227ef3ee098daa3abca01459",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6902060:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6902060:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "숙주나물무침",
+    "components": [
+      {
+        "raw_name": "숙주",
+        "role": "food",
+        "group": "재료",
+        "quantity": "약 270g",
+        "unit": "1봉지",
+        "preparation": "나물",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "숙주 약 270g 1봉지",
+          "숙주나물을 이용해 맛있는 숙주나물 무침을 만들어보았어요 :)",
+          "볼에 숙주나물을 담아주시고요.",
+          "숙주나물을 조심스레 씻은 다음에는 체에 밭쳐 물기를 빼주세요.",
+          "숙주나물을 넣고 약 1분 ~ 2분 정도로 가볍게 데쳐주세요.",
+          "삶은 숙주나물을 재빨리 찬물에 담가 헹군 뒤 체에 밭쳐 물기를 빼주세요.",
+          "물기 뺀 숙주나물에 소금 1 작은술과 다진 마늘 1 작은술을 먼저 넣고 조물조물 무친 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "숙주",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "취향껏",
+        "unit": "1작은술",
+        "preparation": null,
+        "detail": "데칠 때 소금 약간 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 취향껏 1작은술",
+          "물이 끓어오르면 소금을 약간 넣은 후 숙주나물을 넣고",
+          "물기 뺀 숙주나물에 소금 1 작은술과 다진 마늘 1 작은술을 먼저 넣고",
+          "소금의 양은 각자 입맛에 맞게 가감해주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 마늘",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1작은술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진 마늘 1작은술",
+          "물기 뺀 숙주나물에 소금 1 작은술과 다진 마늘 1 작은술을 먼저 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "참기름 1큰술",
+          "이어서 참기름 1 큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1큰술",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "깨소금 1큰술",
+          "깨소금 1 큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진 대파",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2큰술",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진 대파 2큰술",
+          "다진 대파 2 큰술을 넣고 가볍게 무쳐 마무리해요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "35c8f064aee2a50f183d5fdff696f44665bfea34936c39645a2167562eafb32b",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6902060:dish",
+      "canonical_id": "dish:6260c1e86d3ce60ef40f9ca65a72cf0f3b4db09177f280577ab0f339fa2b3213",
+      "original_name": "숙주나물무침",
+      "canonical_name": "숙주나물무침",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6902060:component:001:candidate:0",
+      "canonical_id": "ingredient:dcb8cbf3408427efda0d1efce2ea0cbb457a7d4b9ebe2ce1f69114d6fe1371ce",
+      "original_name": "숙주",
+      "canonical_name": "숙주",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6902060:component:002:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6902060:component:003:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6902060:component:004:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6902060:component:005:candidate:0",
+      "canonical_id": "ingredient:aa6896e0db534a891966063e6bb9ad67d8011298227ef3ee098daa3abca01459",
+      "original_name": "깨소금",
+      "canonical_name": "깨소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6902060:component:006:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6902060",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "acb396790bdecce83f2159441266f07f6f0d3739c100566536d36818ac5c57be"
+}

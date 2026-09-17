@@ -1,0 +1,1141 @@
+{
+  "recipe_uid": "10000recipe_7082905",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082905",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082905",
+          "title": "진하고 구수한 버섯두부 된장찌개",
+          "description": "엄마표 집된장과 고추장 베이스로 버섯과 두부를 넣어 진하고 구수하게 끓여낸 버섯두부된장찌개 만들어 볼게요",
+          "servings": "3인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 39,
+          "source_url": "https://www.10000recipe.com/recipe/7082905",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "버섯두부 된장찌개"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "500ml",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"물 500ml\", \"물에 풀어 주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "집된장",
+          "role": "seasoning",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "1.5큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"집된장 1.5큰술\", \"집된장 1.5큰술 고추장 1/2큰술 물에 풀어 주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "된장",
+          "name_normalized": "된장"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "1/2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"고추장 1/2큰술\", \"집된장 1.5큰술 고추장 1/2큰술 물에 풀어 주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"청양고추 2개\", \"청양고추와 양파를 썰어 1차\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "1/4개",
+          "unit": "개",
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 1/4개\", \"청양고추와 양파를 썰어 1차\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "표고버섯",
+          "role": "food",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"표고버섯 2개\", \"청양고추와 양파를 썰어 1차 표고버섯과 팽이버섯을 썰어 2차\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "표고버섯",
+          "name_normalized": "표고버섯"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "팽이버섯",
+          "role": "food",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "1봉지",
+          "unit": "봉지",
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"팽이버섯 1봉지\", \"청양고추와 양파를 썰어 1차 표고버섯과 팽이버섯을 썰어 2차\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "팽이버섯",
+          "name_normalized": "팽이버섯"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"대파 약간\", \"된장찌개가 끓으면 대파를 넣어 주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꽃게액",
+          "role": "seasoning",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "1/2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"꽃게액 1/2큰술\", \"마지막에 감칠맛을 끌어 올려줄 꽃게액 1/2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꽃게액",
+          "name_normalized": "꽃게액"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "두부",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"버섯과 두부를 넣어\", \"두부를 썰어 3차\"]",
+          "quality_flags": [
+            "EVIDENCE_NOT_FOUND"
+          ],
+          "component_uid": "10000recipe_7082905:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "두부",
+          "name_normalized": "두부"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082905",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7082905:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082905:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082905:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082905:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082905:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082905:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082905:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082905:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082905:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082905:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7082905:component:010:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082905",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082905",
+          "title": "진하고 구수한 버섯두부 된장찌개",
+          "description": "엄마표 집된장과 고추장 베이스로 버섯과 두부를 넣어 진하고 구수하게 끓여낸 버섯두부된장찌개 만들어 볼게요",
+          "servings": "3인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "아무나",
+          "views": 39,
+          "source_url": "https://www.10000recipe.com/recipe/7082905",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:589bf02b4eef426af0acf557cd2586e513a59aa92bedfa2c865a86b9915259f5",
+        "label": "Dish",
+        "properties": {
+          "name": "버섯두부 된장찌개"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "500ml",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"물 500ml\", \"물에 풀어 주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "집된장",
+          "role": "seasoning",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "1.5큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"집된장 1.5큰술\", \"집된장 1.5큰술 고추장 1/2큰술 물에 풀어 주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "된장",
+          "name_normalized": "된장"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추장",
+          "role": "seasoning",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "1/2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"고추장 1/2큰술\", \"집된장 1.5큰술 고추장 1/2큰술 물에 풀어 주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추장",
+          "name_normalized": "고추장"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"청양고추 2개\", \"청양고추와 양파를 썰어 1차\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "1/4개",
+          "unit": "개",
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 1/4개\", \"청양고추와 양파를 썰어 1차\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "표고버섯",
+          "role": "food",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"표고버섯 2개\", \"청양고추와 양파를 썰어 1차 표고버섯과 팽이버섯을 썰어 2차\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "표고버섯",
+          "name_normalized": "표고버섯"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "팽이버섯",
+          "role": "food",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "1봉지",
+          "unit": "봉지",
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"팽이버섯 1봉지\", \"청양고추와 양파를 썰어 1차 표고버섯과 팽이버섯을 썰어 2차\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:1818f3526be56549adcad35017a3b1c451aa7c71ea546d21061b41ac3c1dd808",
+        "label": "Ingredient",
+        "properties": {
+          "name": "팽이버섯",
+          "name_normalized": "팽이버섯"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"대파 약간\", \"된장찌개가 끓으면 대파를 넣어 주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꽃게액",
+          "role": "seasoning",
+          "group": "진하고 구수한 버섯두부 된장찌개 재료",
+          "quantity": "1/2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"꽃게액 1/2큰술\", \"마지막에 감칠맛을 끌어 올려줄 꽃게액 1/2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082905:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:755b5177e89af8527015044788f61b9615d4993c76effefd472b3ca268074946",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꽃게액",
+          "name_normalized": "꽃게액"
+        }
+      },
+      {
+        "id": "10000recipe_7082905:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "두부",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "썰어",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"버섯과 두부를 넣어\", \"두부를 썰어 3차\"]",
+          "quality_flags": [
+            "EVIDENCE_NOT_FOUND"
+          ],
+          "component_uid": "10000recipe_7082905:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+        "label": "Ingredient",
+        "properties": {
+          "name": "두부",
+          "name_normalized": "두부"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082905",
+        "type": "VARIANT_OF",
+        "target": "dish:589bf02b4eef426af0acf557cd2586e513a59aa92bedfa2c865a86b9915259f5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:1818f3526be56549adcad35017a3b1c451aa7c71ea546d21061b41ac3c1dd808",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:755b5177e89af8527015044788f61b9615d4993c76effefd472b3ca268074946",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082905:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082905:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "버섯두부 된장찌개",
+    "components": [
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "진하고 구수한 버섯두부 된장찌개 재료",
+        "quantity": "500ml",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 500ml",
+          "물에 풀어 주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "집된장",
+        "role": "seasoning",
+        "group": "진하고 구수한 버섯두부 된장찌개 재료",
+        "quantity": "1.5큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "집된장 1.5큰술",
+          "집된장 1.5큰술 고추장 1/2큰술 물에 풀어 주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "된장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": "진하고 구수한 버섯두부 된장찌개 재료",
+        "quantity": "1/2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "고추장 1/2큰술",
+          "집된장 1.5큰술 고추장 1/2큰술 물에 풀어 주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "진하고 구수한 버섯두부 된장찌개 재료",
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": "썰어",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "청양고추 2개",
+          "청양고추와 양파를 썰어 1차"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "진하고 구수한 버섯두부 된장찌개 재료",
+        "quantity": "1/4개",
+        "unit": "개",
+        "preparation": "썰어",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 1/4개",
+          "청양고추와 양파를 썰어 1차"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "표고버섯",
+        "role": "food",
+        "group": "진하고 구수한 버섯두부 된장찌개 재료",
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": "썰어",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "표고버섯 2개",
+          "청양고추와 양파를 썰어 1차 표고버섯과 팽이버섯을 썰어 2차"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "표고버섯",
+        "alternatives": []
+      },
+      {
+        "raw_name": "팽이버섯",
+        "role": "food",
+        "group": "진하고 구수한 버섯두부 된장찌개 재료",
+        "quantity": "1봉지",
+        "unit": "봉지",
+        "preparation": "썰어",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "팽이버섯 1봉지",
+          "청양고추와 양파를 썰어 1차 표고버섯과 팽이버섯을 썰어 2차"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "팽이버섯",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "진하고 구수한 버섯두부 된장찌개 재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "대파 약간",
+          "된장찌개가 끓으면 대파를 넣어 주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "꽃게액",
+        "role": "seasoning",
+        "group": "진하고 구수한 버섯두부 된장찌개 재료",
+        "quantity": "1/2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "꽃게액 1/2큰술",
+          "마지막에 감칠맛을 끌어 올려줄 꽃게액 1/2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "꽃게액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "두부",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "썰어",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "버섯과 두부를 넣어",
+          "두부를 썰어 3차"
+        ],
+        "quality_flags": [
+          "EVIDENCE_NOT_FOUND"
+        ],
+        "ingredient_candidate": "두부",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "70f261e57e13d2b3fe249b2ddc014328d034e112cf86ad64f88ae152afb31254",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7082905:dish",
+      "canonical_id": "dish:589bf02b4eef426af0acf557cd2586e513a59aa92bedfa2c865a86b9915259f5",
+      "original_name": "버섯두부 된장찌개",
+      "canonical_name": "버섯두부 된장찌개",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082905:component:001:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082905:component:002:candidate:0",
+      "canonical_id": "ingredient:4bd185158d560b107e612f052c7940a75d1827fad3de3b4caf94955f7f5e8b09",
+      "original_name": "된장",
+      "canonical_name": "된장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082905:component:003:candidate:0",
+      "canonical_id": "ingredient:120ad05f9fc1968861caa8f3797dfc89392fbbb083aa9b48a1da4947feef358c",
+      "original_name": "고추장",
+      "canonical_name": "고추장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082905:component:004:candidate:0",
+      "canonical_id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+      "original_name": "청양고추",
+      "canonical_name": "청양고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082905:component:005:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082905:component:006:candidate:0",
+      "canonical_id": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+      "original_name": "표고버섯",
+      "canonical_name": "표고버섯",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082905:component:007:candidate:0",
+      "canonical_id": "ingredient:1818f3526be56549adcad35017a3b1c451aa7c71ea546d21061b41ac3c1dd808",
+      "original_name": "팽이버섯",
+      "canonical_name": "팽이버섯",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082905:component:008:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082905:component:009:candidate:0",
+      "canonical_id": "ingredient:755b5177e89af8527015044788f61b9615d4993c76effefd472b3ca268074946",
+      "original_name": "꽃게액",
+      "canonical_name": "꽃게액",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082905:component:010:candidate:0",
+      "canonical_id": "ingredient:516b82c6aee69c2ef3257ab18fd29f0c66695f57e100ee3b6dbb1d71d2ac7713",
+      "original_name": "두부",
+      "canonical_name": "두부",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7082905",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "e35774de2d15748309f6e550d92b680a0d06627eec663e65d7772f1f273eef79"
+}

@@ -1,0 +1,1301 @@
+{
+  "recipe_uid": "10000recipe_4323582",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_4323582",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_4323582",
+          "title": "시원한 오뎅탕 만드는 법",
+          "description": "국물이 깔끔하고 쉬원한 오뎅탕",
+          "servings": null,
+          "cooking_time": null,
+          "difficulty": "아무나",
+          "views": 255000,
+          "source_url": "https://www.10000recipe.com/recipe/4323582",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "오뎅탕"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오뎅",
+          "role": "food",
+          "group": "재료",
+          "quantity": "20개",
+          "unit": null,
+          "preparation": "사각오뎅을 접어 앞, 뒤, 앞뒤 지그재그로 접어준 다음 오뎅꼬지에 넣어줌",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 오뎅 20개\", \"사각오뎅을 접어\", \"앞, 뒤, 앞뒤 지그재그로 접어준 다음 오뎅꼬지에 넣어줍니다\", \"오뎅을 넣고 한소끔 끓이다가 소금으로 간을 해줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오뎅",
+          "name_normalized": "오뎅"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치",
+          "role": "food",
+          "group": "재료",
+          "quantity": "12마리",
+          "unit": "마리",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 멸치 12마리\", \"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\", \"모든 재료를 다넣고 끓여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치",
+          "name_normalized": "멸치"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "큰거 1뿌리",
+          "unit": "뿌리",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 큰거 1뿌리\", \"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\", \"모든 재료를 다넣고 끓여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무우",
+          "role": "food",
+          "group": "재료",
+          "quantity": "4토막",
+          "unit": "토막",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 무우 4토막\", \"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\", \"모든 재료를 다넣고 끓여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무우",
+          "name_normalized": "무우"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": "개",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1개\", \"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\", \"모든 재료를 다넣고 끓여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "표고버섯",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3개",
+          "unit": "개",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 표고버섯 3개\", \"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\", \"모든 재료를 다넣고 끓여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "표고버섯",
+          "name_normalized": "표고버섯"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "새우",
+          "role": "food",
+          "group": "재료",
+          "quantity": "5마리",
+          "unit": "마리",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 새우 5마리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "새우",
+          "name_normalized": "새우"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다시다",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1장",
+          "unit": "장",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 다시다 1장\", \"끓기 시작하면 다시다만 건져줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다시다",
+          "name_normalized": "다시다"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굵은소금",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 굵은소금\", \"굵은 소금을 1숟가락 넣어주세요\", \"소금으로 간을 해줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굵은소금",
+          "name_normalized": "굵은소금"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "집간장",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 집간장\", \"집간장과 쇠고기 다시다 한숟가락 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "집간장",
+          "name_normalized": "집간장"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쇠고기다시다",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "선택",
+          "is_required": false,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[양념] 쇠고기다시다 선택\", \"집간장과 쇠고기 다시다 한숟가락 넣어줍니다.\", \"다시다는 안넣어도 육수가 맛나지만 넣으면 파는 오뎅국물맛이랑 같아요 ^^\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쇠고기다시다",
+          "name_normalized": "쇠고기다시다"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:011:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "집간장",
+          "name_normalized": "집간장"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_4323582",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_4323582:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_4323582:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:011",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_4323582:component:011:candidate:1",
+        "properties": {
+          "raw_name": "집간장",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"집간장과 쇠고기 다시다 한숟가락 넣어줍니다.\"]"
+        }
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_4323582",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_4323582",
+          "title": "시원한 오뎅탕 만드는 법",
+          "description": "국물이 깔끔하고 쉬원한 오뎅탕",
+          "servings": null,
+          "cooking_time": null,
+          "difficulty": "아무나",
+          "views": 255000,
+          "source_url": "https://www.10000recipe.com/recipe/4323582",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:9703839e0d7342c683b4369cc0b2daaec9cc2b12a1b4a206abbd8abc4ad856b2",
+        "label": "Dish",
+        "properties": {
+          "name": "오뎅탕"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "오뎅",
+          "role": "food",
+          "group": "재료",
+          "quantity": "20개",
+          "unit": null,
+          "preparation": "사각오뎅을 접어 앞, 뒤, 앞뒤 지그재그로 접어준 다음 오뎅꼬지에 넣어줌",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 오뎅 20개\", \"사각오뎅을 접어\", \"앞, 뒤, 앞뒤 지그재그로 접어준 다음 오뎅꼬지에 넣어줍니다\", \"오뎅을 넣고 한소끔 끓이다가 소금으로 간을 해줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:7aa3a326d9ebbfdfdc4a65b530af8291ba4ada7afbf078b2165ac567e00daadd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "오뎅",
+          "name_normalized": "오뎅"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치",
+          "role": "food",
+          "group": "재료",
+          "quantity": "12마리",
+          "unit": "마리",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 멸치 12마리\", \"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\", \"모든 재료를 다넣고 끓여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:1928aefe1f901503e52d14873cdf0239c5b4d86fd937730962baaf32be446e63",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치",
+          "name_normalized": "멸치"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "큰거 1뿌리",
+          "unit": "뿌리",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 큰거 1뿌리\", \"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\", \"모든 재료를 다넣고 끓여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무우",
+          "role": "food",
+          "group": "재료",
+          "quantity": "4토막",
+          "unit": "토막",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 무우 4토막\", \"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\", \"모든 재료를 다넣고 끓여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:19582d0fe33a10468be5ece6e30ad84b2a227b61299e2ae81494cf69f523fe5a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무우",
+          "name_normalized": "무우"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1개",
+          "unit": "개",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1개\", \"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\", \"모든 재료를 다넣고 끓여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "표고버섯",
+          "role": "food",
+          "group": "재료",
+          "quantity": "3개",
+          "unit": "개",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 표고버섯 3개\", \"멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.\", \"모든 재료를 다넣고 끓여줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "표고버섯",
+          "name_normalized": "표고버섯"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "새우",
+          "role": "food",
+          "group": "재료",
+          "quantity": "5마리",
+          "unit": "마리",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 새우 5마리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:8f90b3dfb056880b01b8858a7e1bf99b99dc74479398a87777bd83a373f3743f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "새우",
+          "name_normalized": "새우"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다시다",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1장",
+          "unit": "장",
+          "preparation": null,
+          "detail": "육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 다시다 1장\", \"끓기 시작하면 다시다만 건져줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:cc953776f48aad51d037a35e0c21ba593d053c403b5affe9caafb420efd1ffa0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "다시다",
+          "name_normalized": "다시다"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "굵은소금",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 굵은소금\", \"굵은 소금을 1숟가락 넣어주세요\", \"소금으로 간을 해줍니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "굵은소금",
+          "name_normalized": "굵은소금"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "집간장",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념] 집간장\", \"집간장과 쇠고기 다시다 한숟가락 넣어줍니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:14e39acfa20cbc67d29a02f8938da4895aff9b930bca3377a4eb02cf7bb0cd2c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "집간장",
+          "name_normalized": "집간장"
+        }
+      },
+      {
+        "id": "10000recipe_4323582:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쇠고기다시다",
+          "role": "seasoning",
+          "group": "양념",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "선택",
+          "is_required": false,
+          "alternative_mode": "either_or",
+          "evidence": "[\"[양념] 쇠고기다시다 선택\", \"집간장과 쇠고기 다시다 한숟가락 넣어줍니다.\", \"다시다는 안넣어도 육수가 맛나지만 넣으면 파는 오뎅국물맛이랑 같아요 ^^\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_4323582:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:3717cf2f61d0ec4b95d19f9cca5a5364b838d94bcfdbee4f05125480341dc8bf",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쇠고기다시다",
+          "name_normalized": "쇠고기다시다"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_4323582",
+        "type": "VARIANT_OF",
+        "target": "dish:9703839e0d7342c683b4369cc0b2daaec9cc2b12a1b4a206abbd8abc4ad856b2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:7aa3a326d9ebbfdfdc4a65b530af8291ba4ada7afbf078b2165ac567e00daadd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:1928aefe1f901503e52d14873cdf0239c5b4d86fd937730962baaf32be446e63",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:19582d0fe33a10468be5ece6e30ad84b2a227b61299e2ae81494cf69f523fe5a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:8f90b3dfb056880b01b8858a7e1bf99b99dc74479398a87777bd83a373f3743f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:cc953776f48aad51d037a35e0c21ba593d053c403b5affe9caafb420efd1ffa0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:14e39acfa20cbc67d29a02f8938da4895aff9b930bca3377a4eb02cf7bb0cd2c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_4323582:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:3717cf2f61d0ec4b95d19f9cca5a5364b838d94bcfdbee4f05125480341dc8bf",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_4323582:component:011",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:14e39acfa20cbc67d29a02f8938da4895aff9b930bca3377a4eb02cf7bb0cd2c",
+        "properties": {
+          "raw_name": "집간장",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"집간장과 쇠고기 다시다 한숟가락 넣어줍니다.\"]"
+        }
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "오뎅탕",
+    "components": [
+      {
+        "raw_name": "오뎅",
+        "role": "food",
+        "group": "재료",
+        "quantity": "20개",
+        "unit": null,
+        "preparation": "사각오뎅을 접어 앞, 뒤, 앞뒤 지그재그로 접어준 다음 오뎅꼬지에 넣어줌",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 오뎅 20개",
+          "사각오뎅을 접어",
+          "앞, 뒤, 앞뒤 지그재그로 접어준 다음 오뎅꼬지에 넣어줍니다",
+          "오뎅을 넣고 한소끔 끓이다가 소금으로 간을 해줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "오뎅",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치",
+        "role": "food",
+        "group": "재료",
+        "quantity": "12마리",
+        "unit": "마리",
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 멸치 12마리",
+          "멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.",
+          "모든 재료를 다넣고 끓여줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "큰거 1뿌리",
+        "unit": "뿌리",
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 큰거 1뿌리",
+          "멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.",
+          "모든 재료를 다넣고 끓여줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무우",
+        "role": "food",
+        "group": "재료",
+        "quantity": "4토막",
+        "unit": "토막",
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 무우 4토막",
+          "멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.",
+          "모든 재료를 다넣고 끓여줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무우",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": "개",
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1개",
+          "멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.",
+          "모든 재료를 다넣고 끓여줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "표고버섯",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3개",
+        "unit": "개",
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 표고버섯 3개",
+          "멸치 12마리 정도와 대파, 무우, 양파, 표고버섯, 다시마.",
+          "모든 재료를 다넣고 끓여줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "표고버섯",
+        "alternatives": []
+      },
+      {
+        "raw_name": "새우",
+        "role": "food",
+        "group": "재료",
+        "quantity": "5마리",
+        "unit": "마리",
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 새우 5마리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "새우",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다시다",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1장",
+        "unit": "장",
+        "preparation": null,
+        "detail": "육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 다시다 1장",
+          "끓기 시작하면 다시다만 건져줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다시다",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굵은소금",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 굵은소금",
+          "굵은 소금을 1숟가락 넣어주세요",
+          "소금으로 간을 해줍니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굵은소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "집간장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 집간장",
+          "집간장과 쇠고기 다시다 한숟가락 넣어줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "집간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쇠고기다시다",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "선택",
+        "is_required": false,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "[양념] 쇠고기다시다 선택",
+          "집간장과 쇠고기 다시다 한숟가락 넣어줍니다.",
+          "다시다는 안넣어도 육수가 맛나지만 넣으면 파는 오뎅국물맛이랑 같아요 ^^"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쇠고기다시다",
+        "alternatives": [
+          {
+            "raw_name": "집간장",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "집간장과 쇠고기 다시다 한숟가락 넣어줍니다."
+            ],
+            "ingredient_candidate": "집간장"
+          }
+        ]
+      }
+    ]
+  },
+  "original_record_hash": "18a79d543797876fbf780a7e73901ca682f07b62d00624d2a094a3871a19170a",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_4323582:dish",
+      "canonical_id": "dish:9703839e0d7342c683b4369cc0b2daaec9cc2b12a1b4a206abbd8abc4ad856b2",
+      "original_name": "오뎅탕",
+      "canonical_name": "오뎅탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:001:candidate:0",
+      "canonical_id": "ingredient:7aa3a326d9ebbfdfdc4a65b530af8291ba4ada7afbf078b2165ac567e00daadd",
+      "original_name": "오뎅",
+      "canonical_name": "오뎅",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:002:candidate:0",
+      "canonical_id": "ingredient:1928aefe1f901503e52d14873cdf0239c5b4d86fd937730962baaf32be446e63",
+      "original_name": "멸치",
+      "canonical_name": "멸치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:003:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:004:candidate:0",
+      "canonical_id": "ingredient:19582d0fe33a10468be5ece6e30ad84b2a227b61299e2ae81494cf69f523fe5a",
+      "original_name": "무우",
+      "canonical_name": "무우",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:005:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:006:candidate:0",
+      "canonical_id": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+      "original_name": "표고버섯",
+      "canonical_name": "표고버섯",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:007:candidate:0",
+      "canonical_id": "ingredient:8f90b3dfb056880b01b8858a7e1bf99b99dc74479398a87777bd83a373f3743f",
+      "original_name": "새우",
+      "canonical_name": "새우",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:008:candidate:0",
+      "canonical_id": "ingredient:cc953776f48aad51d037a35e0c21ba593d053c403b5affe9caafb420efd1ffa0",
+      "original_name": "다시다",
+      "canonical_name": "다시다",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:009:candidate:0",
+      "canonical_id": "ingredient:0aa9f8e9295a708fe633c37309b2afd829d5a4df75ca9bdb8ffc7eeca532716f",
+      "original_name": "굵은소금",
+      "canonical_name": "굵은소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:010:candidate:0",
+      "canonical_id": "ingredient:14e39acfa20cbc67d29a02f8938da4895aff9b930bca3377a4eb02cf7bb0cd2c",
+      "original_name": "집간장",
+      "canonical_name": "집간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:011:candidate:0",
+      "canonical_id": "ingredient:3717cf2f61d0ec4b95d19f9cca5a5364b838d94bcfdbee4f05125480341dc8bf",
+      "original_name": "쇠고기다시다",
+      "canonical_name": "쇠고기다시다",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_4323582:component:011:candidate:1",
+      "canonical_id": "ingredient:14e39acfa20cbc67d29a02f8938da4895aff9b930bca3377a4eb02cf7bb0cd2c",
+      "original_name": "집간장",
+      "canonical_name": "집간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_4323582",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "9cd0747fe8cbf32dbfd7fcdd582d487ac7e20fb1df6325f1618f95ea8f43807c"
+}

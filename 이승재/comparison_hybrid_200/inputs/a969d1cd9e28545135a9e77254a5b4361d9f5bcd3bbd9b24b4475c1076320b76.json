@@ -1,0 +1,179 @@
+{
+  "recipe_uid": "10000recipe_6839434",
+  "payload": {
+    "title": "백종원 소고기 미역국 최고야!",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "마른미역 종이컵 1컵 12g",
+        "마른미역 종이컵",
+        "마른미역 종이컵",
+        "food",
+        "[재료]",
+        "12",
+        "g",
+        null,
+        null
+      ],
+      [
+        "국거리 종이컵 1컵 100g",
+        "국거리 종이컵",
+        "국거리 종이컵",
+        "food",
+        "[재료]",
+        "100",
+        "g",
+        null,
+        null
+      ],
+      [
+        "물 8컵",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "8",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "참기름 2큰술",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념]",
+        "2",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "다진 마늘 1작은술",
+        "다진 마늘",
+        "마늘",
+        "seasoning",
+        "[양념]",
+        "1",
+        "작은술",
+        "다진",
+        null
+      ],
+      [
+        "국간장 2큰술",
+        "국간장",
+        "국간장",
+        "seasoning",
+        "[양념]",
+        "2",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "꽃소금 약간",
+        "꽃소금",
+        "꽃소금",
+        "seasoning",
+        "[양념]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "마른미역 종이컵 1컵 12g",
+      "raw_name": "마른미역 종이컵",
+      "ingredient_candidate": "마른미역 종이컵",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "12",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "국거리 종이컵 1컵 100g",
+      "raw_name": "국거리 종이컵",
+      "ingredient_candidate": "국거리 종이컵",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "100",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 8컵",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "8",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 2큰술",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진 마늘 1작은술",
+      "raw_name": "다진 마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "작은술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "국간장 2큰술",
+      "raw_name": "국간장",
+      "ingredient_candidate": "국간장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "꽃소금 약간",
+      "raw_name": "꽃소금",
+      "ingredient_candidate": "꽃소금",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 12,
+  "sent_steps": 0,
+  "evidence_text": "백종원 소고기 미역국 최고야!\n마른미역 종이컵 1컵 12g\n국거리 종이컵 1컵 100g\n물 8컵\n참기름 2큰술\n다진 마늘 1작은술\n국간장 2큰술\n꽃소금 약간"
+}

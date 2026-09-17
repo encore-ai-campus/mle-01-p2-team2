@@ -1,0 +1,473 @@
+{
+  "recipe_uid": "10000recipe_7081283",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081283",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081283",
+          "title": "밤삶기 잘까지는 찐밤 만들기 밤찌기 밤효능 밤 칼집내기",
+          "description": "밤의 효능 밤은 불포화지방산이 많이 들어 있어 LDL(나쁜콜레스테롤) 수치를 낮추고 HDL(좋은콜레스테롤) 수치를 높여 심장 질환 위험을 줄여줍니다. 섬유질이 풍부한 밤은 소화계를 정돈하며 변비 예방에도 도움을 줍니다. 또한 복합 탄수화물이 풍부하여 장기적인 에너지 공급원으로 작용한다고 합니다. ​ 이 밖에도 혈당관리, 노화 방지에도 도움을 준다고 알려져 있어요. ​ 영양만점 밤은 8월 하순 ~ 10월 중순에 수확을 한다고 하니 지금 딱! 제철이니 몸에 좋고 맛있는 밤이 보인다면 꼭 한번 드셔보세요~ ​",
+          "servings": "4인분",
+          "cooking_time": "60분 이내",
+          "difficulty": "초급",
+          "views": 161,
+          "source_url": "https://www.10000recipe.com/recipe/7081283",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7081283:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "찐밤"
+        }
+      },
+      {
+        "id": "10000recipe_7081283:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밤",
+          "role": "food",
+          "group": "재료",
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 밤 적당량\", \"밤은 깨끗한 물에 씻어 주시고\", \"한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요.\", \"칼집을 낸 밤은 찜기에 넣고 쪄줄 건데요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081283:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7081283:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밤",
+          "name_normalized": "밤"
+        }
+      },
+      {
+        "id": "10000recipe_7081283:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "재료",
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": "씻는 물, 불리는 물, 찜기용 물, 식히는 찬물/얼음 물로 사용됨",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 물 적당량\", \"밤은 깨끗한 물에 씻어 주시고\", \"물이 잠길 만큼 받아서 1시간 정도 불려주세요.\", \"찜기에 물을 적당히 받아 준 뒤\", \"차가운 얼음 물에 바로 담가 식혀 주세요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081283:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7081283:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7081283:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "빵 칼",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "톱니가 달린",
+          "detail": "밤에 칼집을 내는 도구로 사용됨",
+          "is_required": true,
+          "alternative_mode": "either_or",
+          "evidence": "[\"한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081283:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7081283:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "빵 칼",
+          "name_normalized": "빵 칼"
+        }
+      },
+      {
+        "id": "10000recipe_7081283:component:003:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "과도",
+          "name_normalized": "과도"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081283",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7081283:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081283:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081283:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081283:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081283:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081283:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081283:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283:component:003",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_7081283:component:003:candidate:1",
+        "properties": {
+          "raw_name": "과도",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요.\"]"
+        }
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081283",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081283",
+          "title": "밤삶기 잘까지는 찐밤 만들기 밤찌기 밤효능 밤 칼집내기",
+          "description": "밤의 효능 밤은 불포화지방산이 많이 들어 있어 LDL(나쁜콜레스테롤) 수치를 낮추고 HDL(좋은콜레스테롤) 수치를 높여 심장 질환 위험을 줄여줍니다. 섬유질이 풍부한 밤은 소화계를 정돈하며 변비 예방에도 도움을 줍니다. 또한 복합 탄수화물이 풍부하여 장기적인 에너지 공급원으로 작용한다고 합니다. ​ 이 밖에도 혈당관리, 노화 방지에도 도움을 준다고 알려져 있어요. ​ 영양만점 밤은 8월 하순 ~ 10월 중순에 수확을 한다고 하니 지금 딱! 제철이니 몸에 좋고 맛있는 밤이 보인다면 꼭 한번 드셔보세요~ ​",
+          "servings": "4인분",
+          "cooking_time": "60분 이내",
+          "difficulty": "초급",
+          "views": 161,
+          "source_url": "https://www.10000recipe.com/recipe/7081283",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:677e7fafbc623b70910ebdd451d593a754b51c9c096704d9fedede67446ec739",
+        "label": "Dish",
+        "properties": {
+          "name": "찐밤"
+        }
+      },
+      {
+        "id": "10000recipe_7081283:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밤",
+          "role": "food",
+          "group": "재료",
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 밤 적당량\", \"밤은 깨끗한 물에 씻어 주시고\", \"한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요.\", \"칼집을 낸 밤은 찜기에 넣고 쪄줄 건데요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081283:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:b95e3de18f3eee3adb0f2134606e25afd8e11274c8bf8174883d30d9145919c2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밤",
+          "name_normalized": "밤"
+        }
+      },
+      {
+        "id": "10000recipe_7081283:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "재료",
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": "씻는 물, 불리는 물, 찜기용 물, 식히는 찬물/얼음 물로 사용됨",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 물 적당량\", \"밤은 깨끗한 물에 씻어 주시고\", \"물이 잠길 만큼 받아서 1시간 정도 불려주세요.\", \"찜기에 물을 적당히 받아 준 뒤\", \"차가운 얼음 물에 바로 담가 식혀 주세요~\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081283:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_7081283:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "빵 칼",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": "톱니가 달린",
+          "detail": "밤에 칼집을 내는 도구로 사용됨",
+          "is_required": true,
+          "alternative_mode": "either_or",
+          "evidence": "[\"한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081283:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:96a9426887e213c8ad2fc188128d48630947de892a684ceb561650111a9dd47a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "빵 칼",
+          "name_normalized": "빵 칼"
+        }
+      },
+      {
+        "id": "ingredient:a1a34b50ae1e3328feaa455603057c09384c61cfecf3bbe820603c9a79ec1f3c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "과도",
+          "name_normalized": "과도"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081283",
+        "type": "VARIANT_OF",
+        "target": "dish:677e7fafbc623b70910ebdd451d593a754b51c9c096704d9fedede67446ec739",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081283:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:b95e3de18f3eee3adb0f2134606e25afd8e11274c8bf8174883d30d9145919c2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081283:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081283:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:96a9426887e213c8ad2fc188128d48630947de892a684ceb561650111a9dd47a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081283:component:003",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:a1a34b50ae1e3328feaa455603057c09384c61cfecf3bbe820603c9a79ec1f3c",
+        "properties": {
+          "raw_name": "과도",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요.\"]"
+        }
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "찐밤",
+    "components": [
+      {
+        "raw_name": "밤",
+        "role": "food",
+        "group": "재료",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 밤 적당량",
+          "밤은 깨끗한 물에 씻어 주시고",
+          "한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요.",
+          "칼집을 낸 밤은 찜기에 넣고 쪄줄 건데요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밤",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "재료",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": "씻는 물, 불리는 물, 찜기용 물, 식히는 찬물/얼음 물로 사용됨",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 물 적당량",
+          "밤은 깨끗한 물에 씻어 주시고",
+          "물이 잠길 만큼 받아서 1시간 정도 불려주세요.",
+          "찜기에 물을 적당히 받아 준 뒤",
+          "차가운 얼음 물에 바로 담가 식혀 주세요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "빵 칼",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "톱니가 달린",
+        "detail": "밤에 칼집을 내는 도구로 사용됨",
+        "is_required": true,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "빵 칼",
+        "alternatives": [
+          {
+            "raw_name": "과도",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "한 시간 정도 불린 밤은 톱니가 달린 빵 칼이나 과도로 십자로 칼집을 내주세요."
+            ],
+            "ingredient_candidate": "과도"
+          }
+        ]
+      }
+    ]
+  },
+  "original_record_hash": "57c3b2d13009b3d8e2cbba0b4676e09e42b52cba3469e35525e94a6a24e58cb4",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081283:dish",
+      "canonical_id": "dish:677e7fafbc623b70910ebdd451d593a754b51c9c096704d9fedede67446ec739",
+      "original_name": "찐밤",
+      "canonical_name": "찐밤",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081283:component:001:candidate:0",
+      "canonical_id": "ingredient:b95e3de18f3eee3adb0f2134606e25afd8e11274c8bf8174883d30d9145919c2",
+      "original_name": "밤",
+      "canonical_name": "밤",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081283:component:002:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081283:component:003:candidate:0",
+      "canonical_id": "ingredient:96a9426887e213c8ad2fc188128d48630947de892a684ceb561650111a9dd47a",
+      "original_name": "빵 칼",
+      "canonical_name": "빵 칼",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081283:component:003:candidate:1",
+      "canonical_id": "ingredient:a1a34b50ae1e3328feaa455603057c09384c61cfecf3bbe820603c9a79ec1f3c",
+      "original_name": "과도",
+      "canonical_name": "과도",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7081283",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "cf58b20b1361950e1f9e89c55506ea1df0cbf27555c520ad33c4db71503acd76"
+}

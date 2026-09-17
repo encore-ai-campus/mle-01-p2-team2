@@ -1,0 +1,180 @@
+{
+  "recipe_uid": "10000recipe_7080260",
+  "cache_key": "5f96e78a9f83313e2b863edbb310538dc3292774447c2ff3201fff62e9fabb6d",
+  "model": "gpt-5.4-mini",
+  "input_hash": "bf9640e47f2f7b901247df5f0ca7f6a24dcb2d0e1c854d957fa6f6706c893b07",
+  "source_record_hash": "49452c55c9e50e531107461cc121fd178cb9a6a61dcbfc2d73a93770a0030ef4",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "바나나 샐러드",
+    "components": [
+      {
+        "raw_name": "바나나",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "길게 반으로 잘라",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "바나나 1개",
+          "바나나 1개는 길게 반으로 잘라 준비합니다.",
+          "바나나를 올려",
+          "앞뒤 노릇하게 구워줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "바나나",
+        "alternatives": []
+      },
+      {
+        "raw_name": "샐러드",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2줌",
+        "unit": null,
+        "preparation": "흐르는 물에 깨끗하게 씻은 뒤 물기를 충분히 제거",
+        "detail": "샐러드 채소",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "샐러드 2줌",
+          "샐러드 두 줌은 흐르는 물에 깨끗하게 씻은 뒤 물기를 충분히 제거해 주세요.",
+          "접시에 준비한 샐러드 채소를 담고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "샐러드",
+        "alternatives": []
+      },
+      {
+        "raw_name": "라꽁버터",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "라꽁버터 1/2개",
+          "라꽁버터 1/2개를 넣어 녹여주세요.",
+          "버터가 절반 정도 녹기 시작하면"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "라꽁버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "건크린베리",
+        "role": "food",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": "건 크린베리",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "건크린베리 약간",
+          "건 크린베리를 골고루 뿌려줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "건크린베리",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브오일",
+        "role": "seasoning",
+        "group": "드레싱",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[드레싱] 올리브오일 약간",
+          "그 위에 올리브오일 휘 -"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브오일",
+        "alternatives": []
+      },
+      {
+        "raw_name": "발사믹식초",
+        "role": "seasoning",
+        "group": "드레싱",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[드레싱] 발사믹식초 약간",
+          "발사믹 식초를 취향에 맞게 둘러준 뒤,"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "발사믹식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "드레싱",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[드레싱] 후추 약간",
+          "후추와 치즈가루를 살짝 뿌려 마무리하면 완성입니다:)"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "치즈가루",
+        "role": "seasoning",
+        "group": "드레싱",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[드레싱] 치즈가루 약간",
+          "후추와 치즈가루를 살짝 뿌려 마무리하면 완성입니다:)"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "치즈가루",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 876,
+    "prompt_tokens": 3118,
+    "total_tokens": 3994,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

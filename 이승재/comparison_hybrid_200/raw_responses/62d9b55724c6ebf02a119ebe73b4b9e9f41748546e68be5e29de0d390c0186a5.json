@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZelMkhOyS8ik1PhzXxkCUxcr8V",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"오무라이스\",\"components\":[{\"raw_name\":\"계란\",\"role\":\"food\",\"group\":\"[밥2공기]\",\"quantity\":\"4\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"계란 4개\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란\",\"alternatives\":[]},{\"raw_name\":\"소고기\",\"role\":\"food\",\"group\":\"[밥2공기]\",\"quantity\":\"100\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"소고기 100g\"],\"quality_flags\":[],\"ingredient_candidate\":\"소고기\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"[밥2공기]\",\"quantity\":\"1/2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"양파 1/2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"케찹\",\"role\":\"food\",\"group\":\"[밥2공기]\",\"quantity\":\"1\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"케찹 1T\"],\"quality_flags\":[],\"ingredient_candidate\":\"케찹\",\"alternatives\":[]},{\"raw_name\":\"버터\",\"role\":\"food\",\"group\":\"[밥2공기]\",\"quantity\":\"10\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"버터 10g\"],\"quality_flags\":[],\"ingredient_candidate\":\"버터\",\"alternatives\":[]},{\"raw_name\":\"케찹\",\"role\":\"food\",\"group\":\"[밥2공기]\",\"quantity\":\"4\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"케찹 4T\"],\"quality_flags\":[],\"ingredient_candidate\":\"케찹\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"[밥2공기]\",\"quantity\":\"6\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"물 6T\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"굴소스\",\"role\":\"seasoning\",\"group\":\"[밥2공기]\",\"quantity\":\"2\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"굴소스 2T\"],\"quality_flags\":[],\"ingredient_candidate\":\"굴소스\",\"alternatives\":[]},{\"raw_name\":\"돈까스소스\",\"role\":\"seasoning\",\"group\":\"[밥2공기]\",\"quantity\":\"6\",\"unit\":\"T\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"돈까스소스 6T\"],\"quality_flags\":[],\"ingredient_candidate\":\"돈까스소스\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544546,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 684,
+    "prompt_tokens": 2915,
+    "total_tokens": 3599,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

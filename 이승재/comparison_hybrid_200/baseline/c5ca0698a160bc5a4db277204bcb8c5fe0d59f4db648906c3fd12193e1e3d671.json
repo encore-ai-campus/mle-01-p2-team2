@@ -1,0 +1,161 @@
+{
+  "recipe_uid": "10000recipe_6876209",
+  "cache_key": "093d0cacab3f8ec56c9d2a201505ffafb5bfc55a0fccbbb0f0289ef9ea41cd96",
+  "model": "gpt-5.4-mini",
+  "input_hash": "befe5dae7d056731e29bd532a8aaf7e7475564baefcc96f6385dc47ae14cdaed",
+  "source_record_hash": "fdd795307b37452a8fedf2c3ed43a29403b059da3be27cbd24aff16d47104edd",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "몬테크리스토 샌드위치",
+    "components": [
+      {
+        "raw_name": "식빵",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3장",
+        "unit": null,
+        "preparation": "테두리를 자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 식빵 3장",
+          "식빵은 테두리를 자른다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식빵",
+        "alternatives": []
+      },
+      {
+        "raw_name": "딸기잼",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 딸기잼 2T",
+          "다른 식빵에 딸기잼을 바른 후 잼이 발라진 면을 치즈와 맞닿게 덮는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "딸기잼",
+        "alternatives": []
+      },
+      {
+        "raw_name": "머스터드",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 머스터드 2T",
+          "식빵에 머스터드를 바른 후 햄, 치즈를 올린다.",
+          "그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "머스터드",
+        "alternatives": []
+      },
+      {
+        "raw_name": "슬라이스 햄",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": "슬라이스",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 슬라이스 햄 2장",
+          "식빵에 머스터드를 바른 후 햄, 치즈를 올린다.",
+          "그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "햄",
+        "alternatives": []
+      },
+      {
+        "raw_name": "체다 치즈",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 체다 치즈 2장",
+          "식빵에 머스터드를 바른 후 햄, 치즈를 올린다.",
+          "그 위에 머스터드를 바른 후 햄, 치즈를 한번 더 올린다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "체다 치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 버터 1T",
+          "팬에 버터를 넣고 식빵을 구워 완성한다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "달걀",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": "잘 풀어준 후",
+        "detail": "식빵에 골고루 묻힌다",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 달걀 1개",
+          "달걀을 잘 풀어준 후 식빵에 골고루 묻힌다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "달걀",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 782,
+    "prompt_tokens": 2947,
+    "total_tokens": 3729,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

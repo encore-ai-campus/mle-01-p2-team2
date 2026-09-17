@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOea39YuQlf14ZDrefPCBEC8LzVhp",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"베이컨떡꼬치\",\"components\":[{\"raw_name\":\"떡볶이떡\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"떡볶이떡\"],\"quality_flags\":[],\"ingredient_candidate\":\"떡볶이떡\",\"alternatives\":[]},{\"raw_name\":\"베이컨\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"베이컨\"],\"quality_flags\":[],\"ingredient_candidate\":\"베이컨\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"소금\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"블랙페이퍼(흑후추)\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"블랙페이퍼(흑후추)\"],\"quality_flags\":[],\"ingredient_candidate\":\"블랙페이퍼(흑후추)\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544571,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 332,
+    "prompt_tokens": 2751,
+    "total_tokens": 3083,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

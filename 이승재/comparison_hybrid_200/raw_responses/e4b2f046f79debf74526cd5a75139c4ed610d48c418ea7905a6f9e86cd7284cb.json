@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZSaWX3yztEzBiqX839FQDQCINy",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"체크쿠키\",\"components\":[{\"raw_name\":\"무염버터\",\"role\":\"food\",\"group\":\"[기본반죽]\",\"quantity\":\"65\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"무염버터 65g\"],\"quality_flags\":[],\"ingredient_candidate\":\"무염버터\",\"alternatives\":[]},{\"raw_name\":\"박력분\",\"role\":\"food\",\"group\":\"[기본반죽]\",\"quantity\":\"135\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"박력분 135g\"],\"quality_flags\":[],\"ingredient_candidate\":\"박력분\",\"alternatives\":[]},{\"raw_name\":\"슈가파우더\",\"role\":\"food\",\"group\":\"[기본반죽]\",\"quantity\":\"60\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"슈가파우더 60g\"],\"quality_flags\":[],\"ingredient_candidate\":\"슈가파우더\",\"alternatives\":[]},{\"raw_name\":\"계란노른자\",\"role\":\"food\",\"group\":\"[기본반죽]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"계란노른자 1개\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란노른자\",\"alternatives\":[]},{\"raw_name\":\"바닐라익스트랙 2~3방울\",\"role\":\"food\",\"group\":\"[기본반죽]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"바닐라익스트랙 2~3방울\"],\"quality_flags\":[],\"ingredient_candidate\":\"바닐라익스트랙 2~3방울\",\"alternatives\":[]},{\"raw_name\":\"무염버터\",\"role\":\"food\",\"group\":\"[초코반죽]\",\"quantity\":\"65\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"무염버터 65g\"],\"quality_flags\":[],\"ingredient_candidate\":\"무염버터\",\"alternatives\":[]},{\"raw_name\":\"박력분\",\"role\":\"food\",\"group\":\"[초코반죽]\",\"quantity\":\"125\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"박력분 125g\"],\"quality_flags\":[],\"ingredient_candidate\":\"박력분\",\"alternatives\":[]},{\"raw_name\":\"코코아파우더\",\"role\":\"food\",\"group\":\"[초코반죽]\",\"quantity\":\"10\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"코코아파우더 10g\"],\"quality_flags\":[],\"ingredient_candidate\":\"코코아파우더\",\"alternatives\":[]},{\"raw_name\":\"슈가파우더\",\"role\":\"food\",\"group\":\"[초코반죽]\",\"quantity\":\"60\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"슈가파우더 60g\"],\"quality_flags\":[],\"ingredient_candidate\":\"슈가파우더\",\"alternatives\":[]},{\"raw_name\":\"계란노른자\",\"role\":\"food\",\"group\":\"[초코반죽]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"계란노른자 1개\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란노른자\",\"alternatives\":[]},{\"raw_name\":\"바닐라익스트랙 2~3방울\",\"role\":\"food\",\"group\":\"[초코반죽]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"바닐라익스트랙 2~3방울\"],\"quality_flags\":[],\"ingredient_candidate\":\"바닐라익스트랙 2~3방울\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"[기본반죽]\",\"quantity\":\"1\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"소금 1g\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"[초코반죽]\",\"quantity\":\"1\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"소금 1g\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544534,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1059,
+    "prompt_tokens": 3131,
+    "total_tokens": 4190,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

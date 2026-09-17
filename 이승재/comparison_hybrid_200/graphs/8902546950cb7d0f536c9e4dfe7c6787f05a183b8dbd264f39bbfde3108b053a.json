@@ -1,0 +1,432 @@
+{
+  "recipe_uid": "10000recipe_6864716",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6864716",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6864716",
+          "title": "전자렌지 계란빵 만들기",
+          "description": "쌀쌀한 날씨에 더욱 생각나는 간식 계란빵! 집에서 전자렌지로 쉽게 만들어 보세요♥",
+          "servings": "3인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "초급",
+          "views": 202000,
+          "source_url": "https://www.10000recipe.com/recipe/6864716",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:f5a3786b97c730c0f4726ea7fb2aa97910d13264f401093964536def719ecdc7",
+        "label": "Dish",
+        "properties": {
+          "name": "계란빵"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "핫케이크가루",
+          "role": "food",
+          "group": "[재료(컵=종이컵)]",
+          "quantity": "2",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"핫케이크가루 2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:9ef7e7fb04035997571353a90bc0a2724e77f9456c6d612140a59f6add0d66e0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "핫케이크가루",
+          "name_normalized": "핫케이크가루"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "우유",
+          "role": "food",
+          "group": "[재료(컵=종이컵)]",
+          "quantity": "1",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"우유 1컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "label": "Ingredient",
+        "properties": {
+          "name": "우유",
+          "name_normalized": "우유"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "달걀",
+          "role": "food",
+          "group": "[재료(컵=종이컵)]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"달걀 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "허브솔트 2~3회",
+          "role": "food",
+          "group": "[재료(컵=종이컵)]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"허브솔트 2~3회\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:11421af839ed682313c4601f0e7738315341bc82ea0fb77381ce8cd1553e91c5",
+        "label": "Ingredient",
+        "properties": {
+          "name": "허브솔트 2~3회",
+          "name_normalized": "허브솔트 2~3회"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "슬라이스 치즈",
+          "role": "food",
+          "group": "[토핑]",
+          "quantity": "3",
+          "unit": "장",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"슬라이스 치즈 3장\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:ea772fce201ff52210f545398a8d8502fbf87bd4d9b7c3c226c68a91f79f50c9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "슬라이스 치즈",
+          "name_normalized": "슬라이스 치즈"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "옥수수콘",
+          "role": "food",
+          "group": "[토핑]",
+          "quantity": "6",
+          "unit": "스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"옥수수콘 6스푼\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:677d254023f6e25500c2d819b0c583457cd53c49ac01c7301e19c2325560fe10",
+        "label": "Ingredient",
+        "properties": {
+          "name": "옥수수콘",
+          "name_normalized": "옥수수콘"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "베이컨",
+          "role": "food",
+          "group": "[토핑]",
+          "quantity": "조금",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"베이컨 조금\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+        "label": "Ingredient",
+        "properties": {
+          "name": "베이컨",
+          "name_normalized": "베이컨"
+        }
+      },
+      {
+        "id": "10000recipe_6864716:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "파슬리",
+          "role": "food",
+          "group": "[토핑]",
+          "quantity": "1",
+          "unit": "꼬집",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"파슬리 1꼬집\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6864716:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:60dcf82073e99673c739ad44bce0dce81a9e099bd3a39264a49762a08b28a0fc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "파슬리",
+          "name_normalized": "파슬리"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6864716",
+        "type": "VARIANT_OF",
+        "target": "dish:f5a3786b97c730c0f4726ea7fb2aa97910d13264f401093964536def719ecdc7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:9ef7e7fb04035997571353a90bc0a2724e77f9456c6d612140a59f6add0d66e0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:11421af839ed682313c4601f0e7738315341bc82ea0fb77381ce8cd1553e91c5",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:ea772fce201ff52210f545398a8d8502fbf87bd4d9b7c3c226c68a91f79f50c9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:677d254023f6e25500c2d819b0c583457cd53c49ac01c7301e19c2325560fe10",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6864716:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6864716:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:60dcf82073e99673c739ad44bce0dce81a9e099bd3a39264a49762a08b28a0fc",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6864716:dish",
+      "canonical_id": "dish:f5a3786b97c730c0f4726ea7fb2aa97910d13264f401093964536def719ecdc7",
+      "original_name": "계란빵",
+      "canonical_name": "계란빵",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:001:candidate:0",
+      "canonical_id": "ingredient:9ef7e7fb04035997571353a90bc0a2724e77f9456c6d612140a59f6add0d66e0",
+      "original_name": "핫케이크가루",
+      "canonical_name": "핫케이크가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:002:candidate:0",
+      "canonical_id": "ingredient:b27280581b0cde54ba199f8636c1a652fe37aeb72517287a60b00c1a87cdec09",
+      "original_name": "우유",
+      "canonical_name": "우유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:003:candidate:0",
+      "canonical_id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+      "original_name": "계란",
+      "canonical_name": "계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:004:candidate:0",
+      "canonical_id": "ingredient:11421af839ed682313c4601f0e7738315341bc82ea0fb77381ce8cd1553e91c5",
+      "original_name": "허브솔트 2~3회",
+      "canonical_name": "허브솔트 2~3회",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:005:candidate:0",
+      "canonical_id": "ingredient:ea772fce201ff52210f545398a8d8502fbf87bd4d9b7c3c226c68a91f79f50c9",
+      "original_name": "슬라이스 치즈",
+      "canonical_name": "슬라이스 치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:006:candidate:0",
+      "canonical_id": "ingredient:677d254023f6e25500c2d819b0c583457cd53c49ac01c7301e19c2325560fe10",
+      "original_name": "옥수수콘",
+      "canonical_name": "옥수수콘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:007:candidate:0",
+      "canonical_id": "ingredient:b4e2ca8378b9e7dbb2176d5933ca7a0c792a75824de7939a8c1980f13598f4c2",
+      "original_name": "베이컨",
+      "canonical_name": "베이컨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6864716:component:008:candidate:0",
+      "canonical_id": "ingredient:60dcf82073e99673c739ad44bce0dce81a9e099bd3a39264a49762a08b28a0fc",
+      "original_name": "파슬리",
+      "canonical_name": "파슬리",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 8,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 17,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "recipe_uid": "10000recipe_6912348",
+  "payload": {
+    "title": "잡내없이 부드럽고 쫄깃한 돼지고기 장조림 맛있게 만들기 만드는 법 / 황금 레시피 / 백종원 돼지 장조림",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "돼지고기 안심또는 사태 1kg",
+        "돼지고기 안심또는 사태",
+        "돼지고기",
+        "food",
+        "[재료]",
+        "1",
+        "kg",
+        null,
+        "안심또는 사태"
+      ],
+      [
+        "꽈리고추 20~30개",
+        "꽈리고추",
+        "꽈리고추",
+        "food",
+        "[재료]",
+        "20~30",
+        "개",
+        null,
+        null
+      ],
+      [
+        "메추리알 20~30개",
+        "메추리알",
+        "메추리알",
+        "food",
+        "[재료]",
+        "20~30",
+        "개",
+        null,
+        null
+      ],
+      [
+        "양파 1/2개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "마늘 15개",
+        "마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "15",
+        "개",
+        null,
+        null
+      ],
+      [
+        "대파 1/2대",
+        "대파",
+        "대파",
+        "food",
+        "[재료]",
+        "1/2",
+        "대",
+        null,
+        null
+      ],
+      [
+        "생강 10g",
+        "생강",
+        "생강",
+        "food",
+        "[재료]",
+        "10",
+        "g",
+        null,
+        null
+      ],
+      [
+        "통후추 15알",
+        "통후추",
+        "통후추",
+        "food",
+        "[재료]",
+        "15",
+        "알",
+        null,
+        null
+      ],
+      [
+        "건고추 1개",
+        "건고추",
+        "건고추",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "청양 고추 1개",
+        "청양 고추",
+        "청양 고추",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "물 1.5L",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "1.5",
+        "L",
+        null,
+        null
+      ],
+      [
+        "올리고당 또는 물엿 1.5큰술",
+        "올리고당 또는 물엿",
+        "올리고당 또는 물엿",
+        "food",
+        "[재료]",
+        "1.5",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "간장 1.5컵",
+        "간장",
+        "간장",
+        "seasoning",
+        "[재료]",
+        "1.5",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "설탕 2큰술",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[재료]",
+        "2",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "맛술 1/2컵",
+        "맛술",
+        "맛술",
+        "seasoning",
+        "[재료]",
+        "1/2",
+        "컵",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 8,
+        "text": "냄비에 육수만 남긴체 찢은 고기와 간장 1컵 반, 맛술 반컵을 부어주세요."
+      },
+      {
+        "step": 9,
+        "text": "마늘 15개와 건고추, 청양고추도 하나씩 넣어주세요~ 칼칼한 맛이 살죠. 만약 없으면 안넣어도 됩니다. 마늘은 꼭 넣으셔야 되요!!"
+      },
+      {
+        "step": 10,
+        "text": "그리고 준비한 꽈리고추와 메추리알도 넣어주세요. 꽈리고추의 아삭한 식감을 좋아하시는 분은 마무리 2~3분 전에 넣으세요. 전 식감보다는 국물이 깊게 베이도록 일찍 넣었습니다."
+      },
+      {
+        "step": 11,
+        "text": "설탕2큰술과 올리고당 또는 물엿 1큰술 반을 넣어줍니다. 만약 물엿이 없으면 설탕으로 대체하세요~"
+      },
+      {
+        "step": 12,
+        "text": "그리고 마무리 끓이기 10분~15분 정도 팔팔 졸이듯이 끓여냅니다."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "돼지고기 안심또는 사태 1kg",
+      "raw_name": "돼지고기 안심또는 사태",
+      "ingredient_candidate": "돼지고기",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "kg",
+      "preparation": null,
+      "detail": "안심또는 사태"
+    },
+    {
+      "raw": "꽈리고추 20~30개",
+      "raw_name": "꽈리고추",
+      "ingredient_candidate": "꽈리고추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "20~30",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "메추리알 20~30개",
+      "raw_name": "메추리알",
+      "ingredient_candidate": "메추리알",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "20~30",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1/2개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마늘 15개",
+      "raw_name": "마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "15",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 1/2대",
+      "raw_name": "대파",
+      "ingredient_candidate": "대파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "대",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "생강 10g",
+      "raw_name": "생강",
+      "ingredient_candidate": "생강",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "10",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "통후추 15알",
+      "raw_name": "통후추",
+      "ingredient_candidate": "통후추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "15",
+      "unit": "알",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "건고추 1개",
+      "raw_name": "건고추",
+      "ingredient_candidate": "건고추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "청양 고추 1개",
+      "raw_name": "청양 고추",
+      "ingredient_candidate": "청양 고추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 1.5L",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1.5",
+      "unit": "L",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리고당 또는 물엿 1.5큰술",
+      "raw_name": "올리고당 또는 물엿",
+      "ingredient_candidate": "올리고당 또는 물엿",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1.5",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 1.5컵",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1.5",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 2큰술",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "맛술 1/2컵",
+      "raw_name": "맛술",
+      "ingredient_candidate": "맛술",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 13,
+  "sent_steps": 5,
+  "evidence_text": "잡내없이 부드럽고 쫄깃한 돼지고기 장조림 맛있게 만들기 만드는 법 / 황금 레시피 / 백종원 돼지 장조림\n돼지고기 안심또는 사태 1kg\n꽈리고추 20~30개\n메추리알 20~30개\n양파 1/2개\n마늘 15개\n대파 1/2대\n생강 10g\n통후추 15알\n건고추 1개\n청양 고추 1개\n물 1.5L\n올리고당 또는 물엿 1.5큰술\n간장 1.5컵\n설탕 2큰술\n맛술 1/2컵\n냄비에 육수만 남긴체 찢은 고기와 간장 1컵 반, 맛술 반컵을 부어주세요.\n마늘 15개와 건고추, 청양고추도 하나씩 넣어주세요~ 칼칼한 맛이 살죠. 만약 없으면 안넣어도 됩니다. 마늘은 꼭 넣으셔야 되요!!\n그리고 준비한 꽈리고추와 메추리알도 넣어주세요. 꽈리고추의 아삭한 식감을 좋아하시는 분은 마무리 2~3분 전에 넣으세요. 전 식감보다는 국물이 깊게 베이도록 일찍 넣었습니다.\n설탕2큰술과 올리고당 또는 물엿 1큰술 반을 넣어줍니다. 만약 물엿이 없으면 설탕으로 대체하세요~\n그리고 마무리 끓이기 10분~15분 정도 팔팔 졸이듯이 끓여냅니다."
+}

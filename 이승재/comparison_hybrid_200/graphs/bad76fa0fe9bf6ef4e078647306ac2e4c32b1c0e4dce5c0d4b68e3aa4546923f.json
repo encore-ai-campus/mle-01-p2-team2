@@ -1,0 +1,708 @@
+{
+  "recipe_uid": "10000recipe_7081002",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081002",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081002",
+          "title": "폭신한 계란의 맛 계란왕김밥 만들기",
+          "description": "김밥의 매력은 뭐니뭐니해도 들어가는 재료에 따라 메뉴 달라지고 맛도 달라 김밥의 종류도 천차만별이라 냉장고 털 때 만들면 딱 좋은 계란김밥 소개할께요~",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "아무나",
+          "views": 35,
+          "source_url": "https://www.10000recipe.com/recipe/7081002",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:8807478ba29027373fea9af3ac434f06f6cf86282995bca659f9d7f3b63835a0",
+        "label": "Dish",
+        "properties": {
+          "name": "김밥"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "김밥김",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "3",
+          "unit": "장",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"김밥김 3장\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:7a8ddac93ab5329e010f0225996dded9655813cec31d2ae3149985b5528e06eb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "김밥김",
+          "name_normalized": "김밥김"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "단무지 2줄",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"단무지 2줄\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:cc30fe63ff6d5b27c7779ee618ac348d96011dc0c9281b61856a52ebb92d4bed",
+        "label": "Ingredient",
+        "properties": {
+          "name": "단무지 2줄",
+          "name_normalized": "단무지 2줄"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "우엉 6줄",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"우엉 6줄\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:382021f8f5f3478cba33d7960d8ac54068f058dcdcaee087b49b14144e1ed5fb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "우엉 6줄",
+          "name_normalized": "우엉 6줄"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "크래미 2줄",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"크래미 2줄\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:c9dc00fb976f9eb56b60a6590a4e6b2689b823f1f54ac87e8ccb80ea576b3ac9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "크래미 2줄",
+          "name_normalized": "크래미 2줄"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "치즈",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "장",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"치즈 2장\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+        "label": "Ingredient",
+        "properties": {
+          "name": "치즈",
+          "name_normalized": "치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "1",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"당근 1개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리브오일",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "3",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"올리브오일 3큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리브오일",
+          "name_normalized": "올리브오일"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "게란",
+          "role": "food",
+          "group": "[계란말이]",
+          "quantity": "3",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"게란 3개\"]",
+          "quality_flags": [
+            "AMBIGUOUS_INGREDIENT"
+          ],
+          "component_uid": "10000recipe_7081002:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:bb99f7dceb4be281c6011a5d8bf3d4c2e5794a5c1182eda868ef3689fa1588de",
+        "label": "Ingredient",
+        "properties": {
+          "name": "게란",
+          "name_normalized": "게란"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "[계란말이]",
+          "quantity": "1",
+          "unit": "꼬집",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 1꼬집\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛술",
+          "role": "seasoning",
+          "group": "[계란말이]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"맛술 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛술",
+          "name_normalized": "맛술"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밥 2/3공기",
+          "role": "seasoning",
+          "group": "[밥양념]",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"밥 2/3공기\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:9f7777da55db9e6a0cb1feba2ea812e85b78f3772379c595cfe8826771a3f00d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밥 2/3공기",
+          "name_normalized": "밥 2/3공기"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "[밥양념]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"참기름 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통깨",
+          "role": "seasoning",
+          "group": "[밥양념]",
+          "quantity": "1",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"통깨 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "통깨",
+          "name_normalized": "통깨"
+        }
+      },
+      {
+        "id": "10000recipe_7081002:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "[밥양념]",
+          "quantity": "2",
+          "unit": "꼬집",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 2꼬집\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081002:component:014",
+          "index": 14
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081002",
+        "type": "VARIANT_OF",
+        "target": "dish:8807478ba29027373fea9af3ac434f06f6cf86282995bca659f9d7f3b63835a0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:7a8ddac93ab5329e010f0225996dded9655813cec31d2ae3149985b5528e06eb",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:cc30fe63ff6d5b27c7779ee618ac348d96011dc0c9281b61856a52ebb92d4bed",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:382021f8f5f3478cba33d7960d8ac54068f058dcdcaee087b49b14144e1ed5fb",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:c9dc00fb976f9eb56b60a6590a4e6b2689b823f1f54ac87e8ccb80ea576b3ac9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:bb99f7dceb4be281c6011a5d8bf3d4c2e5794a5c1182eda868ef3689fa1588de",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:9f7777da55db9e6a0cb1feba2ea812e85b78f3772379c595cfe8826771a3f00d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081002:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081002:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081002:dish",
+      "canonical_id": "dish:8807478ba29027373fea9af3ac434f06f6cf86282995bca659f9d7f3b63835a0",
+      "original_name": "김밥",
+      "canonical_name": "김밥",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:001:candidate:0",
+      "canonical_id": "ingredient:7a8ddac93ab5329e010f0225996dded9655813cec31d2ae3149985b5528e06eb",
+      "original_name": "김밥김",
+      "canonical_name": "김밥김",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:002:candidate:0",
+      "canonical_id": "ingredient:cc30fe63ff6d5b27c7779ee618ac348d96011dc0c9281b61856a52ebb92d4bed",
+      "original_name": "단무지 2줄",
+      "canonical_name": "단무지 2줄",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:003:candidate:0",
+      "canonical_id": "ingredient:382021f8f5f3478cba33d7960d8ac54068f058dcdcaee087b49b14144e1ed5fb",
+      "original_name": "우엉 6줄",
+      "canonical_name": "우엉 6줄",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:004:candidate:0",
+      "canonical_id": "ingredient:c9dc00fb976f9eb56b60a6590a4e6b2689b823f1f54ac87e8ccb80ea576b3ac9",
+      "original_name": "크래미 2줄",
+      "canonical_name": "크래미 2줄",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:005:candidate:0",
+      "canonical_id": "ingredient:637e74300b681daeeb04c328e111b22beb92bc98fb727e33adf88eaf284b8d6f",
+      "original_name": "치즈",
+      "canonical_name": "치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:006:candidate:0",
+      "canonical_id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+      "original_name": "당근",
+      "canonical_name": "당근",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:007:candidate:0",
+      "canonical_id": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+      "original_name": "올리브오일",
+      "canonical_name": "올리브오일",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:008:candidate:0",
+      "canonical_id": "ingredient:bb99f7dceb4be281c6011a5d8bf3d4c2e5794a5c1182eda868ef3689fa1588de",
+      "original_name": "게란",
+      "canonical_name": "게란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:009:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:010:candidate:0",
+      "canonical_id": "ingredient:53d5e9a26fc93d5fb02ecbf508135be1c3376363bcf70413d4f1da32f8b2be36",
+      "original_name": "맛술",
+      "canonical_name": "맛술",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:011:candidate:0",
+      "canonical_id": "ingredient:9f7777da55db9e6a0cb1feba2ea812e85b78f3772379c595cfe8826771a3f00d",
+      "original_name": "밥 2/3공기",
+      "canonical_name": "밥 2/3공기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:012:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:013:candidate:0",
+      "canonical_id": "ingredient:b5fb900ab35ff15ec08f65e48908c2d650f6d65a80992ad742ac29626db7f2c0",
+      "original_name": "통깨",
+      "canonical_name": "통깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081002:component:014:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 14,
+    "alternatives": 0,
+    "required_known": 0,
+    "dish": true,
+    "relations": 29,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

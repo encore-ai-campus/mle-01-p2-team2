@@ -1,0 +1,369 @@
+{
+  "recipe_uid": "10000recipe_7082059",
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7082059",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7082059",
+          "title": "후르츠산도 만들기 무화과 과일 샌드위치 만드는 법 무화과효능 보관방법",
+          "description": "8월 중순이 되니 벌써 무화과가 마트에 빼꼼, 얼굴을 내밀고 있더라고요? ​ 무화과는 못 참지.. 싶어 장바구니에 담아 집으로 돌아왔어요. ​ 무화과의 효능 무화과는 위와 장을 튼튼하게 해주는 효능이 있고 이외 소화불량, 식욕부진, 인후통에도 효과가 좋다고 알려져 있어요. ​ 보관 방법 과육도 부드럽고 당도가 높은 만큼 빨리 짓무르기 쉬운 과일이라 집에 오자마자 플라스틱 통에서 꺼내 키친타월에 한 알씩 감싸 냉장고에 넣어 주었어요. 미리 씻어 두면 쉽게 물러서 먹을 때마다 씻어서 먹는 편이 좋아요. ​ ​ ​ 고르는 방법 무화과는 꼭지가 시들지 않고 아래 갈라진 부분이 별모양 처럼 터진게 잘 익은 것이라고 해요. 그리고 큰 것 보단 작은 사이즈가 더 달고 맛이 좋아요. 표면에 흠집이 없고 둥글게 잘 부푼 것이 맛이 좋다고 해요. ​ 구워 둔 통식빵이 딱 산도 만들기 좋은 만큼 남아 있길래 생크림 한통 시켜서 크림치즈 넣고 무화과산도를 만들기로 했어요. ​",
+          "servings": "2인분",
+          "cooking_time": "20분 이내",
+          "difficulty": "초급",
+          "views": 63,
+          "source_url": "https://www.10000recipe.com/recipe/7082059",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:b4b812c0624e9fda6b883b6522a79453ca6be88599f343890871b4466eae8874",
+        "label": "Dish",
+        "properties": {
+          "name": "후르츠산도"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "두꺼운 식빵 2~2.5cm",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "장",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"두꺼운 식빵 2~2.5cm 2장\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:a8a861b4b34ef716d1e9dcd25587d6a6504156e4a14aa31f127a9f8c311c334e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "두꺼운 식빵 2~2.5cm",
+          "name_normalized": "두꺼운 식빵 2~2.5cm"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무화과",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "2",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"무화과 2개\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:df7f604c88861e7b09625b14038c8f5f4b4882102ee2627abd4cd9a361e9189a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무화과",
+          "name_normalized": "무화과"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생크림",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "100",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"생크림 100g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:627a859d3fbe74ea8138f10071f593bc251b12f67aad64dfe1d07c19f2b7314c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생크림",
+          "name_normalized": "생크림"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "크림치즈",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "50",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"크림치즈 50g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:9c751f45e7e6256a066cb73e3a8110557ee4fe7be7c0e96b8418646606453561",
+        "label": "Ingredient",
+        "properties": {
+          "name": "크림치즈",
+          "name_normalized": "크림치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "에리스톨 백설탕가능",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "5",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "either_or",
+          "evidence": "[\"에리스톨 백설탕가능 5g\"]",
+          "quality_flags": [
+            "AMBIGUOUS_INGREDIENT"
+          ],
+          "component_uid": "10000recipe_7082059:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:5f59bc1c6339665d47c5eca6c65bcfb14b6a2a4a94d148ffa206cc2b4f41ea29",
+        "label": "Ingredient",
+        "properties": {
+          "name": "에리스톨 백설탕가능",
+          "name_normalized": "에리스톨 백설탕가능"
+        }
+      },
+      {
+        "id": "ingredient:f2648695487d8230ddd986d3f81a7609c729cc112d6b5949ef88997cc5d4584c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "백설탕가능",
+          "name_normalized": "백설탕가능"
+        }
+      },
+      {
+        "id": "10000recipe_7082059:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "연유",
+          "role": "food",
+          "group": "[재료]",
+          "quantity": "10",
+          "unit": "g",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"연유 10g\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7082059:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:bd493bdc43d511ee84752b40263dd82862cf63f6d39c5cbaf289d5b2b2fcd4ec",
+        "label": "Ingredient",
+        "properties": {
+          "name": "연유",
+          "name_normalized": "연유"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7082059",
+        "type": "VARIANT_OF",
+        "target": "dish:b4b812c0624e9fda6b883b6522a79453ca6be88599f343890871b4466eae8874",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8a861b4b34ef716d1e9dcd25587d6a6504156e4a14aa31f127a9f8c311c334e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:df7f604c88861e7b09625b14038c8f5f4b4882102ee2627abd4cd9a361e9189a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:627a859d3fbe74ea8138f10071f593bc251b12f67aad64dfe1d07c19f2b7314c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:9c751f45e7e6256a066cb73e3a8110557ee4fe7be7c0e96b8418646606453561",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:5f59bc1c6339665d47c5eca6c65bcfb14b6a2a4a94d148ffa206cc2b4f41ea29",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:005",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:f2648695487d8230ddd986d3f81a7609c729cc112d6b5949ef88997cc5d4584c",
+        "properties": {
+          "raw_name": "백설탕가능",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"에리스톨 백설탕가능 5g\"]"
+        }
+      },
+      {
+        "source": "10000recipe_7082059",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7082059:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7082059:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:bd493bdc43d511ee84752b40263dd82862cf63f6d39c5cbaf289d5b2b2fcd4ec",
+        "properties": {}
+      }
+    ]
+  },
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7082059:dish",
+      "canonical_id": "dish:b4b812c0624e9fda6b883b6522a79453ca6be88599f343890871b4466eae8874",
+      "original_name": "후르츠산도",
+      "canonical_name": "후르츠산도",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:001:candidate:0",
+      "canonical_id": "ingredient:a8a861b4b34ef716d1e9dcd25587d6a6504156e4a14aa31f127a9f8c311c334e",
+      "original_name": "두꺼운 식빵 2~2.5cm",
+      "canonical_name": "두꺼운 식빵 2~2.5cm",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:002:candidate:0",
+      "canonical_id": "ingredient:df7f604c88861e7b09625b14038c8f5f4b4882102ee2627abd4cd9a361e9189a",
+      "original_name": "무화과",
+      "canonical_name": "무화과",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:003:candidate:0",
+      "canonical_id": "ingredient:627a859d3fbe74ea8138f10071f593bc251b12f67aad64dfe1d07c19f2b7314c",
+      "original_name": "생크림",
+      "canonical_name": "생크림",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:004:candidate:0",
+      "canonical_id": "ingredient:9c751f45e7e6256a066cb73e3a8110557ee4fe7be7c0e96b8418646606453561",
+      "original_name": "크림치즈",
+      "canonical_name": "크림치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:005:candidate:0",
+      "canonical_id": "ingredient:5f59bc1c6339665d47c5eca6c65bcfb14b6a2a4a94d148ffa206cc2b4f41ea29",
+      "original_name": "에리스톨 백설탕가능",
+      "canonical_name": "에리스톨 백설탕가능",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:005:candidate:1",
+      "canonical_id": "ingredient:f2648695487d8230ddd986d3f81a7609c729cc112d6b5949ef88997cc5d4584c",
+      "original_name": "백설탕가능",
+      "canonical_name": "백설탕가능",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7082059:component:006:candidate:0",
+      "canonical_id": "ingredient:bd493bdc43d511ee84752b40263dd82862cf63f6d39c5cbaf289d5b2b2fcd4ec",
+      "original_name": "연유",
+      "canonical_name": "연유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "components": 6,
+    "alternatives": 1,
+    "required_known": 0,
+    "dish": true,
+    "relations": 14,
+    "errors": [],
+    "automatic_pass": true
+  }
+}

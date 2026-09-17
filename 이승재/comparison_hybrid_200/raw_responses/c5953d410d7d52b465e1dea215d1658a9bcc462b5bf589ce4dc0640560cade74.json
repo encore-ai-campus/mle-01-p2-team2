@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZCg0QnXrTrTF7WiYpu0JTR7HN5",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"허니 갈릭 포테이토\",\"components\":[{\"raw_name\":\"감자\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"감자\"],\"quality_flags\":[],\"ingredient_candidate\":\"감자\",\"alternatives\":[]},{\"raw_name\":\"포도씨유\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"포도씨유 1큰술\",\"볼에 포도씨유 1큰술, 다진마늘 1큰술. 소금 1작은술. 다진 파슬리 1큰술. 올리고당 혹은 시럽 1큰술을 넣고 골고루 섞어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"포도씨유\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다진마늘 1큰술\",\"볼에 포도씨유 1큰술, 다진마늘 1큰술. 소금 1작은술. 다진 파슬리 1큰술. 올리고당 혹은 시럽 1큰술을 넣고 골고루 섞어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"다진 파슬리\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다진 파슬리 1큰술\",\"볼에 포도씨유 1큰술, 다진마늘 1큰술. 소금 1작은술. 다진 파슬리 1큰술. 올리고당 혹은 시럽 1큰술을 넣고 골고루 섞어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"다진 파슬리\",\"alternatives\":[]},{\"raw_name\":\"올리고당 혹은 시럽\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":\"1\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"either_or\",\"evidence\":[\"올리고당 혹은 시럽 1큰술\",\"볼에 포도씨유 1큰술, 다진마늘 1큰술. 소금 1작은술. 다진 파슬리 1큰술. 올리고당 혹은 시럽 1큰술을 넣고 골고루 섞어줍니다.\"],\"quality_flags\":[\"AMBIGUOUS_INGREDIENT\"],\"ingredient_candidate\":\"올리고당 또는 시럽\",\"alternatives\":[{\"raw_name\":\"시럽\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"올리고당 혹은 시럽 1큰술\"],\"ingredient_candidate\":\"시럽\"}]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":\"1\",\"unit\":\"작은술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"소금 1작은술\",\"볼에 포도씨유 1큰술, 다진마늘 1큰술. 소금 1작은술. 다진 파슬리 1큰술. 올리고당 혹은 시럽 1큰술을 넣고 골고루 섞어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544518,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 847,
+    "prompt_tokens": 3066,
+    "total_tokens": 3913,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

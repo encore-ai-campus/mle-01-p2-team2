@@ -1,0 +1,122 @@
+{
+  "recipe_uid": "10000recipe_6888128",
+  "payload": {
+    "title": "간단한 아침, 오트밀 먹는법",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "오트밀 1팩",
+        "오트밀",
+        "오트밀",
+        "food",
+        "[재료]",
+        "1",
+        "팩",
+        null,
+        null
+      ],
+      [
+        "물 200ml",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "200",
+        "ml",
+        null,
+        null
+      ],
+      [
+        "테이블크림 2T",
+        "테이블크림",
+        "테이블크림",
+        "food",
+        "[재료]",
+        "2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "꿀 1T",
+        "꿀",
+        "꿀",
+        "seasoning",
+        "[재료]",
+        "1",
+        "T",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 5,
+        "text": "끓는 물을 오트밀이 담긴 그릇에 담아주세요."
+      },
+      {
+        "step": 6,
+        "text": "한번 가볍게 저어주시고 2분간 기다릴게요. 정말 쉽고 간단한 아침메뉴, 오트밀이 이렇게 준비되었습니다. 맛이 심심한 편이라, 좀 더 든든하게 먹을 수 있는 방법을 알려드릴게요. 크림(커피에 타는 테이블크림)을 한 두스푼 정도 넣어주시면 훨씬 맛이 고소하고 든든해요. 여기에 취향에 따라 꿀이나 메이플시럽을 넣고 잘 저어서 드시면 훨씬 맛이 좋아요. 오트밀에는 특히 메이플시럽이 아주 잘 어울리는 편 이랍니다."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "오트밀 1팩",
+      "raw_name": "오트밀",
+      "ingredient_candidate": "오트밀",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "팩",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 200ml",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "200",
+      "unit": "ml",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "테이블크림 2T",
+      "raw_name": "테이블크림",
+      "ingredient_candidate": "테이블크림",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "꿀 1T",
+      "raw_name": "꿀",
+      "ingredient_candidate": "꿀",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 6,
+  "sent_steps": 2,
+  "evidence_text": "간단한 아침, 오트밀 먹는법\n오트밀 1팩\n물 200ml\n테이블크림 2T\n꿀 1T\n끓는 물을 오트밀이 담긴 그릇에 담아주세요.\n한번 가볍게 저어주시고 2분간 기다릴게요. 정말 쉽고 간단한 아침메뉴, 오트밀이 이렇게 준비되었습니다. 맛이 심심한 편이라, 좀 더 든든하게 먹을 수 있는 방법을 알려드릴게요. 크림(커피에 타는 테이블크림)을 한 두스푼 정도 넣어주시면 훨씬 맛이 고소하고 든든해요. 여기에 취향에 따라 꿀이나 메이플시럽을 넣고 잘 저어서 드시면 훨씬 맛이 좋아요. 오트밀에는 특히 메이플시럽이 아주 잘 어울리는 편 이랍니다."
+}

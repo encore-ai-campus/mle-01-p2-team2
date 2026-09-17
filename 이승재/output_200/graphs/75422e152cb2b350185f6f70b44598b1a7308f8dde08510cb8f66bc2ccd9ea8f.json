@@ -1,0 +1,1031 @@
+{
+  "recipe_uid": "10000recipe_7081843",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081843",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081843",
+          "title": "No가열 불 없이 입안에서 폭발하는 단짠, 복숭아 페타치즈 샐러드",
+          "description": "과일과 페타치즈를 함께 즐기는 '단짠' 조합은 최근 셀럽들의 샐러드 레시피부터 해외 인플루언서 콘텐츠까지 꾸준히 소개되고 있는 인기 조합이에요. 여름 제철 과일의 달콤함과 짭짤한 치즈가 만나 예상외의 궁합을 낸다는 점이 인기 비결인데, 복숭아 역시 이 조합과 잘 어울리는 과일이에요.",
+          "servings": "2인분",
+          "cooking_time": "10분 이내",
+          "difficulty": "아무나",
+          "views": 56,
+          "source_url": "https://www.10000recipe.com/recipe/7081843",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "복숭아 페타치즈 샐러드"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "복숭아",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2",
+          "unit": "개",
+          "preparation": "한 입 크기로 자른",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 복숭아 2개\", \"복숭아는 한 입 크기로 자른다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "복숭아",
+          "name_normalized": "복숭아"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "페타치즈",
+          "role": "food",
+          "group": "재료",
+          "quantity": "80g",
+          "unit": null,
+          "preparation": "한 입 크기로 자른",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 페타치즈 80g\", \"페타치즈도 한 입 크기로 자른다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "페타치즈",
+          "name_normalized": "페타치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "애플민트",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2g",
+          "unit": null,
+          "preparation": "씻어 물기를 제거한",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 애플민트 2g\", \"애플민트는 씻어 물기를 제거한다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "애플민트",
+          "name_normalized": "애플민트"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "발사믹식초",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "2",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 발사믹식초 2숟가락\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "발사믹식초",
+          "name_normalized": "발사믹식초"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "레몬즙",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "2",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 레몬즙 2숟가락\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "레몬즙",
+          "name_normalized": "레몬즙"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꿀",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "2",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 꿀 2숟가락\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꿀",
+          "name_normalized": "꿀"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리브오일",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "3",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 올리브오일 3숟가락\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리브오일",
+          "name_normalized": "올리브오일"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "2",
+          "unit": "꼬집",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 소금 2꼬집\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후춧가루",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "2",
+          "unit": "꼬집",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 후춧가루 2꼬집\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후춧가루",
+          "name_normalized": "후춧가루"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081843",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_7081843:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081843:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081843:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081843:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081843:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081843:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081843:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081843:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081843:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_7081843:component:009:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_7081843",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_7081843",
+          "title": "No가열 불 없이 입안에서 폭발하는 단짠, 복숭아 페타치즈 샐러드",
+          "description": "과일과 페타치즈를 함께 즐기는 '단짠' 조합은 최근 셀럽들의 샐러드 레시피부터 해외 인플루언서 콘텐츠까지 꾸준히 소개되고 있는 인기 조합이에요. 여름 제철 과일의 달콤함과 짭짤한 치즈가 만나 예상외의 궁합을 낸다는 점이 인기 비결인데, 복숭아 역시 이 조합과 잘 어울리는 과일이에요.",
+          "servings": "2인분",
+          "cooking_time": "10분 이내",
+          "difficulty": "아무나",
+          "views": 56,
+          "source_url": "https://www.10000recipe.com/recipe/7081843",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:898ed302a4f9b49bc6a015a5e1efe827b6c5afa6f93da5323ff6aff3c777a671",
+        "label": "Dish",
+        "properties": {
+          "name": "복숭아 페타치즈 샐러드"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "복숭아",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2",
+          "unit": "개",
+          "preparation": "한 입 크기로 자른",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 복숭아 2개\", \"복숭아는 한 입 크기로 자른다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:ceb833874b9cc227b3e75edd94a0f5982108ae943227122a8b77fbda29fad47d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "복숭아",
+          "name_normalized": "복숭아"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "페타치즈",
+          "role": "food",
+          "group": "재료",
+          "quantity": "80g",
+          "unit": null,
+          "preparation": "한 입 크기로 자른",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 페타치즈 80g\", \"페타치즈도 한 입 크기로 자른다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:0ed6cad5824df566303b40bdf07fe40ed9076b9f66a65aef13d3fdf4b28899fb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "페타치즈",
+          "name_normalized": "페타치즈"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "애플민트",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2g",
+          "unit": null,
+          "preparation": "씻어 물기를 제거한",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 애플민트 2g\", \"애플민트는 씻어 물기를 제거한다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:13fcf3a60c0fbe43ed41f55d45d26cdf8d3d2b3e7b3da4a32ca28c2838ea247c",
+        "label": "Ingredient",
+        "properties": {
+          "name": "애플민트",
+          "name_normalized": "애플민트"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "발사믹식초",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "2",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 발사믹식초 2숟가락\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:d6341a76f5c2300a15d7d4ad44c185a92f4c9e7aefca87da481c23ce84017ca7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "발사믹식초",
+          "name_normalized": "발사믹식초"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "레몬즙",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "2",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 레몬즙 2숟가락\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:2566dae2fabb632cce6f5f41e7b7fd4c4feb7e5d982b5f504195dfe89e84b4b8",
+        "label": "Ingredient",
+        "properties": {
+          "name": "레몬즙",
+          "name_normalized": "레몬즙"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "꿀",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "2",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 꿀 2숟가락\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+        "label": "Ingredient",
+        "properties": {
+          "name": "꿀",
+          "name_normalized": "꿀"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리브오일",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "3",
+          "unit": "숟가락",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 올리브오일 3숟가락\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리브오일",
+          "name_normalized": "올리브오일"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "2",
+          "unit": "꼬집",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 소금 2꼬집\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_7081843:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후춧가루",
+          "role": "seasoning",
+          "group": "드레싱",
+          "quantity": "2",
+          "unit": "꼬집",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[드레싱] 후춧가루 2꼬집\", \"발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_7081843:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:7c4463c61c0762ace7914efaecc4c6ebcba165f5da16c1829adc8261f32c023d",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후춧가루",
+          "name_normalized": "후춧가루"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_7081843",
+        "type": "VARIANT_OF",
+        "target": "dish:898ed302a4f9b49bc6a015a5e1efe827b6c5afa6f93da5323ff6aff3c777a671",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:ceb833874b9cc227b3e75edd94a0f5982108ae943227122a8b77fbda29fad47d",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:0ed6cad5824df566303b40bdf07fe40ed9076b9f66a65aef13d3fdf4b28899fb",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:13fcf3a60c0fbe43ed41f55d45d26cdf8d3d2b3e7b3da4a32ca28c2838ea247c",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:d6341a76f5c2300a15d7d4ad44c185a92f4c9e7aefca87da481c23ce84017ca7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:2566dae2fabb632cce6f5f41e7b7fd4c4feb7e5d982b5f504195dfe89e84b4b8",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_7081843:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_7081843:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:7c4463c61c0762ace7914efaecc4c6ebcba165f5da16c1829adc8261f32c023d",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "복숭아 페타치즈 샐러드",
+    "components": [
+      {
+        "raw_name": "복숭아",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2",
+        "unit": "개",
+        "preparation": "한 입 크기로 자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 복숭아 2개",
+          "복숭아는 한 입 크기로 자른다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "복숭아",
+        "alternatives": []
+      },
+      {
+        "raw_name": "페타치즈",
+        "role": "food",
+        "group": "재료",
+        "quantity": "80g",
+        "unit": null,
+        "preparation": "한 입 크기로 자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 페타치즈 80g",
+          "페타치즈도 한 입 크기로 자른다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "페타치즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "애플민트",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2g",
+        "unit": null,
+        "preparation": "씻어 물기를 제거한",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 애플민트 2g",
+          "애플민트는 씻어 물기를 제거한다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "애플민트",
+        "alternatives": []
+      },
+      {
+        "raw_name": "발사믹식초",
+        "role": "seasoning",
+        "group": "드레싱",
+        "quantity": "2",
+        "unit": "숟가락",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[드레싱] 발사믹식초 2숟가락",
+          "발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "발사믹식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "레몬즙",
+        "role": "seasoning",
+        "group": "드레싱",
+        "quantity": "2",
+        "unit": "숟가락",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[드레싱] 레몬즙 2숟가락",
+          "발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "레몬즙",
+        "alternatives": []
+      },
+      {
+        "raw_name": "꿀",
+        "role": "seasoning",
+        "group": "드레싱",
+        "quantity": "2",
+        "unit": "숟가락",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[드레싱] 꿀 2숟가락",
+          "발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "꿀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브오일",
+        "role": "seasoning",
+        "group": "드레싱",
+        "quantity": "3",
+        "unit": "숟가락",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[드레싱] 올리브오일 3숟가락",
+          "발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브오일",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "드레싱",
+        "quantity": "2",
+        "unit": "꼬집",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[드레싱] 소금 2꼬집",
+          "발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후춧가루",
+        "role": "seasoning",
+        "group": "드레싱",
+        "quantity": "2",
+        "unit": "꼬집",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[드레싱] 후춧가루 2꼬집",
+          "발사믹 식초, 레몬즙, 꿀, 올리브오일, 소금, 후춧가루를 넣고 드레싱을 만든다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후춧가루",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "f041b9667fccf70c6bc68575a3555a23d87e66dcd433b3fe48066b5c3bf636fd",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_7081843:dish",
+      "canonical_id": "dish:898ed302a4f9b49bc6a015a5e1efe827b6c5afa6f93da5323ff6aff3c777a671",
+      "original_name": "복숭아 페타치즈 샐러드",
+      "canonical_name": "복숭아 페타치즈 샐러드",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081843:component:001:candidate:0",
+      "canonical_id": "ingredient:ceb833874b9cc227b3e75edd94a0f5982108ae943227122a8b77fbda29fad47d",
+      "original_name": "복숭아",
+      "canonical_name": "복숭아",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081843:component:002:candidate:0",
+      "canonical_id": "ingredient:0ed6cad5824df566303b40bdf07fe40ed9076b9f66a65aef13d3fdf4b28899fb",
+      "original_name": "페타치즈",
+      "canonical_name": "페타치즈",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081843:component:003:candidate:0",
+      "canonical_id": "ingredient:13fcf3a60c0fbe43ed41f55d45d26cdf8d3d2b3e7b3da4a32ca28c2838ea247c",
+      "original_name": "애플민트",
+      "canonical_name": "애플민트",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081843:component:004:candidate:0",
+      "canonical_id": "ingredient:d6341a76f5c2300a15d7d4ad44c185a92f4c9e7aefca87da481c23ce84017ca7",
+      "original_name": "발사믹식초",
+      "canonical_name": "발사믹식초",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081843:component:005:candidate:0",
+      "canonical_id": "ingredient:2566dae2fabb632cce6f5f41e7b7fd4c4feb7e5d982b5f504195dfe89e84b4b8",
+      "original_name": "레몬즙",
+      "canonical_name": "레몬즙",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081843:component:006:candidate:0",
+      "canonical_id": "ingredient:8dd2869c1381c749ad420c8ed44aa7a3d23b504abe63084f5fd0a77bf9941553",
+      "original_name": "꿀",
+      "canonical_name": "꿀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081843:component:007:candidate:0",
+      "canonical_id": "ingredient:a37ddc21963d4ec4e6b71338b1cbe29172054280c118caffbccb299d42c97412",
+      "original_name": "올리브오일",
+      "canonical_name": "올리브오일",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081843:component:008:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_7081843:component:009:candidate:0",
+      "canonical_id": "ingredient:7c4463c61c0762ace7914efaecc4c6ebcba165f5da16c1829adc8261f32c023d",
+      "original_name": "후춧가루",
+      "canonical_name": "후춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_7081843",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "a24b8a752fa65f19be27c478a3ad9f8235fcc7d05c1fe82a048fceef33974b7e"
+}

@@ -1,0 +1,2736 @@
+{
+  "recipe_uid": "10000recipe_6951400",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6951400",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6951400",
+          "title": "실패없는 멸치육수 잔치국수 황금레시피",
+          "description": "쌀쌀한 퇴근길에 생각나는 따뜻한 잔치국수! 구수한 멸치맛과 칼칼 매콤한 맛으로 가슴속 추위까지 날려버려요~",
+          "servings": "2인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 169000,
+          "source_url": "https://www.10000recipe.com/recipe/6951400",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "잔치국수"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소면",
+          "role": "food",
+          "group": "재료",
+          "quantity": "200g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소면 200g\", \"국수삶기 물이 끓으면 식용유 1큰술을 넣고 국수를 넣어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소면",
+          "name_normalized": "소면"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "애호박",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": "채썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 애호박 1/2개\", \"애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "애호박",
+          "name_normalized": "애호박"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": "채썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 당근 1/2개\", \"애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": "채썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": "풀어서 넣고",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 계란 2개\", \"끓어 오르면 계란 2개를 풀어서 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1움큼",
+          "unit": null,
+          "preparation": null,
+          "detail": "다시 멸치로 육수 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 멸치 1움큼\", \"다시 멸치에 물 2L를 붓고 끓여주세요.\", \"멸치를 건지고 표고버섯, 소금 1큰술을 넣고 약한불에서 끓여 주세요.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_QUANTITY"
+          ],
+          "component_uid": "10000recipe_6951400:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치",
+          "name_normalized": "멸치"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "말린표고버섯",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1움큼",
+          "unit": null,
+          "preparation": "불려",
+          "detail": "그냥 표고버섯을 쓰셔도 됩니다",
+          "is_required": false,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 말린표고버섯 1움큼\", \"말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_QUANTITY"
+          ],
+          "component_uid": "10000recipe_6951400:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "말린표고버섯",
+          "name_normalized": "말린표고버섯"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:007:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "표고버섯",
+          "name_normalized": "표고버섯"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "김가루",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 김가루 2큰술\", \"국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "김가루",
+          "name_normalized": "김가루"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2쪽",
+          "unit": "쪽",
+          "preparation": "다져두고",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 마늘 2쪽\", \"마늘은 미리 다져두고, 대파도 가늘게 썰어주세요.\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/4뿌리",
+          "unit": "뿌리",
+          "preparation": "가늘게 썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1/4뿌리\", \"마늘은 미리 다져두고, 대파도 가늘게 썰어주세요.\", \"끓어 오르면 계란 2개를 풀어서 넣고 다진마늘 1티스푼, 썰은 대파를 넣어 주시면 육수 완성이에요.\", \"[양념장] 대파 1/4뿌리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소금 1큰술\", \"멸치를 건지고 표고버섯, 소금 1큰술을 넣고 약한불에서 끓여 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 후추 약간\", \"국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깨",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장에는 1티스푼",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 깨 약간\", \"[양념장] 깨 1티스푼\", \"국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요.\"]",
+          "quality_flags": [
+            "QUANTITY_CONFLICT"
+          ],
+          "component_uid": "10000recipe_6951400:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "양념장",
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 청양고추 2개\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "양념장",
+          "quantity": "1/4뿌리",
+          "unit": "뿌리",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 대파 1/4뿌리\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:015:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추가루",
+          "role": "seasoning",
+          "group": "양념장",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 고추가루 1큰술\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:016:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추가루",
+          "name_normalized": "고추가루"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "국간장",
+          "role": "seasoning",
+          "group": "양념장",
+          "quantity": "2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 국간장 2큰술\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:017:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "국간장",
+          "name_normalized": "국간장"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "진간장",
+          "role": "seasoning",
+          "group": "양념장",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 진간장 1큰술\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:018:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "진간장",
+          "name_normalized": "진간장"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:019",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "양념장",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 참기름 1큰술\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:019",
+          "index": 19
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:019:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:020",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깨",
+          "role": "seasoning",
+          "group": "양념장",
+          "quantity": "1티스푼",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 깨 1티스푼\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:020",
+          "index": 20
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:020:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:021",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "양념장",
+          "quantity": "2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 물 2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:021",
+          "index": 21
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:021:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:022",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": null,
+          "quantity": "2L",
+          "unit": "L",
+          "preparation": null,
+          "detail": "멸치육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"다시 멸치에 물 2L를 붓고 끓여주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:022",
+          "index": 22
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:022:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:023",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": null,
+          "quantity": "200ml",
+          "unit": "ml",
+          "preparation": null,
+          "detail": "국수 삶을 때 찬물",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"끓어 오르면 찬물 200ml를 붓고 중간불로 줄여 주시고, 다시 끓으면 찬물을 한번 더 붓고 다시 끓으면 불에서 내려 찬물에 헹구어 물기를 빼 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:023",
+          "index": 23
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:023:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:024",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식용유",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "국수 삶을 때 넣음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"국수삶기 물이 끓으면 식용유 1큰술을 넣고 국수를 넣어 주세요.\", \"식용유를 넣고 삶으면 국수가 덜 불고 쫀득해요^^\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:024",
+          "index": 24
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:024:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식용유",
+          "name_normalized": "식용유"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:025",
+        "label": "Component",
+        "properties": {
+          "raw_name": "표고버섯",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "말린표고버섯 대체",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:025",
+          "index": 25
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:025:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "표고버섯",
+          "name_normalized": "표고버섯"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6951400",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6951400:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:007",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_6951400:component:007:candidate:1",
+        "properties": {
+          "raw_name": "표고버섯",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:014:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:015",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:015:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:016",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:016:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:017",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:017:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:018",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:018:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:019",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:019",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:019:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:020",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:020",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:020:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:021",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:021",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:021:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:022",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:022",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:022:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:023",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:023",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:023:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:024",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:024",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:024:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:025",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:025",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6951400:component:025:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6951400",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6951400",
+          "title": "실패없는 멸치육수 잔치국수 황금레시피",
+          "description": "쌀쌀한 퇴근길에 생각나는 따뜻한 잔치국수! 구수한 멸치맛과 칼칼 매콤한 맛으로 가슴속 추위까지 날려버려요~",
+          "servings": "2인분",
+          "cooking_time": "30분 이내",
+          "difficulty": "초급",
+          "views": 169000,
+          "source_url": "https://www.10000recipe.com/recipe/6951400",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:855587983ed3be297807ec0b0cf40c0f0c9f9bdf9a13e92cd5fe2b6fddba8e32",
+        "label": "Dish",
+        "properties": {
+          "name": "잔치국수"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소면",
+          "role": "food",
+          "group": "재료",
+          "quantity": "200g",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소면 200g\", \"국수삶기 물이 끓으면 식용유 1큰술을 넣고 국수를 넣어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:7fcfe65119def7052bdd7d7a99c2c134c3f3781079ab363de8b90f3073c0e262",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소면",
+          "name_normalized": "소면"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "애호박",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": "채썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 애호박 1/2개\", \"애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:c51baef1506a3f642c2557093f24a4005a24aa866ce666649e92e9333c196b32",
+        "label": "Ingredient",
+        "properties": {
+          "name": "애호박",
+          "name_normalized": "애호박"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "당근",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": "채썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 당근 1/2개\", \"애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "label": "Ingredient",
+        "properties": {
+          "name": "당근",
+          "name_normalized": "당근"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": "채썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 양파 1/2개\", \"애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "계란",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": "풀어서 넣고",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 계란 2개\", \"끓어 오르면 계란 2개를 풀어서 넣고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "계란",
+          "name_normalized": "계란"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1움큼",
+          "unit": null,
+          "preparation": null,
+          "detail": "다시 멸치로 육수 사용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 멸치 1움큼\", \"다시 멸치에 물 2L를 붓고 끓여주세요.\", \"멸치를 건지고 표고버섯, 소금 1큰술을 넣고 약한불에서 끓여 주세요.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_QUANTITY"
+          ],
+          "component_uid": "10000recipe_6951400:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:1928aefe1f901503e52d14873cdf0239c5b4d86fd937730962baaf32be446e63",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치",
+          "name_normalized": "멸치"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "말린표고버섯",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1움큼",
+          "unit": null,
+          "preparation": "불려",
+          "detail": "그냥 표고버섯을 쓰셔도 됩니다",
+          "is_required": false,
+          "alternative_mode": "replacement",
+          "evidence": "[\"[재료] 말린표고버섯 1움큼\", \"말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_QUANTITY"
+          ],
+          "component_uid": "10000recipe_6951400:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:b7b1c57aa1c86d9d0d91ae79e168ecc81e3d0867e57812029ce808dc5a88041b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "말린표고버섯",
+          "name_normalized": "말린표고버섯"
+        }
+      },
+      {
+        "id": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "표고버섯",
+          "name_normalized": "표고버섯"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "김가루",
+          "role": "food",
+          "group": "재료",
+          "quantity": "2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 김가루 2큰술\", \"국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:b19aecdc4209b545cc1e5dae8626365f5be98796f085880692974768458706aa",
+        "label": "Ingredient",
+        "properties": {
+          "name": "김가루",
+          "name_normalized": "김가루"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "마늘",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "2쪽",
+          "unit": "쪽",
+          "preparation": "다져두고",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 마늘 2쪽\", \"마늘은 미리 다져두고, 대파도 가늘게 썰어주세요.\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "재료",
+          "quantity": "1/4뿌리",
+          "unit": "뿌리",
+          "preparation": "가늘게 썰어",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 대파 1/4뿌리\", \"마늘은 미리 다져두고, 대파도 가늘게 썰어주세요.\", \"끓어 오르면 계란 2개를 풀어서 넣고 다진마늘 1티스푼, 썰은 대파를 넣어 주시면 육수 완성이에요.\", \"[양념장] 대파 1/4뿌리\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "대파",
+          "name_normalized": "대파"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소금 1큰술\", \"멸치를 건지고 표고버섯, 소금 1큰술을 넣고 약한불에서 끓여 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "후추",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 후추 약간\", \"국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "label": "Ingredient",
+        "properties": {
+          "name": "후추",
+          "name_normalized": "후추"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깨",
+          "role": "seasoning",
+          "group": "재료",
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": "양념장에는 1티스푼",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 깨 약간\", \"[양념장] 깨 1티스푼\", \"국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요.\"]",
+          "quality_flags": [
+            "QUANTITY_CONFLICT"
+          ],
+          "component_uid": "10000recipe_6951400:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "label": "Ingredient",
+        "properties": {
+          "name": "깨",
+          "name_normalized": "깨"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "청양고추",
+          "role": "food",
+          "group": "양념장",
+          "quantity": "2개",
+          "unit": "개",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 청양고추 2개\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "label": "Ingredient",
+        "properties": {
+          "name": "청양고추",
+          "name_normalized": "청양고추"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "대파",
+          "role": "food",
+          "group": "양념장",
+          "quantity": "1/4뿌리",
+          "unit": "뿌리",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 대파 1/4뿌리\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:016",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고추가루",
+          "role": "seasoning",
+          "group": "양념장",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 고추가루 1큰술\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:016",
+          "index": 16
+        }
+      },
+      {
+        "id": "ingredient:a05f7a8dda571368661cf27786f4011c7449c745125fa79e70ef17d0a9792ca0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고추가루",
+          "name_normalized": "고추가루"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:017",
+        "label": "Component",
+        "properties": {
+          "raw_name": "국간장",
+          "role": "seasoning",
+          "group": "양념장",
+          "quantity": "2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 국간장 2큰술\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:017",
+          "index": 17
+        }
+      },
+      {
+        "id": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "국간장",
+          "name_normalized": "국간장"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:018",
+        "label": "Component",
+        "properties": {
+          "raw_name": "진간장",
+          "role": "seasoning",
+          "group": "양념장",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 진간장 1큰술\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:018",
+          "index": 18
+        }
+      },
+      {
+        "id": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+        "label": "Ingredient",
+        "properties": {
+          "name": "진간장",
+          "name_normalized": "진간장"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:019",
+        "label": "Component",
+        "properties": {
+          "raw_name": "참기름",
+          "role": "seasoning",
+          "group": "양념장",
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 참기름 1큰술\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:019",
+          "index": 19
+        }
+      },
+      {
+        "id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "label": "Ingredient",
+        "properties": {
+          "name": "참기름",
+          "name_normalized": "참기름"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:020",
+        "label": "Component",
+        "properties": {
+          "raw_name": "깨",
+          "role": "seasoning",
+          "group": "양념장",
+          "quantity": "1티스푼",
+          "unit": "티스푼",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 깨 1티스푼\", \"양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:020",
+          "index": 20
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:021",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "양념장",
+          "quantity": "2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념장] 물 2큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:021",
+          "index": 21
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:022",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": null,
+          "quantity": "2L",
+          "unit": "L",
+          "preparation": null,
+          "detail": "멸치육수용",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"다시 멸치에 물 2L를 붓고 끓여주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:022",
+          "index": 22
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:023",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": null,
+          "quantity": "200ml",
+          "unit": "ml",
+          "preparation": null,
+          "detail": "국수 삶을 때 찬물",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"끓어 오르면 찬물 200ml를 붓고 중간불로 줄여 주시고, 다시 끓으면 찬물을 한번 더 붓고 다시 끓으면 불에서 내려 찬물에 헹구어 물기를 빼 주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:023",
+          "index": 23
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:024",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식용유",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "국수 삶을 때 넣음",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"국수삶기 물이 끓으면 식용유 1큰술을 넣고 국수를 넣어 주세요.\", \"식용유를 넣고 삶으면 국수가 덜 불고 쫀득해요^^\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:024",
+          "index": 24
+        }
+      },
+      {
+        "id": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식용유",
+          "name_normalized": "식용유"
+        }
+      },
+      {
+        "id": "10000recipe_6951400:component:025",
+        "label": "Component",
+        "properties": {
+          "raw_name": "표고버섯",
+          "role": "food",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "말린표고버섯 대체",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6951400:component:025",
+          "index": 25
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6951400",
+        "type": "VARIANT_OF",
+        "target": "dish:855587983ed3be297807ec0b0cf40c0f0c9f9bdf9a13e92cd5fe2b6fddba8e32",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:7fcfe65119def7052bdd7d7a99c2c134c3f3781079ab363de8b90f3073c0e262",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:c51baef1506a3f642c2557093f24a4005a24aa866ce666649e92e9333c196b32",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:1928aefe1f901503e52d14873cdf0239c5b4d86fd937730962baaf32be446e63",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:b7b1c57aa1c86d9d0d91ae79e168ecc81e3d0867e57812029ce808dc5a88041b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:007",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+        "properties": {
+          "raw_name": "표고버섯",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": null,
+          "evidence": "[\"말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다.\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:b19aecdc4209b545cc1e5dae8626365f5be98796f085880692974768458706aa",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:016",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:016",
+        "type": "INGREDIENT",
+        "target": "ingredient:a05f7a8dda571368661cf27786f4011c7449c745125fa79e70ef17d0a9792ca0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:017",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:017",
+        "type": "INGREDIENT",
+        "target": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:018",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:018",
+        "type": "INGREDIENT",
+        "target": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:019",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:019",
+        "type": "INGREDIENT",
+        "target": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:020",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:020",
+        "type": "INGREDIENT",
+        "target": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:021",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:021",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:022",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:022",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:023",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:023",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:024",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:024",
+        "type": "INGREDIENT",
+        "target": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6951400:component:025",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6951400:component:025",
+        "type": "INGREDIENT",
+        "target": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "잔치국수",
+    "components": [
+      {
+        "raw_name": "소면",
+        "role": "food",
+        "group": "재료",
+        "quantity": "200g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소면 200g",
+          "국수삶기 물이 끓으면 식용유 1큰술을 넣고 국수를 넣어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "애호박",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": "채썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 애호박 1/2개",
+          "애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "애호박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "당근",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": "채썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 당근 1/2개",
+          "애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "당근",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": "채썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/2개",
+          "애호박 1/2개, 당근 1/2개, 양파 1/2개를 채썰어주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": "풀어서 넣고",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 계란 2개",
+          "끓어 오르면 계란 2개를 풀어서 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1움큼",
+        "unit": null,
+        "preparation": null,
+        "detail": "다시 멸치로 육수 사용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 멸치 1움큼",
+          "다시 멸치에 물 2L를 붓고 끓여주세요.",
+          "멸치를 건지고 표고버섯, 소금 1큰술을 넣고 약한불에서 끓여 주세요."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_QUANTITY"
+        ],
+        "ingredient_candidate": "멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "말린표고버섯",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1움큼",
+        "unit": null,
+        "preparation": "불려",
+        "detail": "그냥 표고버섯을 쓰셔도 됩니다",
+        "is_required": false,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "[재료] 말린표고버섯 1움큼",
+          "말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_QUANTITY"
+        ],
+        "ingredient_candidate": "말린표고버섯",
+        "alternatives": [
+          {
+            "raw_name": "표고버섯",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다."
+            ],
+            "ingredient_candidate": "표고버섯"
+          }
+        ]
+      },
+      {
+        "raw_name": "김가루",
+        "role": "food",
+        "group": "재료",
+        "quantity": "2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 김가루 2큰술",
+          "국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2쪽",
+        "unit": "쪽",
+        "preparation": "다져두고",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 마늘 2쪽",
+          "마늘은 미리 다져두고, 대파도 가늘게 썰어주세요.",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/4뿌리",
+        "unit": "뿌리",
+        "preparation": "가늘게 썰어",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1/4뿌리",
+          "마늘은 미리 다져두고, 대파도 가늘게 썰어주세요.",
+          "끓어 오르면 계란 2개를 풀어서 넣고 다진마늘 1티스푼, 썰은 대파를 넣어 주시면 육수 완성이에요.",
+          "[양념장] 대파 1/4뿌리"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소금 1큰술",
+          "멸치를 건지고 표고버섯, 소금 1큰술을 넣고 약한불에서 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추 약간",
+          "국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": "양념장에는 1티스푼",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 깨 약간",
+          "[양념장] 깨 1티스푼",
+          "국수를 먼저 담고 볶아 놓은 호박.당근.양파를 올리고 육수를 부어주세요. 김가루를 올리고 깨.후추를 살짝 뿌려주세요."
+        ],
+        "quality_flags": [
+          "QUANTITY_CONFLICT"
+        ],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "food",
+        "group": "양념장",
+        "quantity": "2개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 청양고추 2개",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "양념장",
+        "quantity": "1/4뿌리",
+        "unit": "뿌리",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 대파 1/4뿌리",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추가루",
+        "role": "seasoning",
+        "group": "양념장",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 고추가루 1큰술",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": "양념장",
+        "quantity": "2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 국간장 2큰술",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "진간장",
+        "role": "seasoning",
+        "group": "양념장",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 진간장 1큰술",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "진간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "양념장",
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 참기름 1큰술",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨",
+        "role": "seasoning",
+        "group": "양념장",
+        "quantity": "1티스푼",
+        "unit": "티스푼",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 깨 1티스푼",
+          "양념장 만들기 청양고추2개, 대파1/4뿌리, 마늘 2쪽, 고추가루 1큰술, 국간장 2큰술, 진간장 1큰술, 참기름 1큰술, 깨 1티스푼, 물2큰술을 모두 넣고 섞어 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "양념장",
+        "quantity": "2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념장] 물 2큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": null,
+        "quantity": "2L",
+        "unit": "L",
+        "preparation": null,
+        "detail": "멸치육수용",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "다시 멸치에 물 2L를 붓고 끓여주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": null,
+        "quantity": "200ml",
+        "unit": "ml",
+        "preparation": null,
+        "detail": "국수 삶을 때 찬물",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "끓어 오르면 찬물 200ml를 붓고 중간불로 줄여 주시고, 다시 끓으면 찬물을 한번 더 붓고 다시 끓으면 불에서 내려 찬물에 헹구어 물기를 빼 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식용유",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "국수 삶을 때 넣음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "국수삶기 물이 끓으면 식용유 1큰술을 넣고 국수를 넣어 주세요.",
+          "식용유를 넣고 삶으면 국수가 덜 불고 쫀득해요^^"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식용유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "표고버섯",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "말린표고버섯 대체",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "말린표고버섯은 미리 물에 불려주세요 그냥 표고버섯을 쓰셔도 됩니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "표고버섯",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "963272d26765d4e007cd13613989da852a9687581830e355fb91aae33c381e72",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6951400:dish",
+      "canonical_id": "dish:855587983ed3be297807ec0b0cf40c0f0c9f9bdf9a13e92cd5fe2b6fddba8e32",
+      "original_name": "잔치국수",
+      "canonical_name": "잔치국수",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:001:candidate:0",
+      "canonical_id": "ingredient:7fcfe65119def7052bdd7d7a99c2c134c3f3781079ab363de8b90f3073c0e262",
+      "original_name": "소면",
+      "canonical_name": "소면",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:002:candidate:0",
+      "canonical_id": "ingredient:c51baef1506a3f642c2557093f24a4005a24aa866ce666649e92e9333c196b32",
+      "original_name": "애호박",
+      "canonical_name": "애호박",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:003:candidate:0",
+      "canonical_id": "ingredient:238ebed596212200c386d24c57dff4d1d7e6accd275b77ff41eaa4f06bd2df12",
+      "original_name": "당근",
+      "canonical_name": "당근",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:004:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:005:candidate:0",
+      "canonical_id": "ingredient:0a953093be10ee679fe1db9a4fd9df7ef92d9756482e362b50f7eb586345cd67",
+      "original_name": "계란",
+      "canonical_name": "계란",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:006:candidate:0",
+      "canonical_id": "ingredient:1928aefe1f901503e52d14873cdf0239c5b4d86fd937730962baaf32be446e63",
+      "original_name": "멸치",
+      "canonical_name": "멸치",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:007:candidate:0",
+      "canonical_id": "ingredient:b7b1c57aa1c86d9d0d91ae79e168ecc81e3d0867e57812029ce808dc5a88041b",
+      "original_name": "말린표고버섯",
+      "canonical_name": "말린표고버섯",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:007:candidate:1",
+      "canonical_id": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+      "original_name": "표고버섯",
+      "canonical_name": "표고버섯",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:008:candidate:0",
+      "canonical_id": "ingredient:b19aecdc4209b545cc1e5dae8626365f5be98796f085880692974768458706aa",
+      "original_name": "김가루",
+      "canonical_name": "김가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:009:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:010:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:011:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:012:candidate:0",
+      "canonical_id": "ingredient:7d1190ab0ee7c8cacc1984ec4ac30650780b362059eaf61857d21745fc2c6a67",
+      "original_name": "후추",
+      "canonical_name": "후추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:013:candidate:0",
+      "canonical_id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+      "original_name": "깨",
+      "canonical_name": "깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:014:candidate:0",
+      "canonical_id": "ingredient:98af4e2c0117327e3b2dc90584f810148e2429294db9edaf404cc524a18a8eb9",
+      "original_name": "청양고추",
+      "canonical_name": "청양고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:015:candidate:0",
+      "canonical_id": "ingredient:5352ce1a8fc087544e58a55d43b3562ed79bd389301ee32a340352d5bb0bcc28",
+      "original_name": "대파",
+      "canonical_name": "대파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:016:candidate:0",
+      "canonical_id": "ingredient:a05f7a8dda571368661cf27786f4011c7449c745125fa79e70ef17d0a9792ca0",
+      "original_name": "고추가루",
+      "canonical_name": "고추가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:017:candidate:0",
+      "canonical_id": "ingredient:a22779709720f801cf60609b92b2378f1fb6f62cc97cc64f874580175e17e8e4",
+      "original_name": "국간장",
+      "canonical_name": "국간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:018:candidate:0",
+      "canonical_id": "ingredient:f00c875b23de4f7b3af109532326684ad20eb0f86cbdff70fa40258b062b3743",
+      "original_name": "진간장",
+      "canonical_name": "진간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:019:candidate:0",
+      "canonical_id": "ingredient:a8631137347b9fea36ad12b2eb5ef820500dd062d93214f9c50e7f048d702556",
+      "original_name": "참기름",
+      "canonical_name": "참기름",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:020:candidate:0",
+      "canonical_id": "ingredient:69cc10bad553e496216579679110553343ec41fd90de57510d77068156701784",
+      "original_name": "깨",
+      "canonical_name": "깨",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:021:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:022:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:023:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:024:candidate:0",
+      "canonical_id": "ingredient:a510f2c767dafac485f3063a43bffa7e209a233ceee383c4dbf392831dc04cfb",
+      "original_name": "식용유",
+      "canonical_name": "식용유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6951400:component:025:candidate:0",
+      "canonical_id": "ingredient:84ef66a9ac04354b7ae2bcc2570f3b75751520bbf3d92b791510ec108f4df7cc",
+      "original_name": "표고버섯",
+      "canonical_name": "표고버섯",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6951400",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "d31bf0e6ccf724e4d6172cce711b1e4f494d45d902e0c9a5bc3cf9c2364c3ee5"
+}

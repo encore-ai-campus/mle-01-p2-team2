@@ -1,0 +1,333 @@
+{
+  "recipe_uid": "10000recipe_6881800",
+  "payload": {
+    "title": "겨울 보양식 장어덮밥 만드는 법 간단 레시피",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "손질바다 장어 1마리",
+        "손질바다 장어",
+        "손질바다 장어",
+        "food",
+        "[재료]",
+        "1",
+        "마리",
+        null,
+        null
+      ],
+      [
+        "밥 1공기",
+        "밥 1공기",
+        "밥 1공기",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "양파 1/2개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "쪽파 1줄",
+        "쪽파 1줄",
+        "쪽파 1줄",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "계란 3알",
+        "계란",
+        "계란",
+        "food",
+        "[재료]",
+        "3",
+        "알",
+        null,
+        null
+      ],
+      [
+        "간생강 적당량",
+        "간생강",
+        "생강",
+        "food",
+        "[재료]",
+        "적당량",
+        null,
+        "간",
+        null
+      ],
+      [
+        "후추 톡톡",
+        "후추",
+        "후추",
+        "seasoning",
+        "[재료]",
+        "톡톡",
+        null,
+        null,
+        null
+      ],
+      [
+        "간장 2/3컵",
+        "간장",
+        "간장",
+        "seasoning",
+        "[양념장]",
+        "2/3",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "설탕 4스푼",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[양념장]",
+        "4",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "올리고당 2스푼",
+        "올리고당",
+        "올리고당",
+        "seasoning",
+        "[양념장]",
+        "2",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "생강가루 1/4스푼",
+        "생강가루",
+        "생강가루",
+        "seasoning",
+        "[양념장]",
+        "1/4",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "맛술(미림) 2스푼",
+        "맛술(미림)",
+        "맛술(미림)",
+        "seasoning",
+        "[양념장]",
+        "2",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "통마늘 10알",
+        "통마늘",
+        "마늘",
+        "seasoning",
+        "[양념장]",
+        "10",
+        "알",
+        "통",
+        null
+      ],
+      [
+        "물 1/3컵",
+        "물",
+        "물",
+        "seasoning",
+        "[양념장]",
+        "1/3",
+        "컵",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "손질바다 장어 1마리",
+      "raw_name": "손질바다 장어",
+      "ingredient_candidate": "손질바다 장어",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "마리",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "밥 1공기",
+      "raw_name": "밥 1공기",
+      "ingredient_candidate": "밥 1공기",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 1/2개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "쪽파 1줄",
+      "raw_name": "쪽파 1줄",
+      "ingredient_candidate": "쪽파 1줄",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란 3알",
+      "raw_name": "계란",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "알",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간생강 적당량",
+      "raw_name": "간생강",
+      "ingredient_candidate": "생강",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "적당량",
+      "unit": null,
+      "preparation": "간",
+      "detail": null
+    },
+    {
+      "raw": "후추 톡톡",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "톡톡",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 2/3컵",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[양념장]",
+      "quantity": "2/3",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 4스푼",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[양념장]",
+      "quantity": "4",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "올리고당 2스푼",
+      "raw_name": "올리고당",
+      "ingredient_candidate": "올리고당",
+      "role": "seasoning",
+      "group": "[양념장]",
+      "quantity": "2",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "생강가루 1/4스푼",
+      "raw_name": "생강가루",
+      "ingredient_candidate": "생강가루",
+      "role": "seasoning",
+      "group": "[양념장]",
+      "quantity": "1/4",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "맛술(미림) 2스푼",
+      "raw_name": "맛술(미림)",
+      "ingredient_candidate": "맛술(미림)",
+      "role": "seasoning",
+      "group": "[양념장]",
+      "quantity": "2",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "통마늘 10알",
+      "raw_name": "통마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념장]",
+      "quantity": "10",
+      "unit": "알",
+      "preparation": "통",
+      "detail": null
+    },
+    {
+      "raw": "물 1/3컵",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "seasoning",
+      "group": "[양념장]",
+      "quantity": "1/3",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 16,
+  "sent_steps": 0,
+  "evidence_text": "겨울 보양식 장어덮밥 만드는 법 간단 레시피\n손질바다 장어 1마리\n밥 1공기\n양파 1/2개\n쪽파 1줄\n계란 3알\n간생강 적당량\n후추 톡톡\n간장 2/3컵\n설탕 4스푼\n올리고당 2스푼\n생강가루 1/4스푼\n맛술(미림) 2스푼\n통마늘 10알\n물 1/3컵"
+}

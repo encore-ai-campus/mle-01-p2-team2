@@ -1,0 +1,271 @@
+{
+  "recipe_uid": "10000recipe_4268988",
+  "cache_key": "9d89b37401bb6916b68ac5068954346ba92d71af3e397769daa58a3f15f49c76",
+  "model": "gpt-5.4-mini",
+  "input_hash": "45df7a170a6edb47312e7b356f6a9d785f84d920dc6101d5771a43a61dc50780",
+  "source_record_hash": "9c31ff8348e419cd46187586d4463e522b69aebabab6d0623f4bf34d6e695a11",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "낙지연포탕",
+    "components": [
+      {
+        "raw_name": "무",
+        "role": "food",
+        "group": null,
+        "quantity": "50g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 무 50g",
+          "낙지연포탕을 시원하게 해줄 채소들 무,호박,양파,전골형으로 잘라요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무",
+        "alternatives": []
+      },
+      {
+        "raw_name": "콩나물",
+        "role": "food",
+        "group": null,
+        "quantity": "1줌",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 콩나물 1줌",
+          "콩나물 한줌 씻어놓고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "콩나물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": null,
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/2개",
+          "낙지연포탕을 시원하게 해줄 채소들 무,호박,양파,전골형으로 잘라요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "호박",
+        "role": "food",
+        "group": null,
+        "quantity": "1/3개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 호박 1/3개",
+          "낙지연포탕을 시원하게 해줄 채소들 무,호박,양파,전골형으로 잘라요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "호박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "애느타리",
+        "role": "food",
+        "group": null,
+        "quantity": "50g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 애느타리 50g",
+          "애느타리는 밑둥을 자르고 낱알낱알 띠어놓고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "애느타리버섯",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마늘",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 마늘",
+          "마늘도 새로 다져요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "어슷썬",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파",
+          "파는 어슷설고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "집간장",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1t",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 집간장 1t"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "집간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소금"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "낙지",
+        "role": "food",
+        "group": null,
+        "quantity": "3마리",
+        "unit": null,
+        "preparation": "손질한",
+        "detail": "통째로 넣어 살짝 익혀 가위로 잘라 먹음",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 낙지 3마리",
+          "낙지손질해서 냉동실에 두었던거 꺼내서 해동했어요~",
+          "끓어서 콩나물이 익으면 낙지를 통째로 넣어요",
+          "낙지를 샤브샤브하며 살짝 익혀요~",
+          "먹기좋게 가위로 잘랐어요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "낙지",
+        "alternatives": []
+      },
+      {
+        "raw_name": "건고추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "매콤할 걸 원하시면 넣으세요",
+        "is_required": false,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "매콤할 걸 원하시면 건고추나 청양고추를 넣으세요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "건고추",
+        "alternatives": [
+          {
+            "raw_name": "청양고추",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": "매콤할 걸 원하시면",
+            "evidence": [
+              "매콤할 걸 원하시면 건고추나 청양고추를 넣으세요~"
+            ],
+            "ingredient_candidate": "청양고추"
+          }
+        ]
+      },
+      {
+        "raw_name": "청양고추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "매콤할 걸 원하시면 넣으세요",
+        "is_required": false,
+        "alternative_mode": "either_or",
+        "evidence": [
+          "매콤할 걸 원하시면 건고추나 청양고추를 넣으세요~"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "청양고추",
+        "alternatives": [
+          {
+            "raw_name": "건고추",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": "매콤할 걸 원하시면",
+            "evidence": [
+              "매콤할 걸 원하시면 건고추나 청양고추를 넣으세요~"
+            ],
+            "ingredient_candidate": "건고추"
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1308,
+    "prompt_tokens": 2993,
+    "total_tokens": 4301,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

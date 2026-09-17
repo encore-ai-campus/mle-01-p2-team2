@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZjH5XvrO5yJyUBC9IUqZl0khqF",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"돼지갈비찜\",\"components\":[{\"raw_name\":\"돼지갈비 찜용 4근\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"돼지갈비 찜용 4근\"],\"quality_flags\":[],\"ingredient_candidate\":\"돼지갈비 찜용 4근\",\"alternatives\":[]},{\"raw_name\":\"무\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"무\"],\"quality_flags\":[],\"ingredient_candidate\":\"무\",\"alternatives\":[]},{\"raw_name\":\"당근\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"당근\"],\"quality_flags\":[],\"ingredient_candidate\":\"당근\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"대파\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"양파\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"진간장\",\"role\":\"seasoning\",\"group\":\"[갈비양념 만능소스]\",\"quantity\":\"2\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"진간장 2컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"진간장\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"[갈비양념 만능소스]\",\"quantity\":\"1\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"설탕 1컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"맛술\",\"role\":\"seasoning\",\"group\":\"[갈비양념 만능소스]\",\"quantity\":\"1\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"맛술 1컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛술\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"seasoning\",\"group\":\"[갈비양념 만능소스]\",\"quantity\":\"2\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"물 2컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"[갈비양념 만능소스]\",\"quantity\":\"1/2\",\"unit\":\"컵\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다진마늘 1/2컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"[갈비양념 만능소스]\",\"quantity\":\"1/4\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"참기름 1/4컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"seasoning\",\"group\":\"[갈비양념 만능소스]\",\"quantity\":\"1\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"대파 1컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"다진생강\",\"role\":\"seasoning\",\"group\":\"[갈비양념 만능소스]\",\"quantity\":\"1/2\",\"unit\":\"스푼\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다진생강 1/2스푼\"],\"quality_flags\":[],\"ingredient_candidate\":\"생강\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544551,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1000,
+    "prompt_tokens": 3053,
+    "total_tokens": 4053,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

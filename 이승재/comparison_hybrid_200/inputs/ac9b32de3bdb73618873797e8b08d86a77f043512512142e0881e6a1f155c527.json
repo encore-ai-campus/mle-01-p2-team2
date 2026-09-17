@@ -1,0 +1,267 @@
+{
+  "recipe_uid": "10000recipe_4457255",
+  "payload": {
+    "title": "고기가 맛있는 김치찌게 끓이기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "신김치 1포기",
+        "신김치",
+        "신김치",
+        "food",
+        "[재료]",
+        "1",
+        "포기",
+        null,
+        null
+      ],
+      [
+        "돼지고기 사태살 300g",
+        "돼지고기 사태살",
+        "돼지고기",
+        "food",
+        "[재료]",
+        "300",
+        "g",
+        null,
+        "사태살"
+      ],
+      [
+        "양파 1/2개",
+        "양파",
+        "양파",
+        "food",
+        "[재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "대파 1대",
+        "대파",
+        "대파",
+        "food",
+        "[재료]",
+        "1",
+        "대",
+        null,
+        null
+      ],
+      [
+        "육수 5컵",
+        "육수",
+        "육수",
+        "food",
+        "[재료]",
+        "5",
+        "컵",
+        null,
+        null
+      ],
+      [
+        "들기름 1큰술",
+        "들기름",
+        "들기름",
+        "seasoning",
+        "[양념]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "설탕 1작은술",
+        "설탕",
+        "설탕",
+        "seasoning",
+        "[양념]",
+        "1",
+        "작은술",
+        null,
+        null
+      ],
+      [
+        "다진마늘 1큰술",
+        "다진마늘",
+        "마늘",
+        "seasoning",
+        "[양념]",
+        "1",
+        "큰술",
+        "다진",
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[양념]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "참기름 1작은술",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[양념]",
+        "1",
+        "작은술",
+        null,
+        null
+      ],
+      [
+        "고추가루 2큰술",
+        "고추가루",
+        "고춧가루",
+        "seasoning",
+        "[양념]",
+        "2",
+        "큰술",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "신김치 1포기",
+      "raw_name": "신김치",
+      "ingredient_candidate": "신김치",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "포기",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "돼지고기 사태살 300g",
+      "raw_name": "돼지고기 사태살",
+      "ingredient_candidate": "돼지고기",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "300",
+      "unit": "g",
+      "preparation": null,
+      "detail": "사태살"
+    },
+    {
+      "raw": "양파 1/2개",
+      "raw_name": "양파",
+      "ingredient_candidate": "양파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 1대",
+      "raw_name": "대파",
+      "ingredient_candidate": "대파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "대",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "육수 5컵",
+      "raw_name": "육수",
+      "ingredient_candidate": "육수",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "5",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "들기름 1큰술",
+      "raw_name": "들기름",
+      "ingredient_candidate": "들기름",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 1작은술",
+      "raw_name": "설탕",
+      "ingredient_candidate": "설탕",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "작은술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1큰술",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1작은술",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "작은술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추가루 2큰술",
+      "raw_name": "고추가루",
+      "ingredient_candidate": "고춧가루",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 0,
+  "evidence_text": "고기가 맛있는 김치찌게 끓이기\n신김치 1포기\n돼지고기 사태살 300g\n양파 1/2개\n대파 1대\n육수 5컵\n들기름 1큰술\n설탕 1작은술\n다진마늘 1큰술\n후추 약간\n참기름 1작은술\n고추가루 2큰술"
+}

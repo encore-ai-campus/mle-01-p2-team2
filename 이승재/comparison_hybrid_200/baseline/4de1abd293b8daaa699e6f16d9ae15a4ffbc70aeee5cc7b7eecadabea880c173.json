@@ -1,0 +1,230 @@
+{
+  "recipe_uid": "10000recipe_6913491",
+  "cache_key": "0d931358770c0f970886111b2deffc15ae3cde2c7a2a22071632a411f7e67176",
+  "model": "gpt-5.4-mini",
+  "input_hash": "4d268c012b8cb06b0f63495eb61edf383b88bd31d19cbf6868353934f7c6aa2d",
+  "source_record_hash": "1a7d9c8cad9660fc46cb673812068bc97c72c121d84f4a4f7ac242d8319da2f9",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "비빔국수",
+    "components": [
+      {
+        "raw_name": "소면",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1인분",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소면 1인분",
+          "먼저 소면 1인분을 삶아 주신 뒤 찬물에 비벼가며 행궈 주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "오이",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": null,
+        "detail": "올려 데코",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 오이 1/2개",
+          "마지막으로 고소한 참기름과 깨를 넣고 한번 더 버물버물 해주시고 오이,달걀 올려 데코해주시면 끝!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "오이",
+        "alternatives": []
+      },
+      {
+        "raw_name": "신김치",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1줌",
+        "unit": "줌",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 신김치 1줌",
+          "물기를 뺀 국수에 김치와 양념장을 넣으시되"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "김치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "삶은달걀",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": "삶은",
+        "detail": "올려 데코",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 삶은달걀 1/2개",
+          "마지막으로 고소한 참기름과 깨를 넣고 한번 더 버물버물 해주시고 오이,달걀 올려 데코해주시면 끝!"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "달걀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 고추장 1T",
+          "참기름과 깨를 제외한 양념을 한곳에 섞어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고추장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고추가루",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1/2T",
+        "unit": "T",
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 고추가루 1/2T",
+          "참기름과 깨를 제외한 양념을 한곳에 섞어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 설탕 1T",
+          "참기름과 깨를 제외한 양념을 한곳에 섞어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간장",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 간장 1T",
+          "참기름과 깨를 제외한 양념을 한곳에 섞어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": null,
+        "detail": "양념장",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 식초 1T",
+          "참기름과 깨를 제외한 양념을 한곳에 섞어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 참기름 1T",
+          "마지막으로 고소한 참기름과 깨를 넣고 한번 더 버물버물 해주시고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨",
+        "role": "seasoning",
+        "group": "양념",
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 깨 1T",
+          "마지막으로 고소한 참기름과 깨를 넣고 한번 더 버물버물 해주시고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1134,
+    "prompt_tokens": 2996,
+    "total_tokens": 4130,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

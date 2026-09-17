@@ -1,0 +1,384 @@
+{
+  "recipe_uid": "10000recipe_6875078",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6875078",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6875078",
+          "title": "한식엔 빠질수없지! 고춧가루보관법",
+          "description": "한식에 빠질 수 없는 재료! 고춧가루는 이렇게 보관하자! 세상의 모든 레시피 만개의레시피",
+          "servings": "6인분 이상",
+          "cooking_time": "5분 이내",
+          "difficulty": "아무나",
+          "views": 190000,
+          "source_url": "https://www.10000recipe.com/recipe/6875078",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6875078:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "food",
+          "group": "재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 고춧가루\", \"단기간 고춧가루를 밀폐용기에 담아 뚜껑을 닫는다.\", \"장기간 지퍼백에 고춧가루를 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6875078:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6875078:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6875078:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밀폐용기",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "보관용기",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"단기간 고춧가루를 밀폐용기에 담아 뚜껑을 닫는다.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_INGREDIENT"
+          ],
+          "component_uid": "10000recipe_6875078:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6875078:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밀폐용기",
+          "name_normalized": "밀폐용기"
+        }
+      },
+      {
+        "id": "10000recipe_6875078:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "지퍼백",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "보관용기",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"장기간 지퍼백에 고춧가루를 넣는다.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_INGREDIENT"
+          ],
+          "component_uid": "10000recipe_6875078:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6875078:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "지퍼백",
+          "name_normalized": "지퍼백"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6875078",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6875078:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6875078:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6875078:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6875078",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6875078:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6875078:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6875078:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6875078",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6875078:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6875078:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6875078:component:003:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6875078",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6875078",
+          "title": "한식엔 빠질수없지! 고춧가루보관법",
+          "description": "한식에 빠질 수 없는 재료! 고춧가루는 이렇게 보관하자! 세상의 모든 레시피 만개의레시피",
+          "servings": "6인분 이상",
+          "cooking_time": "5분 이내",
+          "difficulty": "아무나",
+          "views": 190000,
+          "source_url": "https://www.10000recipe.com/recipe/6875078",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6875078:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "food",
+          "group": "재료",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 고춧가루\", \"단기간 고춧가루를 밀폐용기에 담아 뚜껑을 닫는다.\", \"장기간 지퍼백에 고춧가루를 넣는다.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6875078:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6875078:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "밀폐용기",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "보관용기",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"단기간 고춧가루를 밀폐용기에 담아 뚜껑을 닫는다.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_INGREDIENT"
+          ],
+          "component_uid": "10000recipe_6875078:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:662c996ff85dc2d0a03126b905f6eb4136a1892e447af669a1661e226c90c7cc",
+        "label": "Ingredient",
+        "properties": {
+          "name": "밀폐용기",
+          "name_normalized": "밀폐용기"
+        }
+      },
+      {
+        "id": "10000recipe_6875078:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "지퍼백",
+          "role": "unknown",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "보관용기",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"장기간 지퍼백에 고춧가루를 넣는다.\"]",
+          "quality_flags": [
+            "AMBIGUOUS_INGREDIENT"
+          ],
+          "component_uid": "10000recipe_6875078:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:c148dc7b0236325888ec602e7ee05a1d2811dfbc2ef293ef2f14d88105d2a827",
+        "label": "Ingredient",
+        "properties": {
+          "name": "지퍼백",
+          "name_normalized": "지퍼백"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6875078",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6875078:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6875078:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6875078",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6875078:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6875078:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:662c996ff85dc2d0a03126b905f6eb4136a1892e447af669a1661e226c90c7cc",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6875078",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6875078:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6875078:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:c148dc7b0236325888ec602e7ee05a1d2811dfbc2ef293ef2f14d88105d2a827",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": null,
+    "components": [
+      {
+        "raw_name": "고춧가루",
+        "role": "food",
+        "group": "재료",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 고춧가루",
+          "단기간 고춧가루를 밀폐용기에 담아 뚜껑을 닫는다.",
+          "장기간 지퍼백에 고춧가루를 넣는다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밀폐용기",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "보관용기",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "단기간 고춧가루를 밀폐용기에 담아 뚜껑을 닫는다."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "밀폐용기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "지퍼백",
+        "role": "unknown",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "보관용기",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "장기간 지퍼백에 고춧가루를 넣는다."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "지퍼백",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "781473c0f8a33f2dab7f76c8e59b8911ecc68afbba1205652f4970e9c30e69cf",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6875078:component:001:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6875078:component:002:candidate:0",
+      "canonical_id": "ingredient:662c996ff85dc2d0a03126b905f6eb4136a1892e447af669a1661e226c90c7cc",
+      "original_name": "밀폐용기",
+      "canonical_name": "밀폐용기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6875078:component:003:candidate:0",
+      "canonical_id": "ingredient:c148dc7b0236325888ec602e7ee05a1d2811dfbc2ef293ef2f14d88105d2a827",
+      "original_name": "지퍼백",
+      "canonical_name": "지퍼백",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6875078",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "c44214c0ca8dfeca8f5f8a22c70d01a6481ac81b0e372292fade31c1fac40ead"
+}

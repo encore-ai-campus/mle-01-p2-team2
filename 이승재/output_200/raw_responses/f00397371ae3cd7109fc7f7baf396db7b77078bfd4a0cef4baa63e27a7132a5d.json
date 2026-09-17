@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb170iviN2NMemmAciw6Tc2A4lmp",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"샌드위치\",\"components\":[{\"raw_name\":\"빵\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 빵\",\"빵을 우선 기름없이 후라이팬에 노릇하게 구워주세요~\"],\"quality_flags\":[],\"ingredient_candidate\":\"빵\",\"alternatives\":[]},{\"raw_name\":\"치즈\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 치즈\",\"햄위에 치즈도 한장씩 올려주었어요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"치즈\",\"alternatives\":[]},{\"raw_name\":\"햄\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 햄\",\"그리고 햄을 올려주었는데 슬라이스햄은 얇으니 두개로.\",\"10장들은 햄이기에 이렇게 쓰면 남지 않고 딱 좋더라구요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"햄\",\"alternatives\":[]},{\"raw_name\":\"각종야채\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"본문에서는 치커리나 양상추, 양파, 토마토가 실제로 사용됨\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 각종야채\",\"그리고 치커리나 양상추등 올리고 양파를 올려주세요~\",\"양파위에 토마토를 2개씩 올려주었어요~\"],\"quality_flags\":[],\"ingredient_candidate\":\"채소\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":\"얇게 채썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 양파\",\"양파는 얇게 채썰어서 물에 담궈 매운맛을 빼주구요~\",\"그리고 치커리나 양상추등 올리고 양파를 올려주세요~\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"토마토\",\"role\":\"food\",\"group\":null,\"quantity\":\"2개씩\",\"unit\":null,\"preparation\":\"잘라서 준비\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 토마토\",\"토마토는 잘라서 준비해주세요!\",\"양파위에 토마토를 2개씩 올려주었어요~\"],\"quality_flags\":[],\"ingredient_candidate\":\"토마토\",\"alternatives\":[]},{\"raw_name\":\"계란 삶은것\",\"role\":\"food\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":\"삶아서 흰자와 노른자를 분리하고, 노른자는 으깨고 흰자는 잘게 썬\",\"detail\":\"마요네즈 한숟가락과 섞음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 계란 삶은것\",\"계란은 삶아서 흰자와 노른자를 분리하고, 노른자는 으깨고 흰자는 잘게 썰어주었어요!\",\"그리고 섞어서 마요네즈를 한숟가락만 넣고 비벼주어요~\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란\",\"alternatives\":[]},{\"raw_name\":\"마요네즈\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"한숟가락\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"그리고 섞어서 마요네즈를 한숟가락만 넣고 비벼주어요~\",\"빵위에 마요네즈와 머스터드를 비닐팩에 넣오 이쑤시개로 살짝 뚫어주면 이렇게 나와요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마요네즈\",\"alternatives\":[]},{\"raw_name\":\"머스터드\",\"role\":\"seasoning\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"빵위에 마요네즈와 머스터드를 비닐팩에 넣오 이쑤시개로 살짝 뚫어주면 이렇게 나와요.\",\"소스뿌린 빵위에 계란을 올려주어요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"머스터드\",\"alternatives\":[]},{\"raw_name\":\"소금후추\",\"role\":\"seasoning\",\"group\":null,\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":\"계란에 뿌려 간을 함\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"계란에 소금후추 뿌려서 간 살짝 해주구요~\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금후추\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530873,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1165,
+    "prompt_tokens": 3155,
+    "total_tokens": 4320,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeaWm1pzOTZBMaXwzmOPFOFrlh9V",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"소고기 미역국\",\"components\":[{\"raw_name\":\"마른미역 종이컵\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"12\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"마른미역 종이컵 1컵 12g\"],\"quality_flags\":[],\"ingredient_candidate\":\"마른미역 종이컵\",\"alternatives\":[]},{\"raw_name\":\"국거리 종이컵\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"100\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"국거리 종이컵 1컵 100g\"],\"quality_flags\":[],\"ingredient_candidate\":\"국거리 종이컵\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"8\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"물 8컵\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":\"2\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"참기름 2큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"다진 마늘\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":\"1\",\"unit\":\"작은술\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"다진 마늘 1작은술\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"국간장\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":\"2\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"국간장 2큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"국간장\",\"alternatives\":[]},{\"raw_name\":\"꽃소금\",\"role\":\"seasoning\",\"group\":\"[양념]\",\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"꽃소금 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"꽃소금\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544600,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 552,
+    "prompt_tokens": 2866,
+    "total_tokens": 3418,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "recipe_uid": "10000recipe_6906704",
+  "payload": {
+    "title": "저염식 건강 쌈장과 양배추 쌈밥, 맛있는 쌈장 쌈밥",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "두부 1/3모",
+        "두부",
+        "두부",
+        "food",
+        "[저염쌈장재료]",
+        "1/3",
+        "모",
+        null,
+        null
+      ],
+      [
+        "양파 작은크기 1/2개",
+        "양파 작은크기",
+        "양파 작은크기",
+        "food",
+        "[저염쌈장재료]",
+        "1/2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "다진마늘 0.5큰술",
+        "다진마늘",
+        "마늘",
+        "food",
+        "[저염쌈장재료]",
+        "0.5",
+        "큰술",
+        "다진",
+        null
+      ],
+      [
+        "풋고추 2개",
+        "풋고추",
+        "풋고추",
+        "food",
+        "[저염쌈장재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "매실청 다른청가능 2큰술",
+        "매실청 다른청가능",
+        "매실청 다른청가능",
+        "food",
+        "[저염쌈장재료]",
+        "2",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "통깨 1큰술",
+        "통깨",
+        "통깨",
+        "food",
+        "[저염쌈장재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "양배추",
+        "양배추",
+        "양배추",
+        "food",
+        "[양배추쌈재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "된장 2.5큰술",
+        "된장",
+        "된장",
+        "seasoning",
+        "[저염쌈장재료]",
+        "2.5",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "고추장 1.5큰술",
+        "고추장",
+        "고추장",
+        "seasoning",
+        "[저염쌈장재료]",
+        "1.5",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "참기름 1큰술",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[저염쌈장재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "두부 1/3모",
+      "raw_name": "두부",
+      "ingredient_candidate": "두부",
+      "role": "food",
+      "group": "[저염쌈장재료]",
+      "quantity": "1/3",
+      "unit": "모",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양파 작은크기 1/2개",
+      "raw_name": "양파 작은크기",
+      "ingredient_candidate": "양파 작은크기",
+      "role": "food",
+      "group": "[저염쌈장재료]",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 0.5큰술",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[저염쌈장재료]",
+      "quantity": "0.5",
+      "unit": "큰술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "풋고추 2개",
+      "raw_name": "풋고추",
+      "ingredient_candidate": "풋고추",
+      "role": "food",
+      "group": "[저염쌈장재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "매실청 다른청가능 2큰술",
+      "raw_name": "매실청 다른청가능",
+      "ingredient_candidate": "매실청 다른청가능",
+      "role": "food",
+      "group": "[저염쌈장재료]",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "통깨 1큰술",
+      "raw_name": "통깨",
+      "ingredient_candidate": "통깨",
+      "role": "food",
+      "group": "[저염쌈장재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양배추",
+      "raw_name": "양배추",
+      "ingredient_candidate": "양배추",
+      "role": "food",
+      "group": "[양배추쌈재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "된장 2.5큰술",
+      "raw_name": "된장",
+      "ingredient_candidate": "된장",
+      "role": "seasoning",
+      "group": "[저염쌈장재료]",
+      "quantity": "2.5",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고추장 1.5큰술",
+      "raw_name": "고추장",
+      "ingredient_candidate": "고추장",
+      "role": "seasoning",
+      "group": "[저염쌈장재료]",
+      "quantity": "1.5",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "참기름 1큰술",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[저염쌈장재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 8,
+  "sent_steps": 0,
+  "evidence_text": "저염식 건강 쌈장과 양배추 쌈밥, 맛있는 쌈장 쌈밥\n두부 1/3모\n양파 작은크기 1/2개\n다진마늘 0.5큰술\n풋고추 2개\n매실청 다른청가능 2큰술\n통깨 1큰술\n양배추\n된장 2.5큰술\n고추장 1.5큰술\n참기름 1큰술"
+}

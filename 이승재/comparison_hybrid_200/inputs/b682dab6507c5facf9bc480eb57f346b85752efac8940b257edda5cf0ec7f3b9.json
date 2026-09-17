@@ -1,0 +1,144 @@
+{
+  "recipe_uid": "10000recipe_6866542",
+  "payload": {
+    "title": "[집밥] 돼지고기 김치찌개 # 백종원 김치찌개",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "돼지고기 200g",
+        "돼지고기",
+        "돼지고기",
+        "food",
+        "[재료]",
+        "200",
+        "g",
+        null,
+        null
+      ],
+      [
+        "김치 600g",
+        "김치",
+        "김치",
+        "food",
+        "[재료]",
+        "600",
+        "g",
+        null,
+        null
+      ],
+      [
+        "간 마늘 1T",
+        "간 마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "1",
+        "T",
+        "간",
+        null
+      ],
+      [
+        "고춧가루 2T",
+        "고춧가루",
+        "고춧가루",
+        "seasoning",
+        "[재료]",
+        "2",
+        "T",
+        null,
+        null
+      ],
+      [
+        "국간장 1T",
+        "국간장",
+        "국간장",
+        "seasoning",
+        "[재료]",
+        "1",
+        "T",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 4,
+        "text": "고춧가루 2T를 넣어주세요. 고운고춧가루는 국물색깔을 내고 굵은 고추가루는 식재료에 묻으며 시각효과를 극대화 해줍니다."
+      },
+      {
+        "step": 5,
+        "text": "국간장 1T 넣어 향을 내주세요. 새우젓 1T 로 간을 합니다. (없어서 생략) * 김치가 쉴 경우 설탕 1T 정도 넣어주세요."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "돼지고기 200g",
+      "raw_name": "돼지고기",
+      "ingredient_candidate": "돼지고기",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "200",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "김치 600g",
+      "raw_name": "김치",
+      "ingredient_candidate": "김치",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "600",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간 마늘 1T",
+      "raw_name": "간 마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": "간",
+      "detail": null
+    },
+    {
+      "raw": "고춧가루 2T",
+      "raw_name": "고춧가루",
+      "ingredient_candidate": "고춧가루",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "국간장 1T",
+      "raw_name": "국간장",
+      "ingredient_candidate": "국간장",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 5,
+  "sent_steps": 2,
+  "evidence_text": "[집밥] 돼지고기 김치찌개 # 백종원 김치찌개\n돼지고기 200g\n김치 600g\n간 마늘 1T\n고춧가루 2T\n국간장 1T\n고춧가루 2T를 넣어주세요. 고운고춧가루는 국물색깔을 내고 굵은 고추가루는 식재료에 묻으며 시각효과를 극대화 해줍니다.\n국간장 1T 넣어 향을 내주세요. 새우젓 1T 로 간을 합니다. (없어서 생략) * 김치가 쉴 경우 설탕 1T 정도 넣어주세요."
+}

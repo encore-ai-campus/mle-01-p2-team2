@@ -1,0 +1,1309 @@
+{
+  "recipe_uid": "10000recipe_6872120",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6872120",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6872120",
+          "title": "들깨샐러드소스 들깨소스 만드는법",
+          "description": "입맛이 없을 때 즐길 수 있는 상큼한 들깨샐러드소스입니다",
+          "servings": "2인분",
+          "cooking_time": "10분 이내",
+          "difficulty": "초급",
+          "views": 143000,
+          "source_url": "https://www.10000recipe.com/recipe/6872120",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "들깨샐러드소스"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "들깨가루",
+          "role": "food",
+          "group": null,
+          "quantity": "3큰술",
+          "unit": "큰술",
+          "preparation": "볶아 곱게 가루를 낸",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"들깨가루 3큰술\", \"들깨는 볶아 곱게 가루를 낸 것으로 준비합니다\", \"야채를 제외한 모든 재료를 믹서기나 블렌더에 넣고 곱게 갈아주는데요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "들깨가루",
+          "name_normalized": "들깨가루"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실",
+          "role": "food",
+          "group": null,
+          "quantity": "2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"매실 2큰술\", \"야채를 제외한 모든 재료를 믹서기나 블렌더에 넣고 곱게 갈아주는데요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실",
+          "name_normalized": "매실"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1/2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "신맛이 싫으면 반으로 줄이기",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"식초 1/2큰술\", \"신맛이 싫으시면 식초는 반으로 줄이고요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생크림요거트",
+          "role": "food",
+          "group": null,
+          "quantity": "3큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "단맛이 없는 플레인 요거트를 사용할 때는 설탕 1/2술 정도 추가",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"생크림요거트 3큰술\", \"단맛이 없는 플레인 요거트를 사용할 때는 꼭 설탕을 1/2술 정도 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생크림요거트",
+          "name_normalized": "생크림요거트"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:004:candidate:1",
+        "label": "Ingredient",
+        "properties": {
+          "name": "플레인 요거트",
+          "name_normalized": "플레인 요거트"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "샐러드용 엑스트라버진 올리브오일",
+          "role": "food",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"샐러드용 엑스트라버진 올리브오일 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "엑스트라버진 올리브오일",
+          "name_normalized": "엑스트라버진 올리브오일"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "말린 오렌지",
+          "role": "food",
+          "group": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": "쓴맛이 있는 껍질은 제거",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"말린 오렌지 적당량\", \"말린 오렌지는 쓴맛이 있는 껍질은 제거해주세요\", \"말린 오렌지를 사용하지 않을때는 믹서기 대신에 볼에 넣고 주걱으로 잘 섞어주시면 된답니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "말린 오렌지",
+          "name_normalized": "말린 오렌지"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양상추",
+          "role": "food",
+          "group": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": "씻어 손으로 먹기 좋게 자른",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양상추 적당량\", \"양상추는 씻어 손으로 먹기 좋게 잘라주고\", \"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양상추",
+          "name_normalized": "양상추"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": "채 썬",
+          "detail": "찬물에 잠시 담가 매운맛을 제거",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 적당량\", \"양파는 채 썰어 찬물에 잠시 담가두면 매운맛이 사라져 먹기에 좋겠죠\", \"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삶은달걀",
+          "role": "food",
+          "group": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": "삶은",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"삶은달걀 적당량\", \"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "삶은달걀",
+          "name_normalized": "삶은달걀"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "딸기",
+          "role": "food",
+          "group": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"딸기 적당량\", \"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "딸기",
+          "name_normalized": "딸기"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6872120",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6872120:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:004",
+        "type": "ALTERNATIVE",
+        "target": "10000recipe_6872120:component:004:candidate:1",
+        "properties": {
+          "raw_name": "플레인 요거트",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "단맛이 없는 플레인 요거트를 사용할 때",
+          "evidence": "[\"단맛이 없는 플레인 요거트를 사용할 때는 꼭 설탕을 1/2술 정도 넣어주세요\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6872120:component:011:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6872120",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6872120",
+          "title": "들깨샐러드소스 들깨소스 만드는법",
+          "description": "입맛이 없을 때 즐길 수 있는 상큼한 들깨샐러드소스입니다",
+          "servings": "2인분",
+          "cooking_time": "10분 이내",
+          "difficulty": "초급",
+          "views": 143000,
+          "source_url": "https://www.10000recipe.com/recipe/6872120",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:9816dbb37d991f8820e20269ac5e31cee6812a3f8b7eeafdd3d29094c91a4705",
+        "label": "Dish",
+        "properties": {
+          "name": "들깨샐러드소스"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "들깨가루",
+          "role": "food",
+          "group": null,
+          "quantity": "3큰술",
+          "unit": "큰술",
+          "preparation": "볶아 곱게 가루를 낸",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"들깨가루 3큰술\", \"들깨는 볶아 곱게 가루를 낸 것으로 준비합니다\", \"야채를 제외한 모든 재료를 믹서기나 블렌더에 넣고 곱게 갈아주는데요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:8d0280a0394e2d59de3202fb05c0f621e2f1dea5319e8362770fa25c6de9b8bd",
+        "label": "Ingredient",
+        "properties": {
+          "name": "들깨가루",
+          "name_normalized": "들깨가루"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "매실",
+          "role": "food",
+          "group": null,
+          "quantity": "2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"매실 2큰술\", \"야채를 제외한 모든 재료를 믹서기나 블렌더에 넣고 곱게 갈아주는데요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:1f134a655c0199a3549be38fdd5439531994de706aee57f1231d9707083c4b05",
+        "label": "Ingredient",
+        "properties": {
+          "name": "매실",
+          "name_normalized": "매실"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "식초",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1/2큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "신맛이 싫으면 반으로 줄이기",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"식초 1/2큰술\", \"신맛이 싫으시면 식초는 반으로 줄이고요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "label": "Ingredient",
+        "properties": {
+          "name": "식초",
+          "name_normalized": "식초"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "생크림요거트",
+          "role": "food",
+          "group": null,
+          "quantity": "3큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": "단맛이 없는 플레인 요거트를 사용할 때는 설탕 1/2술 정도 추가",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"생크림요거트 3큰술\", \"단맛이 없는 플레인 요거트를 사용할 때는 꼭 설탕을 1/2술 정도 넣어주세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:96f5c4d2470982ec78c2e91ba83ce97255e0e730e68c33bf8ebde5ed0dd671ed",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생크림요거트",
+          "name_normalized": "생크림요거트"
+        }
+      },
+      {
+        "id": "ingredient:452ebe900712843e6b3956c8bae36a3af3194c2904e0fea192b8a82cdaad62ef",
+        "label": "Ingredient",
+        "properties": {
+          "name": "플레인 요거트",
+          "name_normalized": "플레인 요거트"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "샐러드용 엑스트라버진 올리브오일",
+          "role": "food",
+          "group": null,
+          "quantity": "1큰술",
+          "unit": "큰술",
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"샐러드용 엑스트라버진 올리브오일 1큰술\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:56c3e85174dd68a8d18b5716810e6b569401db8bdc479a8bfa0f91aff2020b13",
+        "label": "Ingredient",
+        "properties": {
+          "name": "엑스트라버진 올리브오일",
+          "name_normalized": "엑스트라버진 올리브오일"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "약간",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"소금 약간\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "말린 오렌지",
+          "role": "food",
+          "group": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": "쓴맛이 있는 껍질은 제거",
+          "is_required": false,
+          "alternative_mode": "none",
+          "evidence": "[\"말린 오렌지 적당량\", \"말린 오렌지는 쓴맛이 있는 껍질은 제거해주세요\", \"말린 오렌지를 사용하지 않을때는 믹서기 대신에 볼에 넣고 주걱으로 잘 섞어주시면 된답니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:1d6359bbd84dcc0e900257a9a560e3f53a9edbe3413ec41d79248c181832f22a",
+        "label": "Ingredient",
+        "properties": {
+          "name": "말린 오렌지",
+          "name_normalized": "말린 오렌지"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양상추",
+          "role": "food",
+          "group": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": "씻어 손으로 먹기 좋게 자른",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양상추 적당량\", \"양상추는 씻어 손으로 먹기 좋게 잘라주고\", \"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:789e70a866653b5b8415c75d9eeb30e5dd7eb1bc04cc0602fb3d8139fa9c15be",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양상추",
+          "name_normalized": "양상추"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": "채 썬",
+          "detail": "찬물에 잠시 담가 매운맛을 제거",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"양파 적당량\", \"양파는 채 썰어 찬물에 잠시 담가두면 매운맛이 사라져 먹기에 좋겠죠\", \"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "삶은달걀",
+          "role": "food",
+          "group": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": "삶은",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"삶은달걀 적당량\", \"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:17fc5ec0597b0fe4ba91fc9108098eb8e97bd91febeec4ffb6cf3d42659810e6",
+        "label": "Ingredient",
+        "properties": {
+          "name": "삶은달걀",
+          "name_normalized": "삶은달걀"
+        }
+      },
+      {
+        "id": "10000recipe_6872120:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "딸기",
+          "role": "food",
+          "group": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"딸기 적당량\", \"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6872120:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:9aaa5e25a46bb378f2cce8c975c7043da9ca29f934451de3f95589f2e2857b84",
+        "label": "Ingredient",
+        "properties": {
+          "name": "딸기",
+          "name_normalized": "딸기"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6872120",
+        "type": "VARIANT_OF",
+        "target": "dish:9816dbb37d991f8820e20269ac5e31cee6812a3f8b7eeafdd3d29094c91a4705",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:8d0280a0394e2d59de3202fb05c0f621e2f1dea5319e8362770fa25c6de9b8bd",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:1f134a655c0199a3549be38fdd5439531994de706aee57f1231d9707083c4b05",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:96f5c4d2470982ec78c2e91ba83ce97255e0e730e68c33bf8ebde5ed0dd671ed",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:004",
+        "type": "ALTERNATIVE",
+        "target": "ingredient:452ebe900712843e6b3956c8bae36a3af3194c2904e0fea192b8a82cdaad62ef",
+        "properties": {
+          "raw_name": "플레인 요거트",
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "condition": "단맛이 없는 플레인 요거트를 사용할 때",
+          "evidence": "[\"단맛이 없는 플레인 요거트를 사용할 때는 꼭 설탕을 1/2술 정도 넣어주세요\"]"
+        }
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:56c3e85174dd68a8d18b5716810e6b569401db8bdc479a8bfa0f91aff2020b13",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:1d6359bbd84dcc0e900257a9a560e3f53a9edbe3413ec41d79248c181832f22a",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:789e70a866653b5b8415c75d9eeb30e5dd7eb1bc04cc0602fb3d8139fa9c15be",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:17fc5ec0597b0fe4ba91fc9108098eb8e97bd91febeec4ffb6cf3d42659810e6",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6872120:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6872120:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:9aaa5e25a46bb378f2cce8c975c7043da9ca29f934451de3f95589f2e2857b84",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "들깨샐러드소스",
+    "components": [
+      {
+        "raw_name": "들깨가루",
+        "role": "food",
+        "group": null,
+        "quantity": "3큰술",
+        "unit": "큰술",
+        "preparation": "볶아 곱게 가루를 낸",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "들깨가루 3큰술",
+          "들깨는 볶아 곱게 가루를 낸 것으로 준비합니다",
+          "야채를 제외한 모든 재료를 믹서기나 블렌더에 넣고 곱게 갈아주는데요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "들깨가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "매실",
+        "role": "food",
+        "group": null,
+        "quantity": "2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "매실 2큰술",
+          "야채를 제외한 모든 재료를 믹서기나 블렌더에 넣고 곱게 갈아주는데요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "매실",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식초",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1/2큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "신맛이 싫으면 반으로 줄이기",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "식초 1/2큰술",
+          "신맛이 싫으시면 식초는 반으로 줄이고요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식초",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생크림요거트",
+        "role": "food",
+        "group": null,
+        "quantity": "3큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "단맛이 없는 플레인 요거트를 사용할 때는 설탕 1/2술 정도 추가",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "생크림요거트 3큰술",
+          "단맛이 없는 플레인 요거트를 사용할 때는 꼭 설탕을 1/2술 정도 넣어주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생크림요거트",
+        "alternatives": [
+          {
+            "raw_name": "플레인 요거트",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": "단맛이 없는 플레인 요거트를 사용할 때",
+            "evidence": [
+              "단맛이 없는 플레인 요거트를 사용할 때는 꼭 설탕을 1/2술 정도 넣어주세요"
+            ],
+            "ingredient_candidate": "플레인 요거트"
+          }
+        ]
+      },
+      {
+        "raw_name": "샐러드용 엑스트라버진 올리브오일",
+        "role": "food",
+        "group": null,
+        "quantity": "1큰술",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "샐러드용 엑스트라버진 올리브오일 1큰술"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "엑스트라버진 올리브오일",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "말린 오렌지",
+        "role": "food",
+        "group": null,
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": "쓴맛이 있는 껍질은 제거",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "말린 오렌지 적당량",
+          "말린 오렌지는 쓴맛이 있는 껍질은 제거해주세요",
+          "말린 오렌지를 사용하지 않을때는 믹서기 대신에 볼에 넣고 주걱으로 잘 섞어주시면 된답니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "말린 오렌지",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양상추",
+        "role": "food",
+        "group": null,
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": "씻어 손으로 먹기 좋게 자른",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "양상추 적당량",
+          "양상추는 씻어 손으로 먹기 좋게 잘라주고",
+          "샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양상추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": null,
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": "채 썬",
+        "detail": "찬물에 잠시 담가 매운맛을 제거",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "양파 적당량",
+          "양파는 채 썰어 찬물에 잠시 담가두면 매운맛이 사라져 먹기에 좋겠죠",
+          "샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "삶은달걀",
+        "role": "food",
+        "group": null,
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": "삶은",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "삶은달걀 적당량",
+          "샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "삶은달걀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "딸기",
+        "role": "food",
+        "group": null,
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "딸기 적당량",
+          "샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "딸기",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "1c760424e9b11959f492a673a7781d868c2a532d7fe6f674ba9d56c415fc431b",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6872120:dish",
+      "canonical_id": "dish:9816dbb37d991f8820e20269ac5e31cee6812a3f8b7eeafdd3d29094c91a4705",
+      "original_name": "들깨샐러드소스",
+      "canonical_name": "들깨샐러드소스",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:001:candidate:0",
+      "canonical_id": "ingredient:8d0280a0394e2d59de3202fb05c0f621e2f1dea5319e8362770fa25c6de9b8bd",
+      "original_name": "들깨가루",
+      "canonical_name": "들깨가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:002:candidate:0",
+      "canonical_id": "ingredient:1f134a655c0199a3549be38fdd5439531994de706aee57f1231d9707083c4b05",
+      "original_name": "매실",
+      "canonical_name": "매실",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:003:candidate:0",
+      "canonical_id": "ingredient:447f0563a9d01f5e3fe6e2dbd4030c9b58bda558f929ffa8c8bb3ed134f03d76",
+      "original_name": "식초",
+      "canonical_name": "식초",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:004:candidate:0",
+      "canonical_id": "ingredient:96f5c4d2470982ec78c2e91ba83ce97255e0e730e68c33bf8ebde5ed0dd671ed",
+      "original_name": "생크림요거트",
+      "canonical_name": "생크림요거트",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:004:candidate:1",
+      "canonical_id": "ingredient:452ebe900712843e6b3956c8bae36a3af3194c2904e0fea192b8a82cdaad62ef",
+      "original_name": "플레인 요거트",
+      "canonical_name": "플레인 요거트",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:005:candidate:0",
+      "canonical_id": "ingredient:56c3e85174dd68a8d18b5716810e6b569401db8bdc479a8bfa0f91aff2020b13",
+      "original_name": "엑스트라버진 올리브오일",
+      "canonical_name": "엑스트라버진 올리브오일",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:006:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:007:candidate:0",
+      "canonical_id": "ingredient:1d6359bbd84dcc0e900257a9a560e3f53a9edbe3413ec41d79248c181832f22a",
+      "original_name": "말린 오렌지",
+      "canonical_name": "말린 오렌지",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:008:candidate:0",
+      "canonical_id": "ingredient:789e70a866653b5b8415c75d9eeb30e5dd7eb1bc04cc0602fb3d8139fa9c15be",
+      "original_name": "양상추",
+      "canonical_name": "양상추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:009:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:010:candidate:0",
+      "canonical_id": "ingredient:17fc5ec0597b0fe4ba91fc9108098eb8e97bd91febeec4ffb6cf3d42659810e6",
+      "original_name": "삶은달걀",
+      "canonical_name": "삶은달걀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6872120:component:011:candidate:0",
+      "canonical_id": "ingredient:9aaa5e25a46bb378f2cce8c975c7043da9ca29f934451de3f95589f2e2857b84",
+      "original_name": "딸기",
+      "canonical_name": "딸기",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6872120",
+    "status": "blocked",
+    "errors": [
+      "10000recipe_6872120:component:004: ALTERNATIVE_MODE"
+    ],
+    "stage1_errors": [
+      "10000recipe_6872120:component:004: ALTERNATIVE_MODE"
+    ],
+    "stage2_errors": [
+      "10000recipe_6872120:component:004: ALTERNATIVE_MODE"
+    ]
+  },
+  "review_hash": "0c9005102d0c11c5c91601fd9664e732f9782d8e796999cf2dfa90453a02ab70"
+}

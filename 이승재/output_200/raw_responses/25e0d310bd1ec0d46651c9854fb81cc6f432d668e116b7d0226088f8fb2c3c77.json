@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1qk3cgBQF4TrYGlUgo0Mzxlz2a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"들깨샐러드소스\",\"components\":[{\"raw_name\":\"들깨가루\",\"role\":\"food\",\"group\":null,\"quantity\":\"3큰술\",\"unit\":\"큰술\",\"preparation\":\"볶아 곱게 가루를 낸\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"들깨가루 3큰술\",\"들깨는 볶아 곱게 가루를 낸 것으로 준비합니다\",\"야채를 제외한 모든 재료를 믹서기나 블렌더에 넣고 곱게 갈아주는데요\"],\"quality_flags\":[],\"ingredient_candidate\":\"들깨가루\",\"alternatives\":[]},{\"raw_name\":\"매실\",\"role\":\"food\",\"group\":null,\"quantity\":\"2큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"매실 2큰술\",\"야채를 제외한 모든 재료를 믹서기나 블렌더에 넣고 곱게 갈아주는데요\"],\"quality_flags\":[],\"ingredient_candidate\":\"매실\",\"alternatives\":[]},{\"raw_name\":\"식초\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1/2큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"신맛이 싫으면 반으로 줄이기\",\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"식초 1/2큰술\",\"신맛이 싫으시면 식초는 반으로 줄이고요\"],\"quality_flags\":[],\"ingredient_candidate\":\"식초\",\"alternatives\":[]},{\"raw_name\":\"생크림요거트\",\"role\":\"food\",\"group\":null,\"quantity\":\"3큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"단맛이 없는 플레인 요거트를 사용할 때는 설탕 1/2술 정도 추가\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"생크림요거트 3큰술\",\"단맛이 없는 플레인 요거트를 사용할 때는 꼭 설탕을 1/2술 정도 넣어주세요\"],\"quality_flags\":[],\"ingredient_candidate\":\"생크림요거트\",\"alternatives\":[{\"raw_name\":\"플레인 요거트\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":\"단맛이 없는 플레인 요거트를 사용할 때\",\"evidence\":[\"단맛이 없는 플레인 요거트를 사용할 때는 꼭 설탕을 1/2술 정도 넣어주세요\"],\"ingredient_candidate\":\"플레인 요거트\"}]},{\"raw_name\":\"샐러드용 엑스트라버진 올리브오일\",\"role\":\"food\",\"group\":null,\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"샐러드용 엑스트라버진 올리브오일 1큰술\"],\"quality_flags\":[],\"ingredient_candidate\":\"엑스트라버진 올리브오일\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"소금 약간\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"말린 오렌지\",\"role\":\"food\",\"group\":null,\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":\"쓴맛이 있는 껍질은 제거\",\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"말린 오렌지 적당량\",\"말린 오렌지는 쓴맛이 있는 껍질은 제거해주세요\",\"말린 오렌지를 사용하지 않을때는 믹서기 대신에 볼에 넣고 주걱으로 잘 섞어주시면 된답니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"말린 오렌지\",\"alternatives\":[]},{\"raw_name\":\"양상추\",\"role\":\"food\",\"group\":null,\"quantity\":\"적당량\",\"unit\":null,\"preparation\":\"씻어 손으로 먹기 좋게 자른\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"양상추 적당량\",\"양상추는 씻어 손으로 먹기 좋게 잘라주고\",\"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"양상추\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":null,\"quantity\":\"적당량\",\"unit\":null,\"preparation\":\"채 썬\",\"detail\":\"찬물에 잠시 담가 매운맛을 제거\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"양파 적당량\",\"양파는 채 썰어 찬물에 잠시 담가두면 매운맛이 사라져 먹기에 좋겠죠\",\"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"삶은달걀\",\"role\":\"food\",\"group\":null,\"quantity\":\"적당량\",\"unit\":null,\"preparation\":\"삶은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"삶은달걀 적당량\",\"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"삶은달걀\",\"alternatives\":[]},{\"raw_name\":\"딸기\",\"role\":\"food\",\"group\":null,\"quantity\":\"적당량\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"딸기 적당량\",\"샐러드용 접시에 준비한 야채와 함께 들깨소스를 아낌없이 뿌려 골고루 섞어 맛있게 드시면 된답니다\"],\"quality_flags\":[],\"ingredient_candidate\":\"딸기\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530918,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1389,
+    "prompt_tokens": 3164,
+    "total_tokens": 4553,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

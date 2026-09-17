@@ -1,0 +1,100 @@
+{
+  "recipe_uid": "10000recipe_7081345",
+  "cache_key": "dfd5dddd1606c8545c2c6b3d5e5589c56dfe90a7613199f95b08c9cee4b12f1e",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 334,
+    "prompt_tokens": 2901,
+    "total_tokens": 3235,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "수박 주스",
+    "components": [
+      {
+        "raw_name": "수박",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "수박 적당량"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "수박",
+        "alternatives": []
+      },
+      {
+        "raw_name": "생강",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "생강 적당량"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강",
+        "alternatives": []
+      },
+      {
+        "raw_name": "레몬즙",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "레몬즙 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "레몬즙",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금 약간",
+          "소금을 넣으면 단맛이 훨씬 강하게 느껴진다는 사실 다들 알고 계시죠?"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 2.641
+}

@@ -1,0 +1,178 @@
+{
+  "recipe_uid": "10000recipe_7082943",
+  "cache_key": "937adde91371fbaa58237612db9f06e0af5ef1d2d068d8ff8dcd681021d0c0fa",
+  "model": "gpt-5.4-mini",
+  "input_hash": "92f22581bcfa033606b57260bd011b8313a3f6e0ab52febca66e0359d53f0d4d",
+  "source_record_hash": "3632e7e01847ba8a8374b0cbc7938e303133cee687029550b37611e20a570104",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "양배추새우덮밥",
+    "components": [
+      {
+        "raw_name": "양배추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/4통",
+        "unit": null,
+        "preparation": "얇게 총총총",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양배추 1/4통",
+          "양배추랑 대파는 얇게 총총총.",
+          "양배추랑 참치액 2T 넣고 볶볶."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양배추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1/2대",
+        "unit": null,
+        "preparation": "얇게 총총총",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1/2대",
+          "양배추랑 대파는 얇게 총총총.",
+          "팬에 계란후라이 하나 해주고, 오일 둘러 대파, 고춧가루 2T 넣어 볶볶."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "새우",
+        "role": "food",
+        "group": "재료",
+        "quantity": "먹을만큼",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 새우 먹을만큼",
+          "새우 추가해서 볶다가 참기름 1T, 깨 뿌리면 완성."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "새우",
+        "alternatives": []
+      },
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1개",
+        "unit": null,
+        "preparation": null,
+        "detail": "계란후라이",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 계란 1개",
+          "팬에 계란후라이 하나 해주고, 오일 둘러 대파, 고춧가루 2T 넣어 볶볶."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 고춧가루 2T",
+          "팬에 계란후라이 하나 해주고, 오일 둘러 대파, 고춧가루 2T 넣어 볶볶."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참치액",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 참치액 2T",
+          "양배추랑 참치액 2T 넣고 볶볶."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참치액",
+        "alternatives": []
+      },
+      {
+        "raw_name": "참기름",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 참기름 1T",
+          "새우 추가해서 볶다가 참기름 1T, 깨 뿌리면 완성."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "참기름",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 깨 약간",
+          "새우 추가해서 볶다가 참기름 1T, 깨 뿌리면 완성."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 866,
+    "prompt_tokens": 2861,
+    "total_tokens": 3727,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

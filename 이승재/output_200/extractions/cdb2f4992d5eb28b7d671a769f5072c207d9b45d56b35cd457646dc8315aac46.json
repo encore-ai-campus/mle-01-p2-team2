@@ -1,0 +1,273 @@
+{
+  "recipe_uid": "10000recipe_7080380",
+  "cache_key": "bf4f2f9ff283d19d53737c067b22eef11dd51b77c91ddd085adc9123a0cd8fcf",
+  "model": "gpt-5.4-mini",
+  "input_hash": "1958a3d1bc3fc9ffd50871a167d3dc3125ea2785bff5426afcfa6c199338821c",
+  "source_record_hash": "abaa921ae0629387ed01e9b9fc3d3e72a8be72f7292537f7109d7457ce4b90ef",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "어묵무국",
+    "components": [
+      {
+        "raw_name": "어묵",
+        "role": "food",
+        "group": "재료",
+        "quantity": "3장",
+        "unit": null,
+        "preparation": "먹기 좋은 사이즈로 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 어묵 3장",
+          "어묵도 먹기 좋은 사이즈로 썰어 준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "어묵",
+        "alternatives": []
+      },
+      {
+        "raw_name": "무",
+        "role": "food",
+        "group": "재료",
+        "quantity": "200g",
+        "unit": null,
+        "preparation": "나박나박 썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 무 200g",
+          "무를 나박나박 썰어 준비해주세요.",
+          "다시마를 건져 내고 멸치만 따로 3분 정도 더 끓여주세요.",
+          "다시 멸치도 건져내 준 뒤 썰어둔 무를 넣고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무",
+        "alternatives": []
+      },
+      {
+        "raw_name": "간마늘",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1/2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 간마늘 1/2T",
+          "무를 넣고 국간장, 간마늘을 넣고 3분 정도 끓여 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "미림",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "3T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 미림 3T",
+          "어묵도 먹기 좋은 사이즈로 썰어 준 뒤 대파, 청양고추, 미림, 후추를 넣고 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "미림",
+        "alternatives": []
+      },
+      {
+        "raw_name": "국간장",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 국간장 1T",
+          "무를 넣고 국간장, 간마늘을 넣고 3분 정도 끓여 줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "국간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "청고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": "본문에서는 청양고추로 서술됨",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 청고추 적당량",
+          "대파, 청양고추도 썰어 줍니다.",
+          "어묵도 먹기 좋은 사이즈로 썰어 준 뒤 대파, 청양고추, 미림, 후추를 넣고 끓여 주세요."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "청고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍고추",
+        "role": "food",
+        "group": "재료",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 홍고추 적당량"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "대파",
+        "role": "food",
+        "group": "재료",
+        "quantity": "1대",
+        "unit": null,
+        "preparation": "썬",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 대파 1대",
+          "대파, 청양고추도 썰어 줍니다.",
+          "어묵도 먹기 좋은 사이즈로 썰어 준 뒤 대파, 청양고추, 미림, 후추를 넣고 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "대파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": "부족한 간을 맞추기 위해 사용",
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소금 약간",
+          "3분 정도 더 끓여 준 뒤 부족한 간은 소금으로 채워줍니다."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "재료",
+        "quantity": "1L",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 물 1L",
+          "물을 넣고 다시마를 넣은 뒤 육수가 끓으면"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": "재료",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 후추 약간",
+          "어묵도 먹기 좋은 사이즈로 썰어 준 뒤 대파, 청양고추, 미림, 후추를 넣고 끓여 주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다시멸치",
+        "role": "food",
+        "group": "멸치육수",
+        "quantity": "30g",
+        "unit": null,
+        "preparation": "다시",
+        "detail": "육수 내기 전 한번 살짝 볶음",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[멸치육수] 다시멸치 30g",
+          "국 끓일 냄비에 먼저 다시 멸치를 한번 살짝 볶아 주세요.",
+          "살짝 볶은 멸치에 물을 넣고 다시마를 넣은 뒤 육수가 끓으면 약불로 5분 끓인 뒤 다시마를 건져 내고 멸치만 따로 3분 정도 더 끓여주세요.",
+          "다시 멸치도 건져내 준 뒤"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다시멸치",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다시마",
+        "role": "food",
+        "group": "멸치육수",
+        "quantity": "2장",
+        "unit": null,
+        "preparation": "다시",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[멸치육수] 다시마 2장",
+          "살짝 볶은 멸치에 물을 넣고 다시마를 넣은 뒤 육수가 끓으면 약불로 5분 끓인 뒤 다시마를 건져 내고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "다시마",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1502,
+    "prompt_tokens": 3096,
+    "total_tokens": 4598,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

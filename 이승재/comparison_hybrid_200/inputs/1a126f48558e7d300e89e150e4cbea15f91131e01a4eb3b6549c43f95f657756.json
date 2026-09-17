@@ -1,0 +1,333 @@
+{
+  "recipe_uid": "10000recipe_6894530",
+  "payload": {
+    "title": "인기가요샌드위치 !! 요즘 이게 대세☆",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "식빵 4장",
+        "식빵",
+        "식빵",
+        "food",
+        "[필수재료]",
+        "4",
+        "장",
+        null,
+        null
+      ],
+      [
+        "딸기잼 2숟가락",
+        "딸기잼 2숟가락",
+        "딸기잼 2숟가락",
+        "food",
+        "[필수재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "양배추 100g",
+        "양배추",
+        "양배추",
+        "food",
+        "[양배추샐러드재료]",
+        "100",
+        "g",
+        null,
+        null
+      ],
+      [
+        "다진피클 2숟가락",
+        "다진피클 2숟가락",
+        "다진피클 2숟가락",
+        "food",
+        "[양배추샐러드재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "옥수수통조림 2숟가락",
+        "옥수수통조림 2숟가락",
+        "옥수수통조림 2숟가락",
+        "food",
+        "[양배추샐러드재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "맛살 3줄",
+        "맛살 3줄",
+        "맛살 3줄",
+        "food",
+        "[양배추샐러드재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "마요네즈 2숟가락",
+        "마요네즈 2숟가락",
+        "마요네즈 2숟가락",
+        "food",
+        "[양배추샐러드재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "케첩 2숟가락",
+        "케첩 2숟가락",
+        "케첩 2숟가락",
+        "food",
+        "[양배추샐러드재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "삶은감자 1개",
+        "삶은감자",
+        "삶은감자",
+        "food",
+        "[감자달걀샐러드재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "삶은달걀 1개",
+        "삶은달걀",
+        "삶은달걀",
+        "food",
+        "[감자달걀샐러드재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "설탕 2숟가락",
+        "설탕 2숟가락",
+        "설탕 2숟가락",
+        "food",
+        "[감자달걀샐러드재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "마요네즈 3숟가락",
+        "마요네즈 3숟가락",
+        "마요네즈 3숟가락",
+        "food",
+        "[감자달걀샐러드재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[감자달걀샐러드재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[감자달걀샐러드재료]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "식빵 4장",
+      "raw_name": "식빵",
+      "ingredient_candidate": "식빵",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": "4",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "딸기잼 2숟가락",
+      "raw_name": "딸기잼 2숟가락",
+      "ingredient_candidate": "딸기잼 2숟가락",
+      "role": "food",
+      "group": "[필수재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "양배추 100g",
+      "raw_name": "양배추",
+      "ingredient_candidate": "양배추",
+      "role": "food",
+      "group": "[양배추샐러드재료]",
+      "quantity": "100",
+      "unit": "g",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진피클 2숟가락",
+      "raw_name": "다진피클 2숟가락",
+      "ingredient_candidate": "다진피클 2숟가락",
+      "role": "food",
+      "group": "[양배추샐러드재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "옥수수통조림 2숟가락",
+      "raw_name": "옥수수통조림 2숟가락",
+      "ingredient_candidate": "옥수수통조림 2숟가락",
+      "role": "food",
+      "group": "[양배추샐러드재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "맛살 3줄",
+      "raw_name": "맛살 3줄",
+      "ingredient_candidate": "맛살 3줄",
+      "role": "food",
+      "group": "[양배추샐러드재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마요네즈 2숟가락",
+      "raw_name": "마요네즈 2숟가락",
+      "ingredient_candidate": "마요네즈 2숟가락",
+      "role": "food",
+      "group": "[양배추샐러드재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "케첩 2숟가락",
+      "raw_name": "케첩 2숟가락",
+      "ingredient_candidate": "케첩 2숟가락",
+      "role": "food",
+      "group": "[양배추샐러드재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "삶은감자 1개",
+      "raw_name": "삶은감자",
+      "ingredient_candidate": "삶은감자",
+      "role": "food",
+      "group": "[감자달걀샐러드재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "삶은달걀 1개",
+      "raw_name": "삶은달걀",
+      "ingredient_candidate": "삶은달걀",
+      "role": "food",
+      "group": "[감자달걀샐러드재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "설탕 2숟가락",
+      "raw_name": "설탕 2숟가락",
+      "ingredient_candidate": "설탕 2숟가락",
+      "role": "food",
+      "group": "[감자달걀샐러드재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마요네즈 3숟가락",
+      "raw_name": "마요네즈 3숟가락",
+      "ingredient_candidate": "마요네즈 3숟가락",
+      "role": "food",
+      "group": "[감자달걀샐러드재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[감자달걀샐러드재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[감자달걀샐러드재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 4,
+  "sent_steps": 0,
+  "evidence_text": "인기가요샌드위치 !! 요즘 이게 대세☆\n식빵 4장\n딸기잼 2숟가락\n양배추 100g\n다진피클 2숟가락\n옥수수통조림 2숟가락\n맛살 3줄\n마요네즈 2숟가락\n케첩 2숟가락\n삶은감자 1개\n삶은달걀 1개\n설탕 2숟가락\n마요네즈 3숟가락\n소금 약간\n후추 약간"
+}

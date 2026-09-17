@@ -1,0 +1,156 @@
+{
+  "recipe_uid": "10000recipe_6837737",
+  "cache_key": "acf91000bfa5dfdc798bf4ae053c5e94628adac9ad374c9fe80c5ef7ee58e24b",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 653,
+    "prompt_tokens": 3206,
+    "total_tokens": 3859,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "알리오올리오",
+    "components": [
+      {
+        "raw_name": "스파게티면",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "2",
+        "unit": "인분",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "스파게티면 2인분",
+          "파스타면을 샤악 넣어주시고 7~8분정도"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "스파게티면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통마늘",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "4~5",
+        "unit": "개",
+        "preparation": "통",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "통마늘 4~5개",
+          "마늘은 얇게 편을 썰어서 준비"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1~2",
+        "unit": "TS",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "다진마늘 1~2TS"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "페페론치니",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "3~4",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": false,
+        "alternative_mode": "none",
+        "evidence": [
+          "페페론치니 3~4개",
+          "이 고추는 굉장히 매운맛을 내기에, 취향에 맞게 양조절하세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "페페론치니",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물 2/3냄비",
+        "role": "food",
+        "group": "[파스타 끓일 물]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "물 2/3냄비",
+          "먼저 물을 팔팔 끓여주시구요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물 2/3냄비",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브유",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "2/3",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "올리브유 2/3컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "소금",
+          "소금 1Ts",
+          "소금 1TS를 넣어준 다음"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 3.344
+}

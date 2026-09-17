@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1wOUuVymTCARGjN4MFye74dxim",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"쌈장 쌈밥\",\"components\":[{\"raw_name\":\"된장\",\"role\":\"seasoning\",\"group\":\"저염쌈장재료\",\"quantity\":\"2.5큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[저염쌈장재료] 된장 2.5큰술\",\"된장 2.5, 고추장 1.5큰술 넣습니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"된장\",\"alternatives\":[]},{\"raw_name\":\"고추장\",\"role\":\"seasoning\",\"group\":\"저염쌈장재료\",\"quantity\":\"1.5큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[저염쌈장재료] 고추장 1.5큰술\",\"된장 2.5, 고추장 1.5큰술 넣습니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추장\",\"alternatives\":[]},{\"raw_name\":\"두부\",\"role\":\"food\",\"group\":\"저염쌈장재료\",\"quantity\":\"1/3모\",\"unit\":\"모\",\"preparation\":\"꼭 짠\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[저염쌈장재료] 두부 1/3모\",\"두부는 꼬옥 짜서 넣고 잘 섞어 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"두부\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"저염쌈장재료\",\"quantity\":\"1/2개\",\"unit\":\"개\",\"preparation\":\"작은크기, 잘게 다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[저염쌈장재료] 양파 작은크기 1/2개\",\"양파와 고추는 잘게 다져주고\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"저염쌈장재료\",\"quantity\":\"0.5큰술\",\"unit\":\"큰술\",\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[저염쌈장재료] 다진마늘 0.5큰술\",\"다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"풋고추\",\"role\":\"food\",\"group\":\"저염쌈장재료\",\"quantity\":\"2개\",\"unit\":\"개\",\"preparation\":\"잘게 다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[저염쌈장재료] 풋고추 2개\",\"양파와 고추는 잘게 다져주고\"],\"quality_flags\":[],\"ingredient_candidate\":\"풋고추\",\"alternatives\":[]},{\"raw_name\":\"매실청\",\"role\":\"seasoning\",\"group\":\"저염쌈장재료\",\"quantity\":\"2큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"다른청가능\",\"is_required\":true,\"alternative_mode\":\"replacement\",\"evidence\":[\"[저염쌈장재료] 매실청 다른청가능 2큰술\",\"매실청 2큰술 넣는데요, 다른청도 가능합니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"매실청\",\"alternatives\":[{\"raw_name\":\"다른청\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"[저염쌈장재료] 매실청 다른청가능 2큰술\",\"매실청 2큰술 넣는데요, 다른청도 가능합니다.\"],\"ingredient_candidate\":\"청\"}]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"저염쌈장재료\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[저염쌈장재료] 참기름 1큰술\",\"다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"통깨\",\"role\":\"seasoning\",\"group\":\"저염쌈장재료\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[저염쌈장재료] 통깨 1큰술\",\"다진마늘 반큰술, 참기름 1큰술, 통깨 1큰술을 넣습니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"깨\",\"alternatives\":[]},{\"raw_name\":\"양배추\",\"role\":\"food\",\"group\":\"양배추쌈재료\",\"quantity\":null,\"unit\":null,\"preparation\":\"한장씩 뜯은, 씻은, 먹기좋은 크기로 썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양배추쌈재료] 양배추\",\"양배추는 한장씩 뜯어 흐르는 물에 깨끗이 씻고 먹기좋은 크기로 썬후 그릇에 양배추 담고 물 반컵 담고 뚜껑이나 그릇 덮어 전자레인지에서 5~7분간 돌려주면 적당히 익는답니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"양배추\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"양배추쌈재료\",\"quantity\":\"반컵\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"양배추는 한장씩 뜯어 흐르는 물에 깨끗이 씻고 먹기좋은 크기로 썬후 그릇에 양배추 담고 물 반컵 담고 뚜껑이나 그릇 덮어 전자레인지에서 5~7분간 돌려주면 적당히 익는답니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530924,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1429,
+    "prompt_tokens": 3242,
+    "total_tokens": 4671,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

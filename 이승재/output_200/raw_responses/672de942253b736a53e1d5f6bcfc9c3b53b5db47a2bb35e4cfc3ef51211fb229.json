@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1N764oWEIpFUbInoHGNfHATKBz",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"돈코츠 차슈 라멘\",\"components\":[{\"raw_name\":\"계란\",\"role\":\"food\",\"group\":null,\"quantity\":\"1개\",\"unit\":null,\"preparation\":\"반숙, 6분 삶은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"계란 1개\",\"반숙 계란 삶는 법 끊는 물에 6분만 삶아주면 반숙 계란 완성\",\"6분 삶은 게란 올리면 끝\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란\",\"alternatives\":[]},{\"raw_name\":\"사골곰탕\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1팩\",\"unit\":null,\"preparation\":null,\"detail\":\"육수로 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"사골곰탕 1팩\",\"먼저 생면 삶아준 다음 육수는 사골곰탕 1팩 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"사골곰탕\",\"alternatives\":[]},{\"raw_name\":\"숙주\",\"role\":\"food\",\"group\":null,\"quantity\":\"적당량\",\"unit\":null,\"preparation\":\"잘 씻은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"숙주 적당량\",\"잘 풀어서 잘 씻은 숙주 넣고 끓여주면 됩니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"숙주\",\"alternatives\":[]},{\"raw_name\":\"생면\",\"role\":\"food\",\"group\":null,\"quantity\":\"2인분\",\"unit\":null,\"preparation\":\"삶은\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"생면 2인분\",\"먼저 생면 삶아준 다음\",\"이제 그릇에 삶아논 생면에 육수와 숙주 넣어준 다음\"],\"quality_flags\":[],\"ingredient_candidate\":\"생면\",\"alternatives\":[]},{\"raw_name\":\"차슈\",\"role\":\"food\",\"group\":null,\"quantity\":\"100g\",\"unit\":null,\"preparation\":\"살짝 토치로 지져서\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"차슈 100g\",\"차슈는 이걸로 종결입니다.\",\"그냥 꺼내서 올리기만 하면 됩니다.\",\"살짝 토치로 지져서 불맛좀 내주고\"],\"quality_flags\":[],\"ingredient_candidate\":\"차슈\",\"alternatives\":[]},{\"raw_name\":\"돈코츠 소스\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1스푼\",\"unit\":null,\"preparation\":null,\"detail\":\"육수에 넣음\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"돈코츠 소스 1스푼\",\"돈코츠 소스 반스푼에 숙주 넣고 끓여주면 됩니다.\"],\"quality_flags\":[\"QUANTITY_CONFLICT\"],\"ingredient_candidate\":\"돈코츠 소스\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1/2스푼\",\"unit\":null,\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"다진마늘 1/2스푼\",\"다진마늘 반스푼 필수로 넣어주고\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":null,\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":\"토핑\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"대파 약간\",\"대파 올리고\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530889,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 819,
+    "prompt_tokens": 3148,
+    "total_tokens": 3967,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

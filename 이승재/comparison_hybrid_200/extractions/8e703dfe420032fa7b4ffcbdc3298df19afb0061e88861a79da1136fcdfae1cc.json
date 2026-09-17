@@ -1,0 +1,65 @@
+{
+  "recipe_uid": "10000recipe_6960275",
+  "cache_key": "103f012f77e5c20ebda2d1895e35ef5dbb3eb9f8b880d323d933630367053491",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 164,
+    "prompt_tokens": 2680,
+    "total_tokens": 2844,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "오징어찜",
+    "components": [
+      {
+        "raw_name": "생물오징어",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "생물오징어"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생물오징어",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소주",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소주 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소주",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 1.219
+}

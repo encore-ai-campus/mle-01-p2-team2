@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1ug5fPj0ToyAlO6J5vKIBEkORo",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"참치 비빔밥\",\"components\":[{\"raw_name\":\"밥\",\"role\":\"food\",\"group\":\"밥재료\",\"quantity\":\"1공기\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[밥재료] 밥 1공기\",\"그릇에 밥 - 상추잘게 찢은것 - 김순으로 얹는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"밥\",\"alternatives\":[]},{\"raw_name\":\"상추\",\"role\":\"food\",\"group\":\"밥재료\",\"quantity\":\"3장\",\"unit\":null,\"preparation\":\"잘게 찢은것\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[밥재료] 상추 3장\",\"그릇에 밥 - 상추잘게 찢은것 - 김순으로 얹는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"상추\",\"alternatives\":[]},{\"raw_name\":\"김\",\"role\":\"food\",\"group\":\"밥재료\",\"quantity\":\"1줌\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[밥재료] 김 1줌\",\"그릇에 밥 - 상추잘게 찢은것 - 김순으로 얹는다.\",\"김 위에 만들어놓았던 양념을 얹은 후 계란후라이를 얹는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"김\",\"alternatives\":[]},{\"raw_name\":\"계란\",\"role\":\"food\",\"group\":\"밥재료\",\"quantity\":\"1개\",\"unit\":null,\"preparation\":\"후라이\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[밥재료] 계란 1개\",\"김 위에 만들어놓았던 양념을 얹은 후 계란후라이를 얹는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"계란\",\"alternatives\":[]},{\"raw_name\":\"참치캔\",\"role\":\"food\",\"group\":\"양념재료\",\"quantity\":\"1/2캔\",\"unit\":null,\"preparation\":\"100g\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 참치캔 100g 1/2캔\",\"약불에 데우면서 참치를 넣는다.\",\"참치기름은 빼지않고 같이 넣는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"참치캔\",\"alternatives\":[]},{\"raw_name\":\"고추장\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1.5스푼\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 고추장 1.5스푼\",\"팬에 양념재료(고추장1.5큰술, 고추가루1큰술, 간장1큰술, 설탕1큰술, 올리고당1큰술)을 넣고 섞어준다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추장\",\"alternatives\":[]},{\"raw_name\":\"고추가루\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 고추가루 1큰술\",\"팬에 양념재료(고추장1.5큰술, 고추가루1큰술, 간장1큰술, 설탕1큰술, 올리고당1큰술)을 넣고 섞어준다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"고추가루\",\"alternatives\":[]},{\"raw_name\":\"간장\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 간장 1큰술\",\"팬에 양념재료(고추장1.5큰술, 고추가루1큰술, 간장1큰술, 설탕1큰술, 올리고당1큰술)을 넣고 섞어준다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"간장\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 설탕 1큰술\",\"팬에 양념재료(고추장1.5큰술, 고추가루1큰술, 간장1큰술, 설탕1큰술, 올리고당1큰술)을 넣고 섞어준다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"올리고당\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 올리고당 1큰술\",\"팬에 양념재료(고추장1.5큰술, 고추가루1큰술, 간장1큰술, 설탕1큰술, 올리고당1큰술)을 넣고 섞어준다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리고당\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1큰술\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 참기름 1큰술\",\"참기름1큰술을 두른 후 섞어준다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530922,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1318,
+    "prompt_tokens": 2926,
+    "total_tokens": 4244,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

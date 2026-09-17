@@ -1,0 +1,152 @@
+{
+  "recipe_uid": "10000recipe_7082208",
+  "payload": {
+    "title": "No오븐 No전자레인지 전기밥솥으로 만드는 견과류카스테라만들기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "핫케이크가루 500g 1봉지",
+        "핫케이크가루",
+        "핫케이크가루",
+        "food",
+        "[재료]",
+        "1",
+        "봉지",
+        null,
+        null
+      ],
+      [
+        "계란 2알",
+        "계란",
+        "계란",
+        "food",
+        "[재료]",
+        "2",
+        "알",
+        null,
+        null
+      ],
+      [
+        "우유 250ml 1개",
+        "우유",
+        "우유",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "버터 10g 1조각",
+        "버터",
+        "버터",
+        "food",
+        "[재료]",
+        "10",
+        "g",
+        null,
+        "1조각"
+      ],
+      [
+        "견과류 1줌",
+        "견과류",
+        "견과류",
+        "food",
+        "[재료]",
+        "1",
+        "줌",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 1,
+        "text": "핫케익가루500g, 우유250ml,계란2알, 버터, 견과류, 검은깨(없으면 생략가능) 준비"
+      },
+      {
+        "step": 2,
+        "text": "먼저 계란 2알을 풀어주세요. 머랭 칠때 처럼 거품은 필요없고 계란만 잘 풀어만 주세요!"
+      },
+      {
+        "step": 3,
+        "text": "핫케익 가루는 500g짜리 전부다 넣어주신 후에 우유 250ml를 부어 섞어주세요. (핫케이크 가루가 소금,설탕간이 되어 있어 따로 안 넣으셔도 돼요)"
+      },
+      {
+        "step": 4,
+        "text": "반죽의 정도는 너무 묽지도 되직하지도 않게 해주세요. 사진처럼 위에서 떨어뜨렸을때 쪼로록 떨어지면 돼요!"
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "핫케이크가루 500g 1봉지",
+      "raw_name": "핫케이크가루",
+      "ingredient_candidate": "핫케이크가루",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "봉지",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란 2알",
+      "raw_name": "계란",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "알",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "우유 250ml 1개",
+      "raw_name": "우유",
+      "ingredient_candidate": "우유",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "버터 10g 1조각",
+      "raw_name": "버터",
+      "ingredient_candidate": "버터",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "10",
+      "unit": "g",
+      "preparation": null,
+      "detail": "1조각"
+    },
+    {
+      "raw": "견과류 1줌",
+      "raw_name": "견과류",
+      "ingredient_candidate": "견과류",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "줌",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 9,
+  "sent_steps": 4,
+  "evidence_text": "No오븐 No전자레인지 전기밥솥으로 만드는 견과류카스테라만들기\n핫케이크가루 500g 1봉지\n계란 2알\n우유 250ml 1개\n버터 10g 1조각\n견과류 1줌\n핫케익가루500g, 우유250ml,계란2알, 버터, 견과류, 검은깨(없으면 생략가능) 준비\n먼저 계란 2알을 풀어주세요. 머랭 칠때 처럼 거품은 필요없고 계란만 잘 풀어만 주세요!\n핫케익 가루는 500g짜리 전부다 넣어주신 후에 우유 250ml를 부어 섞어주세요. (핫케이크 가루가 소금,설탕간이 되어 있어 따로 안 넣으셔도 돼요)\n반죽의 정도는 너무 묽지도 되직하지도 않게 해주세요. 사진처럼 위에서 떨어뜨렸을때 쪼로록 떨어지면 돼요!"
+}

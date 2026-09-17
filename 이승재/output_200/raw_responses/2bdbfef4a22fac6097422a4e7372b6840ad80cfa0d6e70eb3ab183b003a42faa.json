@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1vEUsMq6ilLeXy66cc4auiCSQR",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"양배추베이컨볶음밥\",\"components\":[{\"raw_name\":\"양배추\",\"role\":\"food\",\"group\":null,\"quantity\":\"4장\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 양배추 4장\",\"양배추, 양파, 파프리카, 베이컨은 큼직하게 다져서 준비한다.\",\"파프리카, 베이컨, 양배추 순서로 볶는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"양배추\",\"alternatives\":[]},{\"raw_name\":\"베이컨\",\"role\":\"food\",\"group\":null,\"quantity\":\"4줄\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 베이컨 4줄\",\"양배추, 양파, 파프리카, 베이컨은 큼직하게 다져서 준비한다.\",\"파프리카, 베이컨, 양배추 순서로 볶는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"베이컨\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":null,\"quantity\":\"20cm\",\"unit\":null,\"preparation\":\"송송 썬\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 대파 20cm\",\"대파는 송송 썰고 양배추, 양파, 파프리카, 베이컨은 큼직하게 다져서 준비한다.\",\"예열된 팬에 기름을 두르고 대파, 양파를 볶는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"빨간파프리카\",\"role\":\"food\",\"group\":null,\"quantity\":\"1/4개\",\"unit\":null,\"preparation\":\"큼직하게 다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 빨간파프리카 1/4개\",\"양배추, 양파, 파프리카, 베이컨은 큼직하게 다져서 준비한다.\",\"파프리카, 베이컨, 양배추 순서로 볶는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"파프리카\",\"alternatives\":[]},{\"raw_name\":\"밥\",\"role\":\"food\",\"group\":null,\"quantity\":\"1공기\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 밥 1공기\",\"밥을 넣어 볶아 완성한다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"밥\",\"alternatives\":[]},{\"raw_name\":\"달걀\",\"role\":\"food\",\"group\":null,\"quantity\":\"1개\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 달걀 1개\",\"채소들이 볶아지면 달걀을 넣어 스크램블 한다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"달걀\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":null,\"quantity\":\"1/4개\",\"unit\":null,\"preparation\":\"큼직하게 다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[필수재료] 양파 1/4개\",\"양배추, 양파, 파프리카, 베이컨은 큼직하게 다져서 준비한다.\",\"예열된 팬에 기름을 두르고 대파, 양파를 볶는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"간장\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1/2숟가락\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 간장 1/2숟가락\",\"양념 재료를 넣어 살짝 더 볶는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"간장\",\"alternatives\":[]},{\"raw_name\":\"굴소스\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"1/2숟가락\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 굴소스 1/2숟가락\",\"양념 재료를 넣어 살짝 더 볶는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"굴소스\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"약간\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 후추 약간\",\"양념 재료를 넣어 살짝 더 볶는다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530923,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1124,
+    "prompt_tokens": 2925,
+    "total_tokens": 4049,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

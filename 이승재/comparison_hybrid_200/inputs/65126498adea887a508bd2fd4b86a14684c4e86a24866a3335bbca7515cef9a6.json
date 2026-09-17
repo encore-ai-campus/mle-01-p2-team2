@@ -1,0 +1,192 @@
+{
+  "recipe_uid": "10000recipe_6839435",
+  "payload": {
+    "title": "백종원 베이컨볶음밥 레시피",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "베이컨 3장",
+        "베이컨",
+        "베이컨",
+        "food",
+        "[재료]",
+        "3",
+        "장",
+        null,
+        null
+      ],
+      [
+        "계란 2개",
+        "계란",
+        "계란",
+        "food",
+        "[재료]",
+        "2",
+        "개",
+        null,
+        null
+      ],
+      [
+        "당근 1/5개",
+        "당근",
+        "당근",
+        "food",
+        "[재료]",
+        "1/5",
+        "개",
+        null,
+        null
+      ],
+      [
+        "대파 1대",
+        "대파",
+        "대파",
+        "food",
+        "[재료]",
+        "1",
+        "대",
+        null,
+        null
+      ],
+      [
+        "밥 1공기",
+        "밥 1공기",
+        "밥 1공기",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "굴소스 1스푼",
+        "굴소스",
+        "굴소스",
+        "seasoning",
+        "[양념]",
+        "1",
+        "스푼",
+        null,
+        null
+      ],
+      [
+        "간장 1스푼",
+        "간장",
+        "간장",
+        "seasoning",
+        "[양념]",
+        "1",
+        "스푼",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 1,
+        "text": "베이컨을 적당히 잘게 썰어주세요. 메뉴명에 맞게 주재료임을 확인시켜주기 위하여 세장 사용했어요. 두 장은 왠지 덜 넣은 느낌일 것 같고 네 장은 많을 거 같고 해 먹고 나니 딱 세장이 맞더라구요 >. <"
+      },
+      {
+        "step": 2,
+        "text": "대파는 얇게 송송송 썰고 당근은 잘게 다지듯 썰어주세요. 영상 속에서는 당근은 넣지 않았었는데요. 계란 볶음밥에는 넣으시길래 뭔 차이겠냐 싶어서 넣어줬어요. 양파는 넣으면 질척해진다고 넣지 않는 거래요."
+      },
+      {
+        "step": 3,
+        "text": "계란 스크램블을 만들어 따로 덜어주세요. 요즘 계란은 작아서 두 개 정도는 사용해주어야 먹은 것 같아요 ㅋ 그리고 한번 더 볶아지기에 딱 표면들이 보이는 데까지만 익혀주었어요. 딱 포근하니 좋더라고요."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "베이컨 3장",
+      "raw_name": "베이컨",
+      "ingredient_candidate": "베이컨",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "계란 2개",
+      "raw_name": "계란",
+      "ingredient_candidate": "계란",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "당근 1/5개",
+      "raw_name": "당근",
+      "ingredient_candidate": "당근",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1/5",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 1대",
+      "raw_name": "대파",
+      "ingredient_candidate": "대파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "대",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "밥 1공기",
+      "raw_name": "밥 1공기",
+      "ingredient_candidate": "밥 1공기",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "굴소스 1스푼",
+      "raw_name": "굴소스",
+      "ingredient_candidate": "굴소스",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "간장 1스푼",
+      "raw_name": "간장",
+      "ingredient_candidate": "간장",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 7,
+  "sent_steps": 3,
+  "evidence_text": "백종원 베이컨볶음밥 레시피\n베이컨 3장\n계란 2개\n당근 1/5개\n대파 1대\n밥 1공기\n굴소스 1스푼\n간장 1스푼\n베이컨을 적당히 잘게 썰어주세요. 메뉴명에 맞게 주재료임을 확인시켜주기 위하여 세장 사용했어요. 두 장은 왠지 덜 넣은 느낌일 것 같고 네 장은 많을 거 같고 해 먹고 나니 딱 세장이 맞더라구요 >. <\n대파는 얇게 송송송 썰고 당근은 잘게 다지듯 썰어주세요. 영상 속에서는 당근은 넣지 않았었는데요. 계란 볶음밥에는 넣으시길래 뭔 차이겠냐 싶어서 넣어줬어요. 양파는 넣으면 질척해진다고 넣지 않는 거래요.\n계란 스크램블을 만들어 따로 덜어주세요. 요즘 계란은 작아서 두 개 정도는 사용해주어야 먹은 것 같아요 ㅋ 그리고 한번 더 볶아지기에 딱 표면들이 보이는 데까지만 익혀주었어요. 딱 포근하니 좋더라고요."
+}

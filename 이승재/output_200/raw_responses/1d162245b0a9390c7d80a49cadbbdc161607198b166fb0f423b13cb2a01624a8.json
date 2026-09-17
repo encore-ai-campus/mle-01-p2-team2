@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb1VSM7Ll8k31DukFCnDpSohQ9f9",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"소고기양념구이\",\"components\":[{\"raw_name\":\"구이용 부채살\",\"role\":\"food\",\"group\":null,\"quantity\":\"300g\",\"unit\":null,\"preparation\":\"구이용으로 준비한\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 구이용 부채살 300g\",\"부채살은 구이용으로 준비한 뒤\"],\"quality_flags\":[],\"ingredient_candidate\":\"부채살\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1T\",\"unit\":null,\"preparation\":\"다진\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 ] 다진마늘 1T\",\"넓은 용기에 양념 재료를 넣고 고루 섞어 소고기양념구이 양념을 만들어 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"간장\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"2T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 ] 간장 2T\",\"넓은 용기에 양념 재료를 넣고 고루 섞어 소고기양념구이 양념을 만들어 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"간장\",\"alternatives\":[]},{\"raw_name\":\"맛술\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 ] 맛술 1T\",\"넓은 용기에 양념 재료를 넣고 고루 섞어 소고기양념구이 양념을 만들어 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛술\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"0.5T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 ] 설탕 0.5T\",\"설탕이 서걱거리지 않을 정도로 충분히 저어 녹여 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"올리고당\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 ] 올리고당 1T\",\"넓은 용기에 양념 재료를 넣고 고루 섞어 소고기양념구이 양념을 만들어 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"올리고당\",\"alternatives\":[]},{\"raw_name\":\"소금\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1꼬집\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 ] 소금 1꼬집\",\"넓은 용기에 양념 재료를 넣고 고루 섞어 소고기양념구이 양념을 만들어 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"소금\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 ] 후추\",\"넓은 용기에 양념 재료를 넣고 고루 섞어 소고기양념구이 양념을 만들어 주세요.\"],\"quality_flags\":[\"AMBIGUOUS_QUANTITY\"],\"ingredient_candidate\":\"후추\",\"alternatives\":[]},{\"raw_name\":\"참기름\",\"role\":\"seasoning\",\"group\":\"양념\",\"quantity\":\"1T\",\"unit\":null,\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념 ] 참기름 1T\",\"넓은 용기에 양념 재료를 넣고 고루 섞어 소고기양념구이 양념을 만들어 주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"참기름\",\"alternatives\":[]},{\"raw_name\":\"오일\",\"role\":\"seasoning\",\"group\":null,\"quantity\":\"소량\",\"unit\":null,\"preparation\":null,\"detail\":\"팬에 두름\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"중불로 달군 팬에 오일을 소량 두르고\"],\"quality_flags\":[],\"ingredient_candidate\":\"오일\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530897,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1027,
+    "prompt_tokens": 3058,
+    "total_tokens": 4085,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

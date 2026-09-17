@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOb0jfpA59qVI17Op3GvZHh4fFuGZ",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"닭개장\",\"components\":[{\"raw_name\":\"냉동 닭가슴살\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"3덩이\",\"unit\":null,\"preparation\":\"해동된 것도 가능\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 냉동 닭가슴살 해동된 것도 가능 3덩이\"],\"quality_flags\":[],\"ingredient_candidate\":\"닭가슴살\",\"alternatives\":[{\"raw_name\":\"해동된 것도\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"냉동 닭가슴살 해동된 것도 가능\"],\"ingredient_candidate\":\"닭가슴살\"}]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1개\",\"unit\":null,\"preparation\":\"큼직하게 썰어\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 대파 1개\",\"대파는 큼직하게 썰어서 준비해주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"무\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"200g\",\"unit\":\"g\",\"preparation\":\"나박썰기\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 무 200g\",\"무는 나박썰기해주시면 되는데요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"무\",\"alternatives\":[]},{\"raw_name\":\"청양고추\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1개\",\"unit\":null,\"preparation\":\"얇게 총총 썰어\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 청양고추 1개\",\"청양고추랑 홍고추는 얇게 총총 썰어주시고요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양고추\",\"alternatives\":[]},{\"raw_name\":\"홍고추\",\"role\":\"food\",\"group\":\"재료\",\"quantity\":\"1개\",\"unit\":null,\"preparation\":\"얇게 총총 썰어\",\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[재료] 홍고추 1개\",\"청양고추랑 홍고추는 얇게 총총 썰어주시고요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"홍고추\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"unknown\",\"group\":\"닭가슴살 삶을때\",\"quantity\":\"1L\",\"unit\":\"L\",\"preparation\":null,\"detail\":\"닭가슴살 삶을때 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭가슴살 삶을때] 물 1L\",\"닭가슴살을 냄비에 넣고 물을 1L부어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"닭가슴살 삶을때\",\"quantity\":\"1/2개\",\"unit\":\"개\",\"preparation\":null,\"detail\":\"닭가슴살 삶을때 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭가슴살 삶을때] 양파 1/2개\",\"양파 1/2개도 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"맛술\",\"role\":\"seasoning\",\"group\":\"닭가슴살 삶을때\",\"quantity\":\"1숟가락\",\"unit\":\"숟가락\",\"preparation\":null,\"detail\":\"닭가슴살 삶을때 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭가슴살 삶을때] 맛술 1숟가락\",\"맛술 1숟갈 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛술\",\"alternatives\":[]},{\"raw_name\":\"월계수잎\",\"role\":\"seasoning\",\"group\":\"닭가슴살 삶을때\",\"quantity\":\"2장\",\"unit\":\"장\",\"preparation\":null,\"detail\":\"닭가슴살 삶을때 사용\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭가슴살 삶을때] 월계수잎 2장\",\"월계수잎2장 넣어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"월계수잎\",\"alternatives\":[]},{\"raw_name\":\"맛소금\",\"role\":\"seasoning\",\"group\":\"닭가슴살 밑간\",\"quantity\":\"1티스푼\",\"unit\":\"티스푼\",\"preparation\":null,\"detail\":\"닭가슴살 밑간\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭가슴살 밑간] 맛소금 1티스푼\",\"잘 찢어준 닭가슴살에는 맛소금 1티스푼 후추 1티스푼 넣고 골고루 섞어둡니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛소금\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"닭가슴살 밑간\",\"quantity\":\"1티스푼\",\"unit\":\"티스푼\",\"preparation\":null,\"detail\":\"닭가슴살 밑간\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[닭가슴살 밑간] 후추 1티스푼\",\"잘 찢어준 닭가슴살에는 맛소금 1티스푼 후추 1티스푼 넣고 골고루 섞어둡니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"후추\",\"alternatives\":[]},{\"raw_name\":\"식용유\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"4큰술\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":\"양념재료\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 식용유 4큰술\",\"큰냄비에 식용유 4큰숟갈 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"식용유\",\"alternatives\":[]},{\"raw_name\":\"고춧가루\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"2숟가락\",\"unit\":\"숟가락\",\"preparation\":null,\"detail\":\"양념재료\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 고춧가루 2숟가락\",\"고춧가루 2숟갈\"],\"quality_flags\":[],\"ingredient_candidate\":\"고춧가루\",\"alternatives\":[]},{\"raw_name\":\"다진마늘\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1큰술\",\"unit\":\"큰술\",\"preparation\":\"다진\",\"detail\":\"양념재료\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 다진마늘 1큰술\",\"다진마늘 1큰숟갈 넣고\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"국간장\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"2.5숟가락\",\"unit\":\"숟가락\",\"preparation\":null,\"detail\":\"양념재료\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 국간장 2.5숟가락\",\"국간장 2.5숟갈\"],\"quality_flags\":[],\"ingredient_candidate\":\"국간장\",\"alternatives\":[]},{\"raw_name\":\"참치액\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"2숟가락\",\"unit\":\"숟가락\",\"preparation\":null,\"detail\":\"양념재료\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 참치액 2숟가락\",\"참치액 2숟갈\"],\"quality_flags\":[],\"ingredient_candidate\":\"참치액\",\"alternatives\":[]},{\"raw_name\":\"치킨스톡\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1숟가락\",\"unit\":\"숟가락\",\"preparation\":\"분말형기준\",\"detail\":\"양념재료\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 치킨스톡 분말형기준 1숟가락\",\"치킨스톡 1숟갈\"],\"quality_flags\":[],\"ingredient_candidate\":\"치킨스톡\",\"alternatives\":[]},{\"raw_name\":\"후추\",\"role\":\"seasoning\",\"group\":\"양념재료\",\"quantity\":\"1티스푼\",\"unit\":\"티스푼\",\"preparation\":null,\"detail\":\"양념재료\",\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"[양념재료] 후추 1티스푼\",\"후추 1티스푼 넣고\"],\"quality_flags\":[\"POSSIBLE_DUPLICATE_COMPONENT\"],\"ingredient_candidate\":\"후추\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789530849,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 2027,
+    "prompt_tokens": 4104,
+    "total_tokens": 6131,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

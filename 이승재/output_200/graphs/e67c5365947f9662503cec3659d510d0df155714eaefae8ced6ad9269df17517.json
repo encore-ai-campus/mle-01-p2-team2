@@ -1,0 +1,915 @@
+{
+  "recipe_uid": "10000recipe_6837737",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6837737",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6837737",
+          "title": "백종원 알리오올리오 만드는법 담백한 맛이 끝내줘용 ★",
+          "description": "백종원이 만드는 담백하고 맛있는 알리오올리오입니다.",
+          "servings": "1인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "중급",
+          "views": 128000,
+          "source_url": "https://www.10000recipe.com/recipe/6837737",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "알리오올리오"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리브유",
+          "role": "food",
+          "group": null,
+          "quantity": "2/3컵",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 올리브유 2/3컵\", \"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리브유",
+          "name_normalized": "올리브유"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "스파게티면",
+          "role": "food",
+          "group": null,
+          "quantity": "2인분",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 스파게티면 2인분\", \"파스타면을 샤악 넣어주시고 7~8분정도 중불에서 익혀줄꺼에요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "스파게티면",
+          "name_normalized": "스파게티면"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통마늘",
+          "role": "food",
+          "group": null,
+          "quantity": "4~5개",
+          "unit": null,
+          "preparation": "편을 썰어서",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 통마늘 4~5개\", \"마늘은 얇게 편을 썰어서 준비\", \"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1~2TS",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 다진마늘 1~2TS\", \"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "페페론치니",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "3~4개",
+          "unit": null,
+          "preparation": "2~3조각으로 손으로 부셔서",
+          "detail": "씨까지 함께 준비",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 페페론치니 3~4개\", \"고추는 2~3조각으로 손으로 부셔서 씨까지 함께 준비해요.\", \"이 고추는 굉장히 매운맛을 내기에, 취향에 맞게 양조절하세요.\", \"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "페페론치니",
+          "name_normalized": "페페론치니"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "파스타 끓일 물 및 마지막 간",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소금\", \"[파스타 끓일 물] 소금 1Ts\", \"소금 1TS를 넣어준 다음 파스타면을 샤악 넣어주시고\", \"마지막으로 취향에 맞게 소금으로 간을 해주시면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "파스타 끓일 물",
+          "quantity": "2/3냄비",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[파스타 끓일 물] 물 2/3냄비\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "파스타 끓일 물",
+          "quantity": "1Ts",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[파스타 끓일 물] 소금 1Ts\", \"소금 1TS를 넣어준 다음 파스타면을 샤악 넣어주시고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6837737",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6837737:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6837737:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6837737:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6837737:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6837737:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6837737:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6837737:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6837737:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6837737:component:008:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6837737",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6837737",
+          "title": "백종원 알리오올리오 만드는법 담백한 맛이 끝내줘용 ★",
+          "description": "백종원이 만드는 담백하고 맛있는 알리오올리오입니다.",
+          "servings": "1인분",
+          "cooking_time": "15분 이내",
+          "difficulty": "중급",
+          "views": 128000,
+          "source_url": "https://www.10000recipe.com/recipe/6837737",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:0c5736bcc528156667c9c730d064609ad941f124bfce9065654b4e218edd5cf3",
+        "label": "Dish",
+        "properties": {
+          "name": "알리오올리오"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "올리브유",
+          "role": "food",
+          "group": null,
+          "quantity": "2/3컵",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 올리브유 2/3컵\", \"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:a84b56f330700afb0e4a895fec28ef0b36df40dd3eb25e7a8ab70a1ae29e27c3",
+        "label": "Ingredient",
+        "properties": {
+          "name": "올리브유",
+          "name_normalized": "올리브유"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "스파게티면",
+          "role": "food",
+          "group": null,
+          "quantity": "2인분",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 스파게티면 2인분\", \"파스타면을 샤악 넣어주시고 7~8분정도 중불에서 익혀줄꺼에요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:2e6792604437dad847a55a548188735e48fd14812ef13bfb4cc064073bb24c35",
+        "label": "Ingredient",
+        "properties": {
+          "name": "스파게티면",
+          "name_normalized": "스파게티면"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "통마늘",
+          "role": "food",
+          "group": null,
+          "quantity": "4~5개",
+          "unit": null,
+          "preparation": "편을 썰어서",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 통마늘 4~5개\", \"마늘은 얇게 편을 썰어서 준비\", \"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "1~2TS",
+          "unit": null,
+          "preparation": "다진",
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 다진마늘 1~2TS\", \"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "페페론치니",
+          "role": "seasoning",
+          "group": null,
+          "quantity": "3~4개",
+          "unit": null,
+          "preparation": "2~3조각으로 손으로 부셔서",
+          "detail": "씨까지 함께 준비",
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 페페론치니 3~4개\", \"고추는 2~3조각으로 손으로 부셔서 씨까지 함께 준비해요.\", \"이 고추는 굉장히 매운맛을 내기에, 취향에 맞게 양조절하세요.\", \"올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요.\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:619b65aaa02964d1f2975f9148cf6e77451199e23a6edad697399246987c48ab",
+        "label": "Ingredient",
+        "properties": {
+          "name": "페페론치니",
+          "name_normalized": "페페론치니"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null,
+          "detail": "파스타 끓일 물 및 마지막 간",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[재료] 소금\", \"[파스타 끓일 물] 소금 1Ts\", \"소금 1TS를 넣어준 다음 파스타면을 샤악 넣어주시고\", \"마지막으로 취향에 맞게 소금으로 간을 해주시면\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "label": "Ingredient",
+        "properties": {
+          "name": "소금",
+          "name_normalized": "소금"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "unknown",
+          "group": "파스타 끓일 물",
+          "quantity": "2/3냄비",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[파스타 끓일 물] 물 2/3냄비\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6837737:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "소금",
+          "role": "seasoning",
+          "group": "파스타 끓일 물",
+          "quantity": "1Ts",
+          "unit": null,
+          "preparation": null,
+          "detail": null,
+          "is_required": true,
+          "alternative_mode": "none",
+          "evidence": "[\"[파스타 끓일 물] 소금 1Ts\", \"소금 1TS를 넣어준 다음 파스타면을 샤악 넣어주시고\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6837737:component:008",
+          "index": 8
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6837737",
+        "type": "VARIANT_OF",
+        "target": "dish:0c5736bcc528156667c9c730d064609ad941f124bfce9065654b4e218edd5cf3",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:a84b56f330700afb0e4a895fec28ef0b36df40dd3eb25e7a8ab70a1ae29e27c3",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:2e6792604437dad847a55a548188735e48fd14812ef13bfb4cc064073bb24c35",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:619b65aaa02964d1f2975f9148cf6e77451199e23a6edad697399246987c48ab",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6837737:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6837737:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "알리오올리오",
+    "components": [
+      {
+        "raw_name": "올리브유",
+        "role": "food",
+        "group": null,
+        "quantity": "2/3컵",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 올리브유 2/3컵",
+          "올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브유",
+        "alternatives": []
+      },
+      {
+        "raw_name": "스파게티면",
+        "role": "food",
+        "group": null,
+        "quantity": "2인분",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 스파게티면 2인분",
+          "파스타면을 샤악 넣어주시고 7~8분정도 중불에서 익혀줄꺼에요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "스파게티면",
+        "alternatives": []
+      },
+      {
+        "raw_name": "통마늘",
+        "role": "food",
+        "group": null,
+        "quantity": "4~5개",
+        "unit": null,
+        "preparation": "편을 썰어서",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 통마늘 4~5개",
+          "마늘은 얇게 편을 썰어서 준비",
+          "올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1~2TS",
+        "unit": null,
+        "preparation": "다진",
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 다진마늘 1~2TS",
+          "올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "페페론치니",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "3~4개",
+        "unit": null,
+        "preparation": "2~3조각으로 손으로 부셔서",
+        "detail": "씨까지 함께 준비",
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 페페론치니 3~4개",
+          "고추는 2~3조각으로 손으로 부셔서 씨까지 함께 준비해요.",
+          "이 고추는 굉장히 매운맛을 내기에, 취향에 맞게 양조절하세요.",
+          "올리브오일, 다진마늘, 편썬 마늘, 고추를 전부 넣고 중불에서 달달달 볶아주세요."
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "페페론치니",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "파스타 끓일 물 및 마지막 간",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 소금",
+          "[파스타 끓일 물] 소금 1Ts",
+          "소금 1TS를 넣어준 다음 파스타면을 샤악 넣어주시고",
+          "마지막으로 취향에 맞게 소금으로 간을 해주시면"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "unknown",
+        "group": "파스타 끓일 물",
+        "quantity": "2/3냄비",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[파스타 끓일 물] 물 2/3냄비"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": "파스타 끓일 물",
+        "quantity": "1Ts",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[파스타 끓일 물] 소금 1Ts",
+          "소금 1TS를 넣어준 다음 파스타면을 샤악 넣어주시고"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "b159d67ae8248af528e0787a3ee3cf24a4d264f9e72e1c3e4a1e290889a7d035",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6837737:dish",
+      "canonical_id": "dish:0c5736bcc528156667c9c730d064609ad941f124bfce9065654b4e218edd5cf3",
+      "original_name": "알리오올리오",
+      "canonical_name": "알리오올리오",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6837737:component:001:candidate:0",
+      "canonical_id": "ingredient:a84b56f330700afb0e4a895fec28ef0b36df40dd3eb25e7a8ab70a1ae29e27c3",
+      "original_name": "올리브유",
+      "canonical_name": "올리브유",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6837737:component:002:candidate:0",
+      "canonical_id": "ingredient:2e6792604437dad847a55a548188735e48fd14812ef13bfb4cc064073bb24c35",
+      "original_name": "스파게티면",
+      "canonical_name": "스파게티면",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6837737:component:003:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6837737:component:004:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6837737:component:005:candidate:0",
+      "canonical_id": "ingredient:619b65aaa02964d1f2975f9148cf6e77451199e23a6edad697399246987c48ab",
+      "original_name": "페페론치니",
+      "canonical_name": "페페론치니",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6837737:component:006:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6837737:component:007:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6837737:component:008:candidate:0",
+      "canonical_id": "ingredient:27d564b556f4e001083f206076a33102f2e3b70e28172c2ffee9fd4d27984f28",
+      "original_name": "소금",
+      "canonical_name": "소금",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6837737",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "ee7ab883dc8a74532427f544fd4621708a67763594cb56e3cd67b03905dd39ee"
+}

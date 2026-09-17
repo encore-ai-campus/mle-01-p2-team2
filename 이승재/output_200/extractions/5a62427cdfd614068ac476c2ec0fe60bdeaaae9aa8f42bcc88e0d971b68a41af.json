@@ -1,0 +1,265 @@
+{
+  "recipe_uid": "10000recipe_7081890",
+  "cache_key": "ec157df8496a6063d191f6a466140d6233b3847115a5218820cc00b65ee82b30",
+  "model": "gpt-5.4-mini",
+  "input_hash": "4426e808d8a077b6ebbbb0820e75c6d5eeef6460933617d163544d21ffb270ce",
+  "source_record_hash": "2c30b24a7ed4fc25e35918c3044abd12437ae9d03d3e73544190c2cef890a6ed",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "오무라이스",
+    "components": [
+      {
+        "raw_name": "계란",
+        "role": "food",
+        "group": null,
+        "quantity": "4개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥2공기] 계란 4개",
+          "계란2개를 풀어 스크램블을 해주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소고기",
+        "role": "food",
+        "group": null,
+        "quantity": "100g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥2공기] 소고기 100g",
+          "소고기는 밑간을 해주면 더좋아요",
+          "소고기와양파는 먹기좋은 크기로썰어 올리브유에 볶아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소고기",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": null,
+        "quantity": "1/2개",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥2공기] 양파 1/2개",
+          "소고기와양파는 먹기좋은 크기로썰어 올리브유에 볶아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "케찹",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "1T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥2공기] 케찹 1T",
+          "[밥2공기] 케찹 4T"
+        ],
+        "quality_flags": [
+          "POSSIBLE_DUPLICATE_COMPONENT"
+        ],
+        "ingredient_candidate": "케첩",
+        "alternatives": []
+      },
+      {
+        "raw_name": "굴소스",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "2T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥2공기] 굴소스 2T",
+          "[밥2공기] 케찹 1T/굴소스2T/넣고 볶아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "굴소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "버터",
+        "role": "food",
+        "group": null,
+        "quantity": "10g",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥2공기] 버터 10g",
+          "버터한조각/케찹4T/돈까스소스6T/ 물6T/넣고 살짝 끓여준비해주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "버터",
+        "alternatives": []
+      },
+      {
+        "raw_name": "돈까스소스",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "6T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥2공기] 케찹 4T",
+          "[밥2공기] 돈까스소스 6T",
+          "버터한조각/케찹4T/돈까스소스6T/ 물6T/넣고 살짝 끓여준비해주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "돈가스 소스",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": null,
+        "quantity": "6T",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥2공기] 물 6T",
+          "버터한조각/케찹4T/돈까스소스6T/ 물6T/넣고 살짝 끓여준비해주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "밥",
+        "role": "food",
+        "group": null,
+        "quantity": "2공기",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": true,
+        "alternative_mode": "none",
+        "evidence": [
+          "[밥2공기]"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "밥",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "밑간",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소고기는 밑간을 해주면 더좋아요 (소금후추 올리브오일넣고20~30분 숙성시켜주세요)"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "밑간",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소고기는 밑간을 해주면 더좋아요 (소금후추 올리브오일넣고20~30분 숙성시켜주세요)"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브오일",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": "밑간",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소고기는 밑간을 해주면 더좋아요 (소금후추 올리브오일넣고20~30분 숙성시켜주세요)"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브오일",
+        "alternatives": []
+      },
+      {
+        "raw_name": "올리브유",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "소고기와양파는 먹기좋은 크기로썰어 올리브유에 볶아주세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "올리브유",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 1347,
+    "prompt_tokens": 2974,
+    "total_tokens": 4321,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

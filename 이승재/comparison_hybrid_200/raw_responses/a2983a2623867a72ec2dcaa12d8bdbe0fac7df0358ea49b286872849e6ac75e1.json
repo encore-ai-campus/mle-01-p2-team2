@@ -1,0 +1,45 @@
+{
+  "id": "chatcmpl-EOeZMA9WIGvt79GN63i9vbSIc5qTX",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "{\"dish_candidate\":\"돼지고기 장조림\",\"components\":[{\"raw_name\":\"돼지고기 안심또는 사태\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"kg\",\"preparation\":null,\"detail\":\"안심또는 사태\",\"is_required\":null,\"alternative_mode\":\"either_or\",\"evidence\":[\"돼지고기 안심또는 사태 1kg\"],\"quality_flags\":[\"AMBIGUOUS_INGREDIENT\"],\"ingredient_candidate\":\"돼지고기\",\"alternatives\":[{\"raw_name\":\"사태\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"돼지고기 안심또는 사태 1kg\"],\"ingredient_candidate\":\"돼지고기\"}]},{\"raw_name\":\"꽈리고추\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"20~30\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"꽈리고추 20~30개\",\"꽈리고추와 메추리알도 넣어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"꽈리고추\",\"alternatives\":[]},{\"raw_name\":\"메추리알\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"20~30\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"메추리알 20~30개\",\"꽈리고추와 메추리알도 넣어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"메추리알\",\"alternatives\":[]},{\"raw_name\":\"양파\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1/2\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"양파 1/2개\"],\"quality_flags\":[],\"ingredient_candidate\":\"양파\",\"alternatives\":[]},{\"raw_name\":\"마늘\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"15\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":true,\"alternative_mode\":\"none\",\"evidence\":[\"마늘 15개\",\"마늘은 꼭 넣으셔야 되요!!\"],\"quality_flags\":[],\"ingredient_candidate\":\"마늘\",\"alternatives\":[]},{\"raw_name\":\"대파\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1/2\",\"unit\":\"대\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"대파 1/2대\"],\"quality_flags\":[],\"ingredient_candidate\":\"대파\",\"alternatives\":[]},{\"raw_name\":\"생강\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"10\",\"unit\":\"g\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"생강 10g\"],\"quality_flags\":[],\"ingredient_candidate\":\"생강\",\"alternatives\":[]},{\"raw_name\":\"통후추\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"15\",\"unit\":\"알\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"통후추 15알\"],\"quality_flags\":[],\"ingredient_candidate\":\"통후추\",\"alternatives\":[]},{\"raw_name\":\"건고추\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"건고추 1개\",\"만약 없으면 안넣어도 됩니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"건고추\",\"alternatives\":[]},{\"raw_name\":\"청양 고추\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1\",\"unit\":\"개\",\"preparation\":null,\"detail\":null,\"is_required\":false,\"alternative_mode\":\"none\",\"evidence\":[\"청양 고추 1개\",\"만약 없으면 안넣어도 됩니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"청양 고추\",\"alternatives\":[]},{\"raw_name\":\"물\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1.5\",\"unit\":\"L\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"물 1.5L\"],\"quality_flags\":[],\"ingredient_candidate\":\"물\",\"alternatives\":[]},{\"raw_name\":\"올리고당 또는 물엿\",\"role\":\"food\",\"group\":\"[재료]\",\"quantity\":\"1.5\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"either_or\",\"evidence\":[\"올리고당 또는 물엿 1.5큰술\",\"설탕2큰술과 올리고당 또는 물엿 1큰술 반을 넣어줍니다.\"],\"quality_flags\":[\"AMBIGUOUS_INGREDIENT\"],\"ingredient_candidate\":\"올리고당\",\"alternatives\":[{\"raw_name\":\"물엿\",\"quantity\":null,\"unit\":null,\"preparation\":null,\"condition\":null,\"evidence\":[\"올리고당 또는 물엿 1.5큰술\",\"설탕2큰술과 올리고당 또는 물엿 1큰술 반을 넣어줍니다.\"],\"ingredient_candidate\":\"물엿\"}]},{\"raw_name\":\"간장\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1.5\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"간장 1.5컵\",\"간장 1컵 반, 맛술 반컵을 부어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"간장\",\"alternatives\":[]},{\"raw_name\":\"설탕\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"2\",\"unit\":\"큰술\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"설탕 2큰술\",\"설탕2큰술과 올리고당 또는 물엿 1큰술 반을 넣어줍니다.\"],\"quality_flags\":[],\"ingredient_candidate\":\"설탕\",\"alternatives\":[]},{\"raw_name\":\"맛술\",\"role\":\"seasoning\",\"group\":\"[재료]\",\"quantity\":\"1/2\",\"unit\":\"컵\",\"preparation\":null,\"detail\":null,\"is_required\":null,\"alternative_mode\":\"none\",\"evidence\":[\"맛술 1/2컵\",\"간장 1컵 반, 맛술 반컵을 부어주세요.\"],\"quality_flags\":[],\"ingredient_candidate\":\"맛술\",\"alternatives\":[]}]}",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1789544528,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 1426,
+    "prompt_tokens": 3409,
+    "total_tokens": 4835,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

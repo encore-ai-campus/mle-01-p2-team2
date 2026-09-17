@@ -1,0 +1,170 @@
+{
+  "recipe_uid": "10000recipe_6902060",
+  "payload": {
+    "title": "아삭아삭 맛있는 숙주나물무침 만들기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "숙주 약 270g 1봉지",
+        "숙주 약",
+        "숙주 약",
+        "food",
+        "[재료]",
+        "1",
+        "봉지",
+        null,
+        null
+      ],
+      [
+        "소금 취향껏 1작은술",
+        "소금 취향껏",
+        "소금 취향껏",
+        "food",
+        "[재료]",
+        "1",
+        "작은술",
+        null,
+        null
+      ],
+      [
+        "다진 마늘 1작은술",
+        "다진 마늘",
+        "마늘",
+        "food",
+        "[재료]",
+        "1",
+        "작은술",
+        "다진",
+        null
+      ],
+      [
+        "다진 대파 2큰술",
+        "다진 대파",
+        "대파",
+        "food",
+        "[재료]",
+        "2",
+        "큰술",
+        "다진",
+        null
+      ],
+      [
+        "참기름 1큰술",
+        "참기름",
+        "참기름",
+        "seasoning",
+        "[재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ],
+      [
+        "깨소금 1큰술",
+        "깨소금",
+        "깨",
+        "seasoning",
+        "[재료]",
+        "1",
+        "큰술",
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 2,
+        "text": "볼에 숙주나물을 담아주시고요. 물을 가득 부은 후 물 위로 떠오르는 녹두 껍데기를 먼저 제거합니다. 숙주나물을 조심스레 씻은 다음에는 체에 밭쳐 물기를 빼주세요. * 가볍게 흔들어가며 씻어주세요 :)"
+      },
+      {
+        "step": 3,
+        "text": "물이 끓어오르면 소금을 약간 넣은 후 숙주나물을 넣고 약 1분 ~ 2분 정도로 가볍게 데쳐주세요. 참고로 저는 1분 30초 정도 데쳐주었어요. * 데치는 시간은 취향에 따라 달라질 수 있습니다 :)"
+      },
+      {
+        "step": 4,
+        "text": "삶은 숙주나물을 재빨리 찬물에 담가 헹군 뒤 체에 밭쳐 물기를 빼주세요. * 숙주나물 무침에 물기가 생기는 게 싫으시다면 손으로 가볍게 한 번 짜 주셔도 좋아요."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "숙주 약 270g 1봉지",
+      "raw_name": "숙주 약",
+      "ingredient_candidate": "숙주 약",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "봉지",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 취향껏 1작은술",
+      "raw_name": "소금 취향껏",
+      "ingredient_candidate": "소금 취향껏",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "작은술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진 마늘 1작은술",
+      "raw_name": "다진 마늘",
+      "ingredient_candidate": "마늘",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "작은술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "다진 대파 2큰술",
+      "raw_name": "다진 대파",
+      "ingredient_candidate": "대파",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "참기름 1큰술",
+      "raw_name": "참기름",
+      "ingredient_candidate": "참기름",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "깨소금 1큰술",
+      "raw_name": "깨소금",
+      "ingredient_candidate": "깨",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 6,
+  "sent_steps": 3,
+  "evidence_text": "아삭아삭 맛있는 숙주나물무침 만들기\n숙주 약 270g 1봉지\n소금 취향껏 1작은술\n다진 마늘 1작은술\n다진 대파 2큰술\n참기름 1큰술\n깨소금 1큰술\n볼에 숙주나물을 담아주시고요. 물을 가득 부은 후 물 위로 떠오르는 녹두 껍데기를 먼저 제거합니다. 숙주나물을 조심스레 씻은 다음에는 체에 밭쳐 물기를 빼주세요. * 가볍게 흔들어가며 씻어주세요 :)\n물이 끓어오르면 소금을 약간 넣은 후 숙주나물을 넣고 약 1분 ~ 2분 정도로 가볍게 데쳐주세요. 참고로 저는 1분 30초 정도 데쳐주었어요. * 데치는 시간은 취향에 따라 달라질 수 있습니다 :)\n삶은 숙주나물을 재빨리 찬물에 담가 헹군 뒤 체에 밭쳐 물기를 빼주세요. * 숙주나물 무침에 물기가 생기는 게 싫으시다면 손으로 가볍게 한 번 짜 주셔도 좋아요."
+}

@@ -1,0 +1,236 @@
+{
+  "recipe_uid": "10000recipe_3478742",
+  "cache_key": "2e7a26e138bba71f3ccb69c7b42b7da2102bb1e5afcab2d717ae9b8f7b238a26",
+  "model": "gpt-5.4-mini",
+  "input_hash": "5bb7255a744e589a2634b8ee9a14f8400af1f72a233cc8df1b528344953b999f",
+  "source_record_hash": "59b1ac691799dd0e19b40eea811a9747cb5e9d941944c50de41a596c75588646",
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "봄나들이 도시락 3종 세트",
+    "components": [
+      {
+        "raw_name": "감자",
+        "role": "food",
+        "group": null,
+        "quantity": "3개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 감자 3개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "감자",
+        "alternatives": []
+      },
+      {
+        "raw_name": "오이",
+        "role": "food",
+        "group": null,
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 오이 1/2개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "오이",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": null,
+        "quantity": "1/3개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양파 1/3개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "크래미게살",
+        "role": "food",
+        "group": null,
+        "quantity": "4개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 크래미게살 4개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "크래미게살",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식빵",
+        "role": "food",
+        "group": null,
+        "quantity": "8개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 식빵 8개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "식빵",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양상추",
+        "role": "food",
+        "group": null,
+        "quantity": "2장",
+        "unit": "장",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 양상추 2장"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양상추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "슬라이스햄",
+        "role": "food",
+        "group": null,
+        "quantity": "4개",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[재료] 슬라이스햄 4개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "슬라이스햄",
+        "alternatives": []
+      },
+      {
+        "raw_name": "마요네즈",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 마요네즈"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마요네즈",
+        "alternatives": []
+      },
+      {
+        "raw_name": "머스터드",
+        "role": "seasoning",
+        "group": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 머스터드"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "머스터드",
+        "alternatives": []
+      },
+      {
+        "raw_name": "소금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 소금 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "소금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "깨금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 깨금 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "깨금",
+        "alternatives": []
+      },
+      {
+        "raw_name": "후추금",
+        "role": "seasoning",
+        "group": null,
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념] 후추금 약간"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "후추금",
+        "alternatives": []
+      }
+    ]
+  },
+  "usage": {
+    "completion_tokens": 906,
+    "prompt_tokens": 2759,
+    "total_tokens": 3665,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  }
+}

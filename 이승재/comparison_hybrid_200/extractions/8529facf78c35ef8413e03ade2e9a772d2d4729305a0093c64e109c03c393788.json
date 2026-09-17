@@ -1,0 +1,162 @@
+{
+  "recipe_uid": "10000recipe_590786",
+  "cache_key": "85c15eaa5f971e872ef5bb368c3d17a61bb0143cce90281cfe8cd5c9d866fb93",
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "completion_tokens": 638,
+    "prompt_tokens": 3103,
+    "total_tokens": 3741,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0,
+      "text_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 2304,
+      "image_tokens": null,
+      "text_tokens": null
+    }
+  },
+  "status": "extracted",
+  "record": {
+    "dish_candidate": "스폰지케이크",
+    "components": [
+      {
+        "raw_name": "달걀",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "4",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "달걀 200g 4개"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "계란",
+        "alternatives": []
+      },
+      {
+        "raw_name": "박력분",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "120",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "박력분 120g",
+          "체친 박력분(120g)을"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "박력분",
+        "alternatives": []
+      },
+      {
+        "raw_name": "식용유(포도씨유)",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "20",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "replacement",
+        "evidence": [
+          "식용유(포도씨유) 20g",
+          "포도씨유(20g)",
+          "포도씨유 대신 식용유나 버터로 하셔도 되요."
+        ],
+        "quality_flags": [
+          "AMBIGUOUS_INGREDIENT"
+        ],
+        "ingredient_candidate": "식용유(포도씨유)",
+        "alternatives": [
+          {
+            "raw_name": "식용유",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "포도씨유 대신 식용유나 버터로 하셔도 되요."
+            ],
+            "ingredient_candidate": "식용유"
+          },
+          {
+            "raw_name": "버터",
+            "quantity": null,
+            "unit": null,
+            "preparation": null,
+            "condition": null,
+            "evidence": [
+              "포도씨유 대신 식용유나 버터로 하셔도 되요."
+            ],
+            "ingredient_candidate": "버터"
+          }
+        ]
+      },
+      {
+        "raw_name": "바닐라 오일",
+        "role": "food",
+        "group": "[재료]",
+        "quantity": "1",
+        "unit": "t",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "바닐라 오일 1t",
+          "바닐라 오일(1t)"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "바닐라 오일",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "설탕 100g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물엿",
+        "role": "seasoning",
+        "group": "[재료]",
+        "quantity": "40",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "물엿 40g"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물엿",
+        "alternatives": []
+      }
+    ]
+  },
+  "elapsed_seconds": 6.156
+}

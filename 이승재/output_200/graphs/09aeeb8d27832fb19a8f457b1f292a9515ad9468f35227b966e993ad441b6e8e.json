@@ -1,0 +1,1655 @@
+{
+  "recipe_uid": "10000recipe_6858197",
+  "candidate_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6858197",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6858197",
+          "title": "무말랭이 고춧잎무침 황금레시피",
+          "description": "오독오독 씹히는 식감도 맛있는 무말랭이 고춧잎무침은 최고의 밑반찬이기도 하지요 작년가을 볕 좋은날 바싹 말려 두었던 무말랭이와 고춧잎은 갖은양념에 조물조물 무쳐 냉장고에 두고 숙성을 시킨 후 먹으면 더 맛있게 드실 수있어요 우리집 든든한 밑반찬 무말랭이 고춧잎무침 황금레시피를 소개해 드려요~",
+          "servings": "6인분 이상",
+          "cooking_time": "90분 이내",
+          "difficulty": "중급",
+          "views": 117000,
+          "source_url": "https://www.10000recipe.com/recipe/6858197",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:dish",
+        "label": "Dish",
+        "properties": {
+          "name": "무말랭이 고춧잎무침"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무말랭이 말린것",
+          "role": "food",
+          "group": "무말랭이 무침 재료",
+          "quantity": "150g",
+          "unit": null,
+          "preparation": "말린것",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 무침 재료] 무말랭이 말린것 150g\", \"무말랭이는 볼에 담아 물을 넣고 조물조물을 해서 맑은물이 나올때까지 헹궈주고 체에 밭쳐서 그대로 30분정도 두세요\", \"30분정도 되면 무말랭이가 수분을 흡수해 부드러워지면 밑간하기-무랄랭이는 볼에 담아 멸지액젓4T+맛간장3T를 넣고 버무려서 약 20분을 두세요\", \"무침할때에 무말랭이는 충분히 버무려 준 후 나머지 재료를 넣고 버무려주어야 양념이 잘 배입니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:001:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무말랭이",
+          "name_normalized": "무말랭이"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "건 고춧잎",
+          "role": "food",
+          "group": "무말랭이 무침 재료",
+          "quantity": "10g",
+          "unit": null,
+          "preparation": "건",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 무침 재료] 건 고춧잎 10g\", \"고춧잎은 볼에 담아 미지근한 물을 넣고 30분 불립니다 (30분)후 고춧잎이 불려지면 깨끗이 헹구고 물기를 짜고 뭉친 고춧잎은 떼어 주세요\", \"무말랭이 무침하기-밑간된 무말랭이에 양념을 넣고 조물조물 버무린 다음 고춧잎과 양파채 넣고 다시한번 버무리고 마지막에 쪽파를 넣어 살살 버무려 마무리합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:002:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧잎",
+          "name_normalized": "고춧잎"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "무말랭이 무침 재료",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": "채 썰",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 무침 재료] 양파 1/2개\", \"무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다\", \"무말랭이 무침하기-밑간된 무말랭이에 양념을 넣고 조물조물 버무린 다음 고춧잎과 양파채 넣고 다시한번 버무리고 마지막에 쪽파를 넣어 살살 버무려 마무리합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:003:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "food",
+          "group": "무말랭이 무침 재료",
+          "quantity": "1개",
+          "unit": "개",
+          "preparation": "반갈라 씨 제거하고 가는채로 썰",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 무침 재료] 홍고추 1개\", \"무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:004:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쪽파",
+          "role": "food",
+          "group": "무말랭이 무침 재료",
+          "quantity": "7뿌리",
+          "unit": "뿌리",
+          "preparation": "약 3~4cm 정도 자르",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 무침 재료] 쪽파 7뿌리\", \"무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다\", \"무말랭이 무침하기-밑간된 무말랭이에 양념을 넣고 조물조물 버무린 다음 고춧잎과 양파채 넣고 다시한번 버무리고 마지막에 쪽파를 넣어 살살 버무려 마무리합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:005:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쪽파",
+          "name_normalized": "쪽파"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치액젓",
+          "role": "seasoning",
+          "group": "무말랭이 밑간 재료",
+          "quantity": "4T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 밑간 재료] 멸치액젓 4T\", \"무랄랭이는 볼에 담아 멸지액젓4T+맛간장3T를 넣고 버무려서 약 20분을 두세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:006:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치액젓",
+          "name_normalized": "멸치액젓"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛간장 시판",
+          "role": "seasoning",
+          "group": "무말랭이 밑간 재료",
+          "quantity": "3T",
+          "unit": "T",
+          "preparation": "시판",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 밑간 재료] 맛간장 시판 3T\", \"무랄랭이는 볼에 담아 멸지액젓4T+맛간장3T를 넣고 버무려서 약 20분을 두세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:007:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛간장",
+          "name_normalized": "맛간장"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀풀",
+          "role": "food",
+          "group": "찹쌀풀 재료",
+          "quantity": "1T",
+          "unit": "T",
+          "preparation": null,
+          "detail": "찹쌀풀국 재료로 사용됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[찹쌀풀 재료] 찹쌀풀 1T\", \"[양념재료] 찹쌀풀국 1/2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:008:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀풀",
+          "name_normalized": "찹쌀풀"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "찹쌀풀 재료",
+          "quantity": "1컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[찹쌀풀 재료] 물 1컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:009:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀풀국",
+          "role": "food",
+          "group": "양념재료",
+          "quantity": "1/2컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 찹쌀풀국 1/2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:010:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀풀국",
+          "name_normalized": "찹쌀풀국"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2T",
+          "unit": "T",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 다진마늘 2T\", \"무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:011:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진생강",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1t",
+          "unit": "t",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 다진생강 1t\", \"무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:012:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 설탕 1T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:013:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "7T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 고춧가루 7T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:014:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물엿",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "5T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 물엿 5T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:015:candidate:0",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물엿",
+          "name_normalized": "물엿"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6858197",
+        "type": "VARIANT_OF",
+        "target": "10000recipe_6858197:dish",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:001",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:001:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:002",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:002:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:003",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:003:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:004",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:004:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:005",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:005:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:006",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:006:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:007",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:007:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:008",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:008:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:009",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:009:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:010",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:010:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:011",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:011:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:012",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:012:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:013",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:013:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:014",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:014:candidate:0",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:015",
+        "type": "INGREDIENT",
+        "target": "10000recipe_6858197:component:015:candidate:0",
+        "properties": {}
+      }
+    ]
+  },
+  "final_graph": {
+    "nodes": [
+      {
+        "id": "10000recipe_6858197",
+        "label": "Recipe",
+        "properties": {
+          "recipe_uid": "10000recipe_6858197",
+          "title": "무말랭이 고춧잎무침 황금레시피",
+          "description": "오독오독 씹히는 식감도 맛있는 무말랭이 고춧잎무침은 최고의 밑반찬이기도 하지요 작년가을 볕 좋은날 바싹 말려 두었던 무말랭이와 고춧잎은 갖은양념에 조물조물 무쳐 냉장고에 두고 숙성을 시킨 후 먹으면 더 맛있게 드실 수있어요 우리집 든든한 밑반찬 무말랭이 고춧잎무침 황금레시피를 소개해 드려요~",
+          "servings": "6인분 이상",
+          "cooking_time": "90분 이내",
+          "difficulty": "중급",
+          "views": 117000,
+          "source_url": "https://www.10000recipe.com/recipe/6858197",
+          "source": "10000recipe"
+        }
+      },
+      {
+        "id": "dish:4577d42098f385a586ccc922acc242e5c7eb1855a99938b5dfbc2455a1e0741b",
+        "label": "Dish",
+        "properties": {
+          "name": "무말랭이 고춧잎무침"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:001",
+        "label": "Component",
+        "properties": {
+          "raw_name": "무말랭이 말린것",
+          "role": "food",
+          "group": "무말랭이 무침 재료",
+          "quantity": "150g",
+          "unit": null,
+          "preparation": "말린것",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 무침 재료] 무말랭이 말린것 150g\", \"무말랭이는 볼에 담아 물을 넣고 조물조물을 해서 맑은물이 나올때까지 헹궈주고 체에 밭쳐서 그대로 30분정도 두세요\", \"30분정도 되면 무말랭이가 수분을 흡수해 부드러워지면 밑간하기-무랄랭이는 볼에 담아 멸지액젓4T+맛간장3T를 넣고 버무려서 약 20분을 두세요\", \"무침할때에 무말랭이는 충분히 버무려 준 후 나머지 재료를 넣고 버무려주어야 양념이 잘 배입니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:001",
+          "index": 1
+        }
+      },
+      {
+        "id": "ingredient:4999030a0f6e2cb7dd3a726a284be4ec01f916a24b8b16ef90f64881840162db",
+        "label": "Ingredient",
+        "properties": {
+          "name": "무말랭이",
+          "name_normalized": "무말랭이"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:002",
+        "label": "Component",
+        "properties": {
+          "raw_name": "건 고춧잎",
+          "role": "food",
+          "group": "무말랭이 무침 재료",
+          "quantity": "10g",
+          "unit": null,
+          "preparation": "건",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 무침 재료] 건 고춧잎 10g\", \"고춧잎은 볼에 담아 미지근한 물을 넣고 30분 불립니다 (30분)후 고춧잎이 불려지면 깨끗이 헹구고 물기를 짜고 뭉친 고춧잎은 떼어 주세요\", \"무말랭이 무침하기-밑간된 무말랭이에 양념을 넣고 조물조물 버무린 다음 고춧잎과 양파채 넣고 다시한번 버무리고 마지막에 쪽파를 넣어 살살 버무려 마무리합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:002",
+          "index": 2
+        }
+      },
+      {
+        "id": "ingredient:092d359151cb848d72f46f679624b0e09b2df1663a082b6ca43ddc617802c434",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧잎",
+          "name_normalized": "고춧잎"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:003",
+        "label": "Component",
+        "properties": {
+          "raw_name": "양파",
+          "role": "food",
+          "group": "무말랭이 무침 재료",
+          "quantity": "1/2개",
+          "unit": "개",
+          "preparation": "채 썰",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 무침 재료] 양파 1/2개\", \"무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다\", \"무말랭이 무침하기-밑간된 무말랭이에 양념을 넣고 조물조물 버무린 다음 고춧잎과 양파채 넣고 다시한번 버무리고 마지막에 쪽파를 넣어 살살 버무려 마무리합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:003",
+          "index": 3
+        }
+      },
+      {
+        "id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "label": "Ingredient",
+        "properties": {
+          "name": "양파",
+          "name_normalized": "양파"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:004",
+        "label": "Component",
+        "properties": {
+          "raw_name": "홍고추",
+          "role": "food",
+          "group": "무말랭이 무침 재료",
+          "quantity": "1개",
+          "unit": "개",
+          "preparation": "반갈라 씨 제거하고 가는채로 썰",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 무침 재료] 홍고추 1개\", \"무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:004",
+          "index": 4
+        }
+      },
+      {
+        "id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "label": "Ingredient",
+        "properties": {
+          "name": "홍고추",
+          "name_normalized": "홍고추"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:005",
+        "label": "Component",
+        "properties": {
+          "raw_name": "쪽파",
+          "role": "food",
+          "group": "무말랭이 무침 재료",
+          "quantity": "7뿌리",
+          "unit": "뿌리",
+          "preparation": "약 3~4cm 정도 자르",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 무침 재료] 쪽파 7뿌리\", \"무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다\", \"무말랭이 무침하기-밑간된 무말랭이에 양념을 넣고 조물조물 버무린 다음 고춧잎과 양파채 넣고 다시한번 버무리고 마지막에 쪽파를 넣어 살살 버무려 마무리합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:005",
+          "index": 5
+        }
+      },
+      {
+        "id": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+        "label": "Ingredient",
+        "properties": {
+          "name": "쪽파",
+          "name_normalized": "쪽파"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:006",
+        "label": "Component",
+        "properties": {
+          "raw_name": "멸치액젓",
+          "role": "seasoning",
+          "group": "무말랭이 밑간 재료",
+          "quantity": "4T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 밑간 재료] 멸치액젓 4T\", \"무랄랭이는 볼에 담아 멸지액젓4T+맛간장3T를 넣고 버무려서 약 20분을 두세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:006",
+          "index": 6
+        }
+      },
+      {
+        "id": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+        "label": "Ingredient",
+        "properties": {
+          "name": "멸치액젓",
+          "name_normalized": "멸치액젓"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:007",
+        "label": "Component",
+        "properties": {
+          "raw_name": "맛간장 시판",
+          "role": "seasoning",
+          "group": "무말랭이 밑간 재료",
+          "quantity": "3T",
+          "unit": "T",
+          "preparation": "시판",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[무말랭이 밑간 재료] 맛간장 시판 3T\", \"무랄랭이는 볼에 담아 멸지액젓4T+맛간장3T를 넣고 버무려서 약 20분을 두세요\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:007",
+          "index": 7
+        }
+      },
+      {
+        "id": "ingredient:0c9ee4147d4f0403ba238dcbfbfd7672c8de85ee05669be0d5e7fe53ab3b4265",
+        "label": "Ingredient",
+        "properties": {
+          "name": "맛간장",
+          "name_normalized": "맛간장"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:008",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀풀",
+          "role": "food",
+          "group": "찹쌀풀 재료",
+          "quantity": "1T",
+          "unit": "T",
+          "preparation": null,
+          "detail": "찹쌀풀국 재료로 사용됨",
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[찹쌀풀 재료] 찹쌀풀 1T\", \"[양념재료] 찹쌀풀국 1/2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:008",
+          "index": 8
+        }
+      },
+      {
+        "id": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀풀",
+          "name_normalized": "찹쌀풀"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:009",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물",
+          "role": "food",
+          "group": "찹쌀풀 재료",
+          "quantity": "1컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[찹쌀풀 재료] 물 1컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:009",
+          "index": 9
+        }
+      },
+      {
+        "id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물",
+          "name_normalized": "물"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:010",
+        "label": "Component",
+        "properties": {
+          "raw_name": "찹쌀풀국",
+          "role": "food",
+          "group": "양념재료",
+          "quantity": "1/2컵",
+          "unit": "컵",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 찹쌀풀국 1/2컵\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:010",
+          "index": 10
+        }
+      },
+      {
+        "id": "ingredient:b52819b2492009f9a1ffd5fb526b6ec5ac968e954819c9601fdf6cd160ef526e",
+        "label": "Ingredient",
+        "properties": {
+          "name": "찹쌀풀국",
+          "name_normalized": "찹쌀풀국"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:011",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진마늘",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "2T",
+          "unit": "T",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 다진마늘 2T\", \"무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:011",
+          "index": 11
+        }
+      },
+      {
+        "id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "label": "Ingredient",
+        "properties": {
+          "name": "마늘",
+          "name_normalized": "마늘"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:012",
+        "label": "Component",
+        "properties": {
+          "raw_name": "다진생강",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1t",
+          "unit": "t",
+          "preparation": "다진",
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 다진생강 1t\", \"무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:012",
+          "index": 12
+        }
+      },
+      {
+        "id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "label": "Ingredient",
+        "properties": {
+          "name": "생강",
+          "name_normalized": "생강"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:013",
+        "label": "Component",
+        "properties": {
+          "raw_name": "설탕",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "1T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 설탕 1T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:013",
+          "index": 13
+        }
+      },
+      {
+        "id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "label": "Ingredient",
+        "properties": {
+          "name": "설탕",
+          "name_normalized": "설탕"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:014",
+        "label": "Component",
+        "properties": {
+          "raw_name": "고춧가루",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "7T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 고춧가루 7T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:014",
+          "index": 14
+        }
+      },
+      {
+        "id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "label": "Ingredient",
+        "properties": {
+          "name": "고춧가루",
+          "name_normalized": "고춧가루"
+        }
+      },
+      {
+        "id": "10000recipe_6858197:component:015",
+        "label": "Component",
+        "properties": {
+          "raw_name": "물엿",
+          "role": "seasoning",
+          "group": "양념재료",
+          "quantity": "5T",
+          "unit": "T",
+          "preparation": null,
+          "detail": null,
+          "is_required": null,
+          "alternative_mode": "none",
+          "evidence": "[\"[양념재료] 물엿 5T\"]",
+          "quality_flags": [],
+          "component_uid": "10000recipe_6858197:component:015",
+          "index": 15
+        }
+      },
+      {
+        "id": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+        "label": "Ingredient",
+        "properties": {
+          "name": "물엿",
+          "name_normalized": "물엿"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "10000recipe_6858197",
+        "type": "VARIANT_OF",
+        "target": "dish:4577d42098f385a586ccc922acc242e5c7eb1855a99938b5dfbc2455a1e0741b",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:001",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:001",
+        "type": "INGREDIENT",
+        "target": "ingredient:4999030a0f6e2cb7dd3a726a284be4ec01f916a24b8b16ef90f64881840162db",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:002",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:002",
+        "type": "INGREDIENT",
+        "target": "ingredient:092d359151cb848d72f46f679624b0e09b2df1663a082b6ca43ddc617802c434",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:003",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:003",
+        "type": "INGREDIENT",
+        "target": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:004",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:004",
+        "type": "INGREDIENT",
+        "target": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:005",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:005",
+        "type": "INGREDIENT",
+        "target": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:006",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:006",
+        "type": "INGREDIENT",
+        "target": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:007",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:007",
+        "type": "INGREDIENT",
+        "target": "ingredient:0c9ee4147d4f0403ba238dcbfbfd7672c8de85ee05669be0d5e7fe53ab3b4265",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:008",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:008",
+        "type": "INGREDIENT",
+        "target": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:009",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:009",
+        "type": "INGREDIENT",
+        "target": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:010",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:010",
+        "type": "INGREDIENT",
+        "target": "ingredient:b52819b2492009f9a1ffd5fb526b6ec5ac968e954819c9601fdf6cd160ef526e",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:011",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:011",
+        "type": "INGREDIENT",
+        "target": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:012",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:012",
+        "type": "INGREDIENT",
+        "target": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:013",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:013",
+        "type": "INGREDIENT",
+        "target": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:014",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:014",
+        "type": "INGREDIENT",
+        "target": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197",
+        "type": "HAS_COMPONENT",
+        "target": "10000recipe_6858197:component:015",
+        "properties": {}
+      },
+      {
+        "source": "10000recipe_6858197:component:015",
+        "type": "INGREDIENT",
+        "target": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+        "properties": {}
+      }
+    ]
+  },
+  "record": {
+    "dish_candidate": "무말랭이 고춧잎무침",
+    "components": [
+      {
+        "raw_name": "무말랭이 말린것",
+        "role": "food",
+        "group": "무말랭이 무침 재료",
+        "quantity": "150g",
+        "unit": null,
+        "preparation": "말린것",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[무말랭이 무침 재료] 무말랭이 말린것 150g",
+          "무말랭이는 볼에 담아 물을 넣고 조물조물을 해서 맑은물이 나올때까지 헹궈주고 체에 밭쳐서 그대로 30분정도 두세요",
+          "30분정도 되면 무말랭이가 수분을 흡수해 부드러워지면 밑간하기-무랄랭이는 볼에 담아 멸지액젓4T+맛간장3T를 넣고 버무려서 약 20분을 두세요",
+          "무침할때에 무말랭이는 충분히 버무려 준 후 나머지 재료를 넣고 버무려주어야 양념이 잘 배입니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "무말랭이",
+        "alternatives": []
+      },
+      {
+        "raw_name": "건 고춧잎",
+        "role": "food",
+        "group": "무말랭이 무침 재료",
+        "quantity": "10g",
+        "unit": null,
+        "preparation": "건",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[무말랭이 무침 재료] 건 고춧잎 10g",
+          "고춧잎은 볼에 담아 미지근한 물을 넣고 30분 불립니다 (30분)후 고춧잎이 불려지면 깨끗이 헹구고 물기를 짜고 뭉친 고춧잎은 떼어 주세요",
+          "무말랭이 무침하기-밑간된 무말랭이에 양념을 넣고 조물조물 버무린 다음 고춧잎과 양파채 넣고 다시한번 버무리고 마지막에 쪽파를 넣어 살살 버무려 마무리합니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧잎",
+        "alternatives": []
+      },
+      {
+        "raw_name": "양파",
+        "role": "food",
+        "group": "무말랭이 무침 재료",
+        "quantity": "1/2개",
+        "unit": "개",
+        "preparation": "채 썰",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[무말랭이 무침 재료] 양파 1/2개",
+          "무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다",
+          "무말랭이 무침하기-밑간된 무말랭이에 양념을 넣고 조물조물 버무린 다음 고춧잎과 양파채 넣고 다시한번 버무리고 마지막에 쪽파를 넣어 살살 버무려 마무리합니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "양파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "홍고추",
+        "role": "food",
+        "group": "무말랭이 무침 재료",
+        "quantity": "1개",
+        "unit": "개",
+        "preparation": "반갈라 씨 제거하고 가는채로 썰",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[무말랭이 무침 재료] 홍고추 1개",
+          "무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "홍고추",
+        "alternatives": []
+      },
+      {
+        "raw_name": "쪽파",
+        "role": "food",
+        "group": "무말랭이 무침 재료",
+        "quantity": "7뿌리",
+        "unit": "뿌리",
+        "preparation": "약 3~4cm 정도 자르",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[무말랭이 무침 재료] 쪽파 7뿌리",
+          "무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다",
+          "무말랭이 무침하기-밑간된 무말랭이에 양념을 넣고 조물조물 버무린 다음 고춧잎과 양파채 넣고 다시한번 버무리고 마지막에 쪽파를 넣어 살살 버무려 마무리합니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "쪽파",
+        "alternatives": []
+      },
+      {
+        "raw_name": "멸치액젓",
+        "role": "seasoning",
+        "group": "무말랭이 밑간 재료",
+        "quantity": "4T",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[무말랭이 밑간 재료] 멸치액젓 4T",
+          "무랄랭이는 볼에 담아 멸지액젓4T+맛간장3T를 넣고 버무려서 약 20분을 두세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "멸치액젓",
+        "alternatives": []
+      },
+      {
+        "raw_name": "맛간장 시판",
+        "role": "seasoning",
+        "group": "무말랭이 밑간 재료",
+        "quantity": "3T",
+        "unit": "T",
+        "preparation": "시판",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[무말랭이 밑간 재료] 맛간장 시판 3T",
+          "무랄랭이는 볼에 담아 멸지액젓4T+맛간장3T를 넣고 버무려서 약 20분을 두세요"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "맛간장",
+        "alternatives": []
+      },
+      {
+        "raw_name": "찹쌀풀",
+        "role": "food",
+        "group": "찹쌀풀 재료",
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": null,
+        "detail": "찹쌀풀국 재료로 사용됨",
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[찹쌀풀 재료] 찹쌀풀 1T",
+          "[양념재료] 찹쌀풀국 1/2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "찹쌀풀",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물",
+        "role": "food",
+        "group": "찹쌀풀 재료",
+        "quantity": "1컵",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[찹쌀풀 재료] 물 1컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물",
+        "alternatives": []
+      },
+      {
+        "raw_name": "찹쌀풀국",
+        "role": "food",
+        "group": "양념재료",
+        "quantity": "1/2컵",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 찹쌀풀국 1/2컵"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "찹쌀풀국",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진마늘",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "2T",
+        "unit": "T",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 다진마늘 2T",
+          "무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "마늘",
+        "alternatives": []
+      },
+      {
+        "raw_name": "다진생강",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1t",
+        "unit": "t",
+        "preparation": "다진",
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 다진생강 1t",
+          "무말랭이와 고춧잎을 불리는 동안 쪽파는 약 3~4cm 정도 자르고 양파는 채 썰고 홍고추는 반갈라 씨제거하고 가는채를 썰고 다진마늘 다진생강을 준비합니다"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "생강",
+        "alternatives": []
+      },
+      {
+        "raw_name": "설탕",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "1T",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 설탕 1T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "설탕",
+        "alternatives": []
+      },
+      {
+        "raw_name": "고춧가루",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "7T",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 고춧가루 7T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "고춧가루",
+        "alternatives": []
+      },
+      {
+        "raw_name": "물엿",
+        "role": "seasoning",
+        "group": "양념재료",
+        "quantity": "5T",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "is_required": null,
+        "alternative_mode": "none",
+        "evidence": [
+          "[양념재료] 물엿 5T"
+        ],
+        "quality_flags": [],
+        "ingredient_candidate": "물엿",
+        "alternatives": []
+      }
+    ]
+  },
+  "original_record_hash": "4c575ff7a5eae78150dc9cc8c488c3e5ec0db0f0da24e35f94ec39336b0a95b4",
+  "er_mapping": [
+    {
+      "original_id": "10000recipe_6858197:dish",
+      "canonical_id": "dish:4577d42098f385a586ccc922acc242e5c7eb1855a99938b5dfbc2455a1e0741b",
+      "original_name": "무말랭이 고춧잎무침",
+      "canonical_name": "무말랭이 고춧잎무침",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:001:candidate:0",
+      "canonical_id": "ingredient:4999030a0f6e2cb7dd3a726a284be4ec01f916a24b8b16ef90f64881840162db",
+      "original_name": "무말랭이",
+      "canonical_name": "무말랭이",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:002:candidate:0",
+      "canonical_id": "ingredient:092d359151cb848d72f46f679624b0e09b2df1663a082b6ca43ddc617802c434",
+      "original_name": "고춧잎",
+      "canonical_name": "고춧잎",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:003:candidate:0",
+      "canonical_id": "ingredient:8625a8711ef16bb1d2c92677130775881d7ef5444970cb1e08baf7977559b742",
+      "original_name": "양파",
+      "canonical_name": "양파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:004:candidate:0",
+      "canonical_id": "ingredient:dedb20735649640d4b46e990a782790eff48dc67d1a50970ca986e7382d787ca",
+      "original_name": "홍고추",
+      "canonical_name": "홍고추",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:005:candidate:0",
+      "canonical_id": "ingredient:0047c39fa0d5ad9cdec02ca527600e011fcc41ca8e92649d4ceb938ce339df82",
+      "original_name": "쪽파",
+      "canonical_name": "쪽파",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:006:candidate:0",
+      "canonical_id": "ingredient:a1d8472cb45afa688e0148cc140bd0a780048094eddf4b28515b4502b3893ee7",
+      "original_name": "멸치액젓",
+      "canonical_name": "멸치액젓",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:007:candidate:0",
+      "canonical_id": "ingredient:0c9ee4147d4f0403ba238dcbfbfd7672c8de85ee05669be0d5e7fe53ab3b4265",
+      "original_name": "맛간장",
+      "canonical_name": "맛간장",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:008:candidate:0",
+      "canonical_id": "ingredient:baeb8b8d7576d322205e36e9a1976aff4184a9c586679d4b2cad522bd8750f7e",
+      "original_name": "찹쌀풀",
+      "canonical_name": "찹쌀풀",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:009:candidate:0",
+      "canonical_id": "ingredient:613c244a2dad96b0434a1ea44b048c41fe474d5c4decdde17a0dd556ff2496e4",
+      "original_name": "물",
+      "canonical_name": "물",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:010:candidate:0",
+      "canonical_id": "ingredient:b52819b2492009f9a1ffd5fb526b6ec5ac968e954819c9601fdf6cd160ef526e",
+      "original_name": "찹쌀풀국",
+      "canonical_name": "찹쌀풀국",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:011:candidate:0",
+      "canonical_id": "ingredient:01cb0f866ae45abcb2d27a283a4701870a25305606b5f55f633902516071c327",
+      "original_name": "마늘",
+      "canonical_name": "마늘",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:012:candidate:0",
+      "canonical_id": "ingredient:f089b302549d6f3ce9b95cdc64e2def502642dd5fc092737fc684d656b6b9b20",
+      "original_name": "생강",
+      "canonical_name": "생강",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:013:candidate:0",
+      "canonical_id": "ingredient:77357605652ea87efbfdc51f8eb6dea6f7d709d2383903bf19eb6f2da4f45238",
+      "original_name": "설탕",
+      "canonical_name": "설탕",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:014:candidate:0",
+      "canonical_id": "ingredient:c12199a8624719a6cc912e15438a766f0cb8ebf8b6e465af137655ca1d949605",
+      "original_name": "고춧가루",
+      "canonical_name": "고춧가루",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    },
+    {
+      "original_id": "10000recipe_6858197:component:015:candidate:0",
+      "canonical_id": "ingredient:88218f8cff2fafd0ddae20f8093a5eaa4d7c9b8304ef84087903266711abcd8b",
+      "original_name": "물엿",
+      "canonical_name": "물엿",
+      "rule": "NFC_strip",
+      "er_version": "1.0"
+    }
+  ],
+  "report": {
+    "recipe_uid": "10000recipe_6858197",
+    "status": "awaiting_review",
+    "errors": [],
+    "stage1_errors": [],
+    "stage2_errors": []
+  },
+  "review_hash": "25fa983e320a5fa477d095545a69d9fc126dfa7389b902847865c59c7ed3423b"
+}

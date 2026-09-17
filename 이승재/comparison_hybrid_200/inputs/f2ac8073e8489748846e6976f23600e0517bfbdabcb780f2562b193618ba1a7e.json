@@ -1,0 +1,157 @@
+{
+  "recipe_uid": "10000recipe_7082328",
+  "payload": {
+    "title": "초간단 더블치즈햄토스트 만들기",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "통밀식빵 일반 우유 식빵 등으로 변경가능 2장",
+        "통밀식빵 일반 우유 식빵 등으로 변경가능",
+        "통밀식빵 일반 우유 식빵 등으로 변경가능",
+        "food",
+        "[재료]",
+        "2",
+        "장",
+        null,
+        null
+      ],
+      [
+        "사각모짜렐라치즈 2장",
+        "사각모짜렐라치즈",
+        "사각모짜렐라치즈",
+        "food",
+        "[재료]",
+        "2",
+        "장",
+        null,
+        null
+      ],
+      [
+        "체다치즈 1장",
+        "체다치즈",
+        "체다치즈",
+        "food",
+        "[재료]",
+        "1",
+        "장",
+        null,
+        null
+      ],
+      [
+        "샌드위치햄 2장",
+        "샌드위치햄",
+        "샌드위치햄",
+        "food",
+        "[재료]",
+        "2",
+        "장",
+        null,
+        null
+      ],
+      [
+        "마요네즈 1/2숟갈",
+        "마요네즈 1/2숟갈",
+        "마요네즈 1/2숟갈",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "허니머스터드 1/2숟갈",
+        "허니머스터드 1/2숟갈",
+        "허니머스터드 1/2숟갈",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "통밀식빵 일반 우유 식빵 등으로 변경가능 2장",
+      "raw_name": "통밀식빵 일반 우유 식빵 등으로 변경가능",
+      "ingredient_candidate": "통밀식빵 일반 우유 식빵 등으로 변경가능",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "사각모짜렐라치즈 2장",
+      "raw_name": "사각모짜렐라치즈",
+      "ingredient_candidate": "사각모짜렐라치즈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "체다치즈 1장",
+      "raw_name": "체다치즈",
+      "ingredient_candidate": "체다치즈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "샌드위치햄 2장",
+      "raw_name": "샌드위치햄",
+      "ingredient_candidate": "샌드위치햄",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "2",
+      "unit": "장",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "마요네즈 1/2숟갈",
+      "raw_name": "마요네즈 1/2숟갈",
+      "ingredient_candidate": "마요네즈 1/2숟갈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "허니머스터드 1/2숟갈",
+      "raw_name": "허니머스터드 1/2숟갈",
+      "ingredient_candidate": "허니머스터드 1/2숟갈",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 6,
+  "sent_steps": 0,
+  "evidence_text": "초간단 더블치즈햄토스트 만들기\n통밀식빵 일반 우유 식빵 등으로 변경가능 2장\n사각모짜렐라치즈 2장\n체다치즈 1장\n샌드위치햄 2장\n마요네즈 1/2숟갈\n허니머스터드 1/2숟갈"
+}

@@ -1,0 +1,223 @@
+{
+  "recipe_uid": "10000recipe_4998590",
+  "payload": {
+    "title": "아삭아삭~ 햇양파김치",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "양파 큰것 3개",
+        "양파 큰것",
+        "양파 큰것",
+        "food",
+        "[재료]",
+        "3",
+        "개",
+        null,
+        null
+      ],
+      [
+        "부추 1줌",
+        "부추",
+        "부추",
+        "food",
+        "[재료]",
+        "1",
+        "줌",
+        null,
+        null
+      ],
+      [
+        "멸치액젓 4T",
+        "멸치액젓",
+        "멸치액젓",
+        "seasoning",
+        "[양념]",
+        "4",
+        "T",
+        null,
+        null
+      ],
+      [
+        "까나리액젓 1T",
+        "까나리액젓",
+        "까나리액젓",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "매실액 1T",
+        "매실액",
+        "매실액",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        null,
+        null
+      ],
+      [
+        "고춧가루 4T",
+        "고춧가루",
+        "고춧가루",
+        "seasoning",
+        "[양념]",
+        "4",
+        "T",
+        null,
+        null
+      ],
+      [
+        "다진마늘 1T",
+        "다진마늘",
+        "마늘",
+        "seasoning",
+        "[양념]",
+        "1",
+        "T",
+        "다진",
+        null
+      ],
+      [
+        "다진생강 1t",
+        "다진생강",
+        "생강",
+        "seasoning",
+        "[양념]",
+        "1",
+        "t",
+        "다진",
+        null
+      ],
+      [
+        "통깨",
+        "통깨",
+        "통깨",
+        "seasoning",
+        "[양념]",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": []
+  },
+  "seed_items": [
+    {
+      "raw": "양파 큰것 3개",
+      "raw_name": "양파 큰것",
+      "ingredient_candidate": "양파 큰것",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "3",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "부추 1줌",
+      "raw_name": "부추",
+      "ingredient_candidate": "부추",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "줌",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "멸치액젓 4T",
+      "raw_name": "멸치액젓",
+      "ingredient_candidate": "멸치액젓",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "4",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "까나리액젓 1T",
+      "raw_name": "까나리액젓",
+      "ingredient_candidate": "까나리액젓",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "매실액 1T",
+      "raw_name": "매실액",
+      "ingredient_candidate": "매실액",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "고춧가루 4T",
+      "raw_name": "고춧가루",
+      "ingredient_candidate": "고춧가루",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "4",
+      "unit": "T",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "다진마늘 1T",
+      "raw_name": "다진마늘",
+      "ingredient_candidate": "마늘",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "다진생강 1t",
+      "raw_name": "다진생강",
+      "ingredient_candidate": "생강",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": "1",
+      "unit": "t",
+      "preparation": "다진",
+      "detail": null
+    },
+    {
+      "raw": "통깨",
+      "raw_name": "통깨",
+      "ingredient_candidate": "통깨",
+      "role": "seasoning",
+      "group": "[양념]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 4,
+  "sent_steps": 0,
+  "evidence_text": "아삭아삭~ 햇양파김치\n양파 큰것 3개\n부추 1줌\n멸치액젓 4T\n까나리액젓 1T\n매실액 1T\n고춧가루 4T\n다진마늘 1T\n다진생강 1t\n통깨"
+}

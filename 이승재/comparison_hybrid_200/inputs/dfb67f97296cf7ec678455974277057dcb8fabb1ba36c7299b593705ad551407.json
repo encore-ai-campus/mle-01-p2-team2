@@ -1,0 +1,188 @@
+{
+  "recipe_uid": "10000recipe_6852559",
+  "payload": {
+    "title": "3대천왕 황태국 - 사골국물처럼 뽀얀 황태국 비법",
+    "columns": [
+      "raw",
+      "raw_name",
+      "ingredient_candidate",
+      "role",
+      "group",
+      "quantity",
+      "unit",
+      "preparation",
+      "detail"
+    ],
+    "items": [
+      [
+        "황태포 45g 1마리",
+        "황태포",
+        "황태포",
+        "food",
+        "[재료]",
+        "1",
+        "마리",
+        null,
+        null
+      ],
+      [
+        "들기름 5밥숟가락",
+        "들기름 5밥숟가락",
+        "들기름 5밥숟가락",
+        "food",
+        "[재료]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "물 1L",
+        "물",
+        "물",
+        "food",
+        "[재료]",
+        "1",
+        "L",
+        null,
+        null
+      ],
+      [
+        "감자 작은 것 1개",
+        "감자 작은 것",
+        "감자 작은 것",
+        "food",
+        "[재료]",
+        "1",
+        "개",
+        null,
+        null
+      ],
+      [
+        "대파 채 약간",
+        "대파 채",
+        "대파 채",
+        "food",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "소금 약간",
+        "소금",
+        "소금",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ],
+      [
+        "후추 약간",
+        "후추",
+        "후추",
+        "seasoning",
+        "[재료]",
+        "약간",
+        null,
+        null,
+        null
+      ]
+    ],
+    "context": [
+      {
+        "step": 8,
+        "text": "감자가 익으면 대파채를 넣어줍니다."
+      },
+      {
+        "step": 9,
+        "text": "뽀얀 사골국물 같지요? 취향에 따라 소금과 후추로 간을 하시구요. 요렇게 완성되었답니다."
+      }
+    ]
+  },
+  "seed_items": [
+    {
+      "raw": "황태포 45g 1마리",
+      "raw_name": "황태포",
+      "ingredient_candidate": "황태포",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "마리",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "들기름 5밥숟가락",
+      "raw_name": "들기름 5밥숟가락",
+      "ingredient_candidate": "들기름 5밥숟가락",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "물 1L",
+      "raw_name": "물",
+      "ingredient_candidate": "물",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "L",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "감자 작은 것 1개",
+      "raw_name": "감자 작은 것",
+      "ingredient_candidate": "감자 작은 것",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "대파 채 약간",
+      "raw_name": "대파 채",
+      "ingredient_candidate": "대파 채",
+      "role": "food",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "소금 약간",
+      "raw_name": "소금",
+      "ingredient_candidate": "소금",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    },
+    {
+      "raw": "후추 약간",
+      "raw_name": "후추",
+      "ingredient_candidate": "후추",
+      "role": "seasoning",
+      "group": "[재료]",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null
+    }
+  ],
+  "original_steps": 9,
+  "sent_steps": 2,
+  "evidence_text": "3대천왕 황태국 - 사골국물처럼 뽀얀 황태국 비법\n황태포 45g 1마리\n들기름 5밥숟가락\n물 1L\n감자 작은 것 1개\n대파 채 약간\n소금 약간\n후추 약간\n감자가 익으면 대파채를 넣어줍니다.\n뽀얀 사골국물 같지요? 취향에 따라 소금과 후추로 간을 하시구요. 요렇게 완성되었답니다."
+}

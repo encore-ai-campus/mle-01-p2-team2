@@ -1,0 +1,1268 @@
+{
+  "schema_version": "1.0",
+  "input": "C:\\Users\\Playdata\\Desktop\\mle-01-p2-team2\\전처리\\recipes_10000_cleaned.jsonl",
+  "input_sha256": "dfbac9f8156d693cfce1b7c135118b3d1d11e36cb57337106ac8c54454e0f815",
+  "seed": 42,
+  "sample_size": 200,
+  "eligible_unique_count": 9555,
+  "excluded_count": 445,
+  "invalid_count": 3,
+  "sample_hash": "e37fdac5fe42de100ea1f9bf4157fda138ed2034267f2c37136e7852eeee5b61",
+  "selection_note": "오류 발견용 단서 우선 표본. 전체 모집단 비율 추정용이 아님.",
+  "recipes": [
+    {
+      "recipe_uid": "10000recipe_7080257",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6907524",
+      "case_hints": [
+        "alternative_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_590786",
+      "case_hints": [
+        "alternative_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081664",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6858833",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6852685",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080889",
+      "case_hints": [
+        "alternative_hint",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6863364",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4784948",
+      "case_hints": [
+        "alternative_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6904638",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080571",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082089",
+      "case_hints": [
+        "alternative_hint",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_3997539",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6870760",
+      "case_hints": [
+        "alternative_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082638",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082962",
+      "case_hints": [
+        "alternative_hint",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_1849227",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "multiple_groups",
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_2811959",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6838963",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6095288",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082208",
+      "case_hints": [
+        "optional_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082448",
+      "case_hints": [
+        "optional_hint",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081606",
+      "case_hints": [
+        "optional_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6867165",
+      "case_hints": [
+        "optional_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6866542",
+      "case_hints": [
+        "optional_hint",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6869657",
+      "case_hints": [
+        "optional_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081635",
+      "case_hints": [
+        "optional_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082810",
+      "case_hints": [
+        "optional_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080806",
+      "case_hints": [
+        "optional_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6864530",
+      "case_hints": [
+        "optional_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6844014",
+      "case_hints": [
+        "optional_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080914",
+      "case_hints": [
+        "optional_hint",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6839363",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_5228712",
+      "case_hints": [
+        "optional_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6888128",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6912348",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6884393",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081778",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6905178",
+      "case_hints": [
+        "alternative_hint",
+        "optional_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4323582",
+      "case_hints": [
+        "optional_hint",
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4998590",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082922",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082956",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4116039",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082107",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6840613",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6839435",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6877036",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6861653",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6864003",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6887748",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6829399",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6859318",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_1775954",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4584564",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6540658",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6847921",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082783",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6850809",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082152",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082938",
+      "case_hints": [
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6860947",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6894530",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081696",
+      "case_hints": [
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4584385",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081002",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081747",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081890",
+      "case_hints": [
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080260",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081522",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_3239782",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6887568",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6837737",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6958977",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6953652",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082612",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_825362",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6951400",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6844401",
+      "case_hints": [
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6873565",
+      "case_hints": [
+        "optional_hint",
+        "multiple_groups",
+        "repeated_ingredient"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081121",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081277",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081345",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6854359",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6863267",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082328",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081859",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082842",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6829057",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6875078",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6884397",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4529642",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6682573",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081437",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082718",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4592833",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6907445",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082905",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081691",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6847466",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080174",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7082505",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7081096",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_5994149",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6912854",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7082592",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7081283",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7082780",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6896872",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_3271213",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6836075",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6831310",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4218837",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6850116",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6909785",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6707909",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6862912",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7081581",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6852755",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_1802633",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_1886499",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6873624",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6865809",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6859137",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6858197",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082871",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082091",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_4436323",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_3334221",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081518",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6881182",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081569",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080380",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6852559",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082943",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7082432",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7081494",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6879731",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6841606",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080940",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7082181",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4790224",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6960275",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_3979404",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6864959",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6860248",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081416",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080425",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6860165",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7082959",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081600",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6907926",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6852992",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_2660290",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080175",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081699",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6881800",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6689884",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_5594696",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_3478742",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6876209",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6902060",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082665",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082059",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081834",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4457255",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6838224",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6879745",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7080944",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6870882",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082087",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6866991",
+      "case_hints": [
+        "alternative_hint",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7082032",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_2809032",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6833972",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_2358203",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6845980",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4268988",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_7081211",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6833247",
+      "case_hints": [
+        "alternative_hint",
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081843",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_4878562",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7080404",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6923187",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6853029",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6840569",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6872120",
+      "case_hints": [
+        "alternative_hint"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6890781",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7083094",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6914349",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081821",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6839434",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6898328",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6890486",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6857961",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6906704",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6864716",
+      "case_hints": [
+        "multiple_groups"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_7081462",
+      "case_hints": [
+        "preprocess_warning"
+      ]
+    },
+    {
+      "recipe_uid": "10000recipe_6889620",
+      "case_hints": []
+    },
+    {
+      "recipe_uid": "10000recipe_6913491",
+      "case_hints": [
+        "multiple_groups",
+        "preprocess_warning"
+      ]
+    }
+  ]
+}
