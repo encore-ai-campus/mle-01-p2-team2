@@ -55,9 +55,9 @@ Streamlit 검색 서비스
 |---|---|
 | app.py | Streamlit 검색·상세 레시피·통계 화면 |
 | recipe_graph.py | Neo4j 연결 및 Cypher 조회 함수 |
-| 홍기표/대분류,중분류+neo4j 적재.ipynb | 대분류·중분류 생성 및 그래프 적재 |
-| 홍기표/백터임베딩.ipynb | 레시피 임베딩 생성, Neo4j 적재, 벡터 인덱스 생성 |
-| 홍기표/agent.py | 질의 임베딩 기반 벡터 검색 및 답변 생성 |
+| /대분류,중분류+neo4j 적재.ipynb | 대분류·중분류 생성 및 그래프 적재 |
+| /백터임베딩.ipynb | 레시피 임베딩 생성, Neo4j 적재, 벡터 인덱스 생성 |
+| app.py | 질의 임베딩 기반 벡터 검색 및 답변 생성 |
 | image/온톨로지.png | 그래프 스키마 이미지 |
 | image/visualisation1.svg | 대분류 → 중분류 → 레시피 → 재료 예시 |
 | image/visualisation2.svg | 특정 레시피의 분류와 재료 예시 |
