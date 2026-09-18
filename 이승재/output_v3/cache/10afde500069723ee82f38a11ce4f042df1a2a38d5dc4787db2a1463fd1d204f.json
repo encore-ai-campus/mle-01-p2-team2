@@ -1,0 +1,365 @@
+{
+  "identity": {
+    "raw_hash": "bc1b5258516b5767c43b11b5e41a71f45f2bc7185bd8b74650c72693e5684924",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:6901938",
+  "extraction": {
+    "dish_name": "크림파스타",
+    "dish_group_name": "파스타",
+    "dish_type_name": "크림파스타",
+    "dish_evidence": "크림파스타 만들기 크림스파게티 만드는 법 생각보다 간단해요 :)",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "올리브유",
+        "ingredient_name": "올리브유",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "파스타면",
+        "ingredient_name": "파스타면",
+        "quantity": "1",
+        "unit": "인분",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "단계 원문에서는 파스타 건면으로 표현됨"
+        ]
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "베이컨 작은 거",
+        "ingredient_name": "베이컨",
+        "quantity": "4",
+        "unit": "장",
+        "preparation": null,
+        "detail": "작은 거",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "체다치즈",
+        "ingredient_name": "체다치즈",
+        "quantity": "2",
+        "unit": "장",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "단계에서 추가 사용 가능성이 언급되지만 대체재는 아님"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "소금",
+        "ingredient_name": "소금",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "후추",
+        "ingredient_name": "후추",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "흰우유",
+        "ingredient_name": "흰우유",
+        "quantity": "180",
+        "unit": "ml",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "양송이버섯",
+        "ingredient_name": "양송이버섯",
+        "quantity": "2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 9,
+        "status": "ingredient",
+        "raw_name": "다진 마늘",
+        "ingredient_name": "마늘",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": "다진",
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 10,
+        "status": "ingredient",
+        "raw_name": "버터",
+        "ingredient_name": "버터",
+        "quantity": "1",
+        "unit": "숟갈",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 11,
+        "status": "ingredient",
+        "raw_name": "채 썬 양파",
+        "ingredient_name": "양파",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": "채 썬",
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 12,
+        "status": "equipment",
+        "raw_name": "도마",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 분류"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "equipment",
+        "raw_name": "조리용나이프",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 분류"
+        ]
+      },
+      {
+        "index": 14,
+        "status": "equipment",
+        "raw_name": "냄비",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리용기로 분류"
+        ]
+      },
+      {
+        "index": 15,
+        "status": "equipment",
+        "raw_name": "채반",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 분류"
+        ]
+      },
+      {
+        "index": 16,
+        "status": "equipment",
+        "raw_name": "볶음팬",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 분류"
+        ]
+      },
+      {
+        "index": 17,
+        "status": "equipment",
+        "raw_name": "요리스푼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 분류"
+        ]
+      },
+      {
+        "index": 18,
+        "status": "equipment",
+        "raw_name": "파스타접시",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "식기로 분류"
+        ]
+      },
+      {
+        "index": 19,
+        "status": "equipment",
+        "raw_name": "요리젓가락",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 분류"
+        ]
+      }
+    ],
+    "review_notes": [
+      "dish_group_name은 제목과 재료·조리 단계에 근거한 검토용 후보임",
+      "원문 단계에서 피클이 언급되지만 numbered_ingredients에 없으므로 목록 항목으로 추가하지 않음"
+    ]
+  },
+  "response_id": "resp_05a2706a6479bd90016aabbeaf162887d08a1bd7fd384d42f2",
+  "usage": {
+    "input_tokens": 7510,
+    "input_tokens_details": {
+      "cache_write_tokens": 1456,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 1960,
+    "output_tokens_details": {
+      "reasoning_tokens": 437
+    },
+    "total_tokens": 9470
+  }
+}

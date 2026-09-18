@@ -1,0 +1,228 @@
+{
+  "dish_name": "소고기 미역국",
+  "dish_group_name": "국",
+  "dish_type_name": "미역국",
+  "dish_evidence": "엄마의 레시피, 소고기 미역국 끓이는 법",
+  "variant_label": null,
+  "variant_evidence": null,
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "소고기 국거리용",
+      "ingredient_name": "소고기",
+      "quantity": "180",
+      "unit": "g",
+      "preparation": null,
+      "detail": "국거리용",
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "미역",
+      "ingredient_name": "미역",
+      "quantity": "20",
+      "unit": "g",
+      "preparation": null,
+      "detail": "1줌",
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "쌀뜨물 혹은 물",
+      "ingredient_name": "쌀뜨물",
+      "quantity": "7",
+      "unit": "컵",
+      "preparation": null,
+      "detail": "종이컵 7컵 1.4L",
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "either_or",
+      "alternatives": [
+        {
+          "ingredient_name": "물",
+          "raw_text": "물",
+          "evidence": "쌀뜨물 혹은 물",
+          "condition": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null
+        }
+      ],
+      "quality_flags": [
+        "대체 선택지별 수량이 별도로 구분되지 않음"
+      ]
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "다진마늘",
+      "ingredient_name": "마늘",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": "다진",
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "참기름",
+      "ingredient_name": "참기름",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "국간장",
+      "ingredient_name": "국간장",
+      "quantity": "2",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "소금",
+      "ingredient_name": "소금",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 8,
+      "status": "equipment",
+      "raw_name": "스테인레스볼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 용기 또는 도구"
+      ]
+    },
+    {
+      "index": 9,
+      "status": "equipment",
+      "raw_name": "채반",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구"
+      ]
+    },
+    {
+      "index": 10,
+      "status": "equipment",
+      "raw_name": "스테인레스냄비",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 용기"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "equipment",
+      "raw_name": "계량컵",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "계량 도구"
+      ]
+    },
+    {
+      "index": 12,
+      "status": "equipment",
+      "raw_name": "대접",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "식기 또는 용기"
+      ]
+    }
+  ],
+  "review_notes": [
+    "dish_group_name '국'과 dish_type_name '미역국'은 원문의 음식명에서 검토용 후보로 추출함.",
+    "원문 단계에는 미역 불린 물과 쌀뜨물·일반 생수의 사용 맥락이 추가로 있으나, 목록 항목 수량은 변경하지 않음."
+  ]
+}

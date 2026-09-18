@@ -1,0 +1,271 @@
+{
+  "identity": {
+    "raw_hash": "34119e0ca8965e3fd254306885a8f982c82cfcc8774390bd0e8f3a489c4fcc86",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:1787453",
+  "extraction": {
+    "dish_name": "오징어무국",
+    "dish_group_name": "국",
+    "dish_type_name": "오징어무국",
+    "dish_evidence": "오징어무국",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "오징어",
+        "ingredient_name": "오징어",
+        "quantity": "1",
+        "unit": "마리",
+        "preparation": null,
+        "detail": "구매",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "무",
+        "ingredient_name": "무",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "구매",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "단계에는 분량 근거가 있으나 재료 목록 원문에는 수량이 없음"
+        ]
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "멸치",
+        "ingredient_name": "멸치",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "구매",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "재료 목록 원문에 수량이 없음"
+        ]
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "다시마",
+        "ingredient_name": "다시마",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "구매",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "재료 목록 원문에 수량이 없음"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "디포리",
+        "ingredient_name": "디포리",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "구매",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "재료 목록 원문에 수량이 없음"
+        ]
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "다진마늘",
+        "ingredient_name": "마늘",
+        "quantity": null,
+        "unit": null,
+        "preparation": "다진",
+        "detail": "구매",
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "단계에는 분량 근거가 있으나 재료 목록 원문에는 수량이 없음"
+        ]
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "소금",
+        "ingredient_name": "소금",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "구매",
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "단계에는 특정 소금 종류 근거가 있으나 재료 목록 원문에는 수량이 없음"
+        ]
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "대파",
+        "ingredient_name": "대파",
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": "구매",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "재료 목록 원문에 수량이 없음"
+        ]
+      },
+      {
+        "index": 9,
+        "status": "equipment",
+        "raw_name": "도마",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "equipment",
+        "raw_name": "조리용나이프",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 11,
+        "status": "equipment",
+        "raw_name": "냄비",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리용기"
+        ]
+      },
+      {
+        "index": 12,
+        "status": "equipment",
+        "raw_name": "국자",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "equipment",
+        "raw_name": "대접",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "식기"
+        ]
+      }
+    ],
+    "review_notes": [
+      "numbered_ingredients의 일부 항목은 원문에서 구매 UI 표현으로 제공되며, 조리 단계에만 수량·손질 정보가 있습니다.",
+      "재료 목록의 수량이 없는 항목에 단계의 분량을 임의로 반영하지 않았습니다."
+    ]
+  },
+  "response_id": "resp_0b45d53b7a005420016aabbf82f1f887d08b0a1f64fbcf5a04",
+  "usage": {
+    "input_tokens": 6604,
+    "input_tokens_details": {
+      "cache_write_tokens": 550,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 1476,
+    "output_tokens_details": {
+      "reasoning_tokens": 355
+    },
+    "total_tokens": 8080
+  }
+}

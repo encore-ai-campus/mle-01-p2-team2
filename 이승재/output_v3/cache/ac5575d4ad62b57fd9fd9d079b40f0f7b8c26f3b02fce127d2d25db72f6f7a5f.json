@@ -1,0 +1,296 @@
+{
+  "identity": {
+    "raw_hash": "14bd114354489e166e479abd9cefdc8f97e76380756ecaf7534aa5f71308b397",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:3568149",
+  "extraction": {
+    "dish_name": "고등어무조림",
+    "dish_group_name": "조림",
+    "dish_type_name": "생선조림",
+    "dish_evidence": "고등어무조림",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "고등어 1마리 구매",
+        "ingredient_name": "고등어",
+        "quantity": "1",
+        "unit": "마리",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "무 500g 구매",
+        "ingredient_name": "무",
+        "quantity": "500",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함",
+          "조리 단계에 '도톰하게 반달 썰어' 손질 근거 있음"
+        ]
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "대파 1뿌리 구매",
+        "ingredient_name": "대파",
+        "quantity": "1",
+        "unit": "뿌리",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함",
+          "조리 단계에 '어슷 썰어' 손질 근거 있음"
+        ]
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "물 300ml 구매",
+        "ingredient_name": "물",
+        "quantity": "300",
+        "unit": "ml",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "진간장 4큰술 구매",
+        "ingredient_name": "진간장",
+        "quantity": "4",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "고추장 2큰술 구매",
+        "ingredient_name": "고추장",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "고춧가루 1큰술 구매",
+        "ingredient_name": "고춧가루",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "매실액 2큰술 구매",
+        "ingredient_name": "매실액",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 9,
+        "status": "ingredient",
+        "raw_name": "맛술 2큰술 구매",
+        "ingredient_name": "맛술",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "ingredient",
+        "raw_name": "올리고당 1큰술 구매",
+        "ingredient_name": "올리고당",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 11,
+        "status": "ingredient",
+        "raw_name": "다진 마늘 1작은술 구매",
+        "ingredient_name": "마늘",
+        "quantity": "1",
+        "unit": "작은술",
+        "preparation": "다진",
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 12,
+        "status": "ingredient",
+        "raw_name": "후춧가루 약간 구매",
+        "ingredient_name": "후춧가루",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "equipment",
+        "raw_name": "믹싱볼 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 용기/도구로 판단",
+          "구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 14,
+        "status": "equipment",
+        "raw_name": "전골냄비 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 용기로 판단",
+          "구매 UI 표현 포함"
+        ]
+      }
+    ],
+    "review_notes": [
+      "numbered_ingredients에 재료와 조리도구가 함께 포함되어 도구 항목은 equipment로 분류함.",
+      "조리 단계에서 무와 대파의 손질 표현이 확인되지만, 목록 원문에는 손질 표현이 없어 preparation에는 직접 반영하지 않음.",
+      "description의 '2인분', '30분 이내', '초급'은 재료 수량이나 항목으로 추가하지 않음."
+    ]
+  },
+  "response_id": "resp_0563c773e947aeeb016aabbc6be01087d09c72ae2054d9caa2",
+  "usage": {
+    "input_tokens": 6701,
+    "input_tokens_details": {
+      "cache_write_tokens": 647,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 1681,
+    "output_tokens_details": {
+      "reasoning_tokens": 367
+    },
+    "total_tokens": 8382
+  }
+}

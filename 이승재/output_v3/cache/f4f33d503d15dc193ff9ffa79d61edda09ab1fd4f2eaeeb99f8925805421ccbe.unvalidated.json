@@ -1,0 +1,393 @@
+{
+  "dish_name": "돼지고기 김치찜",
+  "dish_group_name": "찜",
+  "dish_type_name": "김치찜",
+  "dish_evidence": "돼지고기 김치찜 만드는 법",
+  "variant_label": null,
+  "variant_evidence": null,
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "돼지고기",
+      "ingredient_name": "돼지고기",
+      "quantity": "600",
+      "unit": "g",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "김치",
+      "ingredient_name": "김치",
+      "quantity": "1/4",
+      "unit": "포기",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "양파",
+      "ingredient_name": "양파",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "청양고추",
+      "ingredient_name": "청양고추",
+      "quantity": "1~2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "대파",
+      "ingredient_name": "대파",
+      "quantity": "1/2",
+      "unit": "대",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "고춧가루",
+      "ingredient_name": "고춧가루",
+      "quantity": "3",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "다진 마늘",
+      "ingredient_name": "마늘",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": "다진",
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 8,
+      "status": "ingredient",
+      "raw_name": "생강가루",
+      "ingredient_name": "생강가루",
+      "quantity": "0.3",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 9,
+      "status": "ingredient",
+      "raw_name": "청주",
+      "ingredient_name": "청주",
+      "quantity": "3",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 10,
+      "status": "ingredient",
+      "raw_name": "후춧가루",
+      "ingredient_name": "후춧가루",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "ingredient",
+      "raw_name": "물",
+      "ingredient_name": "물",
+      "quantity": "3",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 12,
+      "status": "ingredient",
+      "raw_name": "된장",
+      "ingredient_name": "된장",
+      "quantity": "0.5",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 13,
+      "status": "ingredient",
+      "raw_name": "국간장",
+      "ingredient_name": "국간장",
+      "quantity": "5",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 14,
+      "status": "ingredient",
+      "raw_name": "설탕",
+      "ingredient_name": "설탕",
+      "quantity": "2",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI suffix가 포함됨: 구매"
+      ]
+    },
+    {
+      "index": 15,
+      "status": "equipment",
+      "raw_name": "볼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리용기이며 구매 UI 항목"
+      ]
+    },
+    {
+      "index": 16,
+      "status": "equipment",
+      "raw_name": "도마",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구이며 구매 UI 항목"
+      ]
+    },
+    {
+      "index": 17,
+      "status": "equipment",
+      "raw_name": "조리용나이프",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구이며 구매 UI 항목"
+      ]
+    },
+    {
+      "index": 18,
+      "status": "equipment",
+      "raw_name": "가위",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구이며 구매 UI 항목"
+      ]
+    },
+    {
+      "index": 19,
+      "status": "equipment",
+      "raw_name": "유리볼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리용기이며 구매 UI 항목"
+      ]
+    },
+    {
+      "index": 20,
+      "status": "equipment",
+      "raw_name": "요리스푼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구이며 구매 UI 항목"
+      ]
+    },
+    {
+      "index": 21,
+      "status": "equipment",
+      "raw_name": "냄비",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리용기이며 구매 UI 항목"
+      ]
+    }
+  ],
+  "review_notes": [
+    "approved_dish가 null이므로 제목에서 음식명 후보를 추출함.",
+    "steps에 새우젓 추가 권장 표현이 있으나 numbered_ingredients에 없는 항목이므로 기본 목록에 추가하지 않음.",
+    "dish_group_name과 dish_type_name은 원문 제목 기반의 검토용 후보임."
+  ]
+}

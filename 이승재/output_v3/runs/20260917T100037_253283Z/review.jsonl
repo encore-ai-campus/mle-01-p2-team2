@@ -1,0 +1,32 @@
+{"recipe_uid": "10000recipe:1785098", "item_id": "10000recipe:1785098:item:0001:4e0dc527c723", "reason": "item_review", "quality_flags": ["구매 표기 포함 원문에서 재료명과 수량을 분리함", "250ml 기준과 2컵의 관계가 모호함"], "raw_text": "물 250ml 기준 2컵 구매"}
+{"recipe_uid": "10000recipe:1785098", "item_id": "10000recipe:1785098:item:0002:fa4ebcf99636", "reason": "item_review", "quality_flags": ["둘 중 하나를 선택하는 대체 표현임"], "raw_text": "돼지고기 찌개용 또는 목살 250g 구매"}
+{"recipe_uid": "10000recipe:1785098", "item_id": "10000recipe:1785098:item:0015:47442330e6af", "reason": "equipment", "raw_text": "볼 구매", "quality_flags": ["조리도구 또는 용기 항목"]}
+{"recipe_uid": "10000recipe:1785098", "item_id": "10000recipe:1785098:item:0016:edce60a21522", "reason": "equipment", "raw_text": "범랑냄비 구매", "quality_flags": ["조리도구 또는 용기 항목", "오탈자 가능성이 있으나 원문을 보존함"]}
+{"recipe_uid": "10000recipe:1785098", "item_id": "10000recipe:1785098:item:0017:c1dfe183dff4", "reason": "equipment", "raw_text": "계량컵 구매", "quality_flags": ["조리도구 또는 용기 항목"]}
+{"recipe_uid": "10000recipe:1785098", "item_id": "10000recipe:1785098:item:0018:4fe0d94bd750", "reason": "equipment", "raw_text": "대접 구매", "quality_flags": ["조리도구 또는 용기 항목"]}
+{"recipe_uid": "10000recipe:1785098", "item_id": "10000recipe:1785098:item:0019:a1cf733e605b", "reason": "equipment", "raw_text": "숟가락 구매", "quality_flags": ["조리도구 또는 용기 항목"]}
+{"recipe_uid": "10000recipe:1785098", "reason": "llm_review", "notes": ["numbered_ingredients에 구매 UI 표기가 포함되어 있어 구매 표기는 의미 필드에서 제외함", "물 항목의 '250ml 기준 2컵'은 기준 용량과 총 컵 수의 관계를 검토할 필요가 있음", "돼지고기 항목은 '돼지고기 찌개용 또는 목살'의 either_or 대체 관계로 추출함", "원문 제목과 설명을 근거로 찌개 및 김치찌개 분류 후보를 제시함"]}
+{"recipe_uid": "10000recipe:6873683", "item_id": "10000recipe:6873683:item:0003:d917b7866149", "reason": "item_review", "quality_flags": ["대체 선택지별 수량이 별도로 구분되지 않음"], "raw_text": "쌀뜨물 혹은 물 / 종이컵 7컵 1.4L 구매"}
+{"recipe_uid": "10000recipe:6873683", "item_id": "10000recipe:6873683:item:0008:a5fde72862a5", "reason": "equipment", "raw_text": "스테인레스볼 구매", "quality_flags": ["조리 용기 또는 도구"]}
+{"recipe_uid": "10000recipe:6873683", "item_id": "10000recipe:6873683:item:0009:bf532b87f524", "reason": "equipment", "raw_text": "채반 구매", "quality_flags": ["조리 도구"]}
+{"recipe_uid": "10000recipe:6873683", "item_id": "10000recipe:6873683:item:0010:90aedc45ad38", "reason": "equipment", "raw_text": "스테인레스냄비 구매", "quality_flags": ["조리 용기"]}
+{"recipe_uid": "10000recipe:6873683", "item_id": "10000recipe:6873683:item:0011:c1dfe183dff4", "reason": "equipment", "raw_text": "계량컵 구매", "quality_flags": ["계량 도구"]}
+{"recipe_uid": "10000recipe:6873683", "item_id": "10000recipe:6873683:item:0012:4fe0d94bd750", "reason": "equipment", "raw_text": "대접 구매", "quality_flags": ["식기 또는 용기"]}
+{"recipe_uid": "10000recipe:6873683", "reason": "llm_review", "notes": ["dish_group_name '국'과 dish_type_name '미역국'은 원문의 음식명에서 검토용 후보로 추출함.", "원문 단계에는 미역 불린 물과 쌀뜨물·일반 생수의 사용 맥락이 추가로 있으나, 목록 항목 수량은 변경하지 않음."]}
+{"recipe_uid": "10000recipe:6903507", "item_id": "10000recipe:6903507:item:0013:6891f3a575f0", "reason": "item_review", "quality_flags": ["목록 수량은 '1/2컵'이며 조리 단계에는 '반컵'으로 표현됨"], "raw_text": "물 1/2컵 구매"}
+{"recipe_uid": "10000recipe:6903507", "item_id": "10000recipe:6903507:item:0016:47442330e6af", "reason": "equipment", "raw_text": "볼 구매", "quality_flags": ["조리 용기 또는 도구로 판단됨"]}
+{"recipe_uid": "10000recipe:6903507", "item_id": "10000recipe:6903507:item:0017:975409944d7d", "reason": "equipment", "raw_text": "르쿠루제팬 구매", "quality_flags": ["조리 팬으로 판단됨"]}
+{"recipe_uid": "10000recipe:6903507", "item_id": "10000recipe:6903507:item:0018:a1cf733e605b", "reason": "equipment", "raw_text": "숟가락 구매", "quality_flags": ["조리 도구로 판단됨"]}
+{"recipe_uid": "10000recipe:6903507", "item_id": "10000recipe:6903507:item:0019:b3a8f839c455", "reason": "equipment", "raw_text": "포트메리온접시 구매", "quality_flags": ["담음 용기로 판단됨"]}
+{"recipe_uid": "10000recipe:6903507", "reason": "llm_review", "notes": ["numbered_ingredients의 '구매' 표현은 구매 UI 표기로 보고 재료명에서 제외함.", "제목에 '백종원 오징어 볶음'이 명시되어 변형 표현으로 보존함.", "원문 제목과 설명이 모두 단일 음식인 오징어 볶음을 가리킴."]}
+{"recipe_uid": "10000recipe:6879215", "item_id": "10000recipe:6879215:item:0001:2dea6cacb63d", "reason": "item_review", "quality_flags": ["목록의 재료명이 음식명 형태인 '소불고기'로 표기됨"], "raw_text": "소불고기 700g 구매"}
+{"recipe_uid": "10000recipe:6879215", "item_id": "10000recipe:6879215:item:0008:637432f7235f", "reason": "item_review", "quality_flags": ["대체재 수량이 원문에 별도로 제시되지 않음"], "raw_text": "매실액 1T 구매"}
+{"recipe_uid": "10000recipe:6879215", "item_id": "10000recipe:6879215:item:0012:35b39fc24c47", "reason": "item_review", "quality_flags": ["조리 단계에서는 '1스푼'과 '2스푼 더'로 나뉘어 사용되지만 목록 수량은 원문 그대로 보존함"], "raw_text": "참기름 3T 구매"}
+{"recipe_uid": "10000recipe:6879215", "item_id": "10000recipe:6879215:item:0013:e91cbc39ad0e", "reason": "equipment", "raw_text": "궁중팬 구매", "quality_flags": ["조리 도구로 판단됨"]}
+{"recipe_uid": "10000recipe:6879215", "item_id": "10000recipe:6879215:item:0014:cddc6b81fbf1", "reason": "equipment", "raw_text": "믹싱볼 구매", "quality_flags": ["조리 용기로 판단됨"]}
+{"recipe_uid": "10000recipe:6879215", "item_id": "10000recipe:6879215:item:0015:3c6f44fd2bf1", "reason": "equipment", "raw_text": "요리스푼 구매", "quality_flags": ["조리 도구로 판단됨"]}
+{"recipe_uid": "10000recipe:6879215", "reason": "llm_review", "notes": ["approved_dish가 null이므로 음식명과 상위 분류는 원문 제목을 바탕으로 한 검토용 후보임", "단계에 '청주나 맛술 한스푼 추가 추천'이 있으나 기존 목록 항목의 대체가 아니고 추가 재료이므로 새 기본 항목으로 추가하지 않음", "단계에서 야채와 버섯이 언급되지만 구체적인 신규 재료는 목록에 이미 포함된 항목으로만 보존함"]}
+{"recipe_uid": "10000recipe:1785098", "reason": "dish_not_approved", "candidate": {"name": "돼지고기 김치찌개", "type_name": "김치찌개", "group_name": "찌개", "evidence": "돼지고기 김치찌개 맛내는 비법"}}
+{"recipe_uid": "10000recipe:6873683", "reason": "dish_not_approved", "candidate": {"name": "소고기 미역국", "type_name": "미역국", "group_name": "국", "evidence": "엄마의 레시피, 소고기 미역국 끓이는 법"}}
+{"recipe_uid": "10000recipe:6903507", "reason": "dish_not_approved", "candidate": {"name": "오징어 볶음", "type_name": "오징어 볶음", "group_name": "볶음", "evidence": "오징어 볶음, 향과 맛이 일품! 백종원 오징어 볶음"}}
+{"recipe_uid": "10000recipe:6879215", "reason": "dish_not_approved", "candidate": {"name": "소불고기", "type_name": "소불고기", "group_name": "불고기", "evidence": "소불고기 황금 양념 레시피"}}

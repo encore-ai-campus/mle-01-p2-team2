@@ -1,0 +1,401 @@
+{
+  "identity": {
+    "raw_hash": "ec9e58c7573185c2a95b2eb49fd6e4caf0c6eeaf33691f32ac941b16f5286656",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:6870562",
+  "extraction": {
+    "dish_name": "마늘쫑고추장무침",
+    "dish_group_name": "반찬",
+    "dish_type_name": "무침",
+    "dish_evidence": "마늘쫑고추장무침 만드는 법 : 10분만에 완성되는 간단한 밑반찬 ♩",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "마늘쫑 약 160g 1묶음 구매",
+        "ingredient_name": "마늘쫑",
+        "quantity": "약 160",
+        "unit": "g",
+        "preparation": null,
+        "detail": "1묶음",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 목록의 구매 표기는 쇼핑 UI 정보로 보아 의미 필드에서 제외"
+        ]
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "고춧가루 2큰술 구매",
+        "ingredient_name": "고춧가루",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 목록의 구매 표기는 쇼핑 UI 정보로 보아 의미 필드에서 제외"
+        ]
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "다진 마늘 1/2큰술 구매",
+        "ingredient_name": "마늘",
+        "quantity": "1/2",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 목록의 구매 표기는 쇼핑 UI 정보로 보아 의미 필드에서 제외"
+        ]
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "설탕 1큰술 구매",
+        "ingredient_name": "설탕",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 목록의 구매 표기는 쇼핑 UI 정보로 보아 의미 필드에서 제외"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "간장 1큰술 구매",
+        "ingredient_name": "간장",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 목록의 구매 표기는 쇼핑 UI 정보로 보아 의미 필드에서 제외"
+        ]
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "올리고당 1큰술 구매",
+        "ingredient_name": "올리고당",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 목록의 구매 표기는 쇼핑 UI 정보로 보아 의미 필드에서 제외"
+        ]
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "고추장 3큰술 구매",
+        "ingredient_name": "고추장",
+        "quantity": "3",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 목록의 구매 표기는 쇼핑 UI 정보로 보아 의미 필드에서 제외"
+        ]
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "매실청 3큰술 구매",
+        "ingredient_name": "매실청",
+        "quantity": "3",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 목록의 구매 표기는 쇼핑 UI 정보로 보아 의미 필드에서 제외"
+        ]
+      },
+      {
+        "index": 9,
+        "status": "ingredient",
+        "raw_name": "소금 1꼬집 구매",
+        "ingredient_name": "소금",
+        "quantity": "1",
+        "unit": "꼬집",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 목록의 구매 표기는 쇼핑 UI 정보로 보아 의미 필드에서 제외"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "ingredient",
+        "raw_name": "통깨 또는 깨소금 적당량 구매",
+        "ingredient_name": "통깨",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "either_or",
+        "alternatives": [
+          {
+            "ingredient_name": "깨소금",
+            "raw_text": "깨소금",
+            "evidence": "통깨 또는 깨소금 적당량",
+            "condition": null,
+            "quantity": "적당량",
+            "unit": null,
+            "preparation": null
+          }
+        ],
+        "quality_flags": [
+          "either_or의 첫 선택지를 기본 재료로 저장하며 권장 의미는 아님",
+          "원문 목록의 구매 표기는 쇼핑 UI 정보로 보아 의미 필드에서 제외"
+        ]
+      },
+      {
+        "index": 11,
+        "status": "equipment",
+        "raw_name": "도마 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구",
+          "구매는 쇼핑 UI 정보"
+        ]
+      },
+      {
+        "index": 12,
+        "status": "equipment",
+        "raw_name": "조리용나이프 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구",
+          "구매는 쇼핑 UI 정보"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "equipment",
+        "raw_name": "믹싱볼 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "용기",
+          "구매는 쇼핑 UI 정보"
+        ]
+      },
+      {
+        "index": 14,
+        "status": "equipment",
+        "raw_name": "채반 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구",
+          "구매는 쇼핑 UI 정보"
+        ]
+      },
+      {
+        "index": 15,
+        "status": "equipment",
+        "raw_name": "소스볼 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "용기",
+          "구매는 쇼핑 UI 정보"
+        ]
+      },
+      {
+        "index": 16,
+        "status": "equipment",
+        "raw_name": "요리스푼 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구",
+          "구매는 쇼핑 UI 정보"
+        ]
+      },
+      {
+        "index": 17,
+        "status": "equipment",
+        "raw_name": "냄비 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구",
+          "구매는 쇼핑 UI 정보"
+        ]
+      },
+      {
+        "index": 18,
+        "status": "equipment",
+        "raw_name": "위생장갑 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리용품",
+          "구매는 쇼핑 UI 정보"
+        ]
+      },
+      {
+        "index": 19,
+        "status": "equipment",
+        "raw_name": "밀폐용기 구매",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "용기",
+          "구매는 쇼핑 UI 정보"
+        ]
+      }
+    ],
+    "review_notes": [
+      "dish_group_name과 dish_type_name은 원문 제목의 '밑반찬' 및 음식명 표현을 바탕으로 한 검토용 후보임",
+      "조리 단계에는 목록 수량과 다른 마늘쫑 분량 설명 및 설탕·올리고당 추가 시식 기록이 있으나 목록 수량은 변경하지 않음"
+    ]
+  },
+  "response_id": "resp_07b6e9932f726e74016aabbfbc0f6c87d0bc9f448b47f3266a",
+  "usage": {
+    "input_tokens": 7250,
+    "input_tokens_details": {
+      "cache_write_tokens": 1196,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 2374,
+    "output_tokens_details": {
+      "reasoning_tokens": 472
+    },
+    "total_tokens": 9624
+  }
+}

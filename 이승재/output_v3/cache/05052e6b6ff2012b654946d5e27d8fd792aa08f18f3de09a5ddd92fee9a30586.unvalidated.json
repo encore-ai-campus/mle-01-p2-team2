@@ -1,0 +1,291 @@
+{
+  "dish_name": "스팸 김치볶음밥",
+  "dish_group_name": "볶음밥",
+  "dish_type_name": "김치볶음밥",
+  "dish_evidence": "스팸 김치볶음밥",
+  "variant_label": null,
+  "variant_evidence": null,
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "김치",
+      "ingredient_name": "김치",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "수량이 원문 재료 목록에 명시되지 않음"
+      ]
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "스팸",
+      "ingredient_name": "스팸",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "수량이 원문 재료 목록에 명시되지 않음"
+      ]
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "밥",
+      "ingredient_name": "밥",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "수량이 원문 재료 목록에 명시되지 않음"
+      ]
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "굴소스",
+      "ingredient_name": "굴소스",
+      "quantity": "1.5",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "올리고당",
+      "ingredient_name": "올리고당",
+      "quantity": "1.5",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "고추장",
+      "ingredient_name": "고추장",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "맛술",
+      "ingredient_name": "맛술",
+      "quantity": "1",
+      "unit": "작은술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 8,
+      "status": "ingredient",
+      "raw_name": "참기름",
+      "ingredient_name": "참기름",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 9,
+      "status": "ingredient",
+      "raw_name": "후춧가루",
+      "ingredient_name": "후춧가루",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 10,
+      "status": "equipment",
+      "raw_name": "유리볼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 용기"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "equipment",
+      "raw_name": "계량스푼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구"
+      ]
+    },
+    {
+      "index": 12,
+      "status": "equipment",
+      "raw_name": "도마",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구"
+      ]
+    },
+    {
+      "index": 13,
+      "status": "equipment",
+      "raw_name": "조리용나이프",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구"
+      ]
+    },
+    {
+      "index": 14,
+      "status": "equipment",
+      "raw_name": "볶음팬",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구"
+      ]
+    },
+    {
+      "index": 15,
+      "status": "equipment",
+      "raw_name": "요리스푼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구"
+      ]
+    },
+    {
+      "index": 16,
+      "status": "equipment",
+      "raw_name": "접시볼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 용기"
+      ]
+    }
+  ],
+  "review_notes": [
+    "dish_group_name과 dish_type_name은 원문 제목을 바탕으로 한 검토용 후보이다.",
+    "재료 목록의 '구매' 표시는 구매 UI 표현으로 해석하고 재료명에서 제외했다.",
+    "김치·스팸·밥의 수량은 description의 '2인분'으로 대체하지 않았다."
+  ]
+}

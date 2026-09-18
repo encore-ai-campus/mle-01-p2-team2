@@ -1,0 +1,300 @@
+{
+  "identity": {
+    "raw_hash": "d3a9b6f8c2d359b96123368258a3d46a6387604324d3ad8221156feb7a49ac93",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:6893285",
+  "extraction": {
+    "dish_name": "무생채",
+    "dish_group_name": "반찬",
+    "dish_type_name": "무침",
+    "dish_evidence": "무생채 만드는 법, 절이지 않고 10분 만에 휘리릭 ~",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "무 600g",
+        "ingredient_name": "무",
+        "quantity": "600",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "고춧가루 2큰술",
+        "ingredient_name": "고춧가루",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "다진 마늘 1큰술",
+        "ingredient_name": "마늘",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "설탕 1큰술",
+        "ingredient_name": "설탕",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "오미자청 또는 매실청 1큰술",
+        "ingredient_name": "오미자청",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "either_or",
+        "alternatives": [
+          {
+            "ingredient_name": "매실청",
+            "raw_text": "매실청",
+            "evidence": "오미자청 또는 매실청",
+            "condition": null,
+            "quantity": null,
+            "unit": null,
+            "preparation": null
+          }
+        ],
+        "quality_flags": []
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "식초 2큰술",
+        "ingredient_name": "식초",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "액젓 2큰술",
+        "ingredient_name": "액젓",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "소금 적당량",
+        "ingredient_name": "소금",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 9,
+        "status": "ingredient",
+        "raw_name": "통깨 적당량",
+        "ingredient_name": "통깨",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 10,
+        "status": "ingredient",
+        "raw_name": "송송 썬 대파 1종이컵",
+        "ingredient_name": "대파",
+        "quantity": "1",
+        "unit": "종이컵",
+        "preparation": "송송 썬",
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 11,
+        "status": "equipment",
+        "raw_name": "도마",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 12,
+        "status": "equipment",
+        "raw_name": "채칼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "equipment",
+        "raw_name": "조리용나이프",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 14,
+        "status": "equipment",
+        "raw_name": "믹싱볼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리용기"
+        ]
+      },
+      {
+        "index": 15,
+        "status": "equipment",
+        "raw_name": "위생장갑",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      }
+    ],
+    "review_notes": [
+      "numbered_ingredients의 구매 표기는 추출 대상 필드에서 제외함.",
+      "오미자청과 매실청은 원문에 근거한 양자택일 대체로 처리함.",
+      "dish_group_name과 dish_type_name은 검토용 후보임."
+    ]
+  },
+  "response_id": "resp_093cd897499e6961016aabbc0fc32087d0afc960c8122ec309",
+  "usage": {
+    "input_tokens": 6699,
+    "input_tokens_details": {
+      "cache_write_tokens": 645,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 1777,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 8476
+  }
+}

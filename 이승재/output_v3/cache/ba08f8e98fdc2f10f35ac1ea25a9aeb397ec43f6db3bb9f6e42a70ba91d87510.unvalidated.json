@@ -1,0 +1,227 @@
+{
+  "dish_name": "미역국",
+  "dish_group_name": "국",
+  "dish_type_name": "미역국",
+  "dish_evidence": "미역국 단시간에 뽀얗고 진하게 끓이기.",
+  "variant_label": null,
+  "variant_evidence": null,
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "미역(말린 것)",
+      "ingredient_name": "미역",
+      "quantity": "20",
+      "unit": "g",
+      "preparation": "말린 것",
+      "detail": "2-3인분",
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 목록에 인분 기준과 중량이 함께 기재됨"
+      ]
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "다진마늘",
+      "ingredient_name": "마늘",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "간장",
+      "ingredient_name": "간장",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "된장",
+      "ingredient_name": "된장",
+      "quantity": "1",
+      "unit": "t",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "재료 목록에는 \"된장 1t\"로, 조리 단계에는 \"된장 1/2T\"로 수량이 다르게 기재됨"
+      ]
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "소금",
+      "ingredient_name": "소금",
+      "quantity": "개인 입맛에 맞게",
+      "unit": null,
+      "preparation": null,
+      "detail": "간맞추기",
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "정량이 아닌 기호에 따른 간 조절로 기재됨"
+      ]
+    },
+    {
+      "index": 6,
+      "status": "equipment",
+      "raw_name": "믹싱볼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구"
+      ]
+    },
+    {
+      "index": 7,
+      "status": "equipment",
+      "raw_name": "채반",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구"
+      ]
+    },
+    {
+      "index": 8,
+      "status": "equipment",
+      "raw_name": "가위",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구"
+      ]
+    },
+    {
+      "index": 9,
+      "status": "equipment",
+      "raw_name": "냄비",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리용기"
+      ]
+    },
+    {
+      "index": 10,
+      "status": "equipment",
+      "raw_name": "요리스푼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "equipment",
+      "raw_name": "국자",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구"
+      ]
+    },
+    {
+      "index": 12,
+      "status": "equipment",
+      "raw_name": "대접",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "식기"
+      ]
+    }
+  ],
+  "review_notes": [
+    "조리 단계에는 참기름이 언급되지만 numbered_ingredients에 없어 새 기본 항목으로 추가하지 않음.",
+    "조리 단계에는 물과 참기름이 언급되지만 numbered_ingredients에 없어 목록 항목으로 추가하지 않음.",
+    "된장 수량이 재료 목록과 조리 단계에서 서로 다름."
+  ]
+}

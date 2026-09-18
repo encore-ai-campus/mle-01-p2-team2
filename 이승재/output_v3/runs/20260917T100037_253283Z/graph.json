@@ -1,0 +1,15 @@
+{
+  "schema_version": "3.0",
+  "nodes": {
+    "DishGroup": [],
+    "DishType": [],
+    "Dish": [],
+    "Ingredient": []
+  },
+  "relationships": {
+    "HAS_TYPE": [],
+    "HAS_DISH": [],
+    "CONTAINS": [],
+    "SUBSTITUTE": []
+  }
+}

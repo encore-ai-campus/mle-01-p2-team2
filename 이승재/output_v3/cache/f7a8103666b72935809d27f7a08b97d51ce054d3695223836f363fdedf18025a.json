@@ -1,0 +1,251 @@
+{
+  "identity": {
+    "raw_hash": "772691461ac32dd6c0499b5bea0cfc550d570e4f559504efbb5ab1f5676aa324",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:4007561",
+  "extraction": {
+    "dish_name": "감자채볶음",
+    "dish_group_name": "볶음",
+    "dish_type_name": "감자볶음",
+    "dish_evidence": "감자채볶음 요리",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "감자(중)",
+        "ingredient_name": "감자",
+        "quantity": "2",
+        "unit": "개",
+        "preparation": null,
+        "detail": "(중)",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "양파(중)",
+        "ingredient_name": "양파",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": "(중)",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "당근",
+        "ingredient_name": "당근",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "카놀라이유",
+        "ingredient_name": "카놀라유",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 표기 '카놀라이유'를 카놀라유로 해석한 후보"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "통깨",
+        "ingredient_name": "통깨",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "소금",
+        "ingredient_name": "소금",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 7,
+        "status": "equipment",
+        "raw_name": "도마",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 판정",
+          "'구매'는 쇼핑 UI 표현"
+        ]
+      },
+      {
+        "index": 8,
+        "status": "equipment",
+        "raw_name": "조리용나이프",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 판정",
+          "'구매'는 쇼핑 UI 표현"
+        ]
+      },
+      {
+        "index": 9,
+        "status": "equipment",
+        "raw_name": "채칼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 판정",
+          "'구매'는 쇼핑 UI 표현"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "equipment",
+        "raw_name": "믹싱볼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리용기으로 판정",
+          "'구매'는 쇼핑 UI 표현"
+        ]
+      },
+      {
+        "index": 11,
+        "status": "equipment",
+        "raw_name": "프라이팬",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 판정",
+          "'구매'는 쇼핑 UI 표현"
+        ]
+      },
+      {
+        "index": 12,
+        "status": "equipment",
+        "raw_name": "요리스푼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 판정",
+          "'구매'는 쇼핑 UI 표현"
+        ]
+      }
+    ],
+    "review_notes": [
+      "단계에 '후추가루를 살짝 뿌려도 좋아요'가 있으나 numbered_ingredients에 없어 새 항목으로 추가하지 않음.",
+      "dish_group_name과 dish_type_name은 승인 분류 사전 확인 전의 검토용 후보임."
+    ]
+  },
+  "response_id": "resp_08461ea9f067edfe016aabbe6a435487d0860b2da29ac57c23",
+  "usage": {
+    "input_tokens": 6506,
+    "input_tokens_details": {
+      "cache_write_tokens": 452,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 1676,
+    "output_tokens_details": {
+      "reasoning_tokens": 613
+    },
+    "total_tokens": 8182
+  }
+}

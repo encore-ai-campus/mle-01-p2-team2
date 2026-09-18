@@ -1,0 +1,241 @@
+{
+  "dish_name": "깍두기",
+  "dish_group_name": "김치",
+  "dish_type_name": "깍두기",
+  "dish_evidence": "깍두기 쉽게 담그는법/새우젓, 찹쌀풀없이 담그기",
+  "variant_label": null,
+  "variant_evidence": null,
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "무",
+      "ingredient_name": "무",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현이 포함됨"
+      ]
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "고춧가루",
+      "ingredient_name": "고춧가루",
+      "quantity": "5",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현이 포함됨"
+      ]
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "천일염",
+      "ingredient_name": "천일염",
+      "quantity": "3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현이 포함됨"
+      ]
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "다진 마늘",
+      "ingredient_name": "마늘",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현이 포함됨"
+      ]
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "설탕",
+      "ingredient_name": "설탕",
+      "quantity": "3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현이 포함됨"
+      ]
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "멸치액젓",
+      "ingredient_name": "멸치액젓",
+      "quantity": "2~3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현이 포함됨"
+      ]
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "쪽파",
+      "ingredient_name": "쪽파",
+      "quantity": "적당히",
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "either_or",
+      "alternatives": [
+        {
+          "ingredient_name": "대파",
+          "raw_text": "대파",
+          "evidence": "쪽파 or 대파",
+          "condition": null,
+          "quantity": null,
+          "unit": null,
+          "preparation": null
+        }
+      ],
+      "quality_flags": [
+        "원문에 영문 or 선택 표기가 있음",
+        "원문 항목에 구매 UI 표현이 포함됨"
+      ]
+    },
+    {
+      "index": 8,
+      "status": "equipment",
+      "raw_name": "도마",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구 항목"
+      ]
+    },
+    {
+      "index": 9,
+      "status": "equipment",
+      "raw_name": "조리용나이프",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구 항목"
+      ]
+    },
+    {
+      "index": 10,
+      "status": "equipment",
+      "raw_name": "믹싱볼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "용기 항목"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "equipment",
+      "raw_name": "위생장갑",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 보조용품 항목"
+      ]
+    },
+    {
+      "index": 12,
+      "status": "equipment",
+      "raw_name": "밀폐용기",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "보관용기 항목"
+      ]
+    }
+  ],
+  "review_notes": [
+    "description에 새우젓과 찹쌀풀을 사용하지 않는다고 명시되어 있으나 numbered_ingredients에는 포함되지 않아 새 항목으로 추가하지 않음",
+    "dish_group_name은 description의 김치 표현을 바탕으로 한 검토용 후보임"
+  ]
+}

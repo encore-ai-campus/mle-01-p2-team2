@@ -1,0 +1,287 @@
+{
+  "dish_name": "된장찌개",
+  "dish_group_name": "찌개",
+  "dish_type_name": "된장찌개",
+  "dish_evidence": "매콤 된장찌개, 채소와 두부만 넣은 초간단 초스피드 된장찌개",
+  "variant_label": null,
+  "variant_evidence": null,
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "느타리버섯",
+      "ingredient_name": "느타리버섯",
+      "quantity": "1",
+      "unit": "줌",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "양파",
+      "ingredient_name": "양파",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "애호박",
+      "ingredient_name": "애호박",
+      "quantity": "1/4",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "청양고추",
+      "ingredient_name": "청양고추",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "두부",
+      "ingredient_name": "두부",
+      "quantity": "1/4",
+      "unit": "모",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "물",
+      "ingredient_name": "물",
+      "quantity": "1.5",
+      "unit": "종이컵",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "된장",
+      "ingredient_name": "된장",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 8,
+      "status": "ingredient",
+      "raw_name": "진간장",
+      "ingredient_name": "진간장",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 9,
+      "status": "ingredient",
+      "raw_name": "고추가루",
+      "ingredient_name": "고춧가루",
+      "quantity": "1.5",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 표기는 '고추가루'이며 정규화 후보를 '고춧가루'로 제시함",
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 10,
+      "status": "ingredient",
+      "raw_name": "다진마늘",
+      "ingredient_name": "마늘",
+      "quantity": "0.5",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "ingredient",
+      "raw_name": "설탕",
+      "ingredient_name": "설탕",
+      "quantity": "0.5",
+      "unit": "티스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 포함된 구매 표기는 재료 정보에서 제외함"
+      ]
+    },
+    {
+      "index": 12,
+      "status": "ingredient",
+      "raw_name": "소금",
+      "ingredient_name": "소금",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": "간맞추기",
+      "role": "seasoning",
+      "is_required": false,
+      "required_evidence": "애호박이 익을때까지 끓여주어 간을보아 부족한간은 소금으로 해주어 완성. 저는 부족한간이 없어 소금은 넣지 않았습니다.",
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "수량과 단위가 없음",
+        "조리 단계에서 부족한 간이 있을 때만 사용하는 조건부 항목"
+      ]
+    },
+    {
+      "index": 13,
+      "status": "equipment",
+      "raw_name": "뚝배기",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 용기이므로 equipment로 분류"
+      ]
+    },
+    {
+      "index": 14,
+      "status": "equipment",
+      "raw_name": "나무도마",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구이므로 equipment로 분류"
+      ]
+    },
+    {
+      "index": 15,
+      "status": "equipment",
+      "raw_name": "요리나이프",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구이므로 equipment로 분류"
+      ]
+    }
+  ],
+  "review_notes": [
+    "제목과 조리 단계에 근거해 음식 개념을 된장찌개로 추출함.",
+    "제목의 '매콤'은 변형명으로 명시된 고유 변형 표현으로 판단하기 어려워 variant_label에 저장하지 않음.",
+    "소금은 조리 단계에서 부족한 간이 있을 때만 사용하며 원문에서 생략 사례가 명시됨."
+  ]
+}

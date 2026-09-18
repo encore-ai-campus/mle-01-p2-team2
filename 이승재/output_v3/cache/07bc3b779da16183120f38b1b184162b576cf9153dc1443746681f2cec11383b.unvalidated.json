@@ -1,0 +1,327 @@
+{
+  "dish_name": "오이무침",
+  "dish_group_name": "반찬",
+  "dish_type_name": "오이무침",
+  "dish_evidence": "즉석 오이무침 만드는 법, 아삭아삭 상큼한 오이무침, 밑반찬",
+  "variant_label": null,
+  "variant_evidence": null,
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "오이",
+      "ingredient_name": "오이",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": "동글동글 두께감이 있게 썰어",
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외",
+        "조리 단계에 손질 근거 있음"
+      ]
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "고추",
+      "ingredient_name": "고추",
+      "quantity": "1",
+      "unit": "개",
+      "preparation": "송송 썰어",
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외",
+        "조리 단계에 손질 근거 있음"
+      ]
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "양파 큰거",
+      "ingredient_name": "양파",
+      "quantity": "1/4",
+      "unit": "개",
+      "preparation": "채",
+      "detail": "큰거",
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외",
+        "원문 표현 큰거 보존"
+      ]
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "파",
+      "ingredient_name": "파",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": "송송썸",
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외",
+        "원문에 송송썸 오탈자 가능성",
+        "조리 단계에는 파와 고추는 송송 썰어로 기재됨"
+      ]
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "고추장",
+      "ingredient_name": "고추장",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외"
+      ]
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "고춧가루",
+      "ingredient_name": "고춧가루",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외"
+      ]
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "액젓",
+      "ingredient_name": "액젓",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외"
+      ]
+    },
+    {
+      "index": 8,
+      "status": "ingredient",
+      "raw_name": "식초",
+      "ingredient_name": "식초",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외"
+      ]
+    },
+    {
+      "index": 9,
+      "status": "ingredient",
+      "raw_name": "참기름",
+      "ingredient_name": "참기름",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외"
+      ]
+    },
+    {
+      "index": 10,
+      "status": "ingredient",
+      "raw_name": "설탕",
+      "ingredient_name": "설탕",
+      "quantity": "1.5",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "ingredient",
+      "raw_name": "다진마늘",
+      "ingredient_name": "마늘",
+      "quantity": "0.5",
+      "unit": "큰술",
+      "preparation": "다진",
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외",
+        "재료명과 손질 상태를 분리"
+      ]
+    },
+    {
+      "index": 12,
+      "status": "ingredient",
+      "raw_name": "통깨",
+      "ingredient_name": "통깨",
+      "quantity": "적당량",
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 UI 접미사 제외"
+      ]
+    },
+    {
+      "index": 13,
+      "status": "equipment",
+      "raw_name": "도마",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구로 판정"
+      ]
+    },
+    {
+      "index": 14,
+      "status": "equipment",
+      "raw_name": "조리용나이프",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구로 판정"
+      ]
+    },
+    {
+      "index": 15,
+      "status": "equipment",
+      "raw_name": "믹싱볼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리용기로 판정"
+      ]
+    },
+    {
+      "index": 16,
+      "status": "equipment",
+      "raw_name": "숟가락",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리도구로 판정"
+      ]
+    },
+    {
+      "index": 17,
+      "status": "equipment",
+      "raw_name": "위생장갑",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리용 위생용품으로 판정"
+      ]
+    }
+  ],
+  "review_notes": [
+    "dish_group_name은 제목의 밑반찬 표현을 바탕으로 한 검토용 후보임",
+    "numbered_ingredients의 구매 표현은 쇼핑 UI 접미사로 해석하여 재료명에서 제외함",
+    "파 항목의 송송썸은 원문 오탈자 가능성이 있어 조리 단계의 송송 썰어와 함께 검토 필요"
+  ]
+}

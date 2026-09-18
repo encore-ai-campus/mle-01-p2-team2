@@ -1,0 +1,326 @@
+{
+  "identity": {
+    "raw_hash": "bd55d56bb95d6c326d155ae76af108df7342128dbf9e28864a1edad8be3717f9",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:6840346",
+  "extraction": {
+    "dish_name": "시금치무침",
+    "dish_group_name": "무침",
+    "dish_type_name": "나물무침",
+    "dish_evidence": "시금치무침 만드는 법 시금치나물무침",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "시금치",
+        "ingredient_name": "시금치",
+        "quantity": "1",
+        "unit": "단",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "대파흰부분",
+        "ingredient_name": "대파",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": "흰부분",
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "다진마늘",
+        "ingredient_name": "마늘",
+        "quantity": "1/2",
+        "unit": "T",
+        "preparation": "다진",
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "국간장",
+        "ingredient_name": "국간장",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "replacement",
+        "alternatives": [
+          {
+            "ingredient_name": "진간장",
+            "raw_text": "진간장",
+            "evidence": "보통은 진간장을 사용하시는데 국간장을 사용하면",
+            "condition": null,
+            "quantity": null,
+            "unit": null,
+            "preparation": null
+          }
+        ],
+        "quality_flags": [
+          "진간장과 국간장의 대체 관계는 조리 단계 설명에 근거함"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "참기름",
+        "ingredient_name": "참기름",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "설탕",
+        "ingredient_name": "설탕",
+        "quantity": "1/3",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": false,
+        "required_evidence": "단맛에 예민하신분들은 안넣으셔도 됩니다.",
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "소금",
+        "ingredient_name": "소금",
+        "quantity": "취향껏",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 단계에 물에 넣는 소금 1/2티스푼이 별도로 언급되지만 목록 수량은 변경하지 않음"
+        ]
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "통깨",
+        "ingredient_name": "통깨",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 9,
+        "status": "equipment",
+        "raw_name": "도마",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "equipment",
+        "raw_name": "조리용나이프",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 11,
+        "status": "equipment",
+        "raw_name": "믹싱볼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "용기"
+        ]
+      },
+      {
+        "index": 12,
+        "status": "equipment",
+        "raw_name": "채반",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "equipment",
+        "raw_name": "냄비",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 14,
+        "status": "equipment",
+        "raw_name": "요리스푼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구"
+        ]
+      },
+      {
+        "index": 15,
+        "status": "equipment",
+        "raw_name": "위생장갑",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리용품"
+        ]
+      },
+      {
+        "index": 16,
+        "status": "equipment",
+        "raw_name": "플레이팅접시",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "식기"
+        ]
+      }
+    ],
+    "review_notes": [
+      "dish_group_name과 dish_type_name은 원문 제목의 ‘시금치무침’, ‘시금치나물무침’을 바탕으로 한 검토용 후보임",
+      "대파의 수량은 원문 목록의 ‘적당량’을 보존함",
+      "소금은 원문 목록의 ‘취향껏’을 보존하며 조리 단계의 물 첨가용 소금과 통합하지 않음"
+    ]
+  },
+  "response_id": "resp_07d4d2d8af7cc698016aabbe36090087d084539f73fcb9c0ad",
+  "usage": {
+    "input_tokens": 7032,
+    "input_tokens_details": {
+      "cache_write_tokens": 978,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 2145,
+    "output_tokens_details": {
+      "reasoning_tokens": 749
+    },
+    "total_tokens": 9177
+  }
+}

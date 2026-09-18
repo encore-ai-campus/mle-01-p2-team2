@@ -1,0 +1,226 @@
+{
+  "dish_name": "폭탄 계란찜",
+  "dish_group_name": null,
+  "dish_type_name": "계란찜",
+  "dish_evidence": "폭탄 계란찜 만드는 법",
+  "variant_label": null,
+  "variant_evidence": null,
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "계란",
+      "ingredient_name": "계란",
+      "quantity": "3",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 표시가 있음"
+      ]
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "소금",
+      "ingredient_name": "소금",
+      "quantity": "1/3",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 표시가 있음"
+      ]
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "설탕",
+      "ingredient_name": "설탕",
+      "quantity": "1/3",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 표시가 있음"
+      ]
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "대파 또는 쪽파",
+      "ingredient_name": "대파",
+      "quantity": "적당량",
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "either_or",
+      "alternatives": [
+        {
+          "ingredient_name": "쪽파",
+          "raw_text": "쪽파",
+          "evidence": "대파 또는 쪽파 적당량 구매",
+          "condition": null,
+          "quantity": "적당량",
+          "unit": null,
+          "preparation": null
+        }
+      ],
+      "quality_flags": [
+        "대파와 쪽파 중 하나를 선택하는 원문 대체 표현"
+      ]
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "통깨",
+      "ingredient_name": "통깨",
+      "quantity": "적당량",
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 표시가 있음"
+      ]
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "참기름",
+      "ingredient_name": "참기름",
+      "quantity": "1",
+      "unit": "큰술",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 표시가 있음"
+      ]
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "물",
+      "ingredient_name": "물",
+      "quantity": "100",
+      "unit": "ml",
+      "preparation": null,
+      "detail": "그릇 크기별로 조절",
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 조절 조건이 포함됨",
+        "원문 항목에 구매 표시가 있음"
+      ]
+    },
+    {
+      "index": 8,
+      "status": "equipment",
+      "raw_name": "뚝배기",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 용기"
+      ]
+    },
+    {
+      "index": 9,
+      "status": "equipment",
+      "raw_name": "나무수저세트",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구",
+        "원문 단계에서 사용 맥락이 불명확함"
+      ]
+    },
+    {
+      "index": 10,
+      "status": "equipment",
+      "raw_name": "거품기",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "equipment",
+      "raw_name": "계량컵",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구",
+        "원문 단계에서 사용 맥락이 불명확함"
+      ]
+    }
+  ],
+  "review_notes": [
+    "numbered_ingredients에 포함된 구매 항목 중 조리도구와 용기는 equipment로 분류함",
+    "조리 단계에는 반찬접시와 나무요리젓가락도 언급되지만 numbered_ingredients에 없으므로 추가하지 않음",
+    "대파 또는 쪽파는 either_or로 보존했으며 어느 쪽이 권장되는지는 판단하지 않음"
+  ]
+}

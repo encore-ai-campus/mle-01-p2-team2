@@ -1,0 +1,364 @@
+{
+  "identity": {
+    "raw_hash": "fac665d6e712341a51a385c5c533b05a54f3d0c965d83a4159a5e22237ae8715",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:6883026",
+  "extraction": {
+    "dish_name": "떡국",
+    "dish_group_name": null,
+    "dish_type_name": "떡국",
+    "dish_evidence": "설날 떡국 맛있게 끓이는 법, 소고기를 듬뿍 넣어 국물 맛이 진한 떡국 레시피!",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "떡국 떡",
+        "ingredient_name": "떡국 떡",
+        "quantity": "2",
+        "unit": "공기",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "국거리 소고기",
+        "ingredient_name": "소고기",
+        "quantity": "200",
+        "unit": "g",
+        "preparation": null,
+        "detail": "국거리",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "대파",
+        "ingredient_name": "대파",
+        "quantity": "1/2",
+        "unit": "대",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "계란",
+        "ingredient_name": "계란",
+        "quantity": "2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "물",
+        "ingredient_name": "물",
+        "quantity": "800",
+        "unit": "ml",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 단계에서는 '물 200ml'와 '물 600ml'로 나뉘어 제시됨",
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "다진 마늘",
+        "ingredient_name": "마늘",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "국간장",
+        "ingredient_name": "국간장",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "액젓",
+        "ingredient_name": "액젓",
+        "quantity": "1/2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 9,
+        "status": "ingredient",
+        "raw_name": "참기름",
+        "ingredient_name": "참기름",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "ingredient",
+        "raw_name": "식용유",
+        "ingredient_name": "식용유",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 11,
+        "status": "ingredient",
+        "raw_name": "소금",
+        "ingredient_name": "소금",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 12,
+        "status": "ingredient",
+        "raw_name": "후춧가루",
+        "ingredient_name": "후추",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매' 표기는 쇼핑 UI 지시로 해석하지 않음"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "equipment",
+        "raw_name": "채반",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 판정"
+        ]
+      },
+      {
+        "index": 14,
+        "status": "equipment",
+        "raw_name": "키친타올",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 보조용품으로 판정"
+        ]
+      },
+      {
+        "index": 15,
+        "status": "equipment",
+        "raw_name": "볶음팬",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 판정"
+        ]
+      },
+      {
+        "index": 16,
+        "status": "equipment",
+        "raw_name": "요리스푼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 판정"
+        ]
+      },
+      {
+        "index": 17,
+        "status": "equipment",
+        "raw_name": "국자",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리도구로 판정"
+        ]
+      },
+      {
+        "index": 18,
+        "status": "equipment",
+        "raw_name": "대접",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "용기로 판정"
+        ]
+      }
+    ],
+    "review_notes": [
+      "본문 단계에 만두가 등장하지만 numbered_ingredients에 없으므로 새 기본 항목으로 추가하지 않음.",
+      "원문 설명에 2인분 및 30분 이내가 있으나 현재 추출 스키마에는 해당 메타데이터 필드가 없음."
+    ]
+  },
+  "response_id": "resp_06eb71967f62e452016aabbd15853887d0bdc77e8c4ee9158e",
+  "usage": {
+    "input_tokens": 7042,
+    "input_tokens_details": {
+      "cache_write_tokens": 988,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 2190,
+    "output_tokens_details": {
+      "reasoning_tokens": 476
+    },
+    "total_tokens": 9232
+  }
+}

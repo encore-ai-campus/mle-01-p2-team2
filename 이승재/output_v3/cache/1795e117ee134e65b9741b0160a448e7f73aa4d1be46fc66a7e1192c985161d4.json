@@ -1,0 +1,382 @@
+{
+  "identity": {
+    "raw_hash": "43461fea921b98e2f50bf6ba1697feefc124718dc5f2758bc72121f9fcb0833e",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:6868921",
+  "extraction": {
+    "dish_name": "도토리묵무침",
+    "dish_group_name": "무침",
+    "dish_type_name": "도토리묵무침",
+    "dish_evidence": "맛있는 도토리묵무침 만드는 법 : 다이어트음식으로 좋아요!",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "도토리묵",
+        "ingredient_name": "도토리묵",
+        "quantity": "1/2",
+        "unit": "팩",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "상추",
+        "ingredient_name": "상추",
+        "quantity": "6-7",
+        "unit": "장",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "깻잎",
+        "ingredient_name": "깻잎",
+        "quantity": "5",
+        "unit": "장",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "당근",
+        "ingredient_name": "당근",
+        "quantity": "조금",
+        "unit": null,
+        "preparation": null,
+        "detail": "색 내기용",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "고춧가루",
+        "ingredient_name": "고춧가루",
+        "quantity": "1.5",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "진간장",
+        "ingredient_name": "진간장",
+        "quantity": "5",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "매실청",
+        "ingredient_name": "매실청",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "설탕",
+        "ingredient_name": "설탕",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 9,
+        "status": "ingredient",
+        "raw_name": "통깨",
+        "ingredient_name": "통깨",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "ingredient",
+        "raw_name": "대파",
+        "ingredient_name": "대파",
+        "quantity": "1/3",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 11,
+        "status": "ingredient",
+        "raw_name": "청양고추",
+        "ingredient_name": "청양고추",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": false,
+        "required_evidence": "선택",
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목의 '구매'는 쇼핑 UI 표현으로 제외"
+        ]
+      },
+      {
+        "index": 12,
+        "status": "equipment",
+        "raw_name": "도마",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 도구이므로 재료에서 제외"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "equipment",
+        "raw_name": "냄비",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 용기이므로 재료에서 제외"
+        ]
+      },
+      {
+        "index": 14,
+        "status": "equipment",
+        "raw_name": "채반",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 도구이므로 재료에서 제외"
+        ]
+      },
+      {
+        "index": 15,
+        "status": "equipment",
+        "raw_name": "묵칼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 도구이므로 재료에서 제외"
+        ]
+      },
+      {
+        "index": 16,
+        "status": "equipment",
+        "raw_name": "소스볼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 용기이므로 재료에서 제외"
+        ]
+      },
+      {
+        "index": 17,
+        "status": "equipment",
+        "raw_name": "숟가락",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 도구이므로 재료에서 제외"
+        ]
+      },
+      {
+        "index": 18,
+        "status": "equipment",
+        "raw_name": "믹싱볼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 용기이므로 재료에서 제외"
+        ]
+      },
+      {
+        "index": 19,
+        "status": "equipment",
+        "raw_name": "위생장갑",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 보조 용품이므로 재료에서 제외"
+        ]
+      }
+    ],
+    "review_notes": [
+      "numbered_ingredients의 19개 항목을 원본 index 순서대로 모두 반환함",
+      "dish_group_name과 dish_type_name은 원문 제목을 바탕으로 한 검토용 후보임",
+      "대체 재료에 대한 원문 근거가 없어 대체 항목은 기록하지 않음"
+    ]
+  },
+  "response_id": "resp_002c2276597b77e4016aabc0c2edf487d0876b2c496d712c5b",
+  "usage": {
+    "input_tokens": 6975,
+    "input_tokens_details": {
+      "cache_write_tokens": 921,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 2120,
+    "output_tokens_details": {
+      "reasoning_tokens": 408
+    },
+    "total_tokens": 9095
+  }
+}

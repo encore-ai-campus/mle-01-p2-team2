@@ -1,0 +1,371 @@
+{
+  "identity": {
+    "raw_hash": "c85b9f0cf4f8c35677698521f451ad0987c9481103dd59cf7fac711d1b2b16ee",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:6873935",
+  "extraction": {
+    "dish_name": "감자탕",
+    "dish_group_name": null,
+    "dish_type_name": "감자탕",
+    "dish_evidence": "백종원 감자탕 레시피, 생각보다 너무 쉽고 맛있어요",
+    "variant_label": "백종원",
+    "variant_evidence": "백종원 감자탕 레시피",
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "돼지등뼈",
+        "ingredient_name": "돼지등뼈",
+        "quantity": "1.3",
+        "unit": "kg",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "감자",
+        "ingredient_name": "감자",
+        "quantity": "2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "무청",
+        "ingredient_name": "무청",
+        "quantity": "1",
+        "unit": "줌",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "대파",
+        "ingredient_name": "대파",
+        "quantity": "1",
+        "unit": "대",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "깻잎",
+        "ingredient_name": "깻잎",
+        "quantity": "약간",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "물",
+        "ingredient_name": "물",
+        "quantity": "적당량",
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "고추장",
+        "ingredient_name": "고추장",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "된장",
+        "ingredient_name": "된장",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 9,
+        "status": "ingredient",
+        "raw_name": "고춧가루",
+        "ingredient_name": "고춧가루",
+        "quantity": "3",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "ingredient",
+        "raw_name": "다진마늘",
+        "ingredient_name": "마늘",
+        "quantity": "1",
+        "unit": "큰술",
+        "preparation": "다진",
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "ingredient_name_normalized_from_prepared_form",
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 11,
+        "status": "ingredient",
+        "raw_name": "국간장",
+        "ingredient_name": "국간장",
+        "quantity": "1/2",
+        "unit": "컵",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 12,
+        "status": "ingredient",
+        "raw_name": "액젓",
+        "ingredient_name": "액젓",
+        "quantity": "3",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "ingredient",
+        "raw_name": "들깨가루",
+        "ingredient_name": "들깨가루",
+        "quantity": "4~5",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "ingredient_quantity_differs_from_step_quantity",
+          "raw_text_contains_purchase_ui_suffix"
+        ]
+      },
+      {
+        "index": 14,
+        "status": "equipment",
+        "raw_name": "스텐세척볼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "cooking_equipment_or_container",
+          "purchase_ui_item"
+        ]
+      },
+      {
+        "index": 15,
+        "status": "equipment",
+        "raw_name": "냄비",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "cooking_equipment_or_container",
+          "purchase_ui_item"
+        ]
+      },
+      {
+        "index": 16,
+        "status": "equipment",
+        "raw_name": "인덱스도마",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "cooking_equipment_or_container",
+          "purchase_ui_item"
+        ]
+      },
+      {
+        "index": 17,
+        "status": "equipment",
+        "raw_name": "요리스푼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "cooking_equipment_or_container",
+          "purchase_ui_item"
+        ]
+      },
+      {
+        "index": 18,
+        "status": "equipment",
+        "raw_name": "대접",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "cooking_equipment_or_container",
+          "purchase_ui_item"
+        ]
+      }
+    ],
+    "review_notes": [
+      "numbered_ingredients에 구매 UI 항목과 조리 재료가 혼재함",
+      "들깨가루는 목록에 4~5큰술, 조리 단계에는 5큰술로 수량이 다름",
+      "단계에서 언급된 무청·감자·돼지등뼈의 손질 정보는 목록 원문 필드에 추가하지 않음"
+    ]
+  },
+  "response_id": "resp_0a91ff3981e4e789016aabbd37084087d089072d182a788abd",
+  "usage": {
+    "input_tokens": 6957,
+    "input_tokens_details": {
+      "cache_write_tokens": 903,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 1990,
+    "output_tokens_details": {
+      "reasoning_tokens": 434
+    },
+    "total_tokens": 8947
+  }
+}

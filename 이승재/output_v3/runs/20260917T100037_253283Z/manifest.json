@@ -1,0 +1,16 @@
+{
+  "schema_version": "3.0",
+  "schema_sha256": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+  "snapshot_sha256": "83235e0245b8532a263f0df4c2fbf2aefea722c9242981c3eb4de1f2c504bb34",
+  "model": "gpt-5.6-luna",
+  "prompt_sha256": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+  "offset": 0,
+  "limit": 5,
+  "selected": 5,
+  "success": 4,
+  "failed": 1,
+  "approved_recipes": 0,
+  "api_calls": 5,
+  "cache_hits": 0,
+  "review_records": 32
+}

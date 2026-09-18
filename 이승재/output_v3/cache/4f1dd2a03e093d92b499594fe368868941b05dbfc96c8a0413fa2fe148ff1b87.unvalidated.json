@@ -1,0 +1,177 @@
+{
+  "dish_name": "꼬막무침",
+  "dish_group_name": null,
+  "dish_type_name": "꼬막무침",
+  "dish_evidence": "꼬막무침 삶는방법부터 양념장까지 완벽하게!!",
+  "variant_label": null,
+  "variant_evidence": null,
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "꼬막",
+      "ingredient_name": "꼬막",
+      "quantity": "500",
+      "unit": "g",
+      "preparation": null,
+      "detail": "구매",
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 구매 UI 문구가 포함됨"
+      ]
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "고춧가루",
+      "ingredient_name": "고춧가루",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": null,
+      "detail": "구매",
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 구매 UI 문구가 포함됨"
+      ]
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "설탕",
+      "ingredient_name": "설탕",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": "구매",
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 구매 UI 문구가 포함됨"
+      ]
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "간장",
+      "ingredient_name": "간장",
+      "quantity": "4",
+      "unit": "T",
+      "preparation": null,
+      "detail": "구매",
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 구매 UI 문구가 포함됨"
+      ]
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "맛술",
+      "ingredient_name": "맛술",
+      "quantity": "0.5",
+      "unit": "T",
+      "preparation": null,
+      "detail": "구매",
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 구매 UI 문구가 포함됨"
+      ]
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "참기름",
+      "ingredient_name": "참기름",
+      "quantity": "0.5",
+      "unit": "T",
+      "preparation": null,
+      "detail": "구매",
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 구매 UI 문구가 포함됨"
+      ]
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "다진마늘",
+      "ingredient_name": "마늘",
+      "quantity": "0.5",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": "구매",
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 구매 UI 문구가 포함됨"
+      ]
+    },
+    {
+      "index": 8,
+      "status": "ingredient",
+      "raw_name": "다진파",
+      "ingredient_name": "파",
+      "quantity": "2",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": "구매",
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 구매 UI 문구가 포함됨"
+      ]
+    },
+    {
+      "index": 9,
+      "status": "ingredient",
+      "raw_name": "깨",
+      "ingredient_name": "깨",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": "솔솔 구매",
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문에 구매 UI 문구가 포함됨",
+        "수량이 정량으로 제시되지 않음"
+      ]
+    }
+  ],
+  "review_notes": [
+    "dish_type_name은 원문 제목에 근거한 검토용 후보임",
+    "조리 단계에 등장하는 소금, 청주 또는 소주 등은 numbered_ingredients에 없으므로 추가하지 않음"
+  ]
+}

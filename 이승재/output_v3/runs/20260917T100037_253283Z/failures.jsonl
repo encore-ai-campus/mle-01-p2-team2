@@ -1,0 +1,1 @@
+{"recipe_uid": "10000recipe:6876357", "line_number": 1, "cache_key": "65af9cc537f9d9b22b8e81772174b21d0f2fd2a584652f060572f6dbdf8c351d", "error_type": "ValueError", "message": "19번 수량/단위/손질/조건의 원문 불일치: '당면 넣지 않을때 400ml, 넣을때 600ml'"}

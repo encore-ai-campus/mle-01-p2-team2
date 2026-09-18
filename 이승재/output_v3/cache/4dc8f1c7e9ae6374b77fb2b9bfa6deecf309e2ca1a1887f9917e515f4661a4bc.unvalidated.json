@@ -1,0 +1,238 @@
+{
+  "dish_name": "연근조림",
+  "dish_group_name": "반찬",
+  "dish_type_name": "조림",
+  "dish_evidence": "[연근조림] 아작 아작 달콤 짭쪼름한 연근 조림 만들기",
+  "variant_label": null,
+  "variant_evidence": null,
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "연근",
+      "ingredient_name": "연근",
+      "quantity": "800",
+      "unit": "g",
+      "preparation": "껍질을 벗겨",
+      "detail": "2개",
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "식초",
+      "ingredient_name": "식초",
+      "quantity": "3",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "소금",
+      "ingredient_name": "소금",
+      "quantity": "1/2",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "물",
+      "ingredient_name": "물",
+      "quantity": "500",
+      "unit": "cc",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "단계에는 물 600cc로 기재되어 목록의 500cc와 수량이 불일치함"
+      ]
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "간장",
+      "ingredient_name": "간장",
+      "quantity": "20",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "설탕",
+      "ingredient_name": "설탕",
+      "quantity": "15",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "물엿",
+      "ingredient_name": "물엿",
+      "quantity": "10",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "단계에 마무리용 물엿 한큰술 추가가 별도로 기재되어 있으나 원문 목록에는 별도 항목이 없음"
+      ]
+    },
+    {
+      "index": 8,
+      "status": "ingredient",
+      "raw_name": "깨",
+      "ingredient_name": "깨",
+      "quantity": "약간",
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": []
+    },
+    {
+      "index": 9,
+      "status": "equipment",
+      "raw_name": "나무도마",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 항목으로 표시된 조리도구"
+      ]
+    },
+    {
+      "index": 10,
+      "status": "equipment",
+      "raw_name": "필러",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 항목으로 표시된 조리도구"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "equipment",
+      "raw_name": "나무스푼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 항목으로 표시된 조리도구"
+      ]
+    },
+    {
+      "index": 12,
+      "status": "equipment",
+      "raw_name": "데침솥",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 항목으로 표시된 조리도구"
+      ]
+    },
+    {
+      "index": 13,
+      "status": "equipment",
+      "raw_name": "스텐믹싱볼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "구매 항목으로 표시된 조리도구"
+      ]
+    }
+  ],
+  "review_notes": [
+    "원문 제목과 단계에 근거해 음식명을 연근조림으로 추출함.",
+    "dish_group_name과 dish_type_name은 승인 분류 사전이 제공되지 않아 검토용 후보로 제시함.",
+    "재료 목록의 물은 500cc이나 조리 단계의 양념장 설명에는 물 600cc가 기재되어 있음.",
+    "조리 단계에 마무리용 물엿 한큰술과 깨 추가가 있으나 numbered_ingredients에는 별도 항목으로 추가하지 않음."
+  ]
+}

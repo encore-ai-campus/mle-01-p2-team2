@@ -1,0 +1,242 @@
+{
+  "identity": {
+    "raw_hash": "19c3907c88b4785ddd0eefeb2931dd1bb2850e35256b5d9ab99ff9eeae5e8411",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:6871949",
+  "extraction": {
+    "dish_name": "메추리알 장조림",
+    "dish_group_name": "밑반찬",
+    "dish_type_name": "장조림",
+    "dish_evidence": "메추리알 장조림, 간단한 밑반찬으로 이만한게 없쥬?",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "메추리알",
+        "ingredient_name": "메추리알",
+        "quantity": "270",
+        "unit": "g",
+        "preparation": null,
+        "detail": "구매",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목에 구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "물",
+        "ingredient_name": "물",
+        "quantity": "1/2",
+        "unit": "컵",
+        "preparation": null,
+        "detail": "구매",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목에 구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "간장",
+        "ingredient_name": "간장",
+        "quantity": "6",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "구매",
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목에 구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "설탕",
+        "ingredient_name": "설탕",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "구매",
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목에 구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "올리고당",
+        "ingredient_name": "올리고당",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "구매",
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목에 구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "미림",
+        "ingredient_name": "미림",
+        "quantity": "2",
+        "unit": "큰술",
+        "preparation": null,
+        "detail": "구매",
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 항목에 구매 UI 표현 포함"
+        ]
+      },
+      {
+        "index": 7,
+        "status": "equipment",
+        "raw_name": "스텐냄비",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 용기이며 재료가 아님",
+          "구매 UI 항목"
+        ]
+      },
+      {
+        "index": 8,
+        "status": "equipment",
+        "raw_name": "요리스푼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 도구이며 재료가 아님",
+          "구매 UI 항목"
+        ]
+      },
+      {
+        "index": 9,
+        "status": "equipment",
+        "raw_name": "반찬접시",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "용기이며 재료가 아님",
+          "구매 UI 항목"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "equipment",
+        "raw_name": "스텐채반",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 도구이며 재료가 아님",
+          "구매 UI 항목"
+        ]
+      },
+      {
+        "index": 11,
+        "status": "equipment",
+        "raw_name": "머그컵",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "계량·용기이며 재료가 아님",
+          "구매 UI 항목"
+        ]
+      }
+    ],
+    "review_notes": [
+      "조리 단계에 꽈리고추와 마늘이 언급되지만 numbered_ingredients에 없어 새 기본 항목으로 추가하지 않음.",
+      "원문 재료 목록에는 재료와 조리도구의 구매 항목이 함께 포함되어 있음."
+    ]
+  },
+  "response_id": "resp_015ca1c851f61b5a016aabbe5d12a887d08aa8c8ef85ff9c56",
+  "usage": {
+    "input_tokens": 6783,
+    "input_tokens_details": {
+      "cache_write_tokens": 729,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 1543,
+    "output_tokens_details": {
+      "reasoning_tokens": 516
+    },
+    "total_tokens": 8326
+  }
+}

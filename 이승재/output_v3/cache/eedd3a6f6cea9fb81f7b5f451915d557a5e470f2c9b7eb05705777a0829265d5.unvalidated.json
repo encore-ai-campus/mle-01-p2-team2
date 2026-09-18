@@ -1,0 +1,270 @@
+{
+  "dish_name": "오이무침",
+  "dish_group_name": "무침",
+  "dish_type_name": "오이무침",
+  "dish_evidence": "백종원 오이무침 새콤달콤 맛있게~",
+  "variant_label": "백종원",
+  "variant_evidence": "백종원 오이무침 새콤달콤 맛있게~",
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "오이",
+      "ingredient_name": "오이",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "양파",
+      "ingredient_name": "양파",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "고추장",
+      "ingredient_name": "고추장",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "고춧가루",
+      "ingredient_name": "고춧가루",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "설탕",
+      "ingredient_name": "설탕",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "올리고당",
+      "ingredient_name": "올리고당",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "다진마늘",
+      "ingredient_name": "마늘",
+      "quantity": "1/2",
+      "unit": "T",
+      "preparation": "다진",
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 8,
+      "status": "ingredient",
+      "raw_name": "간장",
+      "ingredient_name": "간장",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 9,
+      "status": "ingredient",
+      "raw_name": "식초",
+      "ingredient_name": "식초",
+      "quantity": "1.5",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 10,
+      "status": "ingredient",
+      "raw_name": "참기름",
+      "ingredient_name": "참기름",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "ingredient",
+      "raw_name": "통깨",
+      "ingredient_name": "통깨",
+      "quantity": "1",
+      "unit": "T",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 12,
+      "status": "equipment",
+      "raw_name": "스텐믹싱볼",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 용기",
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 13,
+      "status": "equipment",
+      "raw_name": "원형접시",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 용기",
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    },
+    {
+      "index": 14,
+      "status": "equipment",
+      "raw_name": "슬라이서",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구",
+        "raw_text에 구매 UI 표기 포함"
+      ]
+    }
+  ],
+  "review_notes": [
+    "dish_group_name과 dish_type_name은 원문 제목을 바탕으로 한 검토용 후보이다.",
+    "조리 단계의 '소금에 잠시 절여'는 numbered_ingredients에 해당 항목이 없어 새 기본 재료로 추가하지 않았다.",
+    "numbered_ingredients에는 수량이 없는 조리 도구 항목이 포함되어 있다."
+  ]
+}

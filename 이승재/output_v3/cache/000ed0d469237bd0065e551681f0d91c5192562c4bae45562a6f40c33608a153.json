@@ -1,0 +1,455 @@
+{
+  "identity": {
+    "raw_hash": "c7feb2529c6df5dd66991308b8cc668d633812384be08172ea8816d1bb7863a6",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:6881450",
+  "extraction": {
+    "dish_name": "소갈비찜",
+    "dish_group_name": "찜",
+    "dish_type_name": "소갈비찜",
+    "dish_evidence": "소갈비찜 만드는 법 - 생일상차림 메뉴",
+    "variant_label": null,
+    "variant_evidence": null,
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "소갈비",
+        "ingredient_name": "소갈비",
+        "quantity": "800~900",
+        "unit": "g",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "무",
+        "ingredient_name": "무",
+        "quantity": "2",
+        "unit": "토막",
+        "preparation": null,
+        "detail": "두께 5cm 정도",
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "당근",
+        "ingredient_name": "당근",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "대파",
+        "ingredient_name": "대파",
+        "quantity": "1",
+        "unit": "대",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "배",
+        "ingredient_name": "배",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "replacement",
+        "alternatives": [
+          {
+            "ingredient_name": "키위",
+            "raw_text": "배 대신 키위",
+            "evidence": "배 대신 키위를 이용하셔도 좋아요",
+            "condition": "배 대신",
+            "quantity": null,
+            "unit": null,
+            "preparation": null
+          }
+        ],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "양파",
+        "ingredient_name": "양파",
+        "quantity": "1/2",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "다진 마늘",
+        "ingredient_name": "마늘",
+        "quantity": "2",
+        "unit": "스푼",
+        "preparation": "다진",
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "간장",
+        "ingredient_name": "간장",
+        "quantity": "10",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 9,
+        "status": "ingredient",
+        "raw_name": "올리고 당",
+        "ingredient_name": "올리고당",
+        "quantity": "2",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 표기상 띄어쓰기 포함: 올리고 당",
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "ingredient",
+        "raw_name": "굴 소스",
+        "ingredient_name": "굴소스",
+        "quantity": "1",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 표기상 띄어쓰기 포함: 굴 소스",
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 11,
+        "status": "ingredient",
+        "raw_name": "맛술",
+        "ingredient_name": "맛술",
+        "quantity": "5",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 12,
+        "status": "ingredient",
+        "raw_name": "청주",
+        "ingredient_name": "청주",
+        "quantity": "4",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "ingredient",
+        "raw_name": "설탕",
+        "ingredient_name": "설탕",
+        "quantity": "2",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 14,
+        "status": "ingredient",
+        "raw_name": "다진 생강",
+        "ingredient_name": "생강",
+        "quantity": "0.3",
+        "unit": "스푼",
+        "preparation": "다진",
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 15,
+        "status": "ingredient",
+        "raw_name": "후춧가루",
+        "ingredient_name": "후춧가루",
+        "quantity": "0.3",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 16,
+        "status": "ingredient",
+        "raw_name": "참기름",
+        "ingredient_name": "참기름",
+        "quantity": "0.5",
+        "unit": "스푼",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 17,
+        "status": "equipment",
+        "raw_name": "믹싱볼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 용기 또는 도구",
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 18,
+        "status": "equipment",
+        "raw_name": "냄비",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 용기 또는 도구",
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 19,
+        "status": "equipment",
+        "raw_name": "믹서기",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 도구",
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 20,
+        "status": "equipment",
+        "raw_name": "도마",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 도구",
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 21,
+        "status": "equipment",
+        "raw_name": "조리용나이프",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 도구",
+          "원문에 구매 표시가 포함됨"
+        ]
+      },
+      {
+        "index": 22,
+        "status": "equipment",
+        "raw_name": "요리스푼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 도구",
+          "원문에 구매 표시가 포함됨"
+        ]
+      }
+    ],
+    "review_notes": [
+      "원문 제목과 조리 단계에 근거해 음식명을 소갈비찜으로 추출함.",
+      "numbered_ingredients에 포함된 구매 항목은 재료와 조리도구로 분류함.",
+      "조리 단계에 대추와 밤이 언급되지만 numbered_ingredients에 없으므로 새 기본 항목으로 추가하지 않음.",
+      "압력솥은 조리 단계에만 언급되고 numbered_ingredients에 없으므로 목록 항목으로 추가하지 않음."
+    ]
+  },
+  "response_id": "resp_0d56752edd38b0ff016aabbc3ffe0487d08eea6fff518827c1",
+  "usage": {
+    "input_tokens": 7193,
+    "input_tokens_details": {
+      "cache_write_tokens": 1139,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 2457,
+    "output_tokens_details": {
+      "reasoning_tokens": 453
+    },
+    "total_tokens": 9650
+  }
+}

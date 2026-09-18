@@ -1,0 +1,310 @@
+{
+  "identity": {
+    "raw_hash": "b1e123f00e039e4f0bfd3c3b32598d9693f817a100861912add4a20f50a57a9e",
+    "model": "gpt-5.6-luna",
+    "schema_hash": "1adb5451dce347af780e21694994b3fc47fb3cbd98d2f871645e7eee21496846",
+    "prompt_hash": "b418faeb0824b17a8cf446e9df0085b7dbfb2626de2348ccdf9b4e204928a123",
+    "response_schema_hash": "89d61c37cf801d5e8d4d64f45d1ce296f96c2a553c02b813369293f61e494ba2",
+    "approved_hint": null,
+    "max_output_tokens": 12000
+  },
+  "recipe_uid": "10000recipe:6896175",
+  "extraction": {
+    "dish_name": "오이소박이",
+    "dish_group_name": "김치",
+    "dish_type_name": "오이소박이",
+    "dish_evidence": "요리초보도 실패없는 백종원 오이소박이",
+    "variant_label": "백종원",
+    "variant_evidence": "요리초보도 실패없는 백종원 오이소박이",
+    "items": [
+      {
+        "index": 1,
+        "status": "ingredient",
+        "raw_name": "오이",
+        "ingredient_name": "오이",
+        "quantity": "4",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 2,
+        "status": "ingredient",
+        "raw_name": "양파",
+        "ingredient_name": "양파",
+        "quantity": "1",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 3,
+        "status": "ingredient",
+        "raw_name": "당근",
+        "ingredient_name": "당근",
+        "quantity": "1/3",
+        "unit": "개",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 4,
+        "status": "ingredient",
+        "raw_name": "부추",
+        "ingredient_name": "부추",
+        "quantity": "1",
+        "unit": "줌",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 5,
+        "status": "ingredient",
+        "raw_name": "물",
+        "ingredient_name": "물",
+        "quantity": "800",
+        "unit": "ml",
+        "preparation": null,
+        "detail": null,
+        "role": "food",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 6,
+        "status": "ingredient",
+        "raw_name": "소금",
+        "ingredient_name": "소금",
+        "quantity": "4",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "조리 단계에서는 '굵은 소금4스푼'으로 표기되어 목록의 '소금 4T'와 표현이 다름"
+        ]
+      },
+      {
+        "index": 7,
+        "status": "ingredient",
+        "raw_name": "멸치액젓",
+        "ingredient_name": "멸치액젓",
+        "quantity": "2",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 8,
+        "status": "ingredient",
+        "raw_name": "새우젓",
+        "ingredient_name": "새우젓",
+        "quantity": "1/3",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 9,
+        "status": "ingredient",
+        "raw_name": "고추가루",
+        "ingredient_name": "고춧가루",
+        "quantity": "4",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "원문 목록 표기는 '고추가루'이며 정규화 후보를 '고춧가루'로 제시함"
+        ]
+      },
+      {
+        "index": 10,
+        "status": "ingredient",
+        "raw_name": "다진마늘",
+        "ingredient_name": "마늘",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": "다진",
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 11,
+        "status": "ingredient",
+        "raw_name": "설탕",
+        "ingredient_name": "설탕",
+        "quantity": "1",
+        "unit": "T",
+        "preparation": null,
+        "detail": null,
+        "role": "seasoning",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": []
+      },
+      {
+        "index": 12,
+        "status": "equipment",
+        "raw_name": "도마",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 목록의 조리도구 항목"
+        ]
+      },
+      {
+        "index": 13,
+        "status": "equipment",
+        "raw_name": "조리용나이프",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 목록의 조리도구 항목"
+        ]
+      },
+      {
+        "index": 14,
+        "status": "equipment",
+        "raw_name": "냄비",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 목록의 조리도구 항목"
+        ]
+      },
+      {
+        "index": 15,
+        "status": "equipment",
+        "raw_name": "믹싱볼",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 목록의 조리도구·용기 항목"
+        ]
+      },
+      {
+        "index": 16,
+        "status": "equipment",
+        "raw_name": "위생장갑",
+        "ingredient_name": null,
+        "quantity": null,
+        "unit": null,
+        "preparation": null,
+        "detail": null,
+        "role": "unknown",
+        "is_required": null,
+        "required_evidence": null,
+        "alternative_mode": "none",
+        "alternatives": [],
+        "quality_flags": [
+          "구매 목록의 조리도구·위생용품 항목"
+        ]
+      }
+    ],
+    "review_notes": [
+      "numbered_ingredients의 '구매' 표기는 쇼핑 UI 용어로 보고 재료명·도구명에서 제외함.",
+      "조리 단계에는 부추, 양파, 당근의 손질 방법과 오이의 절단 방법이 있으나 원문 목록 항목의 preparation에는 직접 반영하지 않음.",
+      "dish_group_name은 분류 검토용 후보로 '김치'를 제시함."
+    ]
+  },
+  "response_id": "resp_00da84d907b95b8a016aabbdc95e3c87d0b50a363e190a1b22",
+  "usage": {
+    "input_tokens": 6920,
+    "input_tokens_details": {
+      "cache_write_tokens": 866,
+      "cached_tokens": 6051
+    },
+    "output_tokens": 2106,
+    "output_tokens_details": {
+      "reasoning_tokens": 724
+    },
+    "total_tokens": 9026
+  }
+}

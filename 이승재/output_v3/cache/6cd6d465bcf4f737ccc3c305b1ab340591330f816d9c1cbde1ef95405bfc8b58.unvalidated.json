@@ -1,0 +1,366 @@
+{
+  "dish_name": "감자짜글이",
+  "dish_group_name": "찌개",
+  "dish_type_name": "짜글이",
+  "dish_evidence": "감자짜글이 레시피 입니다.",
+  "variant_label": "백종원",
+  "variant_evidence": "백종원 감자짜글이",
+  "items": [
+    {
+      "index": 1,
+      "status": "ingredient",
+      "raw_name": "스팸 작은 사이즈 1캔",
+      "ingredient_name": "스팸",
+      "quantity": "1",
+      "unit": "캔",
+      "preparation": "작은 사이즈",
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 2,
+      "status": "ingredient",
+      "raw_name": "감자 작은 거 3개",
+      "ingredient_name": "감자",
+      "quantity": "3",
+      "unit": "개",
+      "preparation": "작은 거",
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 단계에 굵게 채 썰어 준비한다는 손질 근거가 있음",
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 3,
+      "status": "ingredient",
+      "raw_name": "양파 1/2개",
+      "ingredient_name": "양파",
+      "quantity": "1/2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 단계에 채 썬다는 손질 근거가 있음",
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 4,
+      "status": "ingredient",
+      "raw_name": "청양고추 2개",
+      "ingredient_name": "청양고추",
+      "quantity": "2",
+      "unit": "개",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 단계에 송송 썬다는 손질 근거가 있음",
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 5,
+      "status": "ingredient",
+      "raw_name": "대파 1/3대",
+      "ingredient_name": "대파",
+      "quantity": "1/3",
+      "unit": "대",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 단계에 송송 썬다는 손질 근거가 있음",
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 6,
+      "status": "ingredient",
+      "raw_name": "물 2컵",
+      "ingredient_name": "물",
+      "quantity": "2",
+      "unit": "컵",
+      "preparation": null,
+      "detail": null,
+      "role": "food",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 7,
+      "status": "ingredient",
+      "raw_name": "고춧가루 2스푼",
+      "ingredient_name": "고춧가루",
+      "quantity": "2",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 8,
+      "status": "ingredient",
+      "raw_name": "고추장 1스푼",
+      "ingredient_name": "고추장",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 9,
+      "status": "ingredient",
+      "raw_name": "다진 마늘 1스푼",
+      "ingredient_name": "마늘",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": "다진",
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 10,
+      "status": "ingredient",
+      "raw_name": "맛술 1스푼",
+      "ingredient_name": "맛술",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 11,
+      "status": "ingredient",
+      "raw_name": "간장 3스푼",
+      "ingredient_name": "간장",
+      "quantity": "3",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 12,
+      "status": "ingredient",
+      "raw_name": "설탕 1스푼",
+      "ingredient_name": "설탕",
+      "quantity": "1",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 13,
+      "status": "ingredient",
+      "raw_name": "된장 0.3스푼",
+      "ingredient_name": "된장",
+      "quantity": "0.3",
+      "unit": "스푼",
+      "preparation": null,
+      "detail": null,
+      "role": "seasoning",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "원문 항목에 구매 UI 표현 포함"
+      ]
+    },
+    {
+      "index": 14,
+      "status": "equipment",
+      "raw_name": "도마",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구로 판단됨",
+        "구매 UI 항목"
+      ]
+    },
+    {
+      "index": 15,
+      "status": "equipment",
+      "raw_name": "조리용나이프",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구로 판단됨",
+        "구매 UI 항목"
+      ]
+    },
+    {
+      "index": 16,
+      "status": "equipment",
+      "raw_name": "트레이",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "용기로 판단됨",
+        "구매 UI 항목"
+      ]
+    },
+    {
+      "index": 17,
+      "status": "equipment",
+      "raw_name": "비닐백",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 보조 용품으로 판단됨",
+        "구매 UI 항목"
+      ]
+    },
+    {
+      "index": 18,
+      "status": "equipment",
+      "raw_name": "냄비",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 용기로 판단됨",
+        "구매 UI 항목"
+      ]
+    },
+    {
+      "index": 19,
+      "status": "equipment",
+      "raw_name": "숟가락",
+      "ingredient_name": null,
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "detail": null,
+      "role": "unknown",
+      "is_required": null,
+      "required_evidence": null,
+      "alternative_mode": "none",
+      "alternatives": [],
+      "quality_flags": [
+        "조리 도구로 판단됨",
+        "구매 UI 항목"
+      ]
+    }
+  ],
+  "review_notes": [
+    "numbered_ingredients에 구매 UI 항목과 조리 도구가 함께 포함되어 있음",
+    "dish_group_name과 dish_type_name은 승인 분류가 아닌 검토용 후보임"
+  ]
+}
