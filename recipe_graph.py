@@ -90,6 +90,67 @@ def load_catalog(driver, database: str) -> dict:
     return rows[0]
 
 
+def load_dashboard(driver, database: str) -> dict:
+    summary = read_query(driver, database, """
+        CALL () { MATCH (n) RETURN count(n) AS node_count }
+        CALL () { MATCH ()-[r]->() RETURN count(r) AS relationship_count }
+        CALL () { MATCH (d:Dish) RETURN count(d) AS recipe_count }
+        CALL () { MATCH (i:Ingredient) RETURN count(i) AS ingredient_count }
+        CALL () { MATCH (t:DishType) RETURN count(t) AS dish_type_count }
+        CALL () { MATCH (g:DishGroup) RETURN count(g) AS group_count }
+        RETURN node_count, relationship_count, recipe_count,
+               ingredient_count, dish_type_count, group_count
+    """)[0]
+    groups = read_query(driver, database, """
+        MATCH (g:DishGroup)-[:HAS_TYPE]->(:DishType)-[:HAS_DISH]->(d:Dish)
+        RETURN g.name AS name, count(DISTINCT d) AS recipe_count
+        ORDER BY recipe_count DESC, name
+    """)
+    ingredients = read_query(driver, database, """
+        MATCH (d:Dish)-[:INGREDIENT]->(i:Ingredient)
+        RETURN i.name_normalized AS name, count(DISTINCT d) AS recipe_count
+        ORDER BY recipe_count DESC, name
+        LIMIT 15
+    """)
+    recipe_count = summary["recipe_count"]
+    for ingredient in ingredients:
+        ingredient["usage_rate"] = round(
+            ingredient["recipe_count"] / recipe_count * 100, 1
+        ) if recipe_count else 0.0
+    return {"summary": summary, "groups": groups, "ingredients": ingredients}
+
+
+def load_recipe_graph(driver, database: str, recipe_uid: str) -> dict:
+    rows = read_query(driver, database, """
+        MATCH (g:DishGroup)-[:HAS_TYPE]->(t:DishType)-[:HAS_DISH]->(d:Dish {recipe_uid: $recipe_uid})
+        OPTIONAL MATCH (d)-[:INGREDIENT]->(i:Ingredient)
+        RETURN g.name AS `group`, t.name AS dish_type,
+               d.recipe_uid AS recipe_uid, d.title AS title,
+               collect(DISTINCT i.name_normalized) AS ingredients
+    """, recipe_uid=recipe_uid)
+    if not rows:
+        return {"nodes": [], "edges": []}
+
+    row = rows[0]
+    group_id = f"group:{row['group']}"
+    type_id = f"type:{row['dish_type']}"
+    dish_id = f"dish:{row['recipe_uid']}"
+    nodes = [
+        {"id": group_id, "label": row["group"], "kind": "DishGroup"},
+        {"id": type_id, "label": row["dish_type"], "kind": "DishType"},
+        {"id": dish_id, "label": row["title"], "kind": "Dish"},
+    ]
+    edges = [
+        {"source": group_id, "target": type_id, "label": "HAS_TYPE"},
+        {"source": type_id, "target": dish_id, "label": "HAS_DISH"},
+    ]
+    for name in sorted(filter(None, row["ingredients"]))[:40]:
+        ingredient_id = f"ingredient:{name}"
+        nodes.append({"id": ingredient_id, "label": name, "kind": "Ingredient"})
+        edges.append({"source": dish_id, "target": ingredient_id, "label": "INGREDIENT"})
+    return {"nodes": nodes, "edges": edges}
+
+
 def search_recipes(driver, database: str, keyword: str, group: str,
                    required: list[str], excluded: list[str], limit: int) -> list[dict]:
     if not 1 <= limit <= 50:

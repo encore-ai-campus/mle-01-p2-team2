@@ -1,0 +1,24 @@
+[theme]
+base = "light"
+primaryColor = "#3F7D5A"
+backgroundColor = "#FBFFF9"
+secondaryBackgroundColor = "#EAF7EC"
+textColor = "#294535"
+linkColor = "#387A55"
+borderColor = "#C7E4CD"
+greenColor = "#40916C"
+greenBackgroundColor = "#D8F3DC"
+greenTextColor = "#24543D"
+chartCategoricalColors = ["#40916C", "#74C69D", "#95D5B2", "#B7E4C7", "#D8F3DC", "#FFD6A5"]
+dataframeHeaderBackgroundColor = "#D8F3DC"
+baseRadius = "large"
+buttonRadius = "full"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[theme.sidebar]
+backgroundColor = "#EFF9F0"
+secondaryBackgroundColor = "#D8F3DC"
+primaryColor = "#3F7D5A"
+textColor = "#294535"
+borderColor = "#C7E4CD"

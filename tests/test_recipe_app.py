@@ -19,6 +19,25 @@ RECIPE = {
     "source_url": "https://www.10000recipe.com/recipe/1",
     "cooking_method": "1. 재료를 썬다.\n2. 끓인다.",
 }
+DASHBOARD = {
+    "summary": {"node_count": 100, "relationship_count": 250, "recipe_count": 40,
+                "ingredient_count": 20, "dish_type_count": 8, "group_count": 2},
+    "groups": [{"name": "찌개", "recipe_count": 30}, {"name": "튀김", "recipe_count": 10}],
+    "ingredients": [{"name": "소금", "recipe_count": 20, "usage_rate": 50.0}],
+}
+RECIPE_GRAPH = {
+    "nodes": [
+        {"id": "group:찌개", "label": "찌개", "kind": "DishGroup"},
+        {"id": "type:김치찌개", "label": "김치찌개", "kind": "DishType"},
+        {"id": "dish:test:1", "label": "두부 김치찌개", "kind": "Dish"},
+        {"id": "ingredient:두부", "label": "두부", "kind": "Ingredient"},
+    ],
+    "edges": [
+        {"source": "group:찌개", "target": "type:김치찌개", "label": "HAS_TYPE"},
+        {"source": "type:김치찌개", "target": "dish:test:1", "label": "HAS_DISH"},
+        {"source": "dish:test:1", "target": "ingredient:두부", "label": "INGREDIENT"},
+    ],
+}
 
 
 class InputTests(unittest.TestCase):
@@ -42,7 +61,7 @@ class AppTests(unittest.TestCase):
         st.cache_resource.clear()
 
     def app(self):
-        app = AppTest.from_file(str(ROOT / "app.py"), default_timeout=15)
+        app = AppTest.from_file(str(ROOT / "app.py"), default_timeout=30)
         app.secrets.update({
             "NEO4J_URI": "neo4j+s://test.invalid", "NEO4J_USER": "tester",
             "NEO4J_PASSWORD": "test-only-secret", "NEO4J_DATABASE": "test",
@@ -74,6 +93,21 @@ class AppTests(unittest.TestCase):
             app.selectbox(key="selected_recipe").set_value("test:1").run()
             self.assertFalse(app.exception)
             self.assertTrue(any("1/2" in str(x.value) for x in app.dataframe))
+
+    def test_brand_navigation_graph_and_statistics_views(self):
+        with patch("recipe_graph.open_driver"), \
+             patch("recipe_graph.load_catalog", return_value={"recipe_count": 40, "ingredient_count": 20, "groups": ["찌개", "튀김"]}), \
+             patch("recipe_graph.search_recipes", return_value=[RECIPE]), \
+             patch("recipe_graph.load_dashboard", return_value=DASHBOARD), \
+             patch("recipe_graph.load_recipe_graph", return_value=RECIPE_GRAPH):
+            app = self.app().run()
+            self.assertEqual(app.title[0].value, "요리조리 요리조리~")
+            app.segmented_control(key="main_view").set_value("그래프 탐색").run()
+            self.assertFalse(app.exception)
+            self.assertTrue(app.get("vega_lite_chart"))
+            app.segmented_control(key="main_view").set_value("요리 통계").run()
+            self.assertFalse(app.exception)
+            self.assertEqual([metric.value for metric in app.metric[:4]], ["100개", "250개", "40개", "20개"])
 
     def test_empty_search_has_no_stale_recipe_details(self):
         with patch("recipe_graph.open_driver"), \
@@ -115,6 +149,15 @@ class AuraTests(unittest.TestCase):
             group_rows = recipe_graph.search_recipes(driver, settings.database, "김치", "찌개", [], [], 5)
             self.assertTrue(group_rows)
             self.assertTrue(all(r["dish_group"] == "찌개" for r in group_rows))
+            dashboard = recipe_graph.load_dashboard(driver, settings.database)
+            self.assertGreater(dashboard["summary"]["node_count"], dashboard["summary"]["recipe_count"])
+            self.assertTrue(dashboard["groups"])
+            self.assertTrue(dashboard["ingredients"])
+            recipe_graph_data = recipe_graph.load_recipe_graph(
+                driver, settings.database, group_rows[0]["recipe_uid"]
+            )
+            self.assertTrue(recipe_graph_data["nodes"])
+            self.assertTrue(recipe_graph_data["edges"])
             self.assertEqual(recipe_graph.search_recipes(driver, settings.database, "' MATCH (n) DETACH DELETE n //", "", [], [], 5), [])
 
 

@@ -6,31 +6,29 @@ from streamlit.errors import StreamlitSecretNotFoundError
 
 import recipe_graph as graph
 
-
-st.set_page_config(page_title="오늘의 레시피", page_icon=":material/restaurant:", layout="wide")
-st.title("오늘의 레시피")
-st.caption("음식과 재료로 찾고, 재료의 양부터 조리 순서까지 확인하세요.")
-
+st.set_page_config(page_title="요리조리 요리조리~ 🍳", page_icon="🍳", layout="wide")
+st.title("요리조리 요리조리~ 🍳🍲👨‍🍳")
+st.caption("우리 지식그래프를 요리조리 살펴보고, 오늘의 맛있는 한 끼를 찾아보세요.")
 
 @st.cache_resource(max_entries=2, on_release=lambda driver: driver.close())
 def get_driver(settings):
     return graph.open_driver(settings)
 
-
 @st.cache_data(ttl=300, max_entries=4, show_spinner=False)
 def get_catalog(settings):
     return graph.load_catalog(get_driver(settings), settings.database)
-
 
 @st.cache_data(ttl=60, max_entries=128, show_spinner=False)
 def find_recipes(settings, keyword, group, required, excluded, limit):
     return graph.search_recipes(get_driver(settings), settings.database, keyword, group, required, excluded, limit)
 
-
 @st.cache_data(ttl=300, max_entries=128, show_spinner=False)
 def get_recipe(settings, recipe_uid):
     return graph.load_recipe(get_driver(settings), settings.database, recipe_uid)
 
+@st.cache_data(ttl=300, max_entries=4, show_spinner=False)
+def get_dashboard(settings):
+    return graph.load_dashboard(get_driver(settings), settings.database)
 
 # Local .streamlit/secrets.toml and Cloud Secrets use the same st.secrets API.
 keys = ("NEO4J_URI", "NEO4J_USER", "NEO4J_USERNAME", "NEO4J_PASSWORD", "NEO4J_DATABASE")
@@ -48,10 +46,10 @@ except ValueError as error:
 with st.sidebar:
     st.header("데이터 연결")
     if st.button("데이터 새로고침", icon=":material/refresh:"):
-        # Data-only invalidation; keep the thread-safe connection pool alive.
         get_catalog.clear()
         find_recipes.clear()
         get_recipe.clear()
+        get_dashboard.clear()
         st.session_state.pop("results", None)
         st.session_state.pop("selected_recipe", None)
 
@@ -64,6 +62,60 @@ except (DriverError, Neo4jError, OSError) as error:
     st.stop()
 
 st.sidebar.success("Neo4j Aura 연결됨", icon=":material/check_circle:")
+
+view = st.segmented_control(
+    "화면 선택",
+    ["요리 찾기", "요리 통계"],
+    default="요리 찾기",
+    required=True,
+    key="main_view",
+    width="stretch",
+    persist_state="session",
+)
+
+if view == "요리 통계":
+    st.subheader("우리 요리 데이터 한눈에 보기")
+    st.caption("모든 수치는 현재 Neo4j Aura에 저장된 그래프를 실시간 집계한 결과입니다.")
+    try:
+        with st.spinner("요리 통계를 정리하는 중…"):
+            dashboard = get_dashboard(settings)
+    except (DriverError, Neo4jError, OSError) as error:
+        st.error(graph.public_error(error))
+        st.stop()
+
+    summary = dashboard["summary"]
+    with st.container(horizontal=True):
+        st.metric("전체 노드", f"{summary['node_count']:,}개", border=True)
+        st.metric("전체 관계", f"{summary['relationship_count']:,}개", border=True)
+        st.metric("레시피", f"{summary['recipe_count']:,}개", border=True)
+        st.metric("재료", f"{summary['ingredient_count']:,}개", border=True)
+
+    left, right = st.columns(2, gap="large")
+    with left.container(border=True):
+        st.markdown("#### 어떤 요리가 많을까요?")
+        group_df = pd.DataFrame(dashboard["groups"]).rename(
+            columns={"name": "분류", "recipe_count": "레시피 수"}
+        )
+        st.bar_chart(group_df, x="분류", y="레시피 수", color="#74C69D")
+        st.dataframe(group_df, hide_index=True)
+    with right.container(border=True):
+        st.markdown("#### 자주 등장하는 재료")
+        ingredient_df = pd.DataFrame(dashboard["ingredients"]).rename(
+            columns={"name": "재료", "recipe_count": "사용 레시피", "usage_rate": "사용률"}
+        )
+        st.dataframe(
+            ingredient_df,
+            hide_index=True,
+            column_config={
+                "재료": st.column_config.TextColumn(pinned=True),
+                "사용률": st.column_config.ProgressColumn(
+                    format="%.1f%%", min_value=0, max_value=100
+                ),
+            },
+        )
+        st.caption("사용률 = 해당 재료가 연결된 레시피 수 ÷ 전체 레시피 수")
+    st.stop()
+
 with st.container(horizontal=True):
     st.metric("레시피", f"{catalog['recipe_count']:,}개", border=True)
     st.metric("재료", f"{catalog['ingredient_count']:,}개", border=True)
@@ -76,7 +128,7 @@ with st.form("recipe_search"):
     excluded = right.text_input("제외할 재료", placeholder="예: 소고기", key="excluded", max_chars=200)
     st.caption("재료는 쉼표로 구분하세요. 저장된 재료명과 정확히 일치하는 항목을 찾습니다.")
     limit = st.selectbox("결과 수", [10, 20, 50], key="limit")
-    submitted = st.form_submit_button("레시피 찾기", type="primary", icon=":material/search:", key="search")
+    submitted = st.form_submit_button("레시피 찾기 🍳", type="primary", icon=":material/search:", key="search")
 
 if submitted:
     required_terms = graph.parse_ingredients(included)
