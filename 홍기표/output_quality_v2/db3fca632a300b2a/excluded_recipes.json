@@ -1,0 +1,111 @@
+[
+  {
+    "recipe_uid": "10000recipe_6887430",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6851535",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6773943",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6923444",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6855231",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6929781",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6874628",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6911094",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_5922817",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6895777",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6836239",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6860731",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_6887619",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_7082995",
+    "reasons": [
+      "missing:dish_group",
+      "missing:dish_type"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_7082748",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_7082066",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_7080389",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  },
+  {
+    "recipe_uid": "10000recipe_7080336",
+    "reasons": [
+      "no_usable_ingredient"
+    ]
+  }
+]

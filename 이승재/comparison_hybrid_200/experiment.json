@@ -1,8 +1,0 @@
-{
-  "description": "전처리값 재사용 + 대체/생략 단서 및 인접 steps; 동일 모델/샘플/출력 스키마",
-  "model": "gpt-5.4-mini",
-  "sample_hash": "e37fdac5fe42de100ea1f9bf4157fda138ed2034267f2c37136e7852eeee5b61",
-  "schema_hash": "04490f882727ade1c8a849829a04f8180cff5b26f55d7418bd5a2bbe36697271",
-  "baseline_hash": "09e25e88a28f83e397f25261a49e31fcef3187501540c09a895e931b6a758d03",
-  "prompt_hash": "a18744297ce70c6f86b0943eaaa00a11db54b5729227f33d8fe30dc6095c0555"
-}
