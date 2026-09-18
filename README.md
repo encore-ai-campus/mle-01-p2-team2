@@ -179,7 +179,7 @@ LLM의 구조화된 출력으로 생성하며, 다음 21개 범주 중 하나를
 → 오징어볶음
 ~~~
 
-분류 입력에는 제목, 설명, 정제된 재료명·양념명, 조리 과정이 사용됩니다. 조리 과정이 6단계를 초과하면 앞 4단계와 마지막 2단계만 사용하며, 입력 텍스트는 최대 2,500자로 제한합니다.
+분류 입력에는 제목, 설명, 정제된 재료명·양념명, 조리 과정이 사용됩니다. 
 
 ## 6. 데이터 구조
 
@@ -196,9 +196,9 @@ LLM의 구조화된 출력으로 생성하며, 다음 21개 범주 중 하나를
   "servings": "2인분",
   "cooking_time": "30분 이내",
   "difficulty": "초급",
-  "ingredients_clean": [],
-  "seasonings_clean": [],
-  "steps": [],
+  "ingredients_clean": [닭],
+  "seasonings_clean": [소금],
+  "steps": [1.. 2.],
   "graph_eligible": true,
   "is_collection": false,
   "dish_group": "볶음",
@@ -210,14 +210,14 @@ LLM의 구조화된 출력으로 생성하며, 다음 21개 범주 중 하나를
 그래프 적재용 Dish 노드에는 다음 속성을 저장합니다.
 
 ~~~text
-recipe_uid
-title
-views
-servings
-cooking_time
-difficulty
-source_url
-cooking_method
+recipe_uid : 레시피uid
+title : 제목
+views : 뷰어수
+servings : 인분
+cooking_time : 시간
+difficulty : 난이도
+source_url : 원본url
+cooking_method : 요리방법
 ~~~
 
 ## 7. 그래프 스키마 / 온톨로지
@@ -449,8 +449,6 @@ python -m streamlit run app.py
 
 - 그래프 적재 노트북 기준 Dish 적재 대상은 9,380건입니다.
 - recipes_classified_cleaned.jsonl 9,381건과 Neo4j Dish 9,380건은 분류 누락 1건 때문에 차이가 납니다.
-- graph_eligible은 최종 필터 조건으로 사용되지만, 이 노트북은 is_collection을 별도의 필터 조건으로 직접 사용하지 않습니다.
-- 9,558건은 현재 저장소 코드와 노트북 출력에서 확인되지 않으므로 공식 결과 수치로 사용하지 않습니다.
 - 벡터 검색을 사용하려면 Dish.embedding 속성과 dish_embedding_index가 실제 Neo4j 인스턴스에 생성되어 있어야 합니다.
 - Neo4j 접속 정보와 OpenAI API 키는 코드나 README에 직접 기록하지 않습니다.
 
