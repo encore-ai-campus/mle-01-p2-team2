@@ -35,7 +35,7 @@ JSON 파싱 오류 / 필수 정보 누락 / 음식 분류 불가 데이터 제�
     더 있지만 여기서 줄임
     
 # 5 그래프 스키마 / 온톨로지 
-https://github.com/encore-ai-campus/mle-01-p2-team2/blob/main/image/%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80.png?raw=true
+
 
 | Source Node | Relation | Target Node | 의미 |
 |---|---|---|---|
