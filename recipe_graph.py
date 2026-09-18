@@ -19,17 +19,6 @@ class ConnectionSettings:
     database: str = "neo4j"
 
     @classmethod
-    def from_sources(cls, *sources: Mapping):
-        values = {}
-        for source in sources:
-            values.update(source)
-            # Both names identify the same setting; resolve aliases per layer.
-            if "NEO4J_USER" in source or "NEO4J_USERNAME" in source:
-                values["NEO4J_USER"] = source.get("NEO4J_USER") or source.get("NEO4J_USERNAME") or ""
-                values.pop("NEO4J_USERNAME", None)
-        return cls.from_mapping(values)
-
-    @classmethod
     def from_mapping(cls, values: Mapping):
         uri = str(values.get("NEO4J_URI") or "").strip()
         user = str(values.get("NEO4J_USER") or values.get("NEO4J_USERNAME") or "").strip()

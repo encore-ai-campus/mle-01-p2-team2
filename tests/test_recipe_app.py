@@ -22,14 +22,6 @@ RECIPE = {
 
 
 class InputTests(unittest.TestCase):
-    def test_cloud_username_alias_overrides_lower_priority_user(self):
-        settings = recipe_graph.ConnectionSettings.from_sources(
-            {"NEO4J_URI": "neo4j+s://example.com", "NEO4J_USER": "local-user", "NEO4J_PASSWORD": "test"},
-            {"NEO4J_USER": "environment-user"},
-            {"NEO4J_USERNAME": "cloud-user"},
-        )
-        self.assertEqual(settings.user, "cloud-user")
-
     def test_ingredient_terms_are_deduplicated_and_trimmed(self):
         self.assertEqual(recipe_graph.parse_ingredients(" 두부, 김치 ,두부,,"), ["두부", "김치"])
 
