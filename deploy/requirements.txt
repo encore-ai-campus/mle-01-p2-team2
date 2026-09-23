@@ -1,3 +1,0 @@
-streamlit==1.63.0
-neo4j>=6.2,<7
-pandas>=2.3,<3
