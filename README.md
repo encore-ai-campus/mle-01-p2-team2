@@ -39,8 +39,8 @@ mle-01-p2-team2/
 ├─ .env.example
 ├─ pyproject.toml
 ├─ uv.lock
-├─ README.md                      # 기존 원본 README
-└─ README_github.md               # GitHub 업로드용 통합 README
+├─ README.md                
+
 ```
 
 | 경로 | 역할 |
